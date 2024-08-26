@@ -1,0 +1,4 @@
+# Deployment & Release
+# pipelines/canary.yml
+---
+version: 1

@@ -1,0 +1,4 @@
+# Infrastructure
+# k8s/payments-api.yaml
+---
+version: 1

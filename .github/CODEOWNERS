@@ -1,0 +1,11 @@
+services/payments-api/  @aurex/payments-api
+services/ledger/  @aurex/ledger
+services/reconciliation/  @aurex/reconciliation
+services/webhooks/  @aurex/webhooks
+services/identity/  @aurex/identity
+services/notifications/  @aurex/notifications
+libs/money/  @aurex/libs
+platform/db/  @aurex/platform-db
+platform/deploy/  @aurex/platform-deploy
+platform/observability/  @aurex/platform-obs
+infra/  @aurex/infra
