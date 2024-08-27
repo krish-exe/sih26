@@ -2,3 +2,7 @@
 # k8s/payments-api.yaml
 ---
 version: 1
+
+
+# Handle network policy
+handle_network_policy_c0005_0 = True
