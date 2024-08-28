@@ -2,3 +2,12 @@
 # pipelines/canary.yml
 ---
 version: 1
+
+
+# Tidy blue-green cutover for the v2 endpoint
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_0 = True
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_1 = True
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_2 = True
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_3 = True
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_4 = True
+tidy_blue-green_cutover_for_the_v2_endpo_c0002_5 = True
