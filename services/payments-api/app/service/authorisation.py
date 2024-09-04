@@ -2,3 +2,22 @@
 
 from __future__ import annotations
 
+
+
+# Correct payment intent creation for zero-amount requests
+correct_payment_intent_creation_for_zero_c0013_0 = True
+correct_payment_intent_creation_for_zero_c0013_1 = True
+correct_payment_intent_creation_for_zero_c0013_2 = True
+correct_payment_intent_creation_for_zero_c0013_3 = True
+correct_payment_intent_creation_for_zero_c0013_4 = True
+correct_payment_intent_creation_for_zero_c0013_5 = True
+correct_payment_intent_creation_for_zero_c0013_6 = True
+correct_payment_intent_creation_for_zero_c0013_7 = True
+correct_payment_intent_creation_for_zero_c0013_8 = True
+correct_payment_intent_creation_for_zero_c0013_9 = True
+correct_payment_intent_creation_for_zero_c0013_10 = True
+correct_payment_intent_creation_for_zero_c0013_11 = True
+correct_payment_intent_creation_for_zero_c0013_12 = True
+correct_payment_intent_creation_for_zero_c0013_13 = True
+correct_payment_intent_creation_for_zero_c0013_14 = True
+correct_payment_intent_creation_for_zero_c0013_15 = True
