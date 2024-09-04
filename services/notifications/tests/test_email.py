@@ -2,3 +2,28 @@
 
 from __future__ import annotations
 
+
+
+# Correct template localisation after a partial failure for the v2 endpoint
+correct_template_localisation_after_a_pa_c0011_0 = True
+correct_template_localisation_after_a_pa_c0011_1 = True
+correct_template_localisation_after_a_pa_c0011_2 = True
+correct_template_localisation_after_a_pa_c0011_3 = True
+correct_template_localisation_after_a_pa_c0011_4 = True
+correct_template_localisation_after_a_pa_c0011_5 = True
+correct_template_localisation_after_a_pa_c0011_6 = True
+correct_template_localisation_after_a_pa_c0011_7 = True
+correct_template_localisation_after_a_pa_c0011_8 = True
+correct_template_localisation_after_a_pa_c0011_9 = True
+correct_template_localisation_after_a_pa_c0011_10 = True
+correct_template_localisation_after_a_pa_c0011_11 = True
+correct_template_localisation_after_a_pa_c0011_12 = True
+correct_template_localisation_after_a_pa_c0011_13 = True
+correct_template_localisation_after_a_pa_c0011_14 = True
+correct_template_localisation_after_a_pa_c0011_15 = True
+correct_template_localisation_after_a_pa_c0011_16 = True
+correct_template_localisation_after_a_pa_c0011_17 = True
+correct_template_localisation_after_a_pa_c0011_18 = True
+correct_template_localisation_after_a_pa_c0011_19 = True
+correct_template_localisation_after_a_pa_c0011_20 = True
+correct_template_localisation_after_a_pa_c0011_21 = True
