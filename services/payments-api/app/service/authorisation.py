@@ -21,3 +21,29 @@ correct_payment_intent_creation_for_zero_c0013_12 = True
 correct_payment_intent_creation_for_zero_c0013_13 = True
 correct_payment_intent_creation_for_zero_c0013_14 = True
 correct_payment_intent_creation_for_zero_c0013_15 = True
+
+
+# Cover request validation
+cover_request_validation_c0007_0 = True
+cover_request_validation_c0007_1 = True
+cover_request_validation_c0007_2 = True
+cover_request_validation_c0007_3 = True
+cover_request_validation_c0007_4 = True
+cover_request_validation_c0007_5 = True
+cover_request_validation_c0007_6 = True
+cover_request_validation_c0007_7 = True
+cover_request_validation_c0007_8 = True
+cover_request_validation_c0007_9 = True
+cover_request_validation_c0007_10 = True
+cover_request_validation_c0007_11 = True
+cover_request_validation_c0007_12 = True
+cover_request_validation_c0007_13 = True
+cover_request_validation_c0007_14 = True
+cover_request_validation_c0007_15 = True
+cover_request_validation_c0007_16 = True
+cover_request_validation_c0007_17 = True
+cover_request_validation_c0007_18 = True
+cover_request_validation_c0007_19 = True
+cover_request_validation_c0007_20 = True
+cover_request_validation_c0007_21 = True
+cover_request_validation_c0007_22 = True
