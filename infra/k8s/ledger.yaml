@@ -2,3 +2,7 @@
 # k8s/ledger.yaml
 ---
 version: 1
+
+
+# Guard against pod resource limit when the queue is saturated
+guard_against_pod_resource_limit_when_th_c0009_0 = True
