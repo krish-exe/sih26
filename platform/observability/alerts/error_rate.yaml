@@ -2,3 +2,21 @@
 # alerts/error_rate.yaml
 ---
 version: 1
+
+
+# Add tests for trace sampling rate
+add_tests_for_trace_sampling_rate_c0014_0 = True
+add_tests_for_trace_sampling_rate_c0014_1 = True
+add_tests_for_trace_sampling_rate_c0014_2 = True
+add_tests_for_trace_sampling_rate_c0014_3 = True
+add_tests_for_trace_sampling_rate_c0014_4 = True
+add_tests_for_trace_sampling_rate_c0014_5 = True
+add_tests_for_trace_sampling_rate_c0014_6 = True
+add_tests_for_trace_sampling_rate_c0014_7 = True
+add_tests_for_trace_sampling_rate_c0014_8 = True
+add_tests_for_trace_sampling_rate_c0014_9 = True
+add_tests_for_trace_sampling_rate_c0014_10 = True
+add_tests_for_trace_sampling_rate_c0014_11 = True
+add_tests_for_trace_sampling_rate_c0014_12 = True
+add_tests_for_trace_sampling_rate_c0014_13 = True
+add_tests_for_trace_sampling_rate_c0014_14 = True
