@@ -1,4 +1,4 @@
-"""Schema Migrations — checks."""
+"""Schema Migrations — 2190_online_index_build."""
 
 from __future__ import annotations
 
