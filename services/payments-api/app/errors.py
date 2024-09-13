@@ -24,3 +24,10 @@ support_intent_expiry_sweep_c0026_15 = True
 support_intent_expiry_sweep_c0026_16 = True
 support_intent_expiry_sweep_c0026_17 = True
 support_intent_expiry_sweep_c0026_18 = True
+
+
+# Refactor error envelope
+refactor_error_envelope_c0021_0 = True
+refactor_error_envelope_c0021_1 = True
+refactor_error_envelope_c0021_2 = True
+refactor_error_envelope_c0021_3 = True
