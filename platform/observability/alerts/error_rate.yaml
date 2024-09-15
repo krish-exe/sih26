@@ -20,3 +20,27 @@ add_tests_for_trace_sampling_rate_c0014_11 = True
 add_tests_for_trace_sampling_rate_c0014_12 = True
 add_tests_for_trace_sampling_rate_c0014_13 = True
 add_tests_for_trace_sampling_rate_c0014_14 = True
+
+
+# Inline SLO burn rate alert for high-volume merchants
+inline_slo_burn_rate_alert_for_high-volu_c0020_0 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_1 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_2 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_3 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_4 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_5 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_6 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_7 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_8 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_9 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_10 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_11 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_12 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_13 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_14 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_15 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_16 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_17 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_18 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_19 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True

@@ -11,3 +11,27 @@ correct_latency_alert_threshold_c0012_2 = True
 correct_latency_alert_threshold_c0012_3 = True
 correct_latency_alert_threshold_c0012_4 = True
 correct_latency_alert_threshold_c0012_5 = True
+
+
+# Inline SLO burn rate alert for high-volume merchants
+inline_slo_burn_rate_alert_for_high-volu_c0020_0 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_1 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_2 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_3 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_4 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_5 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_6 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_7 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_8 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_9 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_10 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_11 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_12 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_13 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_14 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_15 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_16 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_17 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_18 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_19 = True
+inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True
