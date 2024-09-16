@@ -35,3 +35,15 @@ inline_slo_burn_rate_alert_for_high-volu_c0020_17 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_18 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_19 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True
+
+
+# Fix SLO burn rate alert under concurrent retries
+fix_slo_burn_rate_alert_under_concurrent_c0035_0 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_1 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_2 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_3 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_4 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_5 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_6 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_7 = True
+fix_slo_burn_rate_alert_under_concurrent_c0035_8 = True
