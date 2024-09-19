@@ -35,3 +35,7 @@ inline_slo_burn_rate_alert_for_high-volu_c0020_17 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_18 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_19 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True
+
+
+# Add tests for latency alert threshold on the read replica
+add_tests_for_latency_alert_threshold_on_c0033_0 = True
