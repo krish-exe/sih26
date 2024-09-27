@@ -26,3 +26,29 @@ add_tests_for_partial_capture_handling_i_c0038_17 = True
 add_tests_for_partial_capture_handling_i_c0038_18 = True
 add_tests_for_partial_capture_handling_i_c0038_19 = True
 add_tests_for_partial_capture_handling_i_c0038_20 = True
+
+
+# Simplify request validation
+simplify_request_validation_c0041_0 = True
+simplify_request_validation_c0041_1 = True
+simplify_request_validation_c0041_2 = True
+simplify_request_validation_c0041_3 = True
+simplify_request_validation_c0041_4 = True
+simplify_request_validation_c0041_5 = True
+simplify_request_validation_c0041_6 = True
+simplify_request_validation_c0041_7 = True
+simplify_request_validation_c0041_8 = True
+simplify_request_validation_c0041_9 = True
+simplify_request_validation_c0041_10 = True
+simplify_request_validation_c0041_11 = True
+simplify_request_validation_c0041_12 = True
+simplify_request_validation_c0041_13 = True
+simplify_request_validation_c0041_14 = True
+simplify_request_validation_c0041_15 = True
+simplify_request_validation_c0041_16 = True
+simplify_request_validation_c0041_17 = True
+simplify_request_validation_c0041_18 = True
+simplify_request_validation_c0041_19 = True
+simplify_request_validation_c0041_20 = True
+simplify_request_validation_c0041_21 = True
+simplify_request_validation_c0041_22 = True
