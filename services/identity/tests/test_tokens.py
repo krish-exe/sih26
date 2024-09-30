@@ -33,3 +33,28 @@ support_api_key_rotation_c0037_14 = True
 support_api_key_rotation_c0037_15 = True
 support_api_key_rotation_c0037_16 = True
 support_api_key_rotation_c0037_17 = True
+
+
+# Implement scope enforcement
+implement_scope_enforcement_c0043_0 = True
+implement_scope_enforcement_c0043_1 = True
+implement_scope_enforcement_c0043_2 = True
+implement_scope_enforcement_c0043_3 = True
+implement_scope_enforcement_c0043_4 = True
+implement_scope_enforcement_c0043_5 = True
+implement_scope_enforcement_c0043_6 = True
+implement_scope_enforcement_c0043_7 = True
+implement_scope_enforcement_c0043_8 = True
+implement_scope_enforcement_c0043_9 = True
+implement_scope_enforcement_c0043_10 = True
+implement_scope_enforcement_c0043_11 = True
+implement_scope_enforcement_c0043_12 = True
+implement_scope_enforcement_c0043_13 = True
+implement_scope_enforcement_c0043_14 = True
+implement_scope_enforcement_c0043_15 = True
+implement_scope_enforcement_c0043_16 = True
+implement_scope_enforcement_c0043_17 = True
+implement_scope_enforcement_c0043_18 = True
+implement_scope_enforcement_c0043_19 = True
+implement_scope_enforcement_c0043_20 = True
+implement_scope_enforcement_c0043_21 = True
