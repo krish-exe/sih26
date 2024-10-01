@@ -88,3 +88,11 @@ add_balance_rollup_c0001_79 = True
 add_balance_rollup_c0001_80 = True
 add_balance_rollup_c0001_81 = True
 add_balance_rollup_c0001_82 = True
+
+
+# Add manual adjustment for multi-currency merchants
+add_manual_adjustment_for_multi-currency_c0044_0 = True
+add_manual_adjustment_for_multi-currency_c0044_1 = True
+add_manual_adjustment_for_multi-currency_c0044_2 = True
+add_manual_adjustment_for_multi-currency_c0044_3 = True
+add_manual_adjustment_for_multi-currency_c0044_4 = True

@@ -54,3 +54,11 @@ inline_adjustment_approval_trail_under_t_c0040_45 = True
 inline_adjustment_approval_trail_under_t_c0040_46 = True
 inline_adjustment_approval_trail_under_t_c0040_47 = True
 inline_adjustment_approval_trail_under_t_c0040_48 = True
+
+
+# Add manual adjustment for multi-currency merchants
+add_manual_adjustment_for_multi-currency_c0044_0 = True
+add_manual_adjustment_for_multi-currency_c0044_1 = True
+add_manual_adjustment_for_multi-currency_c0044_2 = True
+add_manual_adjustment_for_multi-currency_c0044_3 = True
+add_manual_adjustment_for_multi-currency_c0044_4 = True
