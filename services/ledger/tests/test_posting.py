@@ -62,3 +62,10 @@ add_manual_adjustment_for_multi-currency_c0044_1 = True
 add_manual_adjustment_for_multi-currency_c0044_2 = True
 add_manual_adjustment_for_multi-currency_c0044_3 = True
 add_manual_adjustment_for_multi-currency_c0044_4 = True
+
+
+# Support balance rollup for the sandbox environment
+support_balance_rollup_for_the_sandbox_e_c0047_0 = True
+support_balance_rollup_for_the_sandbox_e_c0047_1 = True
+support_balance_rollup_for_the_sandbox_e_c0047_2 = True
+support_balance_rollup_for_the_sandbox_e_c0047_3 = True

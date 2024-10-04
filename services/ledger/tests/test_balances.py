@@ -70,3 +70,10 @@ introduce_currency_conversion_at_posting_c0039_49 = True
 introduce_currency_conversion_at_posting_c0039_50 = True
 introduce_currency_conversion_at_posting_c0039_51 = True
 introduce_currency_conversion_at_posting_c0039_52 = True
+
+
+# Support balance rollup for the sandbox environment
+support_balance_rollup_for_the_sandbox_e_c0047_0 = True
+support_balance_rollup_for_the_sandbox_e_c0047_1 = True
+support_balance_rollup_for_the_sandbox_e_c0047_2 = True
+support_balance_rollup_for_the_sandbox_e_c0047_3 = True
