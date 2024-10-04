@@ -21,3 +21,33 @@ inline_fee_reconciliation_c0030_12 = True
 inline_fee_reconciliation_c0030_13 = True
 inline_fee_reconciliation_c0030_14 = True
 inline_fee_reconciliation_c0030_15 = True
+
+
+# Cover bank statement parsing for the v2 endpoint
+cover_bank_statement_parsing_for_the_v2__c0050_0 = True
+cover_bank_statement_parsing_for_the_v2__c0050_1 = True
+cover_bank_statement_parsing_for_the_v2__c0050_2 = True
+cover_bank_statement_parsing_for_the_v2__c0050_3 = True
+cover_bank_statement_parsing_for_the_v2__c0050_4 = True
+cover_bank_statement_parsing_for_the_v2__c0050_5 = True
+cover_bank_statement_parsing_for_the_v2__c0050_6 = True
+cover_bank_statement_parsing_for_the_v2__c0050_7 = True
+cover_bank_statement_parsing_for_the_v2__c0050_8 = True
+cover_bank_statement_parsing_for_the_v2__c0050_9 = True
+cover_bank_statement_parsing_for_the_v2__c0050_10 = True
+cover_bank_statement_parsing_for_the_v2__c0050_11 = True
+cover_bank_statement_parsing_for_the_v2__c0050_12 = True
+cover_bank_statement_parsing_for_the_v2__c0050_13 = True
+cover_bank_statement_parsing_for_the_v2__c0050_14 = True
+cover_bank_statement_parsing_for_the_v2__c0050_15 = True
+cover_bank_statement_parsing_for_the_v2__c0050_16 = True
+cover_bank_statement_parsing_for_the_v2__c0050_17 = True
+cover_bank_statement_parsing_for_the_v2__c0050_18 = True
+cover_bank_statement_parsing_for_the_v2__c0050_19 = True
+cover_bank_statement_parsing_for_the_v2__c0050_20 = True
+cover_bank_statement_parsing_for_the_v2__c0050_21 = True
+cover_bank_statement_parsing_for_the_v2__c0050_22 = True
+cover_bank_statement_parsing_for_the_v2__c0050_23 = True
+cover_bank_statement_parsing_for_the_v2__c0050_24 = True
+cover_bank_statement_parsing_for_the_v2__c0050_25 = True
+cover_bank_statement_parsing_for_the_v2__c0050_26 = True
