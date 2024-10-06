@@ -44,3 +44,28 @@ inline_slo_burn_rate_alert_for_high-volu_c0020_17 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_18 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_19 = True
 inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True
+
+
+# Support structured logging field for the v2 endpoint
+support_structured_logging_field_for_the_c0046_0 = True
+support_structured_logging_field_for_the_c0046_1 = True
+support_structured_logging_field_for_the_c0046_2 = True
+support_structured_logging_field_for_the_c0046_3 = True
+support_structured_logging_field_for_the_c0046_4 = True
+support_structured_logging_field_for_the_c0046_5 = True
+support_structured_logging_field_for_the_c0046_6 = True
+support_structured_logging_field_for_the_c0046_7 = True
+support_structured_logging_field_for_the_c0046_8 = True
+support_structured_logging_field_for_the_c0046_9 = True
+support_structured_logging_field_for_the_c0046_10 = True
+support_structured_logging_field_for_the_c0046_11 = True
+support_structured_logging_field_for_the_c0046_12 = True
+support_structured_logging_field_for_the_c0046_13 = True
+support_structured_logging_field_for_the_c0046_14 = True
+support_structured_logging_field_for_the_c0046_15 = True
+support_structured_logging_field_for_the_c0046_16 = True
+support_structured_logging_field_for_the_c0046_17 = True
+support_structured_logging_field_for_the_c0046_18 = True
+support_structured_logging_field_for_the_c0046_19 = True
+support_structured_logging_field_for_the_c0046_20 = True
+support_structured_logging_field_for_the_c0046_21 = True
