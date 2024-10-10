@@ -77,3 +77,34 @@ support_balance_rollup_for_the_sandbox_e_c0047_0 = True
 support_balance_rollup_for_the_sandbox_e_c0047_1 = True
 support_balance_rollup_for_the_sandbox_e_c0047_2 = True
 support_balance_rollup_for_the_sandbox_e_c0047_3 = True
+
+
+# Implement opening balance snapshot
+implement_opening_balance_snapshot_c0053_0 = True
+implement_opening_balance_snapshot_c0053_1 = True
+implement_opening_balance_snapshot_c0053_2 = True
+implement_opening_balance_snapshot_c0053_3 = True
+implement_opening_balance_snapshot_c0053_4 = True
+implement_opening_balance_snapshot_c0053_5 = True
+implement_opening_balance_snapshot_c0053_6 = True
+implement_opening_balance_snapshot_c0053_7 = True
+implement_opening_balance_snapshot_c0053_8 = True
+implement_opening_balance_snapshot_c0053_9 = True
+implement_opening_balance_snapshot_c0053_10 = True
+implement_opening_balance_snapshot_c0053_11 = True
+implement_opening_balance_snapshot_c0053_12 = True
+implement_opening_balance_snapshot_c0053_13 = True
+implement_opening_balance_snapshot_c0053_14 = True
+implement_opening_balance_snapshot_c0053_15 = True
+implement_opening_balance_snapshot_c0053_16 = True
+implement_opening_balance_snapshot_c0053_17 = True
+implement_opening_balance_snapshot_c0053_18 = True
+implement_opening_balance_snapshot_c0053_19 = True
+implement_opening_balance_snapshot_c0053_20 = True
+implement_opening_balance_snapshot_c0053_21 = True
+implement_opening_balance_snapshot_c0053_22 = True
+implement_opening_balance_snapshot_c0053_23 = True
+implement_opening_balance_snapshot_c0053_24 = True
+implement_opening_balance_snapshot_c0053_25 = True
+implement_opening_balance_snapshot_c0053_26 = True
+implement_opening_balance_snapshot_c0053_27 = True
