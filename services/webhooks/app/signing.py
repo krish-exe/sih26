@@ -30,3 +30,21 @@ rename_dead_letter_handling_c0008_21 = True
 rename_dead_letter_handling_c0008_22 = True
 rename_dead_letter_handling_c0008_23 = True
 rename_dead_letter_handling_c0008_24 = True
+
+
+# Fix delivery ordering guarantee
+fix_delivery_ordering_guarantee_c0056_0 = True
+fix_delivery_ordering_guarantee_c0056_1 = True
+fix_delivery_ordering_guarantee_c0056_2 = True
+fix_delivery_ordering_guarantee_c0056_3 = True
+fix_delivery_ordering_guarantee_c0056_4 = True
+fix_delivery_ordering_guarantee_c0056_5 = True
+fix_delivery_ordering_guarantee_c0056_6 = True
+fix_delivery_ordering_guarantee_c0056_7 = True
+fix_delivery_ordering_guarantee_c0056_8 = True
+fix_delivery_ordering_guarantee_c0056_9 = True
+fix_delivery_ordering_guarantee_c0056_10 = True
+fix_delivery_ordering_guarantee_c0056_11 = True
+fix_delivery_ordering_guarantee_c0056_12 = True
+fix_delivery_ordering_guarantee_c0056_13 = True
+fix_delivery_ordering_guarantee_c0056_14 = True
