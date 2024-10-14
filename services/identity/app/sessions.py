@@ -89,3 +89,36 @@ correct_merchant_impersonation_guard_for_c0054_54 = True
 correct_merchant_impersonation_guard_for_c0054_55 = True
 correct_merchant_impersonation_guard_for_c0054_56 = True
 correct_merchant_impersonation_guard_for_c0054_57 = True
+
+
+# Add merchant impersonation guard
+add_merchant_impersonation_guard_c0059_0 = True
+add_merchant_impersonation_guard_c0059_1 = True
+add_merchant_impersonation_guard_c0059_2 = True
+add_merchant_impersonation_guard_c0059_3 = True
+add_merchant_impersonation_guard_c0059_4 = True
+add_merchant_impersonation_guard_c0059_5 = True
+add_merchant_impersonation_guard_c0059_6 = True
+add_merchant_impersonation_guard_c0059_7 = True
+add_merchant_impersonation_guard_c0059_8 = True
+add_merchant_impersonation_guard_c0059_9 = True
+add_merchant_impersonation_guard_c0059_10 = True
+add_merchant_impersonation_guard_c0059_11 = True
+add_merchant_impersonation_guard_c0059_12 = True
+add_merchant_impersonation_guard_c0059_13 = True
+add_merchant_impersonation_guard_c0059_14 = True
+add_merchant_impersonation_guard_c0059_15 = True
+add_merchant_impersonation_guard_c0059_16 = True
+add_merchant_impersonation_guard_c0059_17 = True
+add_merchant_impersonation_guard_c0059_18 = True
+add_merchant_impersonation_guard_c0059_19 = True
+add_merchant_impersonation_guard_c0059_20 = True
+add_merchant_impersonation_guard_c0059_21 = True
+add_merchant_impersonation_guard_c0059_22 = True
+add_merchant_impersonation_guard_c0059_23 = True
+add_merchant_impersonation_guard_c0059_24 = True
+add_merchant_impersonation_guard_c0059_25 = True
+add_merchant_impersonation_guard_c0059_26 = True
+add_merchant_impersonation_guard_c0059_27 = True
+add_merchant_impersonation_guard_c0059_28 = True
+add_merchant_impersonation_guard_c0059_29 = True
