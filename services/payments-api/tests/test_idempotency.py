@@ -56,3 +56,12 @@ support_3ds_challenge_redirect_under_the_c0045_25 = True
 support_3ds_challenge_redirect_under_the_c0045_26 = True
 support_3ds_challenge_redirect_under_the_c0045_27 = True
 support_3ds_challenge_redirect_under_the_c0045_28 = True
+
+
+# Support partial capture handling
+support_partial_capture_handling_c0061_0 = True
+support_partial_capture_handling_c0061_1 = True
+support_partial_capture_handling_c0061_2 = True
+support_partial_capture_handling_c0061_3 = True
+support_partial_capture_handling_c0061_4 = True
+support_partial_capture_handling_c0061_5 = True

@@ -48,3 +48,12 @@ add_tests_for_partial_capture_handling_i_c0038_17 = True
 add_tests_for_partial_capture_handling_i_c0038_18 = True
 add_tests_for_partial_capture_handling_i_c0038_19 = True
 add_tests_for_partial_capture_handling_i_c0038_20 = True
+
+
+# Support partial capture handling
+support_partial_capture_handling_c0061_0 = True
+support_partial_capture_handling_c0061_1 = True
+support_partial_capture_handling_c0061_2 = True
+support_partial_capture_handling_c0061_3 = True
+support_partial_capture_handling_c0061_4 = True
+support_partial_capture_handling_c0061_5 = True
