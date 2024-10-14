@@ -135,3 +135,9 @@ handle_manual_adjustment_c0062_20 = True
 handle_manual_adjustment_c0062_21 = True
 handle_manual_adjustment_c0062_22 = True
 handle_manual_adjustment_c0062_23 = True
+
+
+# Extend double-entry posting
+extend_double-entry_posting_c0064_0 = True
+extend_double-entry_posting_c0064_1 = True
+extend_double-entry_posting_c0064_2 = True
