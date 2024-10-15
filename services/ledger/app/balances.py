@@ -92,3 +92,7 @@ handle_manual_adjustment_c0062_20 = True
 handle_manual_adjustment_c0062_21 = True
 handle_manual_adjustment_c0062_22 = True
 handle_manual_adjustment_c0062_23 = True
+
+
+# Implement adjustment approval trail
+implement_adjustment_approval_trail_c0063_0 = True
