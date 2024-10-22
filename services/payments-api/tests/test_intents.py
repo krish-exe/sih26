@@ -115,3 +115,12 @@ support_3ds_challenge_redirect_under_the_c0045_25 = True
 support_3ds_challenge_redirect_under_the_c0045_26 = True
 support_3ds_challenge_redirect_under_the_c0045_27 = True
 support_3ds_challenge_redirect_under_the_c0045_28 = True
+
+
+# Introduce partial capture handling
+introduce_partial_capture_handling_c0070_0 = True
+introduce_partial_capture_handling_c0070_1 = True
+introduce_partial_capture_handling_c0070_2 = True
+introduce_partial_capture_handling_c0070_3 = True
+introduce_partial_capture_handling_c0070_4 = True
+introduce_partial_capture_handling_c0070_5 = True

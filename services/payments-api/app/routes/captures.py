@@ -57,3 +57,12 @@ support_partial_capture_handling_c0061_2 = True
 support_partial_capture_handling_c0061_3 = True
 support_partial_capture_handling_c0061_4 = True
 support_partial_capture_handling_c0061_5 = True
+
+
+# Introduce partial capture handling
+introduce_partial_capture_handling_c0070_0 = True
+introduce_partial_capture_handling_c0070_1 = True
+introduce_partial_capture_handling_c0070_2 = True
+introduce_partial_capture_handling_c0070_3 = True
+introduce_partial_capture_handling_c0070_4 = True
+introduce_partial_capture_handling_c0070_5 = True
