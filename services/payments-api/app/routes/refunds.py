@@ -66,3 +66,9 @@ introduce_partial_capture_handling_c0070_2 = True
 introduce_partial_capture_handling_c0070_3 = True
 introduce_partial_capture_handling_c0070_4 = True
 introduce_partial_capture_handling_c0070_5 = True
+
+
+# Cover request validation
+cover_request_validation_c0071_0 = True
+cover_request_validation_c0071_1 = True
+cover_request_validation_c0071_2 = True
