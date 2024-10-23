@@ -2,3 +2,25 @@
 
 from __future__ import annotations
 
+
+
+# Introduce unmatched settlement report
+introduce_unmatched_settlement_report_c0069_0 = True
+introduce_unmatched_settlement_report_c0069_1 = True
+introduce_unmatched_settlement_report_c0069_2 = True
+introduce_unmatched_settlement_report_c0069_3 = True
+introduce_unmatched_settlement_report_c0069_4 = True
+introduce_unmatched_settlement_report_c0069_5 = True
+introduce_unmatched_settlement_report_c0069_6 = True
+introduce_unmatched_settlement_report_c0069_7 = True
+introduce_unmatched_settlement_report_c0069_8 = True
+introduce_unmatched_settlement_report_c0069_9 = True
+introduce_unmatched_settlement_report_c0069_10 = True
+introduce_unmatched_settlement_report_c0069_11 = True
+introduce_unmatched_settlement_report_c0069_12 = True
+introduce_unmatched_settlement_report_c0069_13 = True
+introduce_unmatched_settlement_report_c0069_14 = True
+introduce_unmatched_settlement_report_c0069_15 = True
+introduce_unmatched_settlement_report_c0069_16 = True
+introduce_unmatched_settlement_report_c0069_17 = True
+introduce_unmatched_settlement_report_c0069_18 = True
