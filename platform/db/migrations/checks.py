@@ -26,3 +26,31 @@ correct_backfill_checkpoint_after_a_part_c0028_0 = True
 correct_backfill_checkpoint_after_a_part_c0028_1 = True
 correct_backfill_checkpoint_after_a_part_c0028_2 = True
 correct_backfill_checkpoint_after_a_part_c0028_3 = True
+
+
+# Tidy migration dry-run check
+tidy_migration_dry-run_check_c0067_0 = True
+tidy_migration_dry-run_check_c0067_1 = True
+tidy_migration_dry-run_check_c0067_2 = True
+tidy_migration_dry-run_check_c0067_3 = True
+tidy_migration_dry-run_check_c0067_4 = True
+tidy_migration_dry-run_check_c0067_5 = True
+tidy_migration_dry-run_check_c0067_6 = True
+tidy_migration_dry-run_check_c0067_7 = True
+tidy_migration_dry-run_check_c0067_8 = True
+tidy_migration_dry-run_check_c0067_9 = True
+tidy_migration_dry-run_check_c0067_10 = True
+tidy_migration_dry-run_check_c0067_11 = True
+tidy_migration_dry-run_check_c0067_12 = True
+tidy_migration_dry-run_check_c0067_13 = True
+tidy_migration_dry-run_check_c0067_14 = True
+tidy_migration_dry-run_check_c0067_15 = True
+tidy_migration_dry-run_check_c0067_16 = True
+tidy_migration_dry-run_check_c0067_17 = True
+tidy_migration_dry-run_check_c0067_18 = True
+tidy_migration_dry-run_check_c0067_19 = True
+tidy_migration_dry-run_check_c0067_20 = True
+tidy_migration_dry-run_check_c0067_21 = True
+tidy_migration_dry-run_check_c0067_22 = True
+tidy_migration_dry-run_check_c0067_23 = True
+tidy_migration_dry-run_check_c0067_24 = True
