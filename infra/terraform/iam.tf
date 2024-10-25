@@ -6,3 +6,37 @@ terraform {
 
 # Handle network policy
 handle_network_policy_c0005_0 = True
+
+
+# Introduce autoscaling threshold for delegated API keys
+introduce_autoscaling_threshold_for_dele_c0068_0 = True
+introduce_autoscaling_threshold_for_dele_c0068_1 = True
+introduce_autoscaling_threshold_for_dele_c0068_2 = True
+introduce_autoscaling_threshold_for_dele_c0068_3 = True
+introduce_autoscaling_threshold_for_dele_c0068_4 = True
+introduce_autoscaling_threshold_for_dele_c0068_5 = True
+introduce_autoscaling_threshold_for_dele_c0068_6 = True
+introduce_autoscaling_threshold_for_dele_c0068_7 = True
+introduce_autoscaling_threshold_for_dele_c0068_8 = True
+introduce_autoscaling_threshold_for_dele_c0068_9 = True
+introduce_autoscaling_threshold_for_dele_c0068_10 = True
+introduce_autoscaling_threshold_for_dele_c0068_11 = True
+introduce_autoscaling_threshold_for_dele_c0068_12 = True
+introduce_autoscaling_threshold_for_dele_c0068_13 = True
+introduce_autoscaling_threshold_for_dele_c0068_14 = True
+introduce_autoscaling_threshold_for_dele_c0068_15 = True
+introduce_autoscaling_threshold_for_dele_c0068_16 = True
+introduce_autoscaling_threshold_for_dele_c0068_17 = True
+introduce_autoscaling_threshold_for_dele_c0068_18 = True
+introduce_autoscaling_threshold_for_dele_c0068_19 = True
+introduce_autoscaling_threshold_for_dele_c0068_20 = True
+introduce_autoscaling_threshold_for_dele_c0068_21 = True
+introduce_autoscaling_threshold_for_dele_c0068_22 = True
+introduce_autoscaling_threshold_for_dele_c0068_23 = True
+introduce_autoscaling_threshold_for_dele_c0068_24 = True
+introduce_autoscaling_threshold_for_dele_c0068_25 = True
+introduce_autoscaling_threshold_for_dele_c0068_26 = True
+introduce_autoscaling_threshold_for_dele_c0068_27 = True
+introduce_autoscaling_threshold_for_dele_c0068_28 = True
+introduce_autoscaling_threshold_for_dele_c0068_29 = True
+introduce_autoscaling_threshold_for_dele_c0068_30 = True
