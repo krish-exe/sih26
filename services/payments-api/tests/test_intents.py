@@ -124,3 +124,10 @@ introduce_partial_capture_handling_c0070_2 = True
 introduce_partial_capture_handling_c0070_3 = True
 introduce_partial_capture_handling_c0070_4 = True
 introduce_partial_capture_handling_c0070_5 = True
+
+
+# Handle currency rounding on capture
+handle_currency_rounding_on_capture_c0075_0 = True
+handle_currency_rounding_on_capture_c0075_1 = True
+handle_currency_rounding_on_capture_c0075_2 = True
+handle_currency_rounding_on_capture_c0075_3 = True
