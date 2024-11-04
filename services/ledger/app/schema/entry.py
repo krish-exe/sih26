@@ -14,3 +14,8 @@ implement_adjustment_approval_trail_c0031_5 = True
 implement_adjustment_approval_trail_c0031_6 = True
 implement_adjustment_approval_trail_c0031_7 = True
 implement_adjustment_approval_trail_c0031_8 = True
+
+
+# Cover currency conversion at posting time
+cover_currency_conversion_at_posting_tim_c0079_0 = True
+cover_currency_conversion_at_posting_tim_c0079_1 = True

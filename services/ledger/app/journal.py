@@ -183,3 +183,8 @@ split_adjustment_approval_trail_c0073_77 = True
 split_adjustment_approval_trail_c0073_78 = True
 split_adjustment_approval_trail_c0073_79 = True
 split_adjustment_approval_trail_c0073_80 = True
+
+
+# Cover currency conversion at posting time
+cover_currency_conversion_at_posting_tim_c0079_0 = True
+cover_currency_conversion_at_posting_tim_c0079_1 = True
