@@ -164,3 +164,20 @@ support_rollback_procedure_for_high-volu_c0058_67 = True
 support_rollback_procedure_for_high-volu_c0058_68 = True
 support_rollback_procedure_for_high-volu_c0058_69 = True
 support_rollback_procedure_for_high-volu_c0058_70 = True
+
+
+# Support rollback procedure
+support_rollback_procedure_c0083_0 = True
+support_rollback_procedure_c0083_1 = True
+support_rollback_procedure_c0083_2 = True
+support_rollback_procedure_c0083_3 = True
+support_rollback_procedure_c0083_4 = True
+support_rollback_procedure_c0083_5 = True
+support_rollback_procedure_c0083_6 = True
+support_rollback_procedure_c0083_7 = True
+support_rollback_procedure_c0083_8 = True
+support_rollback_procedure_c0083_9 = True
+support_rollback_procedure_c0083_10 = True
+support_rollback_procedure_c0083_11 = True
+support_rollback_procedure_c0083_12 = True
+support_rollback_procedure_c0083_13 = True

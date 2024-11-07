@@ -259,3 +259,20 @@ harden_tests_around_deployment_freeze_wi_c0077_218 = True
 harden_tests_around_deployment_freeze_wi_c0077_219 = True
 harden_tests_around_deployment_freeze_wi_c0077_220 = True
 harden_tests_around_deployment_freeze_wi_c0077_221 = True
+
+
+# Support rollback procedure
+support_rollback_procedure_c0083_0 = True
+support_rollback_procedure_c0083_1 = True
+support_rollback_procedure_c0083_2 = True
+support_rollback_procedure_c0083_3 = True
+support_rollback_procedure_c0083_4 = True
+support_rollback_procedure_c0083_5 = True
+support_rollback_procedure_c0083_6 = True
+support_rollback_procedure_c0083_7 = True
+support_rollback_procedure_c0083_8 = True
+support_rollback_procedure_c0083_9 = True
+support_rollback_procedure_c0083_10 = True
+support_rollback_procedure_c0083_11 = True
+support_rollback_procedure_c0083_12 = True
+support_rollback_procedure_c0083_13 = True
