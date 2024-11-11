@@ -145,3 +145,47 @@ extend_double-entry_posting_c0064_2 = True
 
 # Implement adjustment approval trail
 implement_adjustment_approval_trail_c0063_0 = True
+
+
+# Inline double-entry posting
+inline_double-entry_posting_c0089_0 = True
+inline_double-entry_posting_c0089_1 = True
+inline_double-entry_posting_c0089_2 = True
+inline_double-entry_posting_c0089_3 = True
+inline_double-entry_posting_c0089_4 = True
+inline_double-entry_posting_c0089_5 = True
+inline_double-entry_posting_c0089_6 = True
+inline_double-entry_posting_c0089_7 = True
+inline_double-entry_posting_c0089_8 = True
+inline_double-entry_posting_c0089_9 = True
+inline_double-entry_posting_c0089_10 = True
+inline_double-entry_posting_c0089_11 = True
+inline_double-entry_posting_c0089_12 = True
+inline_double-entry_posting_c0089_13 = True
+inline_double-entry_posting_c0089_14 = True
+inline_double-entry_posting_c0089_15 = True
+inline_double-entry_posting_c0089_16 = True
+inline_double-entry_posting_c0089_17 = True
+inline_double-entry_posting_c0089_18 = True
+inline_double-entry_posting_c0089_19 = True
+inline_double-entry_posting_c0089_20 = True
+inline_double-entry_posting_c0089_21 = True
+inline_double-entry_posting_c0089_22 = True
+inline_double-entry_posting_c0089_23 = True
+inline_double-entry_posting_c0089_24 = True
+inline_double-entry_posting_c0089_25 = True
+inline_double-entry_posting_c0089_26 = True
+inline_double-entry_posting_c0089_27 = True
+inline_double-entry_posting_c0089_28 = True
+inline_double-entry_posting_c0089_29 = True
+inline_double-entry_posting_c0089_30 = True
+inline_double-entry_posting_c0089_31 = True
+inline_double-entry_posting_c0089_32 = True
+inline_double-entry_posting_c0089_33 = True
+inline_double-entry_posting_c0089_34 = True
+inline_double-entry_posting_c0089_35 = True
+inline_double-entry_posting_c0089_36 = True
+inline_double-entry_posting_c0089_37 = True
+inline_double-entry_posting_c0089_38 = True
+inline_double-entry_posting_c0089_39 = True
+inline_double-entry_posting_c0089_40 = True
