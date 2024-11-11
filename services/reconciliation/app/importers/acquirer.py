@@ -16,3 +16,10 @@ correct_exception_queue_triage_for_zero-_c0016_7 = True
 correct_exception_queue_triage_for_zero-_c0016_8 = True
 correct_exception_queue_triage_for_zero-_c0016_9 = True
 correct_exception_queue_triage_for_zero-_c0016_10 = True
+
+
+# Introduce acquirer file import
+introduce_acquirer_file_import_c0095_0 = True
+introduce_acquirer_file_import_c0095_1 = True
+introduce_acquirer_file_import_c0095_2 = True
+introduce_acquirer_file_import_c0095_3 = True

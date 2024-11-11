@@ -112,3 +112,10 @@ cover_fee_reconciliation_behind_a_featur_c0084_81 = True
 cover_fee_reconciliation_behind_a_featur_c0084_82 = True
 cover_fee_reconciliation_behind_a_featur_c0084_83 = True
 cover_fee_reconciliation_behind_a_featur_c0084_84 = True
+
+
+# Introduce acquirer file import
+introduce_acquirer_file_import_c0095_0 = True
+introduce_acquirer_file_import_c0095_1 = True
+introduce_acquirer_file_import_c0095_2 = True
+introduce_acquirer_file_import_c0095_3 = True

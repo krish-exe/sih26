@@ -47,3 +47,10 @@ introduce_unmatched_settlement_report_c0069_15 = True
 introduce_unmatched_settlement_report_c0069_16 = True
 introduce_unmatched_settlement_report_c0069_17 = True
 introduce_unmatched_settlement_report_c0069_18 = True
+
+
+# Introduce acquirer file import
+introduce_acquirer_file_import_c0095_0 = True
+introduce_acquirer_file_import_c0095_1 = True
+introduce_acquirer_file_import_c0095_2 = True
+introduce_acquirer_file_import_c0095_3 = True
