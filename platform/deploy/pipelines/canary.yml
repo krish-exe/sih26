@@ -67,3 +67,9 @@ refactor_deployment_freeze_window_in_the_c0023_49 = True
 refactor_deployment_freeze_window_in_the_c0023_50 = True
 refactor_deployment_freeze_window_in_the_c0023_51 = True
 refactor_deployment_freeze_window_in_the_c0023_52 = True
+
+
+# Implement deployment freeze window under the new limits
+implement_deployment_freeze_window_under_c0086_0 = True
+implement_deployment_freeze_window_under_c0086_1 = True
+implement_deployment_freeze_window_under_c0086_2 = True
