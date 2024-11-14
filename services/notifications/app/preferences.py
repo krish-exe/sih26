@@ -53,3 +53,12 @@ add_receipt_email_template_c0060_37 = True
 add_receipt_email_template_c0060_38 = True
 add_receipt_email_template_c0060_39 = True
 add_receipt_email_template_c0060_40 = True
+
+
+# Support bounce handling under the new limits
+support_bounce_handling_under_the_new_li_c0090_0 = True
+support_bounce_handling_under_the_new_li_c0090_1 = True
+support_bounce_handling_under_the_new_li_c0090_2 = True
+support_bounce_handling_under_the_new_li_c0090_3 = True
+support_bounce_handling_under_the_new_li_c0090_4 = True
+support_bounce_handling_under_the_new_li_c0090_5 = True
