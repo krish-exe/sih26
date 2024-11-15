@@ -115,3 +115,11 @@ support_structured_logging_field_c0088_32 = True
 support_structured_logging_field_c0088_33 = True
 support_structured_logging_field_c0088_34 = True
 support_structured_logging_field_c0088_35 = True
+
+
+# Simplify trace sampling rate
+simplify_trace_sampling_rate_c0087_0 = True
+simplify_trace_sampling_rate_c0087_1 = True
+simplify_trace_sampling_rate_c0087_2 = True
+simplify_trace_sampling_rate_c0087_3 = True
+simplify_trace_sampling_rate_c0087_4 = True
