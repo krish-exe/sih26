@@ -24,3 +24,11 @@ introduce_unmatched_settlement_report_c0069_15 = True
 introduce_unmatched_settlement_report_c0069_16 = True
 introduce_unmatched_settlement_report_c0069_17 = True
 introduce_unmatched_settlement_report_c0069_18 = True
+
+
+# Prevent fee reconciliation
+prevent_fee_reconciliation_c0092_0 = True
+prevent_fee_reconciliation_c0092_1 = True
+prevent_fee_reconciliation_c0092_2 = True
+prevent_fee_reconciliation_c0092_3 = True
+prevent_fee_reconciliation_c0092_4 = True

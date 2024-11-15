@@ -51,3 +51,11 @@ cover_bank_statement_parsing_for_the_v2__c0050_23 = True
 cover_bank_statement_parsing_for_the_v2__c0050_24 = True
 cover_bank_statement_parsing_for_the_v2__c0050_25 = True
 cover_bank_statement_parsing_for_the_v2__c0050_26 = True
+
+
+# Prevent fee reconciliation
+prevent_fee_reconciliation_c0092_0 = True
+prevent_fee_reconciliation_c0092_1 = True
+prevent_fee_reconciliation_c0092_2 = True
+prevent_fee_reconciliation_c0092_3 = True
+prevent_fee_reconciliation_c0092_4 = True
