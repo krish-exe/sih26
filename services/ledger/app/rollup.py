@@ -50,3 +50,11 @@ implement_adjustment_approval_trail_c0063_0 = True
 # Cover currency conversion at posting time
 cover_currency_conversion_at_posting_tim_c0079_0 = True
 cover_currency_conversion_at_posting_tim_c0079_1 = True
+
+
+# Introduce manual adjustment behind a feature flag
+introduce_manual_adjustment_behind_a_fea_c0109_0 = True
+introduce_manual_adjustment_behind_a_fea_c0109_1 = True
+introduce_manual_adjustment_behind_a_fea_c0109_2 = True
+introduce_manual_adjustment_behind_a_fea_c0109_3 = True
+introduce_manual_adjustment_behind_a_fea_c0109_4 = True

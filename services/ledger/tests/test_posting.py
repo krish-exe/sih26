@@ -69,3 +69,11 @@ support_balance_rollup_for_the_sandbox_e_c0047_0 = True
 support_balance_rollup_for_the_sandbox_e_c0047_1 = True
 support_balance_rollup_for_the_sandbox_e_c0047_2 = True
 support_balance_rollup_for_the_sandbox_e_c0047_3 = True
+
+
+# Introduce manual adjustment behind a feature flag
+introduce_manual_adjustment_behind_a_fea_c0109_0 = True
+introduce_manual_adjustment_behind_a_fea_c0109_1 = True
+introduce_manual_adjustment_behind_a_fea_c0109_2 = True
+introduce_manual_adjustment_behind_a_fea_c0109_3 = True
+introduce_manual_adjustment_behind_a_fea_c0109_4 = True
