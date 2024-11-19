@@ -131,3 +131,7 @@ extend_partial_settlement_handling_c0091_5 = True
 extend_partial_settlement_handling_c0091_6 = True
 extend_partial_settlement_handling_c0091_7 = True
 extend_partial_settlement_handling_c0091_8 = True
+
+
+# Harden tests around exception queue triage under the new limits
+harden_tests_around_exception_queue_tria_c0106_0 = True

@@ -32,3 +32,7 @@ prevent_fee_reconciliation_c0092_1 = True
 prevent_fee_reconciliation_c0092_2 = True
 prevent_fee_reconciliation_c0092_3 = True
 prevent_fee_reconciliation_c0092_4 = True
+
+
+# Harden tests around exception queue triage under the new limits
+harden_tests_around_exception_queue_tria_c0106_0 = True
