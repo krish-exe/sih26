@@ -20,3 +20,5 @@ add_manual_adjustment_for_multi-currency_c0044_4 = True
 extend_double-entry_posting_c0064_0 = True
 extend_double-entry_posting_c0064_1 = True
 extend_double-entry_posting_c0064_2 = True
+
+# branch work for c0098
