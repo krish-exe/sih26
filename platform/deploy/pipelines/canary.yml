@@ -73,3 +73,16 @@ refactor_deployment_freeze_window_in_the_c0023_52 = True
 implement_deployment_freeze_window_under_c0086_0 = True
 implement_deployment_freeze_window_under_c0086_1 = True
 implement_deployment_freeze_window_under_c0086_2 = True
+
+
+# Add tests for canary rollout stage
+add_tests_for_canary_rollout_stage_c0105_0 = True
+add_tests_for_canary_rollout_stage_c0105_1 = True
+add_tests_for_canary_rollout_stage_c0105_2 = True
+add_tests_for_canary_rollout_stage_c0105_3 = True
+add_tests_for_canary_rollout_stage_c0105_4 = True
+add_tests_for_canary_rollout_stage_c0105_5 = True
+add_tests_for_canary_rollout_stage_c0105_6 = True
+add_tests_for_canary_rollout_stage_c0105_7 = True
+add_tests_for_canary_rollout_stage_c0105_8 = True
+add_tests_for_canary_rollout_stage_c0105_9 = True
