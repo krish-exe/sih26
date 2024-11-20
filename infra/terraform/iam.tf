@@ -40,3 +40,15 @@ introduce_autoscaling_threshold_for_dele_c0068_27 = True
 introduce_autoscaling_threshold_for_dele_c0068_28 = True
 introduce_autoscaling_threshold_for_dele_c0068_29 = True
 introduce_autoscaling_threshold_for_dele_c0068_30 = True
+
+
+# Extend autoscaling threshold
+extend_autoscaling_threshold_c0097_0 = True
+extend_autoscaling_threshold_c0097_1 = True
+extend_autoscaling_threshold_c0097_2 = True
+extend_autoscaling_threshold_c0097_3 = True
+extend_autoscaling_threshold_c0097_4 = True
+extend_autoscaling_threshold_c0097_5 = True
+extend_autoscaling_threshold_c0097_6 = True
+extend_autoscaling_threshold_c0097_7 = True
+extend_autoscaling_threshold_c0097_8 = True
