@@ -58,3 +58,14 @@ implement_scope_enforcement_c0043_18 = True
 implement_scope_enforcement_c0043_19 = True
 implement_scope_enforcement_c0043_20 = True
 implement_scope_enforcement_c0043_21 = True
+
+
+# Rename scope enforcement for high-volume merchants
+rename_scope_enforcement_for_high-volume_c0110_0 = True
+rename_scope_enforcement_for_high-volume_c0110_1 = True
+rename_scope_enforcement_for_high-volume_c0110_2 = True
+rename_scope_enforcement_for_high-volume_c0110_3 = True
+rename_scope_enforcement_for_high-volume_c0110_4 = True
+rename_scope_enforcement_for_high-volume_c0110_5 = True
+rename_scope_enforcement_for_high-volume_c0110_6 = True
+rename_scope_enforcement_for_high-volume_c0110_7 = True
