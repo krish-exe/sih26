@@ -236,3 +236,20 @@ support_structured_logging_field_c0088_32 = True
 support_structured_logging_field_c0088_33 = True
 support_structured_logging_field_c0088_34 = True
 support_structured_logging_field_c0088_35 = True
+
+
+# Cover SLO burn rate alert
+cover_slo_burn_rate_alert_c0108_0 = True
+cover_slo_burn_rate_alert_c0108_1 = True
+cover_slo_burn_rate_alert_c0108_2 = True
+cover_slo_burn_rate_alert_c0108_3 = True
+cover_slo_burn_rate_alert_c0108_4 = True
+cover_slo_burn_rate_alert_c0108_5 = True
+cover_slo_burn_rate_alert_c0108_6 = True
+cover_slo_burn_rate_alert_c0108_7 = True
+cover_slo_burn_rate_alert_c0108_8 = True
+cover_slo_burn_rate_alert_c0108_9 = True
+cover_slo_burn_rate_alert_c0108_10 = True
+cover_slo_burn_rate_alert_c0108_11 = True
+cover_slo_burn_rate_alert_c0108_12 = True
+cover_slo_burn_rate_alert_c0108_13 = True
