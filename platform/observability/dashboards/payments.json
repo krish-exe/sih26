@@ -129,3 +129,10 @@ simplify_trace_sampling_rate_c0087_1 = True
 simplify_trace_sampling_rate_c0087_2 = True
 simplify_trace_sampling_rate_c0087_3 = True
 simplify_trace_sampling_rate_c0087_4 = True
+
+
+# Fix error budget dashboard in the batch importer
+fix_error_budget_dashboard_in_the_batch__c0114_0 = True
+fix_error_budget_dashboard_in_the_batch__c0114_1 = True
+fix_error_budget_dashboard_in_the_batch__c0114_2 = True
+fix_error_budget_dashboard_in_the_batch__c0114_3 = True

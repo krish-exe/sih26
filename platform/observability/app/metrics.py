@@ -39,3 +39,10 @@ inline_slo_burn_rate_alert_for_high-volu_c0020_20 = True
 
 # Add tests for latency alert threshold on the read replica
 add_tests_for_latency_alert_threshold_on_c0033_0 = True
+
+
+# Fix error budget dashboard in the batch importer
+fix_error_budget_dashboard_in_the_batch__c0114_0 = True
+fix_error_budget_dashboard_in_the_batch__c0114_1 = True
+fix_error_budget_dashboard_in_the_batch__c0114_2 = True
+fix_error_budget_dashboard_in_the_batch__c0114_3 = True

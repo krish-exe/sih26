@@ -125,3 +125,10 @@ cover_slo_burn_rate_alert_c0108_10 = True
 cover_slo_burn_rate_alert_c0108_11 = True
 cover_slo_burn_rate_alert_c0108_12 = True
 cover_slo_burn_rate_alert_c0108_13 = True
+
+
+# Fix error budget dashboard in the batch importer
+fix_error_budget_dashboard_in_the_batch__c0114_0 = True
+fix_error_budget_dashboard_in_the_batch__c0114_1 = True
+fix_error_budget_dashboard_in_the_batch__c0114_2 = True
+fix_error_budget_dashboard_in_the_batch__c0114_3 = True
