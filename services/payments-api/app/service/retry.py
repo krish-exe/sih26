@@ -2,3 +2,23 @@
 
 from __future__ import annotations
 
+
+
+# Extend partial capture handling during replay
+extend_partial_capture_handling_during_r_c0116_0 = True
+extend_partial_capture_handling_during_r_c0116_1 = True
+extend_partial_capture_handling_during_r_c0116_2 = True
+extend_partial_capture_handling_during_r_c0116_3 = True
+extend_partial_capture_handling_during_r_c0116_4 = True
+extend_partial_capture_handling_during_r_c0116_5 = True
+extend_partial_capture_handling_during_r_c0116_6 = True
+extend_partial_capture_handling_during_r_c0116_7 = True
+extend_partial_capture_handling_during_r_c0116_8 = True
+extend_partial_capture_handling_during_r_c0116_9 = True
+extend_partial_capture_handling_during_r_c0116_10 = True
+extend_partial_capture_handling_during_r_c0116_11 = True
+extend_partial_capture_handling_during_r_c0116_12 = True
+extend_partial_capture_handling_during_r_c0116_13 = True
+extend_partial_capture_handling_during_r_c0116_14 = True
+extend_partial_capture_handling_during_r_c0116_15 = True
+extend_partial_capture_handling_during_r_c0116_16 = True
