@@ -11,3 +11,31 @@ support_delivery_retry_backoff_c0099_2 = True
 support_delivery_retry_backoff_c0099_3 = True
 support_delivery_retry_backoff_c0099_4 = True
 support_delivery_retry_backoff_c0099_5 = True
+
+
+# Introduce webhook signature rotation
+introduce_webhook_signature_rotation_c0113_0 = True
+introduce_webhook_signature_rotation_c0113_1 = True
+introduce_webhook_signature_rotation_c0113_2 = True
+introduce_webhook_signature_rotation_c0113_3 = True
+introduce_webhook_signature_rotation_c0113_4 = True
+introduce_webhook_signature_rotation_c0113_5 = True
+introduce_webhook_signature_rotation_c0113_6 = True
+introduce_webhook_signature_rotation_c0113_7 = True
+introduce_webhook_signature_rotation_c0113_8 = True
+introduce_webhook_signature_rotation_c0113_9 = True
+introduce_webhook_signature_rotation_c0113_10 = True
+introduce_webhook_signature_rotation_c0113_11 = True
+introduce_webhook_signature_rotation_c0113_12 = True
+introduce_webhook_signature_rotation_c0113_13 = True
+introduce_webhook_signature_rotation_c0113_14 = True
+introduce_webhook_signature_rotation_c0113_15 = True
+introduce_webhook_signature_rotation_c0113_16 = True
+introduce_webhook_signature_rotation_c0113_17 = True
+introduce_webhook_signature_rotation_c0113_18 = True
+introduce_webhook_signature_rotation_c0113_19 = True
+introduce_webhook_signature_rotation_c0113_20 = True
+introduce_webhook_signature_rotation_c0113_21 = True
+introduce_webhook_signature_rotation_c0113_22 = True
+introduce_webhook_signature_rotation_c0113_23 = True
+introduce_webhook_signature_rotation_c0113_24 = True
