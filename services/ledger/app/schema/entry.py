@@ -19,3 +19,18 @@ implement_adjustment_approval_trail_c0031_8 = True
 # Cover currency conversion at posting time
 cover_currency_conversion_at_posting_tim_c0079_0 = True
 cover_currency_conversion_at_posting_tim_c0079_1 = True
+
+
+# Add tests for currency conversion at posting time
+add_tests_for_currency_conversion_at_pos_c0115_0 = True
+add_tests_for_currency_conversion_at_pos_c0115_1 = True
+add_tests_for_currency_conversion_at_pos_c0115_2 = True
+add_tests_for_currency_conversion_at_pos_c0115_3 = True
+add_tests_for_currency_conversion_at_pos_c0115_4 = True
+add_tests_for_currency_conversion_at_pos_c0115_5 = True
+add_tests_for_currency_conversion_at_pos_c0115_6 = True
+add_tests_for_currency_conversion_at_pos_c0115_7 = True
+add_tests_for_currency_conversion_at_pos_c0115_8 = True
+add_tests_for_currency_conversion_at_pos_c0115_9 = True
+add_tests_for_currency_conversion_at_pos_c0115_10 = True
+add_tests_for_currency_conversion_at_pos_c0115_11 = True
