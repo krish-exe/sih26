@@ -21,3 +21,22 @@ extend_partial_settlement_handling_c0091_5 = True
 extend_partial_settlement_handling_c0091_6 = True
 extend_partial_settlement_handling_c0091_7 = True
 extend_partial_settlement_handling_c0091_8 = True
+
+
+# Introduce acquirer file import
+introduce_acquirer_file_import_c0117_0 = True
+introduce_acquirer_file_import_c0117_1 = True
+introduce_acquirer_file_import_c0117_2 = True
+introduce_acquirer_file_import_c0117_3 = True
+introduce_acquirer_file_import_c0117_4 = True
+introduce_acquirer_file_import_c0117_5 = True
+introduce_acquirer_file_import_c0117_6 = True
+introduce_acquirer_file_import_c0117_7 = True
+introduce_acquirer_file_import_c0117_8 = True
+introduce_acquirer_file_import_c0117_9 = True
+introduce_acquirer_file_import_c0117_10 = True
+introduce_acquirer_file_import_c0117_11 = True
+introduce_acquirer_file_import_c0117_12 = True
+introduce_acquirer_file_import_c0117_13 = True
+introduce_acquirer_file_import_c0117_14 = True
+introduce_acquirer_file_import_c0117_15 = True
