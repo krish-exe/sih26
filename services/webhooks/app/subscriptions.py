@@ -39,3 +39,7 @@ introduce_webhook_signature_rotation_c0113_21 = True
 introduce_webhook_signature_rotation_c0113_22 = True
 introduce_webhook_signature_rotation_c0113_23 = True
 introduce_webhook_signature_rotation_c0113_24 = True
+
+
+# Fix delivery retry backoff after a partial failure
+fix_delivery_retry_backoff_after_a_parti_c0111_0 = True

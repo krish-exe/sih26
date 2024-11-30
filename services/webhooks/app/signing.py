@@ -48,3 +48,7 @@ fix_delivery_ordering_guarantee_c0056_11 = True
 fix_delivery_ordering_guarantee_c0056_12 = True
 fix_delivery_ordering_guarantee_c0056_13 = True
 fix_delivery_ordering_guarantee_c0056_14 = True
+
+
+# Fix delivery retry backoff after a partial failure
+fix_delivery_retry_backoff_after_a_parti_c0111_0 = True

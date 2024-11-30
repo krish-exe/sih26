@@ -53,3 +53,7 @@ add_delivery_retry_backoff_c0036_16 = True
 add_delivery_retry_backoff_c0036_17 = True
 add_delivery_retry_backoff_c0036_18 = True
 add_delivery_retry_backoff_c0036_19 = True
+
+
+# Fix delivery retry backoff after a partial failure
+fix_delivery_retry_backoff_after_a_parti_c0111_0 = True
