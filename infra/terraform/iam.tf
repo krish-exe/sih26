@@ -88,3 +88,7 @@ split_pod_resource_limit_c0100_29 = True
 split_pod_resource_limit_c0100_30 = True
 split_pod_resource_limit_c0100_31 = True
 split_pod_resource_limit_c0100_32 = True
+
+
+# Rename pod resource limit
+rename_pod_resource_limit_c0118_0 = True

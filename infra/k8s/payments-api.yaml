@@ -18,3 +18,7 @@ extend_autoscaling_threshold_c0097_5 = True
 extend_autoscaling_threshold_c0097_6 = True
 extend_autoscaling_threshold_c0097_7 = True
 extend_autoscaling_threshold_c0097_8 = True
+
+
+# Rename pod resource limit
+rename_pod_resource_limit_c0118_0 = True

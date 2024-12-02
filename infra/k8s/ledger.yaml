@@ -196,3 +196,7 @@ prevent_network_policy_c0103_32 = True
 prevent_network_policy_c0103_33 = True
 prevent_network_policy_c0103_34 = True
 prevent_network_policy_c0103_35 = True
+
+
+# Rename pod resource limit
+rename_pod_resource_limit_c0118_0 = True
