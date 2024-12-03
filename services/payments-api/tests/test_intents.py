@@ -131,3 +131,8 @@ handle_currency_rounding_on_capture_c0075_0 = True
 handle_currency_rounding_on_capture_c0075_1 = True
 handle_currency_rounding_on_capture_c0075_2 = True
 handle_currency_rounding_on_capture_c0075_3 = True
+
+
+# Support partial capture handling
+support_partial_capture_handling_c0122_0 = True
+support_partial_capture_handling_c0122_1 = True

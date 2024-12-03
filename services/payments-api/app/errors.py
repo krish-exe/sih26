@@ -110,3 +110,8 @@ refactor_intent_expiry_sweep_c0096_37 = True
 refactor_intent_expiry_sweep_c0096_38 = True
 refactor_intent_expiry_sweep_c0096_39 = True
 refactor_intent_expiry_sweep_c0096_40 = True
+
+
+# Support partial capture handling
+support_partial_capture_handling_c0122_0 = True
+support_partial_capture_handling_c0122_1 = True

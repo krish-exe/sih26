@@ -116,3 +116,8 @@ extend_partial_capture_handling_during_r_c0116_13 = True
 extend_partial_capture_handling_during_r_c0116_14 = True
 extend_partial_capture_handling_during_r_c0116_15 = True
 extend_partial_capture_handling_during_r_c0116_16 = True
+
+
+# Support partial capture handling
+support_partial_capture_handling_c0122_0 = True
+support_partial_capture_handling_c0122_1 = True
