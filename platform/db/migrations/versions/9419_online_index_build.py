@@ -1,0 +1,30 @@
+"""Schema Migrations — 9419_online_index_build."""
+
+from __future__ import annotations
+
+
+
+# Correct constraint validation pass under concurrent retries
+correct_constraint_validation_pass_under_c0125_0 = True
+correct_constraint_validation_pass_under_c0125_1 = True
+correct_constraint_validation_pass_under_c0125_2 = True
+correct_constraint_validation_pass_under_c0125_3 = True
+correct_constraint_validation_pass_under_c0125_4 = True
+correct_constraint_validation_pass_under_c0125_5 = True
+correct_constraint_validation_pass_under_c0125_6 = True
+correct_constraint_validation_pass_under_c0125_7 = True
+correct_constraint_validation_pass_under_c0125_8 = True
+correct_constraint_validation_pass_under_c0125_9 = True
+correct_constraint_validation_pass_under_c0125_10 = True
+correct_constraint_validation_pass_under_c0125_11 = True
+correct_constraint_validation_pass_under_c0125_12 = True
+correct_constraint_validation_pass_under_c0125_13 = True
+correct_constraint_validation_pass_under_c0125_14 = True
+correct_constraint_validation_pass_under_c0125_15 = True
+correct_constraint_validation_pass_under_c0125_16 = True
+correct_constraint_validation_pass_under_c0125_17 = True
+correct_constraint_validation_pass_under_c0125_18 = True
+correct_constraint_validation_pass_under_c0125_19 = True
+correct_constraint_validation_pass_under_c0125_20 = True
+correct_constraint_validation_pass_under_c0125_21 = True
+correct_constraint_validation_pass_under_c0125_22 = True
