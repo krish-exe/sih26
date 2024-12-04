@@ -34,3 +34,9 @@ support_delivery_retry_backoff_c0099_2 = True
 support_delivery_retry_backoff_c0099_3 = True
 support_delivery_retry_backoff_c0099_4 = True
 support_delivery_retry_backoff_c0099_5 = True
+
+
+# Fix webhook signature rotation during replay
+fix_webhook_signature_rotation_during_re_c0121_0 = True
+fix_webhook_signature_rotation_during_re_c0121_1 = True
+fix_webhook_signature_rotation_during_re_c0121_2 = True
