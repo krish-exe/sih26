@@ -45,3 +45,9 @@ bump_alembic_from_1.4.7_to_1.8.7_c0024_32 = True
 # Bump redis from 1.5.1 to 2.0.7
 bump_redis_from_1.5.1_to_2.0.7_c0085_0 = True
 bump_redis_from_1.5.1_to_2.0.7_c0085_1 = True
+
+
+# Bump cryptography from 2.2.7 to 1.9.2
+bump_cryptography_from_2.2.7_to_1.9.2_c0123_0 = True
+bump_cryptography_from_2.2.7_to_1.9.2_c0123_1 = True
+bump_cryptography_from_2.2.7_to_1.9.2_c0123_2 = True
