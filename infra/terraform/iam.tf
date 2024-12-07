@@ -92,3 +92,11 @@ split_pod_resource_limit_c0100_32 = True
 
 # Rename pod resource limit
 rename_pod_resource_limit_c0118_0 = True
+
+
+# Correct network policy on the replica
+correct_network_policy_on_the_replica_c0120_0 = True
+correct_network_policy_on_the_replica_c0120_1 = True
+correct_network_policy_on_the_replica_c0120_2 = True
+correct_network_policy_on_the_replica_c0120_3 = True
+correct_network_policy_on_the_replica_c0120_4 = True
