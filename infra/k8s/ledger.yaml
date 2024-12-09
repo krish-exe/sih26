@@ -208,3 +208,19 @@ correct_network_policy_on_the_replica_c0120_1 = True
 correct_network_policy_on_the_replica_c0120_2 = True
 correct_network_policy_on_the_replica_c0120_3 = True
 correct_network_policy_on_the_replica_c0120_4 = True
+
+
+# Tidy autoscaling threshold
+tidy_autoscaling_threshold_c0127_0 = True
+tidy_autoscaling_threshold_c0127_1 = True
+tidy_autoscaling_threshold_c0127_2 = True
+tidy_autoscaling_threshold_c0127_3 = True
+tidy_autoscaling_threshold_c0127_4 = True
+tidy_autoscaling_threshold_c0127_5 = True
+tidy_autoscaling_threshold_c0127_6 = True
+tidy_autoscaling_threshold_c0127_7 = True
+tidy_autoscaling_threshold_c0127_8 = True
+tidy_autoscaling_threshold_c0127_9 = True
+tidy_autoscaling_threshold_c0127_10 = True
+tidy_autoscaling_threshold_c0127_11 = True
+tidy_autoscaling_threshold_c0127_12 = True
