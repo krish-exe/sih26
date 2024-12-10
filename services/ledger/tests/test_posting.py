@@ -77,3 +77,20 @@ introduce_manual_adjustment_behind_a_fea_c0109_1 = True
 introduce_manual_adjustment_behind_a_fea_c0109_2 = True
 introduce_manual_adjustment_behind_a_fea_c0109_3 = True
 introduce_manual_adjustment_behind_a_fea_c0109_4 = True
+
+
+# Correct journal replay
+correct_journal_replay_c0130_0 = True
+correct_journal_replay_c0130_1 = True
+correct_journal_replay_c0130_2 = True
+correct_journal_replay_c0130_3 = True
+correct_journal_replay_c0130_4 = True
+correct_journal_replay_c0130_5 = True
+correct_journal_replay_c0130_6 = True
+correct_journal_replay_c0130_7 = True
+correct_journal_replay_c0130_8 = True
+correct_journal_replay_c0130_9 = True
+correct_journal_replay_c0130_10 = True
+correct_journal_replay_c0130_11 = True
+correct_journal_replay_c0130_12 = True
+correct_journal_replay_c0130_13 = True
