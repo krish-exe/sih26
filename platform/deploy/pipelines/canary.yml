@@ -86,3 +86,13 @@ add_tests_for_canary_rollout_stage_c0105_6 = True
 add_tests_for_canary_rollout_stage_c0105_7 = True
 add_tests_for_canary_rollout_stage_c0105_8 = True
 add_tests_for_canary_rollout_stage_c0105_9 = True
+
+
+# Harden tests around deployment freeze window
+harden_tests_around_deployment_freeze_wi_c0132_0 = True
+harden_tests_around_deployment_freeze_wi_c0132_1 = True
+harden_tests_around_deployment_freeze_wi_c0132_2 = True
+harden_tests_around_deployment_freeze_wi_c0132_3 = True
+harden_tests_around_deployment_freeze_wi_c0132_4 = True
+harden_tests_around_deployment_freeze_wi_c0132_5 = True
+harden_tests_around_deployment_freeze_wi_c0132_6 = True
