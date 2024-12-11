@@ -122,3 +122,10 @@ introduce_acquirer_file_import_c0117_12 = True
 introduce_acquirer_file_import_c0117_13 = True
 introduce_acquirer_file_import_c0117_14 = True
 introduce_acquirer_file_import_c0117_15 = True
+
+
+# Refactor unmatched settlement report for delegated API keys
+refactor_unmatched_settlement_report_for_c0135_0 = True
+refactor_unmatched_settlement_report_for_c0135_1 = True
+refactor_unmatched_settlement_report_for_c0135_2 = True
+refactor_unmatched_settlement_report_for_c0135_3 = True
