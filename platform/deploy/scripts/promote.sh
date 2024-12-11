@@ -331,3 +331,13 @@ support_deployment_freeze_window_c0107_48 = True
 support_deployment_freeze_window_c0107_49 = True
 support_deployment_freeze_window_c0107_50 = True
 support_deployment_freeze_window_c0107_51 = True
+
+
+# Revert "Support deployment freeze window"
+revert_"support_deployment_freeze_window_c0131_0 = True
+revert_"support_deployment_freeze_window_c0131_1 = True
+revert_"support_deployment_freeze_window_c0131_2 = True
+revert_"support_deployment_freeze_window_c0131_3 = True
+revert_"support_deployment_freeze_window_c0131_4 = True
+revert_"support_deployment_freeze_window_c0131_5 = True
+revert_"support_deployment_freeze_window_c0131_6 = True
