@@ -66,3 +66,11 @@ refactor_unmatched_settlement_report_for_c0135_0 = True
 refactor_unmatched_settlement_report_for_c0135_1 = True
 refactor_unmatched_settlement_report_for_c0135_2 = True
 refactor_unmatched_settlement_report_for_c0135_3 = True
+
+
+# Simplify partial settlement handling behind a feature flag
+simplify_partial_settlement_handling_beh_c0134_0 = True
+simplify_partial_settlement_handling_beh_c0134_1 = True
+simplify_partial_settlement_handling_beh_c0134_2 = True
+simplify_partial_settlement_handling_beh_c0134_3 = True
+simplify_partial_settlement_handling_beh_c0134_4 = True

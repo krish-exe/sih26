@@ -44,3 +44,11 @@ fix_unmatched_settlement_report_c0112_1 = True
 fix_unmatched_settlement_report_c0112_2 = True
 fix_unmatched_settlement_report_c0112_3 = True
 fix_unmatched_settlement_report_c0112_4 = True
+
+
+# Simplify partial settlement handling behind a feature flag
+simplify_partial_settlement_handling_beh_c0134_0 = True
+simplify_partial_settlement_handling_beh_c0134_1 = True
+simplify_partial_settlement_handling_beh_c0134_2 = True
+simplify_partial_settlement_handling_beh_c0134_3 = True
+simplify_partial_settlement_handling_beh_c0134_4 = True
