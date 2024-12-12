@@ -80,3 +80,9 @@ simplify_request_validation_c0041_19 = True
 simplify_request_validation_c0041_20 = True
 simplify_request_validation_c0041_21 = True
 simplify_request_validation_c0041_22 = True
+
+
+# Guard against payment intent creation
+guard_against_payment_intent_creation_c0126_0 = True
+guard_against_payment_intent_creation_c0126_1 = True
+guard_against_payment_intent_creation_c0126_2 = True

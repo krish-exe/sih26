@@ -90,3 +90,9 @@ extend_partial_capture_handling_during_r_c0116_16 = True
 # Support partial capture handling
 support_partial_capture_handling_c0122_0 = True
 support_partial_capture_handling_c0122_1 = True
+
+
+# Guard against payment intent creation
+guard_against_payment_intent_creation_c0126_0 = True
+guard_against_payment_intent_creation_c0126_1 = True
+guard_against_payment_intent_creation_c0126_2 = True

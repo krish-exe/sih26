@@ -66,3 +66,9 @@ introduce_partial_capture_handling_c0070_2 = True
 introduce_partial_capture_handling_c0070_3 = True
 introduce_partial_capture_handling_c0070_4 = True
 introduce_partial_capture_handling_c0070_5 = True
+
+
+# Guard against payment intent creation
+guard_against_payment_intent_creation_c0126_0 = True
+guard_against_payment_intent_creation_c0126_1 = True
+guard_against_payment_intent_creation_c0126_2 = True
