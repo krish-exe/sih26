@@ -46,3 +46,9 @@ fix_error_budget_dashboard_in_the_batch__c0114_0 = True
 fix_error_budget_dashboard_in_the_batch__c0114_1 = True
 fix_error_budget_dashboard_in_the_batch__c0114_2 = True
 fix_error_budget_dashboard_in_the_batch__c0114_3 = True
+
+
+# Cover error budget dashboard
+cover_error_budget_dashboard_c0138_0 = True
+cover_error_budget_dashboard_c0138_1 = True
+cover_error_budget_dashboard_c0138_2 = True
