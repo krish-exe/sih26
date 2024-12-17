@@ -13,3 +13,35 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: pytest -q
+
+
+# ci: regenerate client stubs
+ci:_regenerate_client_stubs_c0139_0 = True
+ci:_regenerate_client_stubs_c0139_1 = True
+ci:_regenerate_client_stubs_c0139_2 = True
+ci:_regenerate_client_stubs_c0139_3 = True
+ci:_regenerate_client_stubs_c0139_4 = True
+ci:_regenerate_client_stubs_c0139_5 = True
+ci:_regenerate_client_stubs_c0139_6 = True
+ci:_regenerate_client_stubs_c0139_7 = True
+ci:_regenerate_client_stubs_c0139_8 = True
+ci:_regenerate_client_stubs_c0139_9 = True
+ci:_regenerate_client_stubs_c0139_10 = True
+ci:_regenerate_client_stubs_c0139_11 = True
+ci:_regenerate_client_stubs_c0139_12 = True
+ci:_regenerate_client_stubs_c0139_13 = True
+ci:_regenerate_client_stubs_c0139_14 = True
+ci:_regenerate_client_stubs_c0139_15 = True
+ci:_regenerate_client_stubs_c0139_16 = True
+ci:_regenerate_client_stubs_c0139_17 = True
+ci:_regenerate_client_stubs_c0139_18 = True
+ci:_regenerate_client_stubs_c0139_19 = True
+ci:_regenerate_client_stubs_c0139_20 = True
+ci:_regenerate_client_stubs_c0139_21 = True
+ci:_regenerate_client_stubs_c0139_22 = True
+ci:_regenerate_client_stubs_c0139_23 = True
+ci:_regenerate_client_stubs_c0139_24 = True
+ci:_regenerate_client_stubs_c0139_25 = True
+ci:_regenerate_client_stubs_c0139_26 = True
+ci:_regenerate_client_stubs_c0139_27 = True
+ci:_regenerate_client_stubs_c0139_28 = True
