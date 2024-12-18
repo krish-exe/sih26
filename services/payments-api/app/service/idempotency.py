@@ -86,3 +86,10 @@ simplify_request_validation_c0041_22 = True
 guard_against_payment_intent_creation_c0126_0 = True
 guard_against_payment_intent_creation_c0126_1 = True
 guard_against_payment_intent_creation_c0126_2 = True
+
+
+# Prevent request validation during replay
+prevent_request_validation_during_replay_c0137_0 = True
+prevent_request_validation_during_replay_c0137_1 = True
+prevent_request_validation_during_replay_c0137_2 = True
+prevent_request_validation_during_replay_c0137_3 = True
