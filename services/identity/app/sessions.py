@@ -133,3 +133,25 @@ rename_scope_enforcement_for_high-volume_c0110_4 = True
 rename_scope_enforcement_for_high-volume_c0110_5 = True
 rename_scope_enforcement_for_high-volume_c0110_6 = True
 rename_scope_enforcement_for_high-volume_c0110_7 = True
+
+
+# Support merchant impersonation guard
+support_merchant_impersonation_guard_c0142_0 = True
+support_merchant_impersonation_guard_c0142_1 = True
+support_merchant_impersonation_guard_c0142_2 = True
+support_merchant_impersonation_guard_c0142_3 = True
+support_merchant_impersonation_guard_c0142_4 = True
+support_merchant_impersonation_guard_c0142_5 = True
+support_merchant_impersonation_guard_c0142_6 = True
+support_merchant_impersonation_guard_c0142_7 = True
+support_merchant_impersonation_guard_c0142_8 = True
+support_merchant_impersonation_guard_c0142_9 = True
+support_merchant_impersonation_guard_c0142_10 = True
+support_merchant_impersonation_guard_c0142_11 = True
+support_merchant_impersonation_guard_c0142_12 = True
+support_merchant_impersonation_guard_c0142_13 = True
+support_merchant_impersonation_guard_c0142_14 = True
+support_merchant_impersonation_guard_c0142_15 = True
+support_merchant_impersonation_guard_c0142_16 = True
+support_merchant_impersonation_guard_c0142_17 = True
+support_merchant_impersonation_guard_c0142_18 = True
