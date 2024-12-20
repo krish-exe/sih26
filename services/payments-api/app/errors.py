@@ -115,3 +115,22 @@ refactor_intent_expiry_sweep_c0096_40 = True
 # Support partial capture handling
 support_partial_capture_handling_c0122_0 = True
 support_partial_capture_handling_c0122_1 = True
+
+
+# Introduce refund flow
+introduce_refund_flow_c0136_0 = True
+introduce_refund_flow_c0136_1 = True
+introduce_refund_flow_c0136_2 = True
+introduce_refund_flow_c0136_3 = True
+introduce_refund_flow_c0136_4 = True
+introduce_refund_flow_c0136_5 = True
+introduce_refund_flow_c0136_6 = True
+introduce_refund_flow_c0136_7 = True
+introduce_refund_flow_c0136_8 = True
+introduce_refund_flow_c0136_9 = True
+introduce_refund_flow_c0136_10 = True
+introduce_refund_flow_c0136_11 = True
+introduce_refund_flow_c0136_12 = True
+introduce_refund_flow_c0136_13 = True
+introduce_refund_flow_c0136_14 = True
+introduce_refund_flow_c0136_15 = True

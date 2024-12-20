@@ -52,3 +52,22 @@ simplify_request_validation_c0041_19 = True
 simplify_request_validation_c0041_20 = True
 simplify_request_validation_c0041_21 = True
 simplify_request_validation_c0041_22 = True
+
+
+# Introduce refund flow
+introduce_refund_flow_c0136_0 = True
+introduce_refund_flow_c0136_1 = True
+introduce_refund_flow_c0136_2 = True
+introduce_refund_flow_c0136_3 = True
+introduce_refund_flow_c0136_4 = True
+introduce_refund_flow_c0136_5 = True
+introduce_refund_flow_c0136_6 = True
+introduce_refund_flow_c0136_7 = True
+introduce_refund_flow_c0136_8 = True
+introduce_refund_flow_c0136_9 = True
+introduce_refund_flow_c0136_10 = True
+introduce_refund_flow_c0136_11 = True
+introduce_refund_flow_c0136_12 = True
+introduce_refund_flow_c0136_13 = True
+introduce_refund_flow_c0136_14 = True
+introduce_refund_flow_c0136_15 = True
