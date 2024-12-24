@@ -40,3 +40,16 @@ support_delivery_retry_backoff_c0099_5 = True
 fix_webhook_signature_rotation_during_re_c0121_0 = True
 fix_webhook_signature_rotation_during_re_c0121_1 = True
 fix_webhook_signature_rotation_during_re_c0121_2 = True
+
+
+# Simplify subscription management
+simplify_subscription_management_c0144_0 = True
+simplify_subscription_management_c0144_1 = True
+simplify_subscription_management_c0144_2 = True
+simplify_subscription_management_c0144_3 = True
+simplify_subscription_management_c0144_4 = True
+simplify_subscription_management_c0144_5 = True
+simplify_subscription_management_c0144_6 = True
+simplify_subscription_management_c0144_7 = True
+simplify_subscription_management_c0144_8 = True
+simplify_subscription_management_c0144_9 = True
