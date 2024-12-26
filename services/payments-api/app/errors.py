@@ -134,3 +134,18 @@ introduce_refund_flow_c0136_12 = True
 introduce_refund_flow_c0136_13 = True
 introduce_refund_flow_c0136_14 = True
 introduce_refund_flow_c0136_15 = True
+
+
+# Refactor 3DS challenge redirect
+refactor_3ds_challenge_redirect_c0143_0 = True
+refactor_3ds_challenge_redirect_c0143_1 = True
+refactor_3ds_challenge_redirect_c0143_2 = True
+refactor_3ds_challenge_redirect_c0143_3 = True
+refactor_3ds_challenge_redirect_c0143_4 = True
+refactor_3ds_challenge_redirect_c0143_5 = True
+refactor_3ds_challenge_redirect_c0143_6 = True
+refactor_3ds_challenge_redirect_c0143_7 = True
+refactor_3ds_challenge_redirect_c0143_8 = True
+refactor_3ds_challenge_redirect_c0143_9 = True
+refactor_3ds_challenge_redirect_c0143_10 = True
+refactor_3ds_challenge_redirect_c0143_11 = True
