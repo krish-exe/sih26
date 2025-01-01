@@ -115,3 +115,18 @@ introduce_refund_flow_c0136_12 = True
 introduce_refund_flow_c0136_13 = True
 introduce_refund_flow_c0136_14 = True
 introduce_refund_flow_c0136_15 = True
+
+
+# Revert "Cover error budget dashboard"
+revert_"cover_error_budget_dashboard"_c0145_0 = True
+revert_"cover_error_budget_dashboard"_c0145_1 = True
+revert_"cover_error_budget_dashboard"_c0145_2 = True
+revert_"cover_error_budget_dashboard"_c0145_3 = True
+revert_"cover_error_budget_dashboard"_c0145_4 = True
+revert_"cover_error_budget_dashboard"_c0145_5 = True
+revert_"cover_error_budget_dashboard"_c0145_6 = True
+revert_"cover_error_budget_dashboard"_c0145_7 = True
+revert_"cover_error_budget_dashboard"_c0145_8 = True
+revert_"cover_error_budget_dashboard"_c0145_9 = True
+revert_"cover_error_budget_dashboard"_c0145_10 = True
+revert_"cover_error_budget_dashboard"_c0145_11 = True

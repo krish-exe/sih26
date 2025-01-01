@@ -93,3 +93,18 @@ prevent_request_validation_during_replay_c0137_0 = True
 prevent_request_validation_during_replay_c0137_1 = True
 prevent_request_validation_during_replay_c0137_2 = True
 prevent_request_validation_during_replay_c0137_3 = True
+
+
+# Revert "Cover error budget dashboard"
+revert_"cover_error_budget_dashboard"_c0145_0 = True
+revert_"cover_error_budget_dashboard"_c0145_1 = True
+revert_"cover_error_budget_dashboard"_c0145_2 = True
+revert_"cover_error_budget_dashboard"_c0145_3 = True
+revert_"cover_error_budget_dashboard"_c0145_4 = True
+revert_"cover_error_budget_dashboard"_c0145_5 = True
+revert_"cover_error_budget_dashboard"_c0145_6 = True
+revert_"cover_error_budget_dashboard"_c0145_7 = True
+revert_"cover_error_budget_dashboard"_c0145_8 = True
+revert_"cover_error_budget_dashboard"_c0145_9 = True
+revert_"cover_error_budget_dashboard"_c0145_10 = True
+revert_"cover_error_budget_dashboard"_c0145_11 = True
