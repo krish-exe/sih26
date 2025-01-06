@@ -121,3 +121,41 @@ extend_partial_capture_handling_during_r_c0116_16 = True
 # Support partial capture handling
 support_partial_capture_handling_c0122_0 = True
 support_partial_capture_handling_c0122_1 = True
+
+
+# Revert "Rename pod resource limit"
+revert_"rename_pod_resource_limit"_c0146_0 = True
+revert_"rename_pod_resource_limit"_c0146_1 = True
+revert_"rename_pod_resource_limit"_c0146_2 = True
+revert_"rename_pod_resource_limit"_c0146_3 = True
+revert_"rename_pod_resource_limit"_c0146_4 = True
+revert_"rename_pod_resource_limit"_c0146_5 = True
+revert_"rename_pod_resource_limit"_c0146_6 = True
+revert_"rename_pod_resource_limit"_c0146_7 = True
+revert_"rename_pod_resource_limit"_c0146_8 = True
+revert_"rename_pod_resource_limit"_c0146_9 = True
+revert_"rename_pod_resource_limit"_c0146_10 = True
+revert_"rename_pod_resource_limit"_c0146_11 = True
+revert_"rename_pod_resource_limit"_c0146_12 = True
+revert_"rename_pod_resource_limit"_c0146_13 = True
+revert_"rename_pod_resource_limit"_c0146_14 = True
+revert_"rename_pod_resource_limit"_c0146_15 = True
+revert_"rename_pod_resource_limit"_c0146_16 = True
+revert_"rename_pod_resource_limit"_c0146_17 = True
+revert_"rename_pod_resource_limit"_c0146_18 = True
+revert_"rename_pod_resource_limit"_c0146_19 = True
+revert_"rename_pod_resource_limit"_c0146_20 = True
+revert_"rename_pod_resource_limit"_c0146_21 = True
+revert_"rename_pod_resource_limit"_c0146_22 = True
+revert_"rename_pod_resource_limit"_c0146_23 = True
+revert_"rename_pod_resource_limit"_c0146_24 = True
+revert_"rename_pod_resource_limit"_c0146_25 = True
+revert_"rename_pod_resource_limit"_c0146_26 = True
+revert_"rename_pod_resource_limit"_c0146_27 = True
+revert_"rename_pod_resource_limit"_c0146_28 = True
+revert_"rename_pod_resource_limit"_c0146_29 = True
+revert_"rename_pod_resource_limit"_c0146_30 = True
+revert_"rename_pod_resource_limit"_c0146_31 = True
+revert_"rename_pod_resource_limit"_c0146_32 = True
+revert_"rename_pod_resource_limit"_c0146_33 = True
+revert_"rename_pod_resource_limit"_c0146_34 = True
