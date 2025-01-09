@@ -43,3 +43,8 @@ introduce_webhook_signature_rotation_c0113_24 = True
 
 # Fix delivery retry backoff after a partial failure
 fix_delivery_retry_backoff_after_a_parti_c0111_0 = True
+
+
+# Cover dead letter handling
+cover_dead_letter_handling_c0147_0 = True
+cover_dead_letter_handling_c0147_1 = True
