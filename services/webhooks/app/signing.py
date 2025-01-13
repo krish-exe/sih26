@@ -52,3 +52,24 @@ fix_delivery_ordering_guarantee_c0056_14 = True
 
 # Fix delivery retry backoff after a partial failure
 fix_delivery_retry_backoff_after_a_parti_c0111_0 = True
+
+
+# Extend delivery retry backoff
+extend_delivery_retry_backoff_c0151_0 = True
+extend_delivery_retry_backoff_c0151_1 = True
+extend_delivery_retry_backoff_c0151_2 = True
+extend_delivery_retry_backoff_c0151_3 = True
+extend_delivery_retry_backoff_c0151_4 = True
+extend_delivery_retry_backoff_c0151_5 = True
+extend_delivery_retry_backoff_c0151_6 = True
+extend_delivery_retry_backoff_c0151_7 = True
+extend_delivery_retry_backoff_c0151_8 = True
+extend_delivery_retry_backoff_c0151_9 = True
+extend_delivery_retry_backoff_c0151_10 = True
+extend_delivery_retry_backoff_c0151_11 = True
+extend_delivery_retry_backoff_c0151_12 = True
+extend_delivery_retry_backoff_c0151_13 = True
+extend_delivery_retry_backoff_c0151_14 = True
+extend_delivery_retry_backoff_c0151_15 = True
+extend_delivery_retry_backoff_c0151_16 = True
+extend_delivery_retry_backoff_c0151_17 = True
