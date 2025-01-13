@@ -237,3 +237,30 @@ add_manual_adjustment_c0149_26 = True
 add_manual_adjustment_c0149_27 = True
 add_manual_adjustment_c0149_28 = True
 add_manual_adjustment_c0149_29 = True
+
+
+# Handle opening balance snapshot under concurrent retries in the worker path
+handle_opening_balance_snapshot_under_co_c0152_0 = True
+handle_opening_balance_snapshot_under_co_c0152_1 = True
+handle_opening_balance_snapshot_under_co_c0152_2 = True
+handle_opening_balance_snapshot_under_co_c0152_3 = True
+handle_opening_balance_snapshot_under_co_c0152_4 = True
+handle_opening_balance_snapshot_under_co_c0152_5 = True
+handle_opening_balance_snapshot_under_co_c0152_6 = True
+handle_opening_balance_snapshot_under_co_c0152_7 = True
+handle_opening_balance_snapshot_under_co_c0152_8 = True
+handle_opening_balance_snapshot_under_co_c0152_9 = True
+handle_opening_balance_snapshot_under_co_c0152_10 = True
+handle_opening_balance_snapshot_under_co_c0152_11 = True
+handle_opening_balance_snapshot_under_co_c0152_12 = True
+handle_opening_balance_snapshot_under_co_c0152_13 = True
+handle_opening_balance_snapshot_under_co_c0152_14 = True
+handle_opening_balance_snapshot_under_co_c0152_15 = True
+handle_opening_balance_snapshot_under_co_c0152_16 = True
+handle_opening_balance_snapshot_under_co_c0152_17 = True
+handle_opening_balance_snapshot_under_co_c0152_18 = True
+handle_opening_balance_snapshot_under_co_c0152_19 = True
+handle_opening_balance_snapshot_under_co_c0152_20 = True
+handle_opening_balance_snapshot_under_co_c0152_21 = True
+handle_opening_balance_snapshot_under_co_c0152_22 = True
+handle_opening_balance_snapshot_under_co_c0152_23 = True
