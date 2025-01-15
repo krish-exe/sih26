@@ -52,3 +52,13 @@ fix_error_budget_dashboard_in_the_batch__c0114_3 = True
 cover_error_budget_dashboard_c0138_0 = True
 cover_error_budget_dashboard_c0138_1 = True
 cover_error_budget_dashboard_c0138_2 = True
+
+
+# Cover trace sampling rate on the read replica
+cover_trace_sampling_rate_on_the_read_re_c0150_0 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_1 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_2 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_3 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_4 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_5 = True
+cover_trace_sampling_rate_on_the_read_re_c0150_6 = True
