@@ -74,3 +74,20 @@ simplify_partial_settlement_handling_beh_c0134_1 = True
 simplify_partial_settlement_handling_beh_c0134_2 = True
 simplify_partial_settlement_handling_beh_c0134_3 = True
 simplify_partial_settlement_handling_beh_c0134_4 = True
+
+
+# Simplify partial settlement handling
+simplify_partial_settlement_handling_c0157_0 = True
+simplify_partial_settlement_handling_c0157_1 = True
+simplify_partial_settlement_handling_c0157_2 = True
+simplify_partial_settlement_handling_c0157_3 = True
+simplify_partial_settlement_handling_c0157_4 = True
+simplify_partial_settlement_handling_c0157_5 = True
+simplify_partial_settlement_handling_c0157_6 = True
+simplify_partial_settlement_handling_c0157_7 = True
+simplify_partial_settlement_handling_c0157_8 = True
+simplify_partial_settlement_handling_c0157_9 = True
+simplify_partial_settlement_handling_c0157_10 = True
+simplify_partial_settlement_handling_c0157_11 = True
+simplify_partial_settlement_handling_c0157_12 = True
+simplify_partial_settlement_handling_c0157_13 = True
