@@ -146,3 +146,25 @@ cover_trace_sampling_rate_on_the_read_re_c0150_3 = True
 cover_trace_sampling_rate_on_the_read_re_c0150_4 = True
 cover_trace_sampling_rate_on_the_read_re_c0150_5 = True
 cover_trace_sampling_rate_on_the_read_re_c0150_6 = True
+
+
+# Guard against SLO burn rate alert during a deploy freeze
+guard_against_slo_burn_rate_alert_during_c0156_0 = True
+guard_against_slo_burn_rate_alert_during_c0156_1 = True
+guard_against_slo_burn_rate_alert_during_c0156_2 = True
+guard_against_slo_burn_rate_alert_during_c0156_3 = True
+guard_against_slo_burn_rate_alert_during_c0156_4 = True
+guard_against_slo_burn_rate_alert_during_c0156_5 = True
+guard_against_slo_burn_rate_alert_during_c0156_6 = True
+guard_against_slo_burn_rate_alert_during_c0156_7 = True
+guard_against_slo_burn_rate_alert_during_c0156_8 = True
+guard_against_slo_burn_rate_alert_during_c0156_9 = True
+guard_against_slo_burn_rate_alert_during_c0156_10 = True
+guard_against_slo_burn_rate_alert_during_c0156_11 = True
+guard_against_slo_burn_rate_alert_during_c0156_12 = True
+guard_against_slo_burn_rate_alert_during_c0156_13 = True
+guard_against_slo_burn_rate_alert_during_c0156_14 = True
+guard_against_slo_burn_rate_alert_during_c0156_15 = True
+guard_against_slo_burn_rate_alert_during_c0156_16 = True
+guard_against_slo_burn_rate_alert_during_c0156_17 = True
+guard_against_slo_burn_rate_alert_during_c0156_18 = True
