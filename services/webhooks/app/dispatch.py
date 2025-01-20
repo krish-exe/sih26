@@ -51,3 +51,12 @@ simplify_subscription_management_c0144_8 = True
 simplify_subscription_management_c0144_9 = True
 
 # branch work for c0155
+
+
+# Harden tests around subscription management in the worker path
+harden_tests_around_subscription_managem_c0168_0 = True
+harden_tests_around_subscription_managem_c0168_1 = True
+harden_tests_around_subscription_managem_c0168_2 = True
+harden_tests_around_subscription_managem_c0168_3 = True
+harden_tests_around_subscription_managem_c0168_4 = True
+harden_tests_around_subscription_managem_c0168_5 = True
