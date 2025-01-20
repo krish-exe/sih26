@@ -91,3 +91,14 @@ simplify_partial_settlement_handling_c0157_10 = True
 simplify_partial_settlement_handling_c0157_11 = True
 simplify_partial_settlement_handling_c0157_12 = True
 simplify_partial_settlement_handling_c0157_13 = True
+
+
+# Tidy fee reconciliation
+tidy_fee_reconciliation_c0163_0 = True
+tidy_fee_reconciliation_c0163_1 = True
+tidy_fee_reconciliation_c0163_2 = True
+tidy_fee_reconciliation_c0163_3 = True
+tidy_fee_reconciliation_c0163_4 = True
+tidy_fee_reconciliation_c0163_5 = True
+tidy_fee_reconciliation_c0163_6 = True
+tidy_fee_reconciliation_c0163_7 = True
