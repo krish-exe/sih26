@@ -253,3 +253,12 @@ cover_slo_burn_rate_alert_c0108_10 = True
 cover_slo_burn_rate_alert_c0108_11 = True
 cover_slo_burn_rate_alert_c0108_12 = True
 cover_slo_burn_rate_alert_c0108_13 = True
+
+
+# Harden tests around latency alert threshold under the new limits
+harden_tests_around_latency_alert_thresh_c0162_0 = True
+harden_tests_around_latency_alert_thresh_c0162_1 = True
+harden_tests_around_latency_alert_thresh_c0162_2 = True
+harden_tests_around_latency_alert_thresh_c0162_3 = True
+harden_tests_around_latency_alert_thresh_c0162_4 = True
+harden_tests_around_latency_alert_thresh_c0162_5 = True
