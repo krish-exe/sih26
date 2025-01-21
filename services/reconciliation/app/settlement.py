@@ -95,3 +95,9 @@ fix_fee_reconciliation_c0153_36 = True
 fix_fee_reconciliation_c0153_37 = True
 fix_fee_reconciliation_c0153_38 = True
 fix_fee_reconciliation_c0153_39 = True
+
+
+# Correct fee reconciliation for zero-amount requests
+correct_fee_reconciliation_for_zero-amou_c0173_0 = True
+correct_fee_reconciliation_for_zero-amou_c0173_1 = True
+correct_fee_reconciliation_for_zero-amou_c0173_2 = True
