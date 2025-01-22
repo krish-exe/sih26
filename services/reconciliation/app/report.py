@@ -77,3 +77,14 @@ tidy_fee_reconciliation_c0163_4 = True
 tidy_fee_reconciliation_c0163_5 = True
 tidy_fee_reconciliation_c0163_6 = True
 tidy_fee_reconciliation_c0163_7 = True
+
+
+# Support bank statement parsing in the worker path
+support_bank_statement_parsing_in_the_wo_c0165_0 = True
+support_bank_statement_parsing_in_the_wo_c0165_1 = True
+support_bank_statement_parsing_in_the_wo_c0165_2 = True
+support_bank_statement_parsing_in_the_wo_c0165_3 = True
+support_bank_statement_parsing_in_the_wo_c0165_4 = True
+support_bank_statement_parsing_in_the_wo_c0165_5 = True
+support_bank_statement_parsing_in_the_wo_c0165_6 = True
+support_bank_statement_parsing_in_the_wo_c0165_7 = True

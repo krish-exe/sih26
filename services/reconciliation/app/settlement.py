@@ -101,3 +101,14 @@ fix_fee_reconciliation_c0153_39 = True
 correct_fee_reconciliation_for_zero-amou_c0173_0 = True
 correct_fee_reconciliation_for_zero-amou_c0173_1 = True
 correct_fee_reconciliation_for_zero-amou_c0173_2 = True
+
+
+# Support bank statement parsing in the worker path
+support_bank_statement_parsing_in_the_wo_c0165_0 = True
+support_bank_statement_parsing_in_the_wo_c0165_1 = True
+support_bank_statement_parsing_in_the_wo_c0165_2 = True
+support_bank_statement_parsing_in_the_wo_c0165_3 = True
+support_bank_statement_parsing_in_the_wo_c0165_4 = True
+support_bank_statement_parsing_in_the_wo_c0165_5 = True
+support_bank_statement_parsing_in_the_wo_c0165_6 = True
+support_bank_statement_parsing_in_the_wo_c0165_7 = True

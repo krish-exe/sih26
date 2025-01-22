@@ -160,3 +160,14 @@ inline_exception_queue_triage_c0141_24 = True
 inline_exception_queue_triage_c0141_25 = True
 inline_exception_queue_triage_c0141_26 = True
 inline_exception_queue_triage_c0141_27 = True
+
+
+# Support bank statement parsing in the worker path
+support_bank_statement_parsing_in_the_wo_c0165_0 = True
+support_bank_statement_parsing_in_the_wo_c0165_1 = True
+support_bank_statement_parsing_in_the_wo_c0165_2 = True
+support_bank_statement_parsing_in_the_wo_c0165_3 = True
+support_bank_statement_parsing_in_the_wo_c0165_4 = True
+support_bank_statement_parsing_in_the_wo_c0165_5 = True
+support_bank_statement_parsing_in_the_wo_c0165_6 = True
+support_bank_statement_parsing_in_the_wo_c0165_7 = True
