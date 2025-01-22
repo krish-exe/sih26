@@ -264,3 +264,22 @@ handle_opening_balance_snapshot_under_co_c0152_20 = True
 handle_opening_balance_snapshot_under_co_c0152_21 = True
 handle_opening_balance_snapshot_under_co_c0152_22 = True
 handle_opening_balance_snapshot_under_co_c0152_23 = True
+
+
+# Tidy adjustment approval trail
+tidy_adjustment_approval_trail_c0166_0 = True
+tidy_adjustment_approval_trail_c0166_1 = True
+tidy_adjustment_approval_trail_c0166_2 = True
+tidy_adjustment_approval_trail_c0166_3 = True
+tidy_adjustment_approval_trail_c0166_4 = True
+tidy_adjustment_approval_trail_c0166_5 = True
+tidy_adjustment_approval_trail_c0166_6 = True
+tidy_adjustment_approval_trail_c0166_7 = True
+tidy_adjustment_approval_trail_c0166_8 = True
+tidy_adjustment_approval_trail_c0166_9 = True
+tidy_adjustment_approval_trail_c0166_10 = True
+tidy_adjustment_approval_trail_c0166_11 = True
+tidy_adjustment_approval_trail_c0166_12 = True
+tidy_adjustment_approval_trail_c0166_13 = True
+tidy_adjustment_approval_trail_c0166_14 = True
+tidy_adjustment_approval_trail_c0166_15 = True
