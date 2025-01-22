@@ -2,3 +2,70 @@
 
 from __future__ import annotations
 
+
+
+# Extend half-even rounding fix on the read replica
+extend_half-even_rounding_fix_on_the_rea_c0159_0 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_1 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_2 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_3 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_4 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_5 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_6 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_7 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_8 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_9 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_10 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_11 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_12 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_13 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_14 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_15 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_16 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_17 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_18 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_19 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_20 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_21 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_22 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_23 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_24 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_25 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_26 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_27 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_28 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_29 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_30 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_31 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_32 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_33 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_34 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_35 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_36 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_37 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_38 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_39 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_40 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_41 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_42 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_43 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_44 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_45 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_46 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_47 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_48 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_49 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_50 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_51 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_52 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_53 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_54 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_55 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_56 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_57 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_58 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_59 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_60 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_61 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_62 = True
+extend_half-even_rounding_fix_on_the_rea_c0159_63 = True
