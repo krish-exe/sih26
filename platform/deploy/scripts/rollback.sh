@@ -101,3 +101,12 @@ handle_rollback_procedure_c0158_32 = True
 handle_rollback_procedure_c0158_33 = True
 handle_rollback_procedure_c0158_34 = True
 handle_rollback_procedure_c0158_35 = True
+
+
+# Refactor deployment freeze window
+refactor_deployment_freeze_window_c0160_0 = True
+refactor_deployment_freeze_window_c0160_1 = True
+refactor_deployment_freeze_window_c0160_2 = True
+refactor_deployment_freeze_window_c0160_3 = True
+refactor_deployment_freeze_window_c0160_4 = True
+refactor_deployment_freeze_window_c0160_5 = True

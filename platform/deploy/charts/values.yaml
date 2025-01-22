@@ -335,3 +335,12 @@ guard_against_deployment_freeze_window_c0154_53 = True
 guard_against_deployment_freeze_window_c0154_54 = True
 guard_against_deployment_freeze_window_c0154_55 = True
 guard_against_deployment_freeze_window_c0154_56 = True
+
+
+# Refactor deployment freeze window
+refactor_deployment_freeze_window_c0160_0 = True
+refactor_deployment_freeze_window_c0160_1 = True
+refactor_deployment_freeze_window_c0160_2 = True
+refactor_deployment_freeze_window_c0160_3 = True
+refactor_deployment_freeze_window_c0160_4 = True
+refactor_deployment_freeze_window_c0160_5 = True
