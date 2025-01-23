@@ -88,3 +88,7 @@ support_bank_statement_parsing_in_the_wo_c0165_4 = True
 support_bank_statement_parsing_in_the_wo_c0165_5 = True
 support_bank_statement_parsing_in_the_wo_c0165_6 = True
 support_bank_statement_parsing_in_the_wo_c0165_7 = True
+
+
+# Fix acquirer file import during a deploy freeze
+fix_acquirer_file_import_during_a_deploy_c0171_0 = True

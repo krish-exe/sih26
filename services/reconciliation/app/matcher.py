@@ -156,3 +156,7 @@ introduce_acquirer_file_import_c0117_14 = True
 introduce_acquirer_file_import_c0117_15 = True
 
 # branch work for c0133
+
+
+# Fix acquirer file import during a deploy freeze
+fix_acquirer_file_import_during_a_deploy_c0171_0 = True
