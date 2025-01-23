@@ -454,3 +454,9 @@ guard_against_expand-contract_migration__c0128_10 = True
 guard_against_expand-contract_migration__c0128_11 = True
 guard_against_expand-contract_migration__c0128_12 = True
 guard_against_expand-contract_migration__c0128_13 = True
+
+
+# Inline migration dry-run check
+inline_migration_dry-run_check_c0164_0 = True
+inline_migration_dry-run_check_c0164_1 = True
+inline_migration_dry-run_check_c0164_2 = True
