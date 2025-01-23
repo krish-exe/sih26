@@ -236,3 +236,24 @@ add_manual_adjustment_c0149_26 = True
 add_manual_adjustment_c0149_27 = True
 add_manual_adjustment_c0149_28 = True
 add_manual_adjustment_c0149_29 = True
+
+
+# Correct opening balance snapshot during replay
+correct_opening_balance_snapshot_during__c0161_0 = True
+correct_opening_balance_snapshot_during__c0161_1 = True
+correct_opening_balance_snapshot_during__c0161_2 = True
+correct_opening_balance_snapshot_during__c0161_3 = True
+correct_opening_balance_snapshot_during__c0161_4 = True
+correct_opening_balance_snapshot_during__c0161_5 = True
+correct_opening_balance_snapshot_during__c0161_6 = True
+correct_opening_balance_snapshot_during__c0161_7 = True
+correct_opening_balance_snapshot_during__c0161_8 = True
+correct_opening_balance_snapshot_during__c0161_9 = True
+correct_opening_balance_snapshot_during__c0161_10 = True
+correct_opening_balance_snapshot_during__c0161_11 = True
+correct_opening_balance_snapshot_during__c0161_12 = True
+correct_opening_balance_snapshot_during__c0161_13 = True
+correct_opening_balance_snapshot_during__c0161_14 = True
+correct_opening_balance_snapshot_during__c0161_15 = True
+correct_opening_balance_snapshot_during__c0161_16 = True
+correct_opening_balance_snapshot_during__c0161_17 = True
