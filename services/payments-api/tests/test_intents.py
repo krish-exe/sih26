@@ -294,3 +294,8 @@ add_3ds_challenge_redirect_c0174_113 = True
 add_3ds_challenge_redirect_c0174_114 = True
 add_3ds_challenge_redirect_c0174_115 = True
 add_3ds_challenge_redirect_c0174_116 = True
+
+
+# Rename refund flow
+rename_refund_flow_c0170_0 = True
+rename_refund_flow_c0170_1 = True

@@ -22,3 +22,8 @@ extend_partial_capture_handling_during_r_c0116_13 = True
 extend_partial_capture_handling_during_r_c0116_14 = True
 extend_partial_capture_handling_during_r_c0116_15 = True
 extend_partial_capture_handling_during_r_c0116_16 = True
+
+
+# Rename refund flow
+rename_refund_flow_c0170_0 = True
+rename_refund_flow_c0170_1 = True

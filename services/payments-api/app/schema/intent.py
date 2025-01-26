@@ -71,3 +71,8 @@ introduce_refund_flow_c0136_12 = True
 introduce_refund_flow_c0136_13 = True
 introduce_refund_flow_c0136_14 = True
 introduce_refund_flow_c0136_15 = True
+
+
+# Rename refund flow
+rename_refund_flow_c0170_0 = True
+rename_refund_flow_c0170_1 = True
