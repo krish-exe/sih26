@@ -76,3 +76,20 @@ introduce_refund_flow_c0136_15 = True
 # Rename refund flow
 rename_refund_flow_c0170_0 = True
 rename_refund_flow_c0170_1 = True
+
+
+# Support error envelope during replay
+support_error_envelope_during_replay_c0176_0 = True
+support_error_envelope_during_replay_c0176_1 = True
+support_error_envelope_during_replay_c0176_2 = True
+support_error_envelope_during_replay_c0176_3 = True
+support_error_envelope_during_replay_c0176_4 = True
+support_error_envelope_during_replay_c0176_5 = True
+support_error_envelope_during_replay_c0176_6 = True
+support_error_envelope_during_replay_c0176_7 = True
+support_error_envelope_during_replay_c0176_8 = True
+support_error_envelope_during_replay_c0176_9 = True
+support_error_envelope_during_replay_c0176_10 = True
+support_error_envelope_during_replay_c0176_11 = True
+support_error_envelope_during_replay_c0176_12 = True
+support_error_envelope_during_replay_c0176_13 = True
