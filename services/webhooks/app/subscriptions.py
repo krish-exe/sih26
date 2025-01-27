@@ -69,3 +69,8 @@ extend_delivery_retry_backoff_c0151_14 = True
 extend_delivery_retry_backoff_c0151_15 = True
 extend_delivery_retry_backoff_c0151_16 = True
 extend_delivery_retry_backoff_c0151_17 = True
+
+
+# Revert "Revert "Cover error budget dashboard""
+revert_"revert_"cover_error_budget_dashb_c0178_0 = True
+revert_"revert_"cover_error_budget_dashb_c0178_1 = True

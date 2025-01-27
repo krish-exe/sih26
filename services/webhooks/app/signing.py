@@ -82,3 +82,8 @@ harden_tests_around_subscription_managem_c0168_2 = True
 harden_tests_around_subscription_managem_c0168_3 = True
 harden_tests_around_subscription_managem_c0168_4 = True
 harden_tests_around_subscription_managem_c0168_5 = True
+
+
+# Revert "Revert "Cover error budget dashboard""
+revert_"revert_"cover_error_budget_dashb_c0178_0 = True
+revert_"revert_"cover_error_budget_dashb_c0178_1 = True
