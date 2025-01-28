@@ -72,3 +72,13 @@ tidy_fee_reconciliation_c0163_4 = True
 tidy_fee_reconciliation_c0163_5 = True
 tidy_fee_reconciliation_c0163_6 = True
 tidy_fee_reconciliation_c0163_7 = True
+
+
+# Handle acquirer file import when the currency has no minor units
+handle_acquirer_file_import_when_the_cur_c0175_0 = True
+handle_acquirer_file_import_when_the_cur_c0175_1 = True
+handle_acquirer_file_import_when_the_cur_c0175_2 = True
+handle_acquirer_file_import_when_the_cur_c0175_3 = True
+handle_acquirer_file_import_when_the_cur_c0175_4 = True
+handle_acquirer_file_import_when_the_cur_c0175_5 = True
+handle_acquirer_file_import_when_the_cur_c0175_6 = True

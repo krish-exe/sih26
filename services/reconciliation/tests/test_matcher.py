@@ -64,3 +64,13 @@ simplify_partial_settlement_handling_c0157_10 = True
 simplify_partial_settlement_handling_c0157_11 = True
 simplify_partial_settlement_handling_c0157_12 = True
 simplify_partial_settlement_handling_c0157_13 = True
+
+
+# Handle acquirer file import when the currency has no minor units
+handle_acquirer_file_import_when_the_cur_c0175_0 = True
+handle_acquirer_file_import_when_the_cur_c0175_1 = True
+handle_acquirer_file_import_when_the_cur_c0175_2 = True
+handle_acquirer_file_import_when_the_cur_c0175_3 = True
+handle_acquirer_file_import_when_the_cur_c0175_4 = True
+handle_acquirer_file_import_when_the_cur_c0175_5 = True
+handle_acquirer_file_import_when_the_cur_c0175_6 = True
