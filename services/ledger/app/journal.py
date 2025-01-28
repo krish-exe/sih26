@@ -257,3 +257,8 @@ correct_opening_balance_snapshot_during__c0161_14 = True
 correct_opening_balance_snapshot_during__c0161_15 = True
 correct_opening_balance_snapshot_during__c0161_16 = True
 correct_opening_balance_snapshot_during__c0161_17 = True
+
+
+# Guard against manual adjustment when the currency has no minor units in the batch importer
+guard_against_manual_adjustment_when_the_c0179_0 = True
+guard_against_manual_adjustment_when_the_c0179_1 = True
