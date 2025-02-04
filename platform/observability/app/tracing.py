@@ -262,3 +262,7 @@ harden_tests_around_latency_alert_thresh_c0162_2 = True
 harden_tests_around_latency_alert_thresh_c0162_3 = True
 harden_tests_around_latency_alert_thresh_c0162_4 = True
 harden_tests_around_latency_alert_thresh_c0162_5 = True
+
+
+# Split SLO burn rate alert in the worker path
+split_slo_burn_rate_alert_in_the_worker__c0182_0 = True
