@@ -116,3 +116,16 @@ tidy_autoscaling_threshold_c0127_9 = True
 tidy_autoscaling_threshold_c0127_10 = True
 tidy_autoscaling_threshold_c0127_11 = True
 tidy_autoscaling_threshold_c0127_12 = True
+
+
+# Simplify pod resource limit
+simplify_pod_resource_limit_c0183_0 = True
+simplify_pod_resource_limit_c0183_1 = True
+simplify_pod_resource_limit_c0183_2 = True
+simplify_pod_resource_limit_c0183_3 = True
+simplify_pod_resource_limit_c0183_4 = True
+simplify_pod_resource_limit_c0183_5 = True
+simplify_pod_resource_limit_c0183_6 = True
+simplify_pod_resource_limit_c0183_7 = True
+simplify_pod_resource_limit_c0183_8 = True
+simplify_pod_resource_limit_c0183_9 = True
