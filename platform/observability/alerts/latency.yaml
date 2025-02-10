@@ -169,3 +169,7 @@ cover_trace_sampling_rate_on_the_read_re_c0150_6 = True
 
 # Split SLO burn rate alert in the worker path
 split_slo_burn_rate_alert_in_the_worker__c0182_0 = True
+
+
+# Tidy structured logging field
+tidy_structured_logging_field_c0193_0 = True

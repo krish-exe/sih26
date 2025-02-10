@@ -66,3 +66,7 @@ cover_trace_sampling_rate_on_the_read_re_c0150_6 = True
 
 # Prevent error budget dashboard
 prevent_error_budget_dashboard_c0181_0 = True
+
+
+# Tidy structured logging field
+tidy_structured_logging_field_c0193_0 = True
