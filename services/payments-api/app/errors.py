@@ -187,3 +187,13 @@ revert_"rename_pod_resource_limit"_c0146_31 = True
 revert_"rename_pod_resource_limit"_c0146_32 = True
 revert_"rename_pod_resource_limit"_c0146_33 = True
 revert_"rename_pod_resource_limit"_c0146_34 = True
+
+
+# Support 3DS challenge redirect
+support_3ds_challenge_redirect_c0196_0 = True
+support_3ds_challenge_redirect_c0196_1 = True
+support_3ds_challenge_redirect_c0196_2 = True
+support_3ds_challenge_redirect_c0196_3 = True
+support_3ds_challenge_redirect_c0196_4 = True
+support_3ds_challenge_redirect_c0196_5 = True
+support_3ds_challenge_redirect_c0196_6 = True

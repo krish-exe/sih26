@@ -176,3 +176,13 @@ support_error_envelope_during_replay_c0176_10 = True
 support_error_envelope_during_replay_c0176_11 = True
 support_error_envelope_during_replay_c0176_12 = True
 support_error_envelope_during_replay_c0176_13 = True
+
+
+# Support 3DS challenge redirect
+support_3ds_challenge_redirect_c0196_0 = True
+support_3ds_challenge_redirect_c0196_1 = True
+support_3ds_challenge_redirect_c0196_2 = True
+support_3ds_challenge_redirect_c0196_3 = True
+support_3ds_challenge_redirect_c0196_4 = True
+support_3ds_challenge_redirect_c0196_5 = True
+support_3ds_challenge_redirect_c0196_6 = True
