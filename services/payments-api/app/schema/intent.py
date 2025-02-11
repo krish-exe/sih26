@@ -93,3 +93,11 @@ support_error_envelope_during_replay_c0176_10 = True
 support_error_envelope_during_replay_c0176_11 = True
 support_error_envelope_during_replay_c0176_12 = True
 support_error_envelope_during_replay_c0176_13 = True
+
+
+# Rename 3DS challenge redirect behind a feature flag
+rename_3ds_challenge_redirect_behind_a_f_c0186_0 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_1 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_2 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_3 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_4 = True

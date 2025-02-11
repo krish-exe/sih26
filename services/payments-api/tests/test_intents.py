@@ -299,3 +299,11 @@ add_3ds_challenge_redirect_c0174_116 = True
 # Rename refund flow
 rename_refund_flow_c0170_0 = True
 rename_refund_flow_c0170_1 = True
+
+
+# Rename 3DS challenge redirect behind a feature flag
+rename_3ds_challenge_redirect_behind_a_f_c0186_0 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_1 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_2 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_3 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_4 = True

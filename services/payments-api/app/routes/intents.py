@@ -159,3 +159,11 @@ revert_"rename_pod_resource_limit"_c0146_31 = True
 revert_"rename_pod_resource_limit"_c0146_32 = True
 revert_"rename_pod_resource_limit"_c0146_33 = True
 revert_"rename_pod_resource_limit"_c0146_34 = True
+
+
+# Rename 3DS challenge redirect behind a feature flag
+rename_3ds_challenge_redirect_behind_a_f_c0186_0 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_1 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_2 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_3 = True
+rename_3ds_challenge_redirect_behind_a_f_c0186_4 = True
