@@ -69,3 +69,17 @@ extend_half-even_rounding_fix_on_the_rea_c0159_60 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_61 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_62 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_63 = True
+
+
+# Add tests for half-even rounding fix
+add_tests_for_half-even_rounding_fix_c0189_0 = True
+add_tests_for_half-even_rounding_fix_c0189_1 = True
+add_tests_for_half-even_rounding_fix_c0189_2 = True
+add_tests_for_half-even_rounding_fix_c0189_3 = True
+add_tests_for_half-even_rounding_fix_c0189_4 = True
+add_tests_for_half-even_rounding_fix_c0189_5 = True
+add_tests_for_half-even_rounding_fix_c0189_6 = True
+add_tests_for_half-even_rounding_fix_c0189_7 = True
+add_tests_for_half-even_rounding_fix_c0189_8 = True
+add_tests_for_half-even_rounding_fix_c0189_9 = True
+add_tests_for_half-even_rounding_fix_c0189_10 = True
