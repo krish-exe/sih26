@@ -91,3 +91,24 @@ support_merchant_impersonation_guard_c0142_15 = True
 support_merchant_impersonation_guard_c0142_16 = True
 support_merchant_impersonation_guard_c0142_17 = True
 support_merchant_impersonation_guard_c0142_18 = True
+
+
+# Extend API key rotation under the new limits
+extend_api_key_rotation_under_the_new_li_c0194_0 = True
+extend_api_key_rotation_under_the_new_li_c0194_1 = True
+extend_api_key_rotation_under_the_new_li_c0194_2 = True
+extend_api_key_rotation_under_the_new_li_c0194_3 = True
+extend_api_key_rotation_under_the_new_li_c0194_4 = True
+extend_api_key_rotation_under_the_new_li_c0194_5 = True
+extend_api_key_rotation_under_the_new_li_c0194_6 = True
+extend_api_key_rotation_under_the_new_li_c0194_7 = True
+extend_api_key_rotation_under_the_new_li_c0194_8 = True
+extend_api_key_rotation_under_the_new_li_c0194_9 = True
+extend_api_key_rotation_under_the_new_li_c0194_10 = True
+extend_api_key_rotation_under_the_new_li_c0194_11 = True
+extend_api_key_rotation_under_the_new_li_c0194_12 = True
+extend_api_key_rotation_under_the_new_li_c0194_13 = True
+extend_api_key_rotation_under_the_new_li_c0194_14 = True
+extend_api_key_rotation_under_the_new_li_c0194_15 = True
+extend_api_key_rotation_under_the_new_li_c0194_16 = True
+extend_api_key_rotation_under_the_new_li_c0194_17 = True
