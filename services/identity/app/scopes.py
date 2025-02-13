@@ -58,3 +58,12 @@ add_merchant_impersonation_guard_c0059_26 = True
 add_merchant_impersonation_guard_c0059_27 = True
 add_merchant_impersonation_guard_c0059_28 = True
 add_merchant_impersonation_guard_c0059_29 = True
+
+
+# Fix merchant impersonation guard under concurrent retries
+fix_merchant_impersonation_guard_under_c_c0192_0 = True
+fix_merchant_impersonation_guard_under_c_c0192_1 = True
+fix_merchant_impersonation_guard_under_c_c0192_2 = True
+fix_merchant_impersonation_guard_under_c_c0192_3 = True
+fix_merchant_impersonation_guard_under_c_c0192_4 = True
+fix_merchant_impersonation_guard_under_c_c0192_5 = True

@@ -155,3 +155,12 @@ support_merchant_impersonation_guard_c0142_15 = True
 support_merchant_impersonation_guard_c0142_16 = True
 support_merchant_impersonation_guard_c0142_17 = True
 support_merchant_impersonation_guard_c0142_18 = True
+
+
+# Fix merchant impersonation guard under concurrent retries
+fix_merchant_impersonation_guard_under_c_c0192_0 = True
+fix_merchant_impersonation_guard_under_c_c0192_1 = True
+fix_merchant_impersonation_guard_under_c_c0192_2 = True
+fix_merchant_impersonation_guard_under_c_c0192_3 = True
+fix_merchant_impersonation_guard_under_c_c0192_4 = True
+fix_merchant_impersonation_guard_under_c_c0192_5 = True

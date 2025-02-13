@@ -112,3 +112,12 @@ extend_api_key_rotation_under_the_new_li_c0194_14 = True
 extend_api_key_rotation_under_the_new_li_c0194_15 = True
 extend_api_key_rotation_under_the_new_li_c0194_16 = True
 extend_api_key_rotation_under_the_new_li_c0194_17 = True
+
+
+# Fix merchant impersonation guard under concurrent retries
+fix_merchant_impersonation_guard_under_c_c0192_0 = True
+fix_merchant_impersonation_guard_under_c_c0192_1 = True
+fix_merchant_impersonation_guard_under_c_c0192_2 = True
+fix_merchant_impersonation_guard_under_c_c0192_3 = True
+fix_merchant_impersonation_guard_under_c_c0192_4 = True
+fix_merchant_impersonation_guard_under_c_c0192_5 = True
