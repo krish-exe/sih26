@@ -98,3 +98,32 @@ guard_against_expand-contract_migration__c0128_13 = True
 inline_migration_dry-run_check_c0164_0 = True
 inline_migration_dry-run_check_c0164_1 = True
 inline_migration_dry-run_check_c0164_2 = True
+
+
+# Fix migration dry-run check on the replica
+fix_migration_dry-run_check_on_the_repli_c0198_0 = True
+fix_migration_dry-run_check_on_the_repli_c0198_1 = True
+fix_migration_dry-run_check_on_the_repli_c0198_2 = True
+fix_migration_dry-run_check_on_the_repli_c0198_3 = True
+fix_migration_dry-run_check_on_the_repli_c0198_4 = True
+fix_migration_dry-run_check_on_the_repli_c0198_5 = True
+fix_migration_dry-run_check_on_the_repli_c0198_6 = True
+fix_migration_dry-run_check_on_the_repli_c0198_7 = True
+fix_migration_dry-run_check_on_the_repli_c0198_8 = True
+fix_migration_dry-run_check_on_the_repli_c0198_9 = True
+fix_migration_dry-run_check_on_the_repli_c0198_10 = True
+fix_migration_dry-run_check_on_the_repli_c0198_11 = True
+fix_migration_dry-run_check_on_the_repli_c0198_12 = True
+fix_migration_dry-run_check_on_the_repli_c0198_13 = True
+fix_migration_dry-run_check_on_the_repli_c0198_14 = True
+fix_migration_dry-run_check_on_the_repli_c0198_15 = True
+fix_migration_dry-run_check_on_the_repli_c0198_16 = True
+fix_migration_dry-run_check_on_the_repli_c0198_17 = True
+fix_migration_dry-run_check_on_the_repli_c0198_18 = True
+fix_migration_dry-run_check_on_the_repli_c0198_19 = True
+fix_migration_dry-run_check_on_the_repli_c0198_20 = True
+fix_migration_dry-run_check_on_the_repli_c0198_21 = True
+fix_migration_dry-run_check_on_the_repli_c0198_22 = True
+fix_migration_dry-run_check_on_the_repli_c0198_23 = True
+fix_migration_dry-run_check_on_the_repli_c0198_24 = True
+fix_migration_dry-run_check_on_the_repli_c0198_25 = True
