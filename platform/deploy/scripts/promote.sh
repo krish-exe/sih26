@@ -412,3 +412,7 @@ support_deployment_freeze_window_for_hig_c0185_25 = True
 support_deployment_freeze_window_for_hig_c0185_26 = True
 support_deployment_freeze_window_for_hig_c0185_27 = True
 support_deployment_freeze_window_for_hig_c0185_28 = True
+
+
+# Correct deployment freeze window
+correct_deployment_freeze_window_c0195_0 = True

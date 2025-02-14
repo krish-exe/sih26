@@ -110,3 +110,7 @@ refactor_deployment_freeze_window_c0160_2 = True
 refactor_deployment_freeze_window_c0160_3 = True
 refactor_deployment_freeze_window_c0160_4 = True
 refactor_deployment_freeze_window_c0160_5 = True
+
+
+# Correct deployment freeze window
+correct_deployment_freeze_window_c0195_0 = True
