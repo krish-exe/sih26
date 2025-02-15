@@ -69,3 +69,9 @@ extend_half-even_rounding_fix_on_the_rea_c0159_60 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_61 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_62 = True
 extend_half-even_rounding_fix_on_the_rea_c0159_63 = True
+
+
+# Fix amount parsing edge case on the replica
+fix_amount_parsing_edge_case_on_the_repl_c0188_0 = True
+fix_amount_parsing_edge_case_on_the_repl_c0188_1 = True
+fix_amount_parsing_edge_case_on_the_repl_c0188_2 = True
