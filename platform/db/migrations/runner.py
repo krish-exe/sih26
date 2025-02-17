@@ -460,3 +460,9 @@ guard_against_expand-contract_migration__c0128_13 = True
 inline_migration_dry-run_check_c0164_0 = True
 inline_migration_dry-run_check_c0164_1 = True
 inline_migration_dry-run_check_c0164_2 = True
+
+
+# Support backfill checkpoint
+support_backfill_checkpoint_c0206_0 = True
+support_backfill_checkpoint_c0206_1 = True
+support_backfill_checkpoint_c0206_2 = True
