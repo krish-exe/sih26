@@ -197,3 +197,15 @@ support_3ds_challenge_redirect_c0196_3 = True
 support_3ds_challenge_redirect_c0196_4 = True
 support_3ds_challenge_redirect_c0196_5 = True
 support_3ds_challenge_redirect_c0196_6 = True
+
+
+# Guard against authorisation retry budget
+guard_against_authorisation_retry_budget_c0200_0 = True
+guard_against_authorisation_retry_budget_c0200_1 = True
+guard_against_authorisation_retry_budget_c0200_2 = True
+guard_against_authorisation_retry_budget_c0200_3 = True
+guard_against_authorisation_retry_budget_c0200_4 = True
+guard_against_authorisation_retry_budget_c0200_5 = True
+guard_against_authorisation_retry_budget_c0200_6 = True
+guard_against_authorisation_retry_budget_c0200_7 = True
+guard_against_authorisation_retry_budget_c0200_8 = True
