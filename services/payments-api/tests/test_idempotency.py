@@ -250,3 +250,21 @@ add_3ds_challenge_redirect_c0174_113 = True
 add_3ds_challenge_redirect_c0174_114 = True
 add_3ds_challenge_redirect_c0174_115 = True
 add_3ds_challenge_redirect_c0174_116 = True
+
+
+# Add tests for 3DS challenge redirect
+add_tests_for_3ds_challenge_redirect_c0204_0 = True
+add_tests_for_3ds_challenge_redirect_c0204_1 = True
+add_tests_for_3ds_challenge_redirect_c0204_2 = True
+add_tests_for_3ds_challenge_redirect_c0204_3 = True
+add_tests_for_3ds_challenge_redirect_c0204_4 = True
+add_tests_for_3ds_challenge_redirect_c0204_5 = True
+add_tests_for_3ds_challenge_redirect_c0204_6 = True
+add_tests_for_3ds_challenge_redirect_c0204_7 = True
+add_tests_for_3ds_challenge_redirect_c0204_8 = True
+add_tests_for_3ds_challenge_redirect_c0204_9 = True
+add_tests_for_3ds_challenge_redirect_c0204_10 = True
+add_tests_for_3ds_challenge_redirect_c0204_11 = True
+add_tests_for_3ds_challenge_redirect_c0204_12 = True
+add_tests_for_3ds_challenge_redirect_c0204_13 = True
+add_tests_for_3ds_challenge_redirect_c0204_14 = True
