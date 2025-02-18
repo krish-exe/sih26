@@ -176,3 +176,17 @@ split_request_validation_c0203_2 = True
 split_request_validation_c0203_3 = True
 split_request_validation_c0203_4 = True
 split_request_validation_c0203_5 = True
+
+
+# Prevent currency rounding on capture for the sandbox environment
+prevent_currency_rounding_on_capture_for_c0202_0 = True
+prevent_currency_rounding_on_capture_for_c0202_1 = True
+prevent_currency_rounding_on_capture_for_c0202_2 = True
+prevent_currency_rounding_on_capture_for_c0202_3 = True
+prevent_currency_rounding_on_capture_for_c0202_4 = True
+prevent_currency_rounding_on_capture_for_c0202_5 = True
+prevent_currency_rounding_on_capture_for_c0202_6 = True
+prevent_currency_rounding_on_capture_for_c0202_7 = True
+prevent_currency_rounding_on_capture_for_c0202_8 = True
+prevent_currency_rounding_on_capture_for_c0202_9 = True
+prevent_currency_rounding_on_capture_for_c0202_10 = True
