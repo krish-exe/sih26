@@ -44,3 +44,12 @@ support_error_envelope_during_replay_c0176_10 = True
 support_error_envelope_during_replay_c0176_11 = True
 support_error_envelope_during_replay_c0176_12 = True
 support_error_envelope_during_replay_c0176_13 = True
+
+
+# Split request validation
+split_request_validation_c0203_0 = True
+split_request_validation_c0203_1 = True
+split_request_validation_c0203_2 = True
+split_request_validation_c0203_3 = True
+split_request_validation_c0203_4 = True
+split_request_validation_c0203_5 = True

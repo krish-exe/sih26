@@ -97,3 +97,12 @@ support_3ds_challenge_redirect_c0196_3 = True
 support_3ds_challenge_redirect_c0196_4 = True
 support_3ds_challenge_redirect_c0196_5 = True
 support_3ds_challenge_redirect_c0196_6 = True
+
+
+# Split request validation
+split_request_validation_c0203_0 = True
+split_request_validation_c0203_1 = True
+split_request_validation_c0203_2 = True
+split_request_validation_c0203_3 = True
+split_request_validation_c0203_4 = True
+split_request_validation_c0203_5 = True
