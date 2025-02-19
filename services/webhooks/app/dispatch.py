@@ -67,3 +67,8 @@ revert_"revert_"cover_error_budget_dashb_c0178_0 = True
 revert_"revert_"cover_error_budget_dashb_c0178_1 = True
 
 # branch work for c0191
+
+
+# Prevent delivery retry backoff when the upstream times out
+prevent_delivery_retry_backoff_when_the__c0205_0 = True
+prevent_delivery_retry_backoff_when_the__c0205_1 = True
