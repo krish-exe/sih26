@@ -169,3 +169,14 @@ introduce_adjustment_approval_trail_for__c0187_30 = True
 introduce_adjustment_approval_trail_for__c0187_31 = True
 introduce_adjustment_approval_trail_for__c0187_32 = True
 introduce_adjustment_approval_trail_for__c0187_33 = True
+
+
+# Correct currency conversion at posting time
+correct_currency_conversion_at_posting_t_c0208_0 = True
+correct_currency_conversion_at_posting_t_c0208_1 = True
+correct_currency_conversion_at_posting_t_c0208_2 = True
+correct_currency_conversion_at_posting_t_c0208_3 = True
+correct_currency_conversion_at_posting_t_c0208_4 = True
+correct_currency_conversion_at_posting_t_c0208_5 = True
+correct_currency_conversion_at_posting_t_c0208_6 = True
+correct_currency_conversion_at_posting_t_c0208_7 = True
