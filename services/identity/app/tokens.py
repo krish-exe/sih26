@@ -74,3 +74,25 @@ rename_scope_enforcement_for_high-volume_c0110_4 = True
 rename_scope_enforcement_for_high-volume_c0110_5 = True
 rename_scope_enforcement_for_high-volume_c0110_6 = True
 rename_scope_enforcement_for_high-volume_c0110_7 = True
+
+
+# Inline scope enforcement in the worker path
+inline_scope_enforcement_in_the_worker_p_c0207_0 = True
+inline_scope_enforcement_in_the_worker_p_c0207_1 = True
+inline_scope_enforcement_in_the_worker_p_c0207_2 = True
+inline_scope_enforcement_in_the_worker_p_c0207_3 = True
+inline_scope_enforcement_in_the_worker_p_c0207_4 = True
+inline_scope_enforcement_in_the_worker_p_c0207_5 = True
+inline_scope_enforcement_in_the_worker_p_c0207_6 = True
+inline_scope_enforcement_in_the_worker_p_c0207_7 = True
+inline_scope_enforcement_in_the_worker_p_c0207_8 = True
+inline_scope_enforcement_in_the_worker_p_c0207_9 = True
+inline_scope_enforcement_in_the_worker_p_c0207_10 = True
+inline_scope_enforcement_in_the_worker_p_c0207_11 = True
+inline_scope_enforcement_in_the_worker_p_c0207_12 = True
+inline_scope_enforcement_in_the_worker_p_c0207_13 = True
+inline_scope_enforcement_in_the_worker_p_c0207_14 = True
+inline_scope_enforcement_in_the_worker_p_c0207_15 = True
+inline_scope_enforcement_in_the_worker_p_c0207_16 = True
+inline_scope_enforcement_in_the_worker_p_c0207_17 = True
+inline_scope_enforcement_in_the_worker_p_c0207_18 = True
