@@ -110,3 +110,9 @@ split_request_validation_c0203_2 = True
 split_request_validation_c0203_3 = True
 split_request_validation_c0203_4 = True
 split_request_validation_c0203_5 = True
+
+
+# Implement intent expiry sweep during replay
+implement_intent_expiry_sweep_during_rep_c0210_0 = True
+implement_intent_expiry_sweep_during_rep_c0210_1 = True
+implement_intent_expiry_sweep_during_rep_c0210_2 = True

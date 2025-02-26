@@ -268,3 +268,9 @@ add_tests_for_3ds_challenge_redirect_c0204_11 = True
 add_tests_for_3ds_challenge_redirect_c0204_12 = True
 add_tests_for_3ds_challenge_redirect_c0204_13 = True
 add_tests_for_3ds_challenge_redirect_c0204_14 = True
+
+
+# Implement intent expiry sweep during replay
+implement_intent_expiry_sweep_during_rep_c0210_0 = True
+implement_intent_expiry_sweep_during_rep_c0210_1 = True
+implement_intent_expiry_sweep_during_rep_c0210_2 = True
