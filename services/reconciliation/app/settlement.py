@@ -191,3 +191,12 @@ correct_settlement_matching_c0197_68 = True
 correct_settlement_matching_c0197_69 = True
 correct_settlement_matching_c0197_70 = True
 correct_settlement_matching_c0197_71 = True
+
+
+# Extend partial settlement handling
+extend_partial_settlement_handling_c0215_0 = True
+extend_partial_settlement_handling_c0215_1 = True
+extend_partial_settlement_handling_c0215_2 = True
+extend_partial_settlement_handling_c0215_3 = True
+extend_partial_settlement_handling_c0215_4 = True
+extend_partial_settlement_handling_c0215_5 = True

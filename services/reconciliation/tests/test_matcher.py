@@ -74,3 +74,12 @@ handle_acquirer_file_import_when_the_cur_c0175_3 = True
 handle_acquirer_file_import_when_the_cur_c0175_4 = True
 handle_acquirer_file_import_when_the_cur_c0175_5 = True
 handle_acquirer_file_import_when_the_cur_c0175_6 = True
+
+
+# Extend partial settlement handling
+extend_partial_settlement_handling_c0215_0 = True
+extend_partial_settlement_handling_c0215_1 = True
+extend_partial_settlement_handling_c0215_2 = True
+extend_partial_settlement_handling_c0215_3 = True
+extend_partial_settlement_handling_c0215_4 = True
+extend_partial_settlement_handling_c0215_5 = True

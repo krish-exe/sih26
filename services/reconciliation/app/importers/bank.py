@@ -175,3 +175,12 @@ support_bank_statement_parsing_in_the_wo_c0165_7 = True
 
 # Fix acquirer file import during a deploy freeze
 fix_acquirer_file_import_during_a_deploy_c0171_0 = True
+
+
+# Extend partial settlement handling
+extend_partial_settlement_handling_c0215_0 = True
+extend_partial_settlement_handling_c0215_1 = True
+extend_partial_settlement_handling_c0215_2 = True
+extend_partial_settlement_handling_c0215_3 = True
+extend_partial_settlement_handling_c0215_4 = True
+extend_partial_settlement_handling_c0215_5 = True
