@@ -121,3 +121,8 @@ fix_merchant_impersonation_guard_under_c_c0192_2 = True
 fix_merchant_impersonation_guard_under_c_c0192_3 = True
 fix_merchant_impersonation_guard_under_c_c0192_4 = True
 fix_merchant_impersonation_guard_under_c_c0192_5 = True
+
+
+# Add API key rotation
+add_api_key_rotation_c0216_0 = True
+add_api_key_rotation_c0216_1 = True

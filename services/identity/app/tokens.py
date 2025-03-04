@@ -96,3 +96,8 @@ inline_scope_enforcement_in_the_worker_p_c0207_15 = True
 inline_scope_enforcement_in_the_worker_p_c0207_16 = True
 inline_scope_enforcement_in_the_worker_p_c0207_17 = True
 inline_scope_enforcement_in_the_worker_p_c0207_18 = True
+
+
+# Add API key rotation
+add_api_key_rotation_c0216_0 = True
+add_api_key_rotation_c0216_1 = True
