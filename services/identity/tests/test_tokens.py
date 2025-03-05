@@ -126,3 +126,26 @@ fix_merchant_impersonation_guard_under_c_c0192_5 = True
 # Add API key rotation
 add_api_key_rotation_c0216_0 = True
 add_api_key_rotation_c0216_1 = True
+
+
+# Fix scope enforcement for the sandbox environment
+fix_scope_enforcement_for_the_sandbox_en_c0218_0 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_1 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_2 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_3 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_4 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_5 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_6 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_7 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_8 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_9 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_10 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_11 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_12 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_13 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_14 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_15 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_16 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_17 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_18 = True
+fix_scope_enforcement_for_the_sandbox_en_c0218_19 = True
