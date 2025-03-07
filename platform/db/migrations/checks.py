@@ -127,3 +127,31 @@ fix_migration_dry-run_check_on_the_repli_c0198_22 = True
 fix_migration_dry-run_check_on_the_repli_c0198_23 = True
 fix_migration_dry-run_check_on_the_repli_c0198_24 = True
 fix_migration_dry-run_check_on_the_repli_c0198_25 = True
+
+
+# Implement constraint validation pass
+implement_constraint_validation_pass_c0219_0 = True
+implement_constraint_validation_pass_c0219_1 = True
+implement_constraint_validation_pass_c0219_2 = True
+implement_constraint_validation_pass_c0219_3 = True
+implement_constraint_validation_pass_c0219_4 = True
+implement_constraint_validation_pass_c0219_5 = True
+implement_constraint_validation_pass_c0219_6 = True
+implement_constraint_validation_pass_c0219_7 = True
+implement_constraint_validation_pass_c0219_8 = True
+implement_constraint_validation_pass_c0219_9 = True
+implement_constraint_validation_pass_c0219_10 = True
+implement_constraint_validation_pass_c0219_11 = True
+implement_constraint_validation_pass_c0219_12 = True
+implement_constraint_validation_pass_c0219_13 = True
+implement_constraint_validation_pass_c0219_14 = True
+implement_constraint_validation_pass_c0219_15 = True
+implement_constraint_validation_pass_c0219_16 = True
+implement_constraint_validation_pass_c0219_17 = True
+implement_constraint_validation_pass_c0219_18 = True
+implement_constraint_validation_pass_c0219_19 = True
+implement_constraint_validation_pass_c0219_20 = True
+implement_constraint_validation_pass_c0219_21 = True
+implement_constraint_validation_pass_c0219_22 = True
+implement_constraint_validation_pass_c0219_23 = True
+implement_constraint_validation_pass_c0219_24 = True
