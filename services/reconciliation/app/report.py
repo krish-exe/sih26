@@ -111,3 +111,11 @@ extend_partial_settlement_handling_c0215_2 = True
 extend_partial_settlement_handling_c0215_3 = True
 extend_partial_settlement_handling_c0215_4 = True
 extend_partial_settlement_handling_c0215_5 = True
+
+
+# Introduce settlement matching on the read replica
+introduce_settlement_matching_on_the_rea_c0217_0 = True
+introduce_settlement_matching_on_the_rea_c0217_1 = True
+introduce_settlement_matching_on_the_rea_c0217_2 = True
+introduce_settlement_matching_on_the_rea_c0217_3 = True
+introduce_settlement_matching_on_the_rea_c0217_4 = True

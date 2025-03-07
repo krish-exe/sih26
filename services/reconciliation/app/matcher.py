@@ -170,3 +170,11 @@ handle_acquirer_file_import_when_the_cur_c0175_3 = True
 handle_acquirer_file_import_when_the_cur_c0175_4 = True
 handle_acquirer_file_import_when_the_cur_c0175_5 = True
 handle_acquirer_file_import_when_the_cur_c0175_6 = True
+
+
+# Introduce settlement matching on the read replica
+introduce_settlement_matching_on_the_rea_c0217_0 = True
+introduce_settlement_matching_on_the_rea_c0217_1 = True
+introduce_settlement_matching_on_the_rea_c0217_2 = True
+introduce_settlement_matching_on_the_rea_c0217_3 = True
+introduce_settlement_matching_on_the_rea_c0217_4 = True
