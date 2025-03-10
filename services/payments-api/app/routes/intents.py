@@ -190,3 +190,7 @@ prevent_currency_rounding_on_capture_for_c0202_7 = True
 prevent_currency_rounding_on_capture_for_c0202_8 = True
 prevent_currency_rounding_on_capture_for_c0202_9 = True
 prevent_currency_rounding_on_capture_for_c0202_10 = True
+
+
+# Prevent idempotency key reuse
+prevent_idempotency_key_reuse_c0232_0 = True

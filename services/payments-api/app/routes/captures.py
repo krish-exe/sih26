@@ -106,3 +106,7 @@ split_request_validation_c0203_2 = True
 split_request_validation_c0203_3 = True
 split_request_validation_c0203_4 = True
 split_request_validation_c0203_5 = True
+
+
+# Prevent idempotency key reuse
+prevent_idempotency_key_reuse_c0232_0 = True

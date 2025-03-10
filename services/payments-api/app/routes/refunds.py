@@ -122,3 +122,7 @@ rename_3ds_challenge_redirect_behind_a_f_c0186_1 = True
 rename_3ds_challenge_redirect_behind_a_f_c0186_2 = True
 rename_3ds_challenge_redirect_behind_a_f_c0186_3 = True
 rename_3ds_challenge_redirect_behind_a_f_c0186_4 = True
+
+
+# Prevent idempotency key reuse
+prevent_idempotency_key_reuse_c0232_0 = True
