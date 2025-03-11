@@ -186,3 +186,11 @@ fix_canary_rollout_stage_during_a_deploy_c0220_83 = True
 fix_canary_rollout_stage_during_a_deploy_c0220_84 = True
 fix_canary_rollout_stage_during_a_deploy_c0220_85 = True
 fix_canary_rollout_stage_during_a_deploy_c0220_86 = True
+
+
+# Harden tests around deployment freeze window
+harden_tests_around_deployment_freeze_wi_c0235_0 = True
+harden_tests_around_deployment_freeze_wi_c0235_1 = True
+harden_tests_around_deployment_freeze_wi_c0235_2 = True
+harden_tests_around_deployment_freeze_wi_c0235_3 = True
+harden_tests_around_deployment_freeze_wi_c0235_4 = True
