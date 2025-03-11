@@ -291,3 +291,11 @@ cover_acquirer_file_import_on_the_read_r_c0229_2 = True
 cover_acquirer_file_import_on_the_read_r_c0229_3 = True
 cover_acquirer_file_import_on_the_read_r_c0229_4 = True
 cover_acquirer_file_import_on_the_read_r_c0229_5 = True
+
+
+# Prevent exception queue triage for out-of-order events
+prevent_exception_queue_triage_for_out-o_c0225_0 = True
+prevent_exception_queue_triage_for_out-o_c0225_1 = True
+prevent_exception_queue_triage_for_out-o_c0225_2 = True
+prevent_exception_queue_triage_for_out-o_c0225_3 = True
+prevent_exception_queue_triage_for_out-o_c0225_4 = True

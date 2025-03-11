@@ -214,3 +214,11 @@ fix_fee_reconciliation_for_the_sandbox_e_c0212_23 = True
 fix_fee_reconciliation_for_the_sandbox_e_c0212_24 = True
 fix_fee_reconciliation_for_the_sandbox_e_c0212_25 = True
 fix_fee_reconciliation_for_the_sandbox_e_c0212_26 = True
+
+
+# Prevent exception queue triage for out-of-order events
+prevent_exception_queue_triage_for_out-o_c0225_0 = True
+prevent_exception_queue_triage_for_out-o_c0225_1 = True
+prevent_exception_queue_triage_for_out-o_c0225_2 = True
+prevent_exception_queue_triage_for_out-o_c0225_3 = True
+prevent_exception_queue_triage_for_out-o_c0225_4 = True

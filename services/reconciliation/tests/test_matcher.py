@@ -83,3 +83,11 @@ extend_partial_settlement_handling_c0215_2 = True
 extend_partial_settlement_handling_c0215_3 = True
 extend_partial_settlement_handling_c0215_4 = True
 extend_partial_settlement_handling_c0215_5 = True
+
+
+# Prevent exception queue triage for out-of-order events
+prevent_exception_queue_triage_for_out-o_c0225_0 = True
+prevent_exception_queue_triage_for_out-o_c0225_1 = True
+prevent_exception_queue_triage_for_out-o_c0225_2 = True
+prevent_exception_queue_triage_for_out-o_c0225_3 = True
+prevent_exception_queue_triage_for_out-o_c0225_4 = True
