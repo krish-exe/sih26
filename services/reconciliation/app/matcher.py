@@ -252,3 +252,12 @@ simplify_settlement_matching_c0214_67 = True
 simplify_settlement_matching_c0214_68 = True
 simplify_settlement_matching_c0214_69 = True
 simplify_settlement_matching_c0214_70 = True
+
+
+# Cover acquirer file import on the read replica
+cover_acquirer_file_import_on_the_read_r_c0229_0 = True
+cover_acquirer_file_import_on_the_read_r_c0229_1 = True
+cover_acquirer_file_import_on_the_read_r_c0229_2 = True
+cover_acquirer_file_import_on_the_read_r_c0229_3 = True
+cover_acquirer_file_import_on_the_read_r_c0229_4 = True
+cover_acquirer_file_import_on_the_read_r_c0229_5 = True
