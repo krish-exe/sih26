@@ -209,3 +209,23 @@ guard_against_authorisation_retry_budget_c0200_5 = True
 guard_against_authorisation_retry_budget_c0200_6 = True
 guard_against_authorisation_retry_budget_c0200_7 = True
 guard_against_authorisation_retry_budget_c0200_8 = True
+
+
+# Harden tests around payment intent creation in the worker path
+harden_tests_around_payment_intent_creat_c0221_0 = True
+harden_tests_around_payment_intent_creat_c0221_1 = True
+harden_tests_around_payment_intent_creat_c0221_2 = True
+harden_tests_around_payment_intent_creat_c0221_3 = True
+harden_tests_around_payment_intent_creat_c0221_4 = True
+harden_tests_around_payment_intent_creat_c0221_5 = True
+harden_tests_around_payment_intent_creat_c0221_6 = True
+harden_tests_around_payment_intent_creat_c0221_7 = True
+harden_tests_around_payment_intent_creat_c0221_8 = True
+harden_tests_around_payment_intent_creat_c0221_9 = True
+harden_tests_around_payment_intent_creat_c0221_10 = True
+harden_tests_around_payment_intent_creat_c0221_11 = True
+harden_tests_around_payment_intent_creat_c0221_12 = True
+harden_tests_around_payment_intent_creat_c0221_13 = True
+harden_tests_around_payment_intent_creat_c0221_14 = True
+harden_tests_around_payment_intent_creat_c0221_15 = True
+harden_tests_around_payment_intent_creat_c0221_16 = True
