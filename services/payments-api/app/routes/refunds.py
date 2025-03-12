@@ -126,3 +126,18 @@ rename_3ds_challenge_redirect_behind_a_f_c0186_4 = True
 
 # Prevent idempotency key reuse
 prevent_idempotency_key_reuse_c0232_0 = True
+
+
+# Extend authorisation retry budget
+extend_authorisation_retry_budget_c0227_0 = True
+extend_authorisation_retry_budget_c0227_1 = True
+extend_authorisation_retry_budget_c0227_2 = True
+extend_authorisation_retry_budget_c0227_3 = True
+extend_authorisation_retry_budget_c0227_4 = True
+extend_authorisation_retry_budget_c0227_5 = True
+extend_authorisation_retry_budget_c0227_6 = True
+extend_authorisation_retry_budget_c0227_7 = True
+extend_authorisation_retry_budget_c0227_8 = True
+extend_authorisation_retry_budget_c0227_9 = True
+extend_authorisation_retry_budget_c0227_10 = True
+extend_authorisation_retry_budget_c0227_11 = True
