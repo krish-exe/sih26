@@ -58,3 +58,12 @@ introduce_manual_adjustment_behind_a_fea_c0109_1 = True
 introduce_manual_adjustment_behind_a_fea_c0109_2 = True
 introduce_manual_adjustment_behind_a_fea_c0109_3 = True
 introduce_manual_adjustment_behind_a_fea_c0109_4 = True
+
+
+# Simplify double-entry posting in the batch importer
+simplify_double-entry_posting_in_the_bat_c0230_0 = True
+simplify_double-entry_posting_in_the_bat_c0230_1 = True
+simplify_double-entry_posting_in_the_bat_c0230_2 = True
+simplify_double-entry_posting_in_the_bat_c0230_3 = True
+simplify_double-entry_posting_in_the_bat_c0230_4 = True
+simplify_double-entry_posting_in_the_bat_c0230_5 = True
