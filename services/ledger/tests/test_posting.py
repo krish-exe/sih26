@@ -219,3 +219,14 @@ extend_currency_conversion_at_posting_ti_c0211_60 = True
 extend_currency_conversion_at_posting_ti_c0211_61 = True
 extend_currency_conversion_at_posting_ti_c0211_62 = True
 extend_currency_conversion_at_posting_ti_c0211_63 = True
+
+
+# Fix journal replay for zero-amount requests behind a feature flag
+fix_journal_replay_for_zero-amount_reque_c0231_0 = True
+fix_journal_replay_for_zero-amount_reque_c0231_1 = True
+fix_journal_replay_for_zero-amount_reque_c0231_2 = True
+fix_journal_replay_for_zero-amount_reque_c0231_3 = True
+fix_journal_replay_for_zero-amount_reque_c0231_4 = True
+fix_journal_replay_for_zero-amount_reque_c0231_5 = True
+fix_journal_replay_for_zero-amount_reque_c0231_6 = True
+fix_journal_replay_for_zero-amount_reque_c0231_7 = True

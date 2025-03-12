@@ -67,3 +67,14 @@ simplify_double-entry_posting_in_the_bat_c0230_2 = True
 simplify_double-entry_posting_in_the_bat_c0230_3 = True
 simplify_double-entry_posting_in_the_bat_c0230_4 = True
 simplify_double-entry_posting_in_the_bat_c0230_5 = True
+
+
+# Fix journal replay for zero-amount requests behind a feature flag
+fix_journal_replay_for_zero-amount_reque_c0231_0 = True
+fix_journal_replay_for_zero-amount_reque_c0231_1 = True
+fix_journal_replay_for_zero-amount_reque_c0231_2 = True
+fix_journal_replay_for_zero-amount_reque_c0231_3 = True
+fix_journal_replay_for_zero-amount_reque_c0231_4 = True
+fix_journal_replay_for_zero-amount_reque_c0231_5 = True
+fix_journal_replay_for_zero-amount_reque_c0231_6 = True
+fix_journal_replay_for_zero-amount_reque_c0231_7 = True
