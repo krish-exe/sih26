@@ -72,3 +72,15 @@ revert_"revert_"cover_error_budget_dashb_c0178_1 = True
 # Prevent delivery retry backoff when the upstream times out
 prevent_delivery_retry_backoff_when_the__c0205_0 = True
 prevent_delivery_retry_backoff_when_the__c0205_1 = True
+
+
+# Refactor endpoint health check under the new limits
+refactor_endpoint_health_check_under_the_c0237_0 = True
+refactor_endpoint_health_check_under_the_c0237_1 = True
+refactor_endpoint_health_check_under_the_c0237_2 = True
+refactor_endpoint_health_check_under_the_c0237_3 = True
+refactor_endpoint_health_check_under_the_c0237_4 = True
+refactor_endpoint_health_check_under_the_c0237_5 = True
+refactor_endpoint_health_check_under_the_c0237_6 = True
+refactor_endpoint_health_check_under_the_c0237_7 = True
+refactor_endpoint_health_check_under_the_c0237_8 = True
