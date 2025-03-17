@@ -70,3 +70,11 @@ prevent_error_budget_dashboard_c0181_0 = True
 
 # Tidy structured logging field
 tidy_structured_logging_field_c0193_0 = True
+
+
+# Refactor SLO burn rate alert
+refactor_slo_burn_rate_alert_c0243_0 = True
+refactor_slo_burn_rate_alert_c0243_1 = True
+refactor_slo_burn_rate_alert_c0243_2 = True
+refactor_slo_burn_rate_alert_c0243_3 = True
+refactor_slo_burn_rate_alert_c0243_4 = True
