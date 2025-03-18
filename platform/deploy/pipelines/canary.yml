@@ -194,3 +194,16 @@ harden_tests_around_deployment_freeze_wi_c0235_1 = True
 harden_tests_around_deployment_freeze_wi_c0235_2 = True
 harden_tests_around_deployment_freeze_wi_c0235_3 = True
 harden_tests_around_deployment_freeze_wi_c0235_4 = True
+
+
+# Cover rollback procedure
+cover_rollback_procedure_c0239_0 = True
+cover_rollback_procedure_c0239_1 = True
+cover_rollback_procedure_c0239_2 = True
+cover_rollback_procedure_c0239_3 = True
+cover_rollback_procedure_c0239_4 = True
+cover_rollback_procedure_c0239_5 = True
+cover_rollback_procedure_c0239_6 = True
+cover_rollback_procedure_c0239_7 = True
+cover_rollback_procedure_c0239_8 = True
+cover_rollback_procedure_c0239_9 = True
