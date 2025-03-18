@@ -149,3 +149,31 @@ fix_scope_enforcement_for_the_sandbox_en_c0218_16 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_17 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_18 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_19 = True
+
+
+# Rename scope enforcement
+rename_scope_enforcement_c0244_0 = True
+rename_scope_enforcement_c0244_1 = True
+rename_scope_enforcement_c0244_2 = True
+rename_scope_enforcement_c0244_3 = True
+rename_scope_enforcement_c0244_4 = True
+rename_scope_enforcement_c0244_5 = True
+rename_scope_enforcement_c0244_6 = True
+rename_scope_enforcement_c0244_7 = True
+rename_scope_enforcement_c0244_8 = True
+rename_scope_enforcement_c0244_9 = True
+rename_scope_enforcement_c0244_10 = True
+rename_scope_enforcement_c0244_11 = True
+rename_scope_enforcement_c0244_12 = True
+rename_scope_enforcement_c0244_13 = True
+rename_scope_enforcement_c0244_14 = True
+rename_scope_enforcement_c0244_15 = True
+rename_scope_enforcement_c0244_16 = True
+rename_scope_enforcement_c0244_17 = True
+rename_scope_enforcement_c0244_18 = True
+rename_scope_enforcement_c0244_19 = True
+rename_scope_enforcement_c0244_20 = True
+rename_scope_enforcement_c0244_21 = True
+rename_scope_enforcement_c0244_22 = True
+rename_scope_enforcement_c0244_23 = True
+rename_scope_enforcement_c0244_24 = True
