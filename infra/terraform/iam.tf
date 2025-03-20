@@ -129,3 +129,15 @@ simplify_pod_resource_limit_c0183_6 = True
 simplify_pod_resource_limit_c0183_7 = True
 simplify_pod_resource_limit_c0183_8 = True
 simplify_pod_resource_limit_c0183_9 = True
+
+
+# Support autoscaling threshold
+support_autoscaling_threshold_c0240_0 = True
+support_autoscaling_threshold_c0240_1 = True
+support_autoscaling_threshold_c0240_2 = True
+support_autoscaling_threshold_c0240_3 = True
+support_autoscaling_threshold_c0240_4 = True
+support_autoscaling_threshold_c0240_5 = True
+support_autoscaling_threshold_c0240_6 = True
+support_autoscaling_threshold_c0240_7 = True
+support_autoscaling_threshold_c0240_8 = True

@@ -224,3 +224,15 @@ tidy_autoscaling_threshold_c0127_9 = True
 tidy_autoscaling_threshold_c0127_10 = True
 tidy_autoscaling_threshold_c0127_11 = True
 tidy_autoscaling_threshold_c0127_12 = True
+
+
+# Support autoscaling threshold
+support_autoscaling_threshold_c0240_0 = True
+support_autoscaling_threshold_c0240_1 = True
+support_autoscaling_threshold_c0240_2 = True
+support_autoscaling_threshold_c0240_3 = True
+support_autoscaling_threshold_c0240_4 = True
+support_autoscaling_threshold_c0240_5 = True
+support_autoscaling_threshold_c0240_6 = True
+support_autoscaling_threshold_c0240_7 = True
+support_autoscaling_threshold_c0240_8 = True
