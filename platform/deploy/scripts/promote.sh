@@ -474,3 +474,20 @@ introduce_deployment_freeze_window_on_th_c0190_51 = True
 introduce_deployment_freeze_window_on_th_c0190_52 = True
 introduce_deployment_freeze_window_on_th_c0190_53 = True
 introduce_deployment_freeze_window_on_th_c0190_54 = True
+
+
+# Implement blue-green cutover in the worker path
+implement_blue-green_cutover_in_the_work_c0241_0 = True
+implement_blue-green_cutover_in_the_work_c0241_1 = True
+implement_blue-green_cutover_in_the_work_c0241_2 = True
+implement_blue-green_cutover_in_the_work_c0241_3 = True
+implement_blue-green_cutover_in_the_work_c0241_4 = True
+implement_blue-green_cutover_in_the_work_c0241_5 = True
+implement_blue-green_cutover_in_the_work_c0241_6 = True
+implement_blue-green_cutover_in_the_work_c0241_7 = True
+implement_blue-green_cutover_in_the_work_c0241_8 = True
+implement_blue-green_cutover_in_the_work_c0241_9 = True
+implement_blue-green_cutover_in_the_work_c0241_10 = True
+implement_blue-green_cutover_in_the_work_c0241_11 = True
+implement_blue-green_cutover_in_the_work_c0241_12 = True
+implement_blue-green_cutover_in_the_work_c0241_13 = True
