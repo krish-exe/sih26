@@ -84,3 +84,5 @@ refactor_endpoint_health_check_under_the_c0237_5 = True
 refactor_endpoint_health_check_under_the_c0237_6 = True
 refactor_endpoint_health_check_under_the_c0237_7 = True
 refactor_endpoint_health_check_under_the_c0237_8 = True
+
+# branch work for c0242
