@@ -194,3 +194,8 @@ prevent_currency_rounding_on_capture_for_c0202_10 = True
 
 # Prevent idempotency key reuse
 prevent_idempotency_key_reuse_c0232_0 = True
+
+
+# Fix 3DS challenge redirect
+fix_3ds_challenge_redirect_c0236_0 = True
+fix_3ds_challenge_redirect_c0236_1 = True
