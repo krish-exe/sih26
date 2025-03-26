@@ -326,3 +326,10 @@ extend_authorisation_retry_budget_c0227_8 = True
 extend_authorisation_retry_budget_c0227_9 = True
 extend_authorisation_retry_budget_c0227_10 = True
 extend_authorisation_retry_budget_c0227_11 = True
+
+
+# Implement intent expiry sweep for the sandbox environment
+implement_intent_expiry_sweep_for_the_sa_c0245_0 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_1 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_2 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_3 = True

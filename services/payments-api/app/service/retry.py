@@ -153,3 +153,10 @@ prevent_intent_expiry_sweep_c0213_93 = True
 prevent_intent_expiry_sweep_c0213_94 = True
 prevent_intent_expiry_sweep_c0213_95 = True
 prevent_intent_expiry_sweep_c0213_96 = True
+
+
+# Implement intent expiry sweep for the sandbox environment
+implement_intent_expiry_sweep_for_the_sa_c0245_0 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_1 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_2 = True
+implement_intent_expiry_sweep_for_the_sa_c0245_3 = True
