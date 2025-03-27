@@ -87,3 +87,12 @@ harden_tests_around_subscription_managem_c0168_5 = True
 # Revert "Revert "Cover error budget dashboard""
 revert_"revert_"cover_error_budget_dashb_c0178_0 = True
 revert_"revert_"cover_error_budget_dashb_c0178_1 = True
+
+
+# Harden tests around endpoint health check
+harden_tests_around_endpoint_health_chec_c0248_0 = True
+harden_tests_around_endpoint_health_chec_c0248_1 = True
+harden_tests_around_endpoint_health_chec_c0248_2 = True
+harden_tests_around_endpoint_health_chec_c0248_3 = True
+harden_tests_around_endpoint_health_chec_c0248_4 = True
+harden_tests_around_endpoint_health_chec_c0248_5 = True
