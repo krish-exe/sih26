@@ -26,3 +26,11 @@ support_bounce_handling_under_the_new_li_c0090_5 = True
 handle_template_localisation_when_the_qu_c0222_0 = True
 handle_template_localisation_when_the_qu_c0222_1 = True
 handle_template_localisation_when_the_qu_c0222_2 = True
+
+
+# Tidy template localisation
+tidy_template_localisation_c0251_0 = True
+tidy_template_localisation_c0251_1 = True
+tidy_template_localisation_c0251_2 = True
+tidy_template_localisation_c0251_3 = True
+tidy_template_localisation_c0251_4 = True
