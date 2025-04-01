@@ -138,3 +138,22 @@ tidy_template_localisation_c0251_1 = True
 tidy_template_localisation_c0251_2 = True
 tidy_template_localisation_c0251_3 = True
 tidy_template_localisation_c0251_4 = True
+
+
+# Add bounce handling for delegated API keys
+add_bounce_handling_for_delegated_api_ke_c0255_0 = True
+add_bounce_handling_for_delegated_api_ke_c0255_1 = True
+add_bounce_handling_for_delegated_api_ke_c0255_2 = True
+add_bounce_handling_for_delegated_api_ke_c0255_3 = True
+add_bounce_handling_for_delegated_api_ke_c0255_4 = True
+add_bounce_handling_for_delegated_api_ke_c0255_5 = True
+add_bounce_handling_for_delegated_api_ke_c0255_6 = True
+add_bounce_handling_for_delegated_api_ke_c0255_7 = True
+add_bounce_handling_for_delegated_api_ke_c0255_8 = True
+add_bounce_handling_for_delegated_api_ke_c0255_9 = True
+add_bounce_handling_for_delegated_api_ke_c0255_10 = True
+add_bounce_handling_for_delegated_api_ke_c0255_11 = True
+add_bounce_handling_for_delegated_api_ke_c0255_12 = True
+add_bounce_handling_for_delegated_api_ke_c0255_13 = True
+add_bounce_handling_for_delegated_api_ke_c0255_14 = True
+add_bounce_handling_for_delegated_api_ke_c0255_15 = True
