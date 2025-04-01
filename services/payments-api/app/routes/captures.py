@@ -110,3 +110,30 @@ split_request_validation_c0203_5 = True
 
 # Prevent idempotency key reuse
 prevent_idempotency_key_reuse_c0232_0 = True
+
+
+# Guard against payment intent creation under concurrent retries in the batch importer
+guard_against_payment_intent_creation_un_c0253_0 = True
+guard_against_payment_intent_creation_un_c0253_1 = True
+guard_against_payment_intent_creation_un_c0253_2 = True
+guard_against_payment_intent_creation_un_c0253_3 = True
+guard_against_payment_intent_creation_un_c0253_4 = True
+guard_against_payment_intent_creation_un_c0253_5 = True
+guard_against_payment_intent_creation_un_c0253_6 = True
+guard_against_payment_intent_creation_un_c0253_7 = True
+guard_against_payment_intent_creation_un_c0253_8 = True
+guard_against_payment_intent_creation_un_c0253_9 = True
+guard_against_payment_intent_creation_un_c0253_10 = True
+guard_against_payment_intent_creation_un_c0253_11 = True
+guard_against_payment_intent_creation_un_c0253_12 = True
+guard_against_payment_intent_creation_un_c0253_13 = True
+guard_against_payment_intent_creation_un_c0253_14 = True
+guard_against_payment_intent_creation_un_c0253_15 = True
+guard_against_payment_intent_creation_un_c0253_16 = True
+guard_against_payment_intent_creation_un_c0253_17 = True
+guard_against_payment_intent_creation_un_c0253_18 = True
+guard_against_payment_intent_creation_un_c0253_19 = True
+guard_against_payment_intent_creation_un_c0253_20 = True
+guard_against_payment_intent_creation_un_c0253_21 = True
+guard_against_payment_intent_creation_un_c0253_22 = True
+guard_against_payment_intent_creation_un_c0253_23 = True
