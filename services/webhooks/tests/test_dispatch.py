@@ -254,3 +254,26 @@ simplify_dead_letter_handling_c0201_150 = True
 simplify_dead_letter_handling_c0201_151 = True
 simplify_dead_letter_handling_c0201_152 = True
 simplify_dead_letter_handling_c0201_153 = True
+
+
+# Introduce subscription management in the batch importer
+introduce_subscription_management_in_the_c0252_0 = True
+introduce_subscription_management_in_the_c0252_1 = True
+introduce_subscription_management_in_the_c0252_2 = True
+introduce_subscription_management_in_the_c0252_3 = True
+introduce_subscription_management_in_the_c0252_4 = True
+introduce_subscription_management_in_the_c0252_5 = True
+introduce_subscription_management_in_the_c0252_6 = True
+introduce_subscription_management_in_the_c0252_7 = True
+introduce_subscription_management_in_the_c0252_8 = True
+introduce_subscription_management_in_the_c0252_9 = True
+introduce_subscription_management_in_the_c0252_10 = True
+introduce_subscription_management_in_the_c0252_11 = True
+introduce_subscription_management_in_the_c0252_12 = True
+introduce_subscription_management_in_the_c0252_13 = True
+introduce_subscription_management_in_the_c0252_14 = True
+introduce_subscription_management_in_the_c0252_15 = True
+introduce_subscription_management_in_the_c0252_16 = True
+introduce_subscription_management_in_the_c0252_17 = True
+introduce_subscription_management_in_the_c0252_18 = True
+introduce_subscription_management_in_the_c0252_19 = True
