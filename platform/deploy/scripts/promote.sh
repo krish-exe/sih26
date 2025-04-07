@@ -491,3 +491,10 @@ implement_blue-green_cutover_in_the_work_c0241_10 = True
 implement_blue-green_cutover_in_the_work_c0241_11 = True
 implement_blue-green_cutover_in_the_work_c0241_12 = True
 implement_blue-green_cutover_in_the_work_c0241_13 = True
+
+
+# Guard against deployment freeze window
+guard_against_deployment_freeze_window_c0257_0 = True
+guard_against_deployment_freeze_window_c0257_1 = True
+guard_against_deployment_freeze_window_c0257_2 = True
+guard_against_deployment_freeze_window_c0257_3 = True
