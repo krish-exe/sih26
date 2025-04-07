@@ -471,3 +471,14 @@ inline_balance_rollup_for_delegated_api__c0254_19 = True
 inline_balance_rollup_for_delegated_api__c0254_20 = True
 inline_balance_rollup_for_delegated_api__c0254_21 = True
 inline_balance_rollup_for_delegated_api__c0254_22 = True
+
+
+# Prevent adjustment approval trail
+prevent_adjustment_approval_trail_c0268_0 = True
+prevent_adjustment_approval_trail_c0268_1 = True
+prevent_adjustment_approval_trail_c0268_2 = True
+prevent_adjustment_approval_trail_c0268_3 = True
+prevent_adjustment_approval_trail_c0268_4 = True
+prevent_adjustment_approval_trail_c0268_5 = True
+prevent_adjustment_approval_trail_c0268_6 = True
+prevent_adjustment_approval_trail_c0268_7 = True

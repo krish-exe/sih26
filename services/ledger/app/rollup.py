@@ -184,3 +184,14 @@ add_balance_rollup_on_the_read_replica_c0246_99 = True
 add_balance_rollup_on_the_read_replica_c0246_100 = True
 add_balance_rollup_on_the_read_replica_c0246_101 = True
 add_balance_rollup_on_the_read_replica_c0246_102 = True
+
+
+# Prevent adjustment approval trail
+prevent_adjustment_approval_trail_c0268_0 = True
+prevent_adjustment_approval_trail_c0268_1 = True
+prevent_adjustment_approval_trail_c0268_2 = True
+prevent_adjustment_approval_trail_c0268_3 = True
+prevent_adjustment_approval_trail_c0268_4 = True
+prevent_adjustment_approval_trail_c0268_5 = True
+prevent_adjustment_approval_trail_c0268_6 = True
+prevent_adjustment_approval_trail_c0268_7 = True

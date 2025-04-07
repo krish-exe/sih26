@@ -34,3 +34,14 @@ add_tests_for_currency_conversion_at_pos_c0115_8 = True
 add_tests_for_currency_conversion_at_pos_c0115_9 = True
 add_tests_for_currency_conversion_at_pos_c0115_10 = True
 add_tests_for_currency_conversion_at_pos_c0115_11 = True
+
+
+# Prevent adjustment approval trail
+prevent_adjustment_approval_trail_c0268_0 = True
+prevent_adjustment_approval_trail_c0268_1 = True
+prevent_adjustment_approval_trail_c0268_2 = True
+prevent_adjustment_approval_trail_c0268_3 = True
+prevent_adjustment_approval_trail_c0268_4 = True
+prevent_adjustment_approval_trail_c0268_5 = True
+prevent_adjustment_approval_trail_c0268_6 = True
+prevent_adjustment_approval_trail_c0268_7 = True

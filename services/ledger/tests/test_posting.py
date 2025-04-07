@@ -327,3 +327,14 @@ fix_journal_replay_after_a_partial_failu_c0250_90 = True
 fix_journal_replay_after_a_partial_failu_c0250_91 = True
 fix_journal_replay_after_a_partial_failu_c0250_92 = True
 fix_journal_replay_after_a_partial_failu_c0250_93 = True
+
+
+# Prevent adjustment approval trail
+prevent_adjustment_approval_trail_c0268_0 = True
+prevent_adjustment_approval_trail_c0268_1 = True
+prevent_adjustment_approval_trail_c0268_2 = True
+prevent_adjustment_approval_trail_c0268_3 = True
+prevent_adjustment_approval_trail_c0268_4 = True
+prevent_adjustment_approval_trail_c0268_5 = True
+prevent_adjustment_approval_trail_c0268_6 = True
+prevent_adjustment_approval_trail_c0268_7 = True
