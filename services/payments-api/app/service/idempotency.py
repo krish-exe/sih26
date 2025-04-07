@@ -151,3 +151,27 @@ fix_3ds_challenge_redirect_for_zero-amou_c0228_36 = True
 fix_3ds_challenge_redirect_for_zero-amou_c0228_37 = True
 fix_3ds_challenge_redirect_for_zero-amou_c0228_38 = True
 fix_3ds_challenge_redirect_for_zero-amou_c0228_39 = True
+
+
+# Support intent expiry sweep behind a feature flag
+support_intent_expiry_sweep_behind_a_fea_c0258_0 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_1 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_2 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_3 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_4 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_5 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_6 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_7 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_8 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_9 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_10 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_11 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_12 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_13 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_14 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_15 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_16 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_17 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_18 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_19 = True
+support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
