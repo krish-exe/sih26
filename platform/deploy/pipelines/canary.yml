@@ -231,3 +231,13 @@ guard_against_deployment_freeze_window_c0257_0 = True
 guard_against_deployment_freeze_window_c0257_1 = True
 guard_against_deployment_freeze_window_c0257_2 = True
 guard_against_deployment_freeze_window_c0257_3 = True
+
+
+# Correct rollback procedure when the upstream times out for multi-currency merchants
+correct_rollback_procedure_when_the_upst_c0265_0 = True
+correct_rollback_procedure_when_the_upst_c0265_1 = True
+correct_rollback_procedure_when_the_upst_c0265_2 = True
+correct_rollback_procedure_when_the_upst_c0265_3 = True
+correct_rollback_procedure_when_the_upst_c0265_4 = True
+correct_rollback_procedure_when_the_upst_c0265_5 = True
+correct_rollback_procedure_when_the_upst_c0265_6 = True
