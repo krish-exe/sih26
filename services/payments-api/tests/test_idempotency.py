@@ -314,3 +314,22 @@ rename_request_validation_c0238_33 = True
 rename_request_validation_c0238_34 = True
 rename_request_validation_c0238_35 = True
 rename_request_validation_c0238_36 = True
+
+
+# Guard against 3DS challenge redirect for zero-amount requests
+guard_against_3ds_challenge_redirect_for_c0270_0 = True
+guard_against_3ds_challenge_redirect_for_c0270_1 = True
+guard_against_3ds_challenge_redirect_for_c0270_2 = True
+guard_against_3ds_challenge_redirect_for_c0270_3 = True
+guard_against_3ds_challenge_redirect_for_c0270_4 = True
+guard_against_3ds_challenge_redirect_for_c0270_5 = True
+guard_against_3ds_challenge_redirect_for_c0270_6 = True
+guard_against_3ds_challenge_redirect_for_c0270_7 = True
+guard_against_3ds_challenge_redirect_for_c0270_8 = True
+guard_against_3ds_challenge_redirect_for_c0270_9 = True
+guard_against_3ds_challenge_redirect_for_c0270_10 = True
+guard_against_3ds_challenge_redirect_for_c0270_11 = True
+guard_against_3ds_challenge_redirect_for_c0270_12 = True
+guard_against_3ds_challenge_redirect_for_c0270_13 = True
+guard_against_3ds_challenge_redirect_for_c0270_14 = True
+guard_against_3ds_challenge_redirect_for_c0270_15 = True

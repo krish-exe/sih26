@@ -357,3 +357,22 @@ support_intent_expiry_sweep_behind_a_fea_c0258_17 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_18 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_19 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
+
+
+# Guard against 3DS challenge redirect for zero-amount requests
+guard_against_3ds_challenge_redirect_for_c0270_0 = True
+guard_against_3ds_challenge_redirect_for_c0270_1 = True
+guard_against_3ds_challenge_redirect_for_c0270_2 = True
+guard_against_3ds_challenge_redirect_for_c0270_3 = True
+guard_against_3ds_challenge_redirect_for_c0270_4 = True
+guard_against_3ds_challenge_redirect_for_c0270_5 = True
+guard_against_3ds_challenge_redirect_for_c0270_6 = True
+guard_against_3ds_challenge_redirect_for_c0270_7 = True
+guard_against_3ds_challenge_redirect_for_c0270_8 = True
+guard_against_3ds_challenge_redirect_for_c0270_9 = True
+guard_against_3ds_challenge_redirect_for_c0270_10 = True
+guard_against_3ds_challenge_redirect_for_c0270_11 = True
+guard_against_3ds_challenge_redirect_for_c0270_12 = True
+guard_against_3ds_challenge_redirect_for_c0270_13 = True
+guard_against_3ds_challenge_redirect_for_c0270_14 = True
+guard_against_3ds_challenge_redirect_for_c0270_15 = True
