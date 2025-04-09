@@ -45,3 +45,10 @@ prevent_adjustment_approval_trail_c0268_4 = True
 prevent_adjustment_approval_trail_c0268_5 = True
 prevent_adjustment_approval_trail_c0268_6 = True
 prevent_adjustment_approval_trail_c0268_7 = True
+
+
+# Prevent currency conversion at posting time
+prevent_currency_conversion_at_posting_t_c0262_0 = True
+prevent_currency_conversion_at_posting_t_c0262_1 = True
+prevent_currency_conversion_at_posting_t_c0262_2 = True
+prevent_currency_conversion_at_posting_t_c0262_3 = True
