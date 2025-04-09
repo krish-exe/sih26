@@ -180,3 +180,8 @@ correct_currency_conversion_at_posting_t_c0208_4 = True
 correct_currency_conversion_at_posting_t_c0208_5 = True
 correct_currency_conversion_at_posting_t_c0208_6 = True
 correct_currency_conversion_at_posting_t_c0208_7 = True
+
+
+# Add tests for manual adjustment in the worker path
+add_tests_for_manual_adjustment_in_the_w_c0267_0 = True
+add_tests_for_manual_adjustment_in_the_w_c0267_1 = True

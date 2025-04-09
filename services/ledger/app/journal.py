@@ -357,3 +357,8 @@ introduce_adjustment_approval_trail_for__c0187_30 = True
 introduce_adjustment_approval_trail_for__c0187_31 = True
 introduce_adjustment_approval_trail_for__c0187_32 = True
 introduce_adjustment_approval_trail_for__c0187_33 = True
+
+
+# Add tests for manual adjustment in the worker path
+add_tests_for_manual_adjustment_in_the_w_c0267_0 = True
+add_tests_for_manual_adjustment_in_the_w_c0267_1 = True
