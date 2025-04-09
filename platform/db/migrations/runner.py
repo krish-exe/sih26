@@ -494,3 +494,15 @@ implement_constraint_validation_pass_c0219_21 = True
 implement_constraint_validation_pass_c0219_22 = True
 implement_constraint_validation_pass_c0219_23 = True
 implement_constraint_validation_pass_c0219_24 = True
+
+
+# Handle expand-contract migration
+handle_expand-contract_migration_c0260_0 = True
+handle_expand-contract_migration_c0260_1 = True
+handle_expand-contract_migration_c0260_2 = True
+handle_expand-contract_migration_c0260_3 = True
+handle_expand-contract_migration_c0260_4 = True
+handle_expand-contract_migration_c0260_5 = True
+handle_expand-contract_migration_c0260_6 = True
+handle_expand-contract_migration_c0260_7 = True
+handle_expand-contract_migration_c0260_8 = True
