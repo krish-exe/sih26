@@ -131,3 +131,14 @@ implement_blue-green_cutover_in_the_work_c0241_10 = True
 implement_blue-green_cutover_in_the_work_c0241_11 = True
 implement_blue-green_cutover_in_the_work_c0241_12 = True
 implement_blue-green_cutover_in_the_work_c0241_13 = True
+
+
+# Add blue-green cutover for the sandbox environment
+add_blue-green_cutover_for_the_sandbox_e_c0263_0 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_1 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_2 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_3 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_4 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_5 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_6 = True
+add_blue-green_cutover_for_the_sandbox_e_c0263_7 = True
