@@ -139,3 +139,10 @@ add_bounce_handling_for_delegated_api_ke_c0255_12 = True
 add_bounce_handling_for_delegated_api_ke_c0255_13 = True
 add_bounce_handling_for_delegated_api_ke_c0255_14 = True
 add_bounce_handling_for_delegated_api_ke_c0255_15 = True
+
+
+# Fix bounce handling
+fix_bounce_handling_c0269_0 = True
+fix_bounce_handling_c0269_1 = True
+fix_bounce_handling_c0269_2 = True
+fix_bounce_handling_c0269_3 = True
