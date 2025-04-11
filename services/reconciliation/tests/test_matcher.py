@@ -134,3 +134,22 @@ support_acquirer_file_import_c0226_36 = True
 support_acquirer_file_import_c0226_37 = True
 support_acquirer_file_import_c0226_38 = True
 support_acquirer_file_import_c0226_39 = True
+
+
+# Add settlement matching in the worker path
+add_settlement_matching_in_the_worker_pa_c0266_0 = True
+add_settlement_matching_in_the_worker_pa_c0266_1 = True
+add_settlement_matching_in_the_worker_pa_c0266_2 = True
+add_settlement_matching_in_the_worker_pa_c0266_3 = True
+add_settlement_matching_in_the_worker_pa_c0266_4 = True
+add_settlement_matching_in_the_worker_pa_c0266_5 = True
+add_settlement_matching_in_the_worker_pa_c0266_6 = True
+add_settlement_matching_in_the_worker_pa_c0266_7 = True
+add_settlement_matching_in_the_worker_pa_c0266_8 = True
+add_settlement_matching_in_the_worker_pa_c0266_9 = True
+add_settlement_matching_in_the_worker_pa_c0266_10 = True
+add_settlement_matching_in_the_worker_pa_c0266_11 = True
+add_settlement_matching_in_the_worker_pa_c0266_12 = True
+add_settlement_matching_in_the_worker_pa_c0266_13 = True
+add_settlement_matching_in_the_worker_pa_c0266_14 = True
+add_settlement_matching_in_the_worker_pa_c0266_15 = True
