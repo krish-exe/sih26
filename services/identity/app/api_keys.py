@@ -101,3 +101,36 @@ fix_scope_enforcement_for_the_sandbox_en_c0218_16 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_17 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_18 = True
 fix_scope_enforcement_for_the_sandbox_en_c0218_19 = True
+
+
+# Split scope enforcement
+split_scope_enforcement_c0256_0 = True
+split_scope_enforcement_c0256_1 = True
+split_scope_enforcement_c0256_2 = True
+split_scope_enforcement_c0256_3 = True
+split_scope_enforcement_c0256_4 = True
+split_scope_enforcement_c0256_5 = True
+split_scope_enforcement_c0256_6 = True
+split_scope_enforcement_c0256_7 = True
+split_scope_enforcement_c0256_8 = True
+split_scope_enforcement_c0256_9 = True
+split_scope_enforcement_c0256_10 = True
+split_scope_enforcement_c0256_11 = True
+split_scope_enforcement_c0256_12 = True
+split_scope_enforcement_c0256_13 = True
+split_scope_enforcement_c0256_14 = True
+split_scope_enforcement_c0256_15 = True
+split_scope_enforcement_c0256_16 = True
+split_scope_enforcement_c0256_17 = True
+split_scope_enforcement_c0256_18 = True
+split_scope_enforcement_c0256_19 = True
+split_scope_enforcement_c0256_20 = True
+split_scope_enforcement_c0256_21 = True
+split_scope_enforcement_c0256_22 = True
+split_scope_enforcement_c0256_23 = True
+split_scope_enforcement_c0256_24 = True
+split_scope_enforcement_c0256_25 = True
+split_scope_enforcement_c0256_26 = True
+split_scope_enforcement_c0256_27 = True
+split_scope_enforcement_c0256_28 = True
+split_scope_enforcement_c0256_29 = True
