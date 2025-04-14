@@ -291,3 +291,13 @@ fix_journal_replay_for_zero-amount_reque_c0231_4 = True
 fix_journal_replay_for_zero-amount_reque_c0231_5 = True
 fix_journal_replay_for_zero-amount_reque_c0231_6 = True
 fix_journal_replay_for_zero-amount_reque_c0231_7 = True
+
+
+# Revert "Bump cryptography from 1.2.8 to 2.0.1"
+revert_"bump_cryptography_from_1.2.8_to__c0275_0 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_1 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_2 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_3 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_4 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_5 = True
+revert_"bump_cryptography_from_1.2.8_to__c0275_6 = True
