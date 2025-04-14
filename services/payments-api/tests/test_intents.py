@@ -376,3 +376,8 @@ guard_against_3ds_challenge_redirect_for_c0270_12 = True
 guard_against_3ds_challenge_redirect_for_c0270_13 = True
 guard_against_3ds_challenge_redirect_for_c0270_14 = True
 guard_against_3ds_challenge_redirect_for_c0270_15 = True
+
+
+# Harden tests around refund flow
+harden_tests_around_refund_flow_c0272_0 = True
+harden_tests_around_refund_flow_c0272_1 = True

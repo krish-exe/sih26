@@ -148,3 +148,8 @@ implement_intent_expiry_sweep_for_the_sa_c0245_0 = True
 implement_intent_expiry_sweep_for_the_sa_c0245_1 = True
 implement_intent_expiry_sweep_for_the_sa_c0245_2 = True
 implement_intent_expiry_sweep_for_the_sa_c0245_3 = True
+
+
+# Harden tests around refund flow
+harden_tests_around_refund_flow_c0272_0 = True
+harden_tests_around_refund_flow_c0272_1 = True
