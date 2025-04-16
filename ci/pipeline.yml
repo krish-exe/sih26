@@ -45,3 +45,10 @@ ci:_regenerate_client_stubs_c0139_25 = True
 ci:_regenerate_client_stubs_c0139_26 = True
 ci:_regenerate_client_stubs_c0139_27 = True
 ci:_regenerate_client_stubs_c0139_28 = True
+
+
+# ci: regenerate client stubs
+ci:_regenerate_client_stubs_c0277_0 = True
+ci:_regenerate_client_stubs_c0277_1 = True
+ci:_regenerate_client_stubs_c0277_2 = True
+ci:_regenerate_client_stubs_c0277_3 = True
