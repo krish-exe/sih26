@@ -252,3 +252,14 @@ add_blue-green_cutover_for_the_sandbox_e_c0263_4 = True
 add_blue-green_cutover_for_the_sandbox_e_c0263_5 = True
 add_blue-green_cutover_for_the_sandbox_e_c0263_6 = True
 add_blue-green_cutover_for_the_sandbox_e_c0263_7 = True
+
+
+# Rename canary rollout stage
+rename_canary_rollout_stage_c0271_0 = True
+rename_canary_rollout_stage_c0271_1 = True
+rename_canary_rollout_stage_c0271_2 = True
+rename_canary_rollout_stage_c0271_3 = True
+rename_canary_rollout_stage_c0271_4 = True
+rename_canary_rollout_stage_c0271_5 = True
+rename_canary_rollout_stage_c0271_6 = True
+rename_canary_rollout_stage_c0271_7 = True
