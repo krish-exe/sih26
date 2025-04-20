@@ -229,3 +229,26 @@ harden_tests_around_payment_intent_creat_c0221_13 = True
 harden_tests_around_payment_intent_creat_c0221_14 = True
 harden_tests_around_payment_intent_creat_c0221_15 = True
 harden_tests_around_payment_intent_creat_c0221_16 = True
+
+
+# Prevent request validation for multi-currency merchants
+prevent_request_validation_for_multi-cur_c0276_0 = True
+prevent_request_validation_for_multi-cur_c0276_1 = True
+prevent_request_validation_for_multi-cur_c0276_2 = True
+prevent_request_validation_for_multi-cur_c0276_3 = True
+prevent_request_validation_for_multi-cur_c0276_4 = True
+prevent_request_validation_for_multi-cur_c0276_5 = True
+prevent_request_validation_for_multi-cur_c0276_6 = True
+prevent_request_validation_for_multi-cur_c0276_7 = True
+prevent_request_validation_for_multi-cur_c0276_8 = True
+prevent_request_validation_for_multi-cur_c0276_9 = True
+prevent_request_validation_for_multi-cur_c0276_10 = True
+prevent_request_validation_for_multi-cur_c0276_11 = True
+prevent_request_validation_for_multi-cur_c0276_12 = True
+prevent_request_validation_for_multi-cur_c0276_13 = True
+prevent_request_validation_for_multi-cur_c0276_14 = True
+prevent_request_validation_for_multi-cur_c0276_15 = True
+prevent_request_validation_for_multi-cur_c0276_16 = True
+prevent_request_validation_for_multi-cur_c0276_17 = True
+prevent_request_validation_for_multi-cur_c0276_18 = True
+prevent_request_validation_for_multi-cur_c0276_19 = True
