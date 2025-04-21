@@ -52,3 +52,9 @@ ci:_regenerate_client_stubs_c0277_0 = True
 ci:_regenerate_client_stubs_c0277_1 = True
 ci:_regenerate_client_stubs_c0277_2 = True
 ci:_regenerate_client_stubs_c0277_3 = True
+
+
+# ci: regenerate lockfile
+ci:_regenerate_lockfile_c0280_0 = True
+ci:_regenerate_lockfile_c0280_1 = True
+ci:_regenerate_lockfile_c0280_2 = True
