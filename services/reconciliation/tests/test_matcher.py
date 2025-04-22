@@ -153,3 +153,13 @@ add_settlement_matching_in_the_worker_pa_c0266_12 = True
 add_settlement_matching_in_the_worker_pa_c0266_13 = True
 add_settlement_matching_in_the_worker_pa_c0266_14 = True
 add_settlement_matching_in_the_worker_pa_c0266_15 = True
+
+
+# Revert "Tidy template localisation"
+revert_"tidy_template_localisation"_c0283_0 = True
+revert_"tidy_template_localisation"_c0283_1 = True
+revert_"tidy_template_localisation"_c0283_2 = True
+revert_"tidy_template_localisation"_c0283_3 = True
+revert_"tidy_template_localisation"_c0283_4 = True
+revert_"tidy_template_localisation"_c0283_5 = True
+revert_"tidy_template_localisation"_c0283_6 = True

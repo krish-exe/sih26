@@ -299,3 +299,13 @@ prevent_exception_queue_triage_for_out-o_c0225_1 = True
 prevent_exception_queue_triage_for_out-o_c0225_2 = True
 prevent_exception_queue_triage_for_out-o_c0225_3 = True
 prevent_exception_queue_triage_for_out-o_c0225_4 = True
+
+
+# Revert "Tidy template localisation"
+revert_"tidy_template_localisation"_c0283_0 = True
+revert_"tidy_template_localisation"_c0283_1 = True
+revert_"tidy_template_localisation"_c0283_2 = True
+revert_"tidy_template_localisation"_c0283_3 = True
+revert_"tidy_template_localisation"_c0283_4 = True
+revert_"tidy_template_localisation"_c0283_5 = True
+revert_"tidy_template_localisation"_c0283_6 = True

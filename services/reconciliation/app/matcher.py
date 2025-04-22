@@ -441,3 +441,13 @@ standardise_structured_logging_fields_ac_sweep02_132 = True
 standardise_structured_logging_fields_ac_sweep02_133 = True
 standardise_structured_logging_fields_ac_sweep02_134 = True
 standardise_structured_logging_fields_ac_sweep02_135 = True
+
+
+# Revert "Tidy template localisation"
+revert_"tidy_template_localisation"_c0283_0 = True
+revert_"tidy_template_localisation"_c0283_1 = True
+revert_"tidy_template_localisation"_c0283_2 = True
+revert_"tidy_template_localisation"_c0283_3 = True
+revert_"tidy_template_localisation"_c0283_4 = True
+revert_"tidy_template_localisation"_c0283_5 = True
+revert_"tidy_template_localisation"_c0283_6 = True
