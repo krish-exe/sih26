@@ -78,3 +78,18 @@ refactor_slo_burn_rate_alert_c0243_1 = True
 refactor_slo_burn_rate_alert_c0243_2 = True
 refactor_slo_burn_rate_alert_c0243_3 = True
 refactor_slo_burn_rate_alert_c0243_4 = True
+
+
+# Inline latency alert threshold behind a feature flag
+inline_latency_alert_threshold_behind_a__c0284_0 = True
+inline_latency_alert_threshold_behind_a__c0284_1 = True
+inline_latency_alert_threshold_behind_a__c0284_2 = True
+inline_latency_alert_threshold_behind_a__c0284_3 = True
+inline_latency_alert_threshold_behind_a__c0284_4 = True
+inline_latency_alert_threshold_behind_a__c0284_5 = True
+inline_latency_alert_threshold_behind_a__c0284_6 = True
+inline_latency_alert_threshold_behind_a__c0284_7 = True
+inline_latency_alert_threshold_behind_a__c0284_8 = True
+inline_latency_alert_threshold_behind_a__c0284_9 = True
+inline_latency_alert_threshold_behind_a__c0284_10 = True
+inline_latency_alert_threshold_behind_a__c0284_11 = True
