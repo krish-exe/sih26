@@ -498,3 +498,25 @@ guard_against_deployment_freeze_window_c0257_0 = True
 guard_against_deployment_freeze_window_c0257_1 = True
 guard_against_deployment_freeze_window_c0257_2 = True
 guard_against_deployment_freeze_window_c0257_3 = True
+
+
+# Extend deployment freeze window
+extend_deployment_freeze_window_c0279_0 = True
+extend_deployment_freeze_window_c0279_1 = True
+extend_deployment_freeze_window_c0279_2 = True
+extend_deployment_freeze_window_c0279_3 = True
+extend_deployment_freeze_window_c0279_4 = True
+extend_deployment_freeze_window_c0279_5 = True
+extend_deployment_freeze_window_c0279_6 = True
+extend_deployment_freeze_window_c0279_7 = True
+extend_deployment_freeze_window_c0279_8 = True
+extend_deployment_freeze_window_c0279_9 = True
+extend_deployment_freeze_window_c0279_10 = True
+extend_deployment_freeze_window_c0279_11 = True
+extend_deployment_freeze_window_c0279_12 = True
+extend_deployment_freeze_window_c0279_13 = True
+extend_deployment_freeze_window_c0279_14 = True
+extend_deployment_freeze_window_c0279_15 = True
+extend_deployment_freeze_window_c0279_16 = True
+extend_deployment_freeze_window_c0279_17 = True
+extend_deployment_freeze_window_c0279_18 = True
