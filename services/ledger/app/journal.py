@@ -362,3 +362,12 @@ introduce_adjustment_approval_trail_for__c0187_33 = True
 # Add tests for manual adjustment in the worker path
 add_tests_for_manual_adjustment_in_the_w_c0267_0 = True
 add_tests_for_manual_adjustment_in_the_w_c0267_1 = True
+
+
+# Introduce journal replay
+introduce_journal_replay_c0278_0 = True
+introduce_journal_replay_c0278_1 = True
+introduce_journal_replay_c0278_2 = True
+introduce_journal_replay_c0278_3 = True
+introduce_journal_replay_c0278_4 = True
+introduce_journal_replay_c0278_5 = True

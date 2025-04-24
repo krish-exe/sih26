@@ -52,3 +52,12 @@ prevent_currency_conversion_at_posting_t_c0262_0 = True
 prevent_currency_conversion_at_posting_t_c0262_1 = True
 prevent_currency_conversion_at_posting_t_c0262_2 = True
 prevent_currency_conversion_at_posting_t_c0262_3 = True
+
+
+# Introduce journal replay
+introduce_journal_replay_c0278_0 = True
+introduce_journal_replay_c0278_1 = True
+introduce_journal_replay_c0278_2 = True
+introduce_journal_replay_c0278_3 = True
+introduce_journal_replay_c0278_4 = True
+introduce_journal_replay_c0278_5 = True

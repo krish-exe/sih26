@@ -338,3 +338,12 @@ prevent_adjustment_approval_trail_c0268_4 = True
 prevent_adjustment_approval_trail_c0268_5 = True
 prevent_adjustment_approval_trail_c0268_6 = True
 prevent_adjustment_approval_trail_c0268_7 = True
+
+
+# Introduce journal replay
+introduce_journal_replay_c0278_0 = True
+introduce_journal_replay_c0278_1 = True
+introduce_journal_replay_c0278_2 = True
+introduce_journal_replay_c0278_3 = True
+introduce_journal_replay_c0278_4 = True
+introduce_journal_replay_c0278_5 = True
