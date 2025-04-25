@@ -60,3 +60,26 @@ fix_bounce_handling_c0269_0 = True
 fix_bounce_handling_c0269_1 = True
 fix_bounce_handling_c0269_2 = True
 fix_bounce_handling_c0269_3 = True
+
+
+# Add notification preference in the worker path
+add_notification_preference_in_the_worke_c0281_0 = True
+add_notification_preference_in_the_worke_c0281_1 = True
+add_notification_preference_in_the_worke_c0281_2 = True
+add_notification_preference_in_the_worke_c0281_3 = True
+add_notification_preference_in_the_worke_c0281_4 = True
+add_notification_preference_in_the_worke_c0281_5 = True
+add_notification_preference_in_the_worke_c0281_6 = True
+add_notification_preference_in_the_worke_c0281_7 = True
+add_notification_preference_in_the_worke_c0281_8 = True
+add_notification_preference_in_the_worke_c0281_9 = True
+add_notification_preference_in_the_worke_c0281_10 = True
+add_notification_preference_in_the_worke_c0281_11 = True
+add_notification_preference_in_the_worke_c0281_12 = True
+add_notification_preference_in_the_worke_c0281_13 = True
+add_notification_preference_in_the_worke_c0281_14 = True
+add_notification_preference_in_the_worke_c0281_15 = True
+add_notification_preference_in_the_worke_c0281_16 = True
+add_notification_preference_in_the_worke_c0281_17 = True
+add_notification_preference_in_the_worke_c0281_18 = True
+add_notification_preference_in_the_worke_c0281_19 = True
