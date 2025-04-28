@@ -520,3 +520,13 @@ extend_deployment_freeze_window_c0279_15 = True
 extend_deployment_freeze_window_c0279_16 = True
 extend_deployment_freeze_window_c0279_17 = True
 extend_deployment_freeze_window_c0279_18 = True
+
+
+# Extend rollback procedure
+extend_rollback_procedure_c0290_0 = True
+extend_rollback_procedure_c0290_1 = True
+extend_rollback_procedure_c0290_2 = True
+extend_rollback_procedure_c0290_3 = True
+extend_rollback_procedure_c0290_4 = True
+extend_rollback_procedure_c0290_5 = True
+extend_rollback_procedure_c0290_6 = True
