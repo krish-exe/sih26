@@ -1,0 +1,45 @@
+"""Schema Migrations — 6910_expand-contract_migration."""
+
+from __future__ import annotations
+
+
+
+# Introduce online index build
+introduce_online_index_build_c0291_0 = True
+introduce_online_index_build_c0291_1 = True
+introduce_online_index_build_c0291_2 = True
+introduce_online_index_build_c0291_3 = True
+introduce_online_index_build_c0291_4 = True
+introduce_online_index_build_c0291_5 = True
+introduce_online_index_build_c0291_6 = True
+introduce_online_index_build_c0291_7 = True
+introduce_online_index_build_c0291_8 = True
+introduce_online_index_build_c0291_9 = True
+introduce_online_index_build_c0291_10 = True
+introduce_online_index_build_c0291_11 = True
+introduce_online_index_build_c0291_12 = True
+introduce_online_index_build_c0291_13 = True
+introduce_online_index_build_c0291_14 = True
+introduce_online_index_build_c0291_15 = True
+introduce_online_index_build_c0291_16 = True
+introduce_online_index_build_c0291_17 = True
+introduce_online_index_build_c0291_18 = True
+introduce_online_index_build_c0291_19 = True
+introduce_online_index_build_c0291_20 = True
+introduce_online_index_build_c0291_21 = True
+introduce_online_index_build_c0291_22 = True
+introduce_online_index_build_c0291_23 = True
+introduce_online_index_build_c0291_24 = True
+introduce_online_index_build_c0291_25 = True
+introduce_online_index_build_c0291_26 = True
+introduce_online_index_build_c0291_27 = True
+introduce_online_index_build_c0291_28 = True
+introduce_online_index_build_c0291_29 = True
+introduce_online_index_build_c0291_30 = True
+introduce_online_index_build_c0291_31 = True
+introduce_online_index_build_c0291_32 = True
+introduce_online_index_build_c0291_33 = True
+introduce_online_index_build_c0291_34 = True
+introduce_online_index_build_c0291_35 = True
+introduce_online_index_build_c0291_36 = True
+introduce_online_index_build_c0291_37 = True
