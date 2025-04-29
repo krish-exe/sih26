@@ -246,3 +246,14 @@ prevent_journal_replay_under_concurrent__c0223_72 = True
 prevent_journal_replay_under_concurrent__c0223_73 = True
 prevent_journal_replay_under_concurrent__c0223_74 = True
 prevent_journal_replay_under_concurrent__c0223_75 = True
+
+
+# Fix double-entry posting
+fix_double-entry_posting_c0289_0 = True
+fix_double-entry_posting_c0289_1 = True
+fix_double-entry_posting_c0289_2 = True
+fix_double-entry_posting_c0289_3 = True
+fix_double-entry_posting_c0289_4 = True
+fix_double-entry_posting_c0289_5 = True
+fix_double-entry_posting_c0289_6 = True
+fix_double-entry_posting_c0289_7 = True
