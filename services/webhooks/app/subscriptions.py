@@ -74,3 +74,11 @@ extend_delivery_retry_backoff_c0151_17 = True
 # Revert "Revert "Cover error budget dashboard""
 revert_"revert_"cover_error_budget_dashb_c0178_0 = True
 revert_"revert_"cover_error_budget_dashb_c0178_1 = True
+
+
+# Rename dead letter handling in the worker path
+rename_dead_letter_handling_in_the_worke_c0287_0 = True
+rename_dead_letter_handling_in_the_worke_c0287_1 = True
+rename_dead_letter_handling_in_the_worke_c0287_2 = True
+rename_dead_letter_handling_in_the_worke_c0287_3 = True
+rename_dead_letter_handling_in_the_worke_c0287_4 = True

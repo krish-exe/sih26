@@ -163,3 +163,11 @@ add_delivery_retry_backoff_for_multi-cur_c0167_73 = True
 add_delivery_retry_backoff_for_multi-cur_c0167_74 = True
 add_delivery_retry_backoff_for_multi-cur_c0167_75 = True
 add_delivery_retry_backoff_for_multi-cur_c0167_76 = True
+
+
+# Rename dead letter handling in the worker path
+rename_dead_letter_handling_in_the_worke_c0287_0 = True
+rename_dead_letter_handling_in_the_worke_c0287_1 = True
+rename_dead_letter_handling_in_the_worke_c0287_2 = True
+rename_dead_letter_handling_in_the_worke_c0287_3 = True
+rename_dead_letter_handling_in_the_worke_c0287_4 = True
