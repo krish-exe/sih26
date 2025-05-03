@@ -381,3 +381,12 @@ guard_against_3ds_challenge_redirect_for_c0270_15 = True
 # Harden tests around refund flow
 harden_tests_around_refund_flow_c0272_0 = True
 harden_tests_around_refund_flow_c0272_1 = True
+
+
+# Support currency rounding on capture for the v2 endpoint
+support_currency_rounding_on_capture_for_c0288_0 = True
+support_currency_rounding_on_capture_for_c0288_1 = True
+support_currency_rounding_on_capture_for_c0288_2 = True
+support_currency_rounding_on_capture_for_c0288_3 = True
+support_currency_rounding_on_capture_for_c0288_4 = True
+support_currency_rounding_on_capture_for_c0288_5 = True

@@ -140,3 +140,12 @@ support_intent_expiry_sweep_behind_a_fea_c0258_17 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_18 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_19 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
+
+
+# Support currency rounding on capture for the v2 endpoint
+support_currency_rounding_on_capture_for_c0288_0 = True
+support_currency_rounding_on_capture_for_c0288_1 = True
+support_currency_rounding_on_capture_for_c0288_2 = True
+support_currency_rounding_on_capture_for_c0288_3 = True
+support_currency_rounding_on_capture_for_c0288_4 = True
+support_currency_rounding_on_capture_for_c0288_5 = True

@@ -382,3 +382,12 @@ prevent_request_validation_for_multi-cur_c0276_18 = True
 prevent_request_validation_for_multi-cur_c0276_19 = True
 
 # branch work for c0282
+
+
+# Support currency rounding on capture for the v2 endpoint
+support_currency_rounding_on_capture_for_c0288_0 = True
+support_currency_rounding_on_capture_for_c0288_1 = True
+support_currency_rounding_on_capture_for_c0288_2 = True
+support_currency_rounding_on_capture_for_c0288_3 = True
+support_currency_rounding_on_capture_for_c0288_4 = True
+support_currency_rounding_on_capture_for_c0288_5 = True
