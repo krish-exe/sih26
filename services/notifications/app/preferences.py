@@ -94,3 +94,37 @@ fix_bounce_handling_c0269_0 = True
 fix_bounce_handling_c0269_1 = True
 fix_bounce_handling_c0269_2 = True
 fix_bounce_handling_c0269_3 = True
+
+
+# Revert "Simplify delivery retry backoff"
+revert_"simplify_delivery_retry_backoff"_c0303_0 = True
+revert_"simplify_delivery_retry_backoff"_c0303_1 = True
+revert_"simplify_delivery_retry_backoff"_c0303_2 = True
+revert_"simplify_delivery_retry_backoff"_c0303_3 = True
+revert_"simplify_delivery_retry_backoff"_c0303_4 = True
+revert_"simplify_delivery_retry_backoff"_c0303_5 = True
+revert_"simplify_delivery_retry_backoff"_c0303_6 = True
+revert_"simplify_delivery_retry_backoff"_c0303_7 = True
+revert_"simplify_delivery_retry_backoff"_c0303_8 = True
+revert_"simplify_delivery_retry_backoff"_c0303_9 = True
+revert_"simplify_delivery_retry_backoff"_c0303_10 = True
+revert_"simplify_delivery_retry_backoff"_c0303_11 = True
+revert_"simplify_delivery_retry_backoff"_c0303_12 = True
+revert_"simplify_delivery_retry_backoff"_c0303_13 = True
+revert_"simplify_delivery_retry_backoff"_c0303_14 = True
+revert_"simplify_delivery_retry_backoff"_c0303_15 = True
+revert_"simplify_delivery_retry_backoff"_c0303_16 = True
+revert_"simplify_delivery_retry_backoff"_c0303_17 = True
+revert_"simplify_delivery_retry_backoff"_c0303_18 = True
+revert_"simplify_delivery_retry_backoff"_c0303_19 = True
+revert_"simplify_delivery_retry_backoff"_c0303_20 = True
+revert_"simplify_delivery_retry_backoff"_c0303_21 = True
+revert_"simplify_delivery_retry_backoff"_c0303_22 = True
+revert_"simplify_delivery_retry_backoff"_c0303_23 = True
+revert_"simplify_delivery_retry_backoff"_c0303_24 = True
+revert_"simplify_delivery_retry_backoff"_c0303_25 = True
+revert_"simplify_delivery_retry_backoff"_c0303_26 = True
+revert_"simplify_delivery_retry_backoff"_c0303_27 = True
+revert_"simplify_delivery_retry_backoff"_c0303_28 = True
+revert_"simplify_delivery_retry_backoff"_c0303_29 = True
+revert_"simplify_delivery_retry_backoff"_c0303_30 = True
