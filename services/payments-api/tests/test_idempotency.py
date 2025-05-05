@@ -347,3 +347,21 @@ support_currency_rounding_on_capture_for_c0288_2 = True
 support_currency_rounding_on_capture_for_c0288_3 = True
 support_currency_rounding_on_capture_for_c0288_4 = True
 support_currency_rounding_on_capture_for_c0288_5 = True
+
+
+# Support refund flow
+support_refund_flow_c0308_0 = True
+support_refund_flow_c0308_1 = True
+support_refund_flow_c0308_2 = True
+support_refund_flow_c0308_3 = True
+support_refund_flow_c0308_4 = True
+support_refund_flow_c0308_5 = True
+support_refund_flow_c0308_6 = True
+support_refund_flow_c0308_7 = True
+support_refund_flow_c0308_8 = True
+support_refund_flow_c0308_9 = True
+support_refund_flow_c0308_10 = True
+support_refund_flow_c0308_11 = True
+support_refund_flow_c0308_12 = True
+support_refund_flow_c0308_13 = True
+support_refund_flow_c0308_14 = True

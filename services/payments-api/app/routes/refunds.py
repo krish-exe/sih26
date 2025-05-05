@@ -292,3 +292,21 @@ standardise_structured_logging_fields_ac_sweep02_132 = True
 standardise_structured_logging_fields_ac_sweep02_133 = True
 standardise_structured_logging_fields_ac_sweep02_134 = True
 standardise_structured_logging_fields_ac_sweep02_135 = True
+
+
+# Support refund flow
+support_refund_flow_c0308_0 = True
+support_refund_flow_c0308_1 = True
+support_refund_flow_c0308_2 = True
+support_refund_flow_c0308_3 = True
+support_refund_flow_c0308_4 = True
+support_refund_flow_c0308_5 = True
+support_refund_flow_c0308_6 = True
+support_refund_flow_c0308_7 = True
+support_refund_flow_c0308_8 = True
+support_refund_flow_c0308_9 = True
+support_refund_flow_c0308_10 = True
+support_refund_flow_c0308_11 = True
+support_refund_flow_c0308_12 = True
+support_refund_flow_c0308_13 = True
+support_refund_flow_c0308_14 = True
