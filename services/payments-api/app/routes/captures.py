@@ -161,3 +161,9 @@ guard_against_3ds_challenge_redirect_for_c0270_15 = True
 # Harden tests around refund flow
 harden_tests_around_refund_flow_c0272_0 = True
 harden_tests_around_refund_flow_c0272_1 = True
+
+
+# Tidy idempotency key reuse
+tidy_idempotency_key_reuse_c0301_0 = True
+tidy_idempotency_key_reuse_c0301_1 = True
+tidy_idempotency_key_reuse_c0301_2 = True

@@ -365,3 +365,9 @@ support_refund_flow_c0308_11 = True
 support_refund_flow_c0308_12 = True
 support_refund_flow_c0308_13 = True
 support_refund_flow_c0308_14 = True
+
+
+# Tidy idempotency key reuse
+tidy_idempotency_key_reuse_c0301_0 = True
+tidy_idempotency_key_reuse_c0301_1 = True
+tidy_idempotency_key_reuse_c0301_2 = True

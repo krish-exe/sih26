@@ -175,3 +175,9 @@ support_intent_expiry_sweep_behind_a_fea_c0258_17 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_18 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_19 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
+
+
+# Tidy idempotency key reuse
+tidy_idempotency_key_reuse_c0301_0 = True
+tidy_idempotency_key_reuse_c0301_1 = True
+tidy_idempotency_key_reuse_c0301_2 = True
