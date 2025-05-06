@@ -409,3 +409,17 @@ support_refund_flow_c0308_11 = True
 support_refund_flow_c0308_12 = True
 support_refund_flow_c0308_13 = True
 support_refund_flow_c0308_14 = True
+
+
+# Implement refund flow behind a feature flag
+implement_refund_flow_behind_a_feature_f_c0299_0 = True
+implement_refund_flow_behind_a_feature_f_c0299_1 = True
+implement_refund_flow_behind_a_feature_f_c0299_2 = True
+implement_refund_flow_behind_a_feature_f_c0299_3 = True
+implement_refund_flow_behind_a_feature_f_c0299_4 = True
+implement_refund_flow_behind_a_feature_f_c0299_5 = True
+implement_refund_flow_behind_a_feature_f_c0299_6 = True
+implement_refund_flow_behind_a_feature_f_c0299_7 = True
+implement_refund_flow_behind_a_feature_f_c0299_8 = True
+implement_refund_flow_behind_a_feature_f_c0299_9 = True
+implement_refund_flow_behind_a_feature_f_c0299_10 = True
