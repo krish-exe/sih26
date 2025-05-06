@@ -309,3 +309,14 @@ revert_"tidy_template_localisation"_c0283_3 = True
 revert_"tidy_template_localisation"_c0283_4 = True
 revert_"tidy_template_localisation"_c0283_5 = True
 revert_"tidy_template_localisation"_c0283_6 = True
+
+
+# Add tests for acquirer file import
+add_tests_for_acquirer_file_import_c0298_0 = True
+add_tests_for_acquirer_file_import_c0298_1 = True
+add_tests_for_acquirer_file_import_c0298_2 = True
+add_tests_for_acquirer_file_import_c0298_3 = True
+add_tests_for_acquirer_file_import_c0298_4 = True
+add_tests_for_acquirer_file_import_c0298_5 = True
+add_tests_for_acquirer_file_import_c0298_6 = True
+add_tests_for_acquirer_file_import_c0298_7 = True
