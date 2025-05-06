@@ -184,3 +184,16 @@ support_intent_expiry_sweep_behind_a_fea_c0258_17 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_18 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_19 = True
 support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
+
+
+# Extend intent expiry sweep
+extend_intent_expiry_sweep_c0307_0 = True
+extend_intent_expiry_sweep_c0307_1 = True
+extend_intent_expiry_sweep_c0307_2 = True
+extend_intent_expiry_sweep_c0307_3 = True
+extend_intent_expiry_sweep_c0307_4 = True
+extend_intent_expiry_sweep_c0307_5 = True
+extend_intent_expiry_sweep_c0307_6 = True
+extend_intent_expiry_sweep_c0307_7 = True
+extend_intent_expiry_sweep_c0307_8 = True
+extend_intent_expiry_sweep_c0307_9 = True

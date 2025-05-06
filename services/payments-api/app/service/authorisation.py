@@ -186,3 +186,16 @@ support_3ds_challenge_redirect_c0196_3 = True
 support_3ds_challenge_redirect_c0196_4 = True
 support_3ds_challenge_redirect_c0196_5 = True
 support_3ds_challenge_redirect_c0196_6 = True
+
+
+# Extend intent expiry sweep
+extend_intent_expiry_sweep_c0307_0 = True
+extend_intent_expiry_sweep_c0307_1 = True
+extend_intent_expiry_sweep_c0307_2 = True
+extend_intent_expiry_sweep_c0307_3 = True
+extend_intent_expiry_sweep_c0307_4 = True
+extend_intent_expiry_sweep_c0307_5 = True
+extend_intent_expiry_sweep_c0307_6 = True
+extend_intent_expiry_sweep_c0307_7 = True
+extend_intent_expiry_sweep_c0307_8 = True
+extend_intent_expiry_sweep_c0307_9 = True

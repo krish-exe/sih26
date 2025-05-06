@@ -252,3 +252,16 @@ prevent_request_validation_for_multi-cur_c0276_16 = True
 prevent_request_validation_for_multi-cur_c0276_17 = True
 prevent_request_validation_for_multi-cur_c0276_18 = True
 prevent_request_validation_for_multi-cur_c0276_19 = True
+
+
+# Extend intent expiry sweep
+extend_intent_expiry_sweep_c0307_0 = True
+extend_intent_expiry_sweep_c0307_1 = True
+extend_intent_expiry_sweep_c0307_2 = True
+extend_intent_expiry_sweep_c0307_3 = True
+extend_intent_expiry_sweep_c0307_4 = True
+extend_intent_expiry_sweep_c0307_5 = True
+extend_intent_expiry_sweep_c0307_6 = True
+extend_intent_expiry_sweep_c0307_7 = True
+extend_intent_expiry_sweep_c0307_8 = True
+extend_intent_expiry_sweep_c0307_9 = True
