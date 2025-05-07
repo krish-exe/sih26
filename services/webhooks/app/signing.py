@@ -144,3 +144,17 @@ correct_endpoint_health_check_for_delega_c0294_41 = True
 correct_endpoint_health_check_for_delega_c0294_42 = True
 correct_endpoint_health_check_for_delega_c0294_43 = True
 correct_endpoint_health_check_for_delega_c0294_44 = True
+
+
+# Simplify delivery retry backoff
+simplify_delivery_retry_backoff_c0302_0 = True
+simplify_delivery_retry_backoff_c0302_1 = True
+simplify_delivery_retry_backoff_c0302_2 = True
+simplify_delivery_retry_backoff_c0302_3 = True
+simplify_delivery_retry_backoff_c0302_4 = True
+simplify_delivery_retry_backoff_c0302_5 = True
+simplify_delivery_retry_backoff_c0302_6 = True
+simplify_delivery_retry_backoff_c0302_7 = True
+simplify_delivery_retry_backoff_c0302_8 = True
+simplify_delivery_retry_backoff_c0302_9 = True
+simplify_delivery_retry_backoff_c0302_10 = True

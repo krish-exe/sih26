@@ -277,3 +277,17 @@ introduce_subscription_management_in_the_c0252_16 = True
 introduce_subscription_management_in_the_c0252_17 = True
 introduce_subscription_management_in_the_c0252_18 = True
 introduce_subscription_management_in_the_c0252_19 = True
+
+
+# Simplify delivery retry backoff
+simplify_delivery_retry_backoff_c0302_0 = True
+simplify_delivery_retry_backoff_c0302_1 = True
+simplify_delivery_retry_backoff_c0302_2 = True
+simplify_delivery_retry_backoff_c0302_3 = True
+simplify_delivery_retry_backoff_c0302_4 = True
+simplify_delivery_retry_backoff_c0302_5 = True
+simplify_delivery_retry_backoff_c0302_6 = True
+simplify_delivery_retry_backoff_c0302_7 = True
+simplify_delivery_retry_backoff_c0302_8 = True
+simplify_delivery_retry_backoff_c0302_9 = True
+simplify_delivery_retry_backoff_c0302_10 = True
