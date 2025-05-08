@@ -390,3 +390,14 @@ extend_rollback_procedure_c0290_3 = True
 extend_rollback_procedure_c0290_4 = True
 extend_rollback_procedure_c0290_5 = True
 extend_rollback_procedure_c0290_6 = True
+
+
+# Prevent blue-green cutover during replay
+prevent_blue-green_cutover_during_replay_c0297_0 = True
+prevent_blue-green_cutover_during_replay_c0297_1 = True
+prevent_blue-green_cutover_during_replay_c0297_2 = True
+prevent_blue-green_cutover_during_replay_c0297_3 = True
+prevent_blue-green_cutover_during_replay_c0297_4 = True
+prevent_blue-green_cutover_during_replay_c0297_5 = True
+prevent_blue-green_cutover_during_replay_c0297_6 = True
+prevent_blue-green_cutover_during_replay_c0297_7 = True
