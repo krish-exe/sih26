@@ -67,3 +67,24 @@ fix_merchant_impersonation_guard_under_c_c0192_2 = True
 fix_merchant_impersonation_guard_under_c_c0192_3 = True
 fix_merchant_impersonation_guard_under_c_c0192_4 = True
 fix_merchant_impersonation_guard_under_c_c0192_5 = True
+
+
+# Fix API key rotation when the upstream times out
+fix_api_key_rotation_when_the_upstream_t_c0300_0 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_1 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_2 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_3 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_4 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_5 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_6 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_7 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_8 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_9 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_10 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_11 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_12 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_13 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_14 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_15 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_16 = True
+fix_api_key_rotation_when_the_upstream_t_c0300_17 = True
