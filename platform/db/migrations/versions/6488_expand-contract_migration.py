@@ -1,0 +1,51 @@
+"""Schema Migrations — 6488_expand-contract_migration."""
+
+from __future__ import annotations
+
+
+
+# Add constraint validation pass
+add_constraint_validation_pass_c0309_0 = True
+add_constraint_validation_pass_c0309_1 = True
+add_constraint_validation_pass_c0309_2 = True
+add_constraint_validation_pass_c0309_3 = True
+add_constraint_validation_pass_c0309_4 = True
+add_constraint_validation_pass_c0309_5 = True
+add_constraint_validation_pass_c0309_6 = True
+add_constraint_validation_pass_c0309_7 = True
+add_constraint_validation_pass_c0309_8 = True
+add_constraint_validation_pass_c0309_9 = True
+add_constraint_validation_pass_c0309_10 = True
+add_constraint_validation_pass_c0309_11 = True
+add_constraint_validation_pass_c0309_12 = True
+add_constraint_validation_pass_c0309_13 = True
+add_constraint_validation_pass_c0309_14 = True
+add_constraint_validation_pass_c0309_15 = True
+add_constraint_validation_pass_c0309_16 = True
+add_constraint_validation_pass_c0309_17 = True
+add_constraint_validation_pass_c0309_18 = True
+add_constraint_validation_pass_c0309_19 = True
+add_constraint_validation_pass_c0309_20 = True
+add_constraint_validation_pass_c0309_21 = True
+add_constraint_validation_pass_c0309_22 = True
+add_constraint_validation_pass_c0309_23 = True
+add_constraint_validation_pass_c0309_24 = True
+add_constraint_validation_pass_c0309_25 = True
+add_constraint_validation_pass_c0309_26 = True
+add_constraint_validation_pass_c0309_27 = True
+add_constraint_validation_pass_c0309_28 = True
+add_constraint_validation_pass_c0309_29 = True
+add_constraint_validation_pass_c0309_30 = True
+add_constraint_validation_pass_c0309_31 = True
+add_constraint_validation_pass_c0309_32 = True
+add_constraint_validation_pass_c0309_33 = True
+add_constraint_validation_pass_c0309_34 = True
+add_constraint_validation_pass_c0309_35 = True
+add_constraint_validation_pass_c0309_36 = True
+add_constraint_validation_pass_c0309_37 = True
+add_constraint_validation_pass_c0309_38 = True
+add_constraint_validation_pass_c0309_39 = True
+add_constraint_validation_pass_c0309_40 = True
+add_constraint_validation_pass_c0309_41 = True
+add_constraint_validation_pass_c0309_42 = True
+add_constraint_validation_pass_c0309_43 = True
