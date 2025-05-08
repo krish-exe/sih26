@@ -163,3 +163,20 @@ revert_"tidy_template_localisation"_c0283_3 = True
 revert_"tidy_template_localisation"_c0283_4 = True
 revert_"tidy_template_localisation"_c0283_5 = True
 revert_"tidy_template_localisation"_c0283_6 = True
+
+
+# Rename settlement matching
+rename_settlement_matching_c0306_0 = True
+rename_settlement_matching_c0306_1 = True
+rename_settlement_matching_c0306_2 = True
+rename_settlement_matching_c0306_3 = True
+rename_settlement_matching_c0306_4 = True
+rename_settlement_matching_c0306_5 = True
+rename_settlement_matching_c0306_6 = True
+rename_settlement_matching_c0306_7 = True
+rename_settlement_matching_c0306_8 = True
+rename_settlement_matching_c0306_9 = True
+rename_settlement_matching_c0306_10 = True
+rename_settlement_matching_c0306_11 = True
+rename_settlement_matching_c0306_12 = True
+rename_settlement_matching_c0306_13 = True
