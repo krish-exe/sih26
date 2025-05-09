@@ -202,3 +202,10 @@ introduce_online_index_build_c0291_34 = True
 introduce_online_index_build_c0291_35 = True
 introduce_online_index_build_c0291_36 = True
 introduce_online_index_build_c0291_37 = True
+
+
+# Add constraint validation pass for multi-currency merchants
+add_constraint_validation_pass_for_multi_c0304_0 = True
+add_constraint_validation_pass_for_multi_c0304_1 = True
+add_constraint_validation_pass_for_multi_c0304_2 = True
+add_constraint_validation_pass_for_multi_c0304_3 = True
