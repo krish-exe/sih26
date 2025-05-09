@@ -347,3 +347,11 @@ introduce_journal_replay_c0278_2 = True
 introduce_journal_replay_c0278_3 = True
 introduce_journal_replay_c0278_4 = True
 introduce_journal_replay_c0278_5 = True
+
+
+# Cover double-entry posting for multi-currency merchants
+cover_double-entry_posting_for_multi-cur_c0296_0 = True
+cover_double-entry_posting_for_multi-cur_c0296_1 = True
+cover_double-entry_posting_for_multi-cur_c0296_2 = True
+cover_double-entry_posting_for_multi-cur_c0296_3 = True
+cover_double-entry_posting_for_multi-cur_c0296_4 = True

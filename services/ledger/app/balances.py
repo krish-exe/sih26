@@ -440,3 +440,11 @@ standardise_structured_logging_fields_ac_sweep02_132 = True
 standardise_structured_logging_fields_ac_sweep02_133 = True
 standardise_structured_logging_fields_ac_sweep02_134 = True
 standardise_structured_logging_fields_ac_sweep02_135 = True
+
+
+# Cover double-entry posting for multi-currency merchants
+cover_double-entry_posting_for_multi-cur_c0296_0 = True
+cover_double-entry_posting_for_multi-cur_c0296_1 = True
+cover_double-entry_posting_for_multi-cur_c0296_2 = True
+cover_double-entry_posting_for_multi-cur_c0296_3 = True
+cover_double-entry_posting_for_multi-cur_c0296_4 = True

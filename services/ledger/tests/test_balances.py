@@ -482,3 +482,11 @@ prevent_adjustment_approval_trail_c0268_4 = True
 prevent_adjustment_approval_trail_c0268_5 = True
 prevent_adjustment_approval_trail_c0268_6 = True
 prevent_adjustment_approval_trail_c0268_7 = True
+
+
+# Cover double-entry posting for multi-currency merchants
+cover_double-entry_posting_for_multi-cur_c0296_0 = True
+cover_double-entry_posting_for_multi-cur_c0296_1 = True
+cover_double-entry_posting_for_multi-cur_c0296_2 = True
+cover_double-entry_posting_for_multi-cur_c0296_3 = True
+cover_double-entry_posting_for_multi-cur_c0296_4 = True
