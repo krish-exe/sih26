@@ -371,3 +371,32 @@ support_refund_flow_c0308_14 = True
 tidy_idempotency_key_reuse_c0301_0 = True
 tidy_idempotency_key_reuse_c0301_1 = True
 tidy_idempotency_key_reuse_c0301_2 = True
+
+
+# Refactor partial capture handling
+refactor_partial_capture_handling_c0314_0 = True
+refactor_partial_capture_handling_c0314_1 = True
+refactor_partial_capture_handling_c0314_2 = True
+refactor_partial_capture_handling_c0314_3 = True
+refactor_partial_capture_handling_c0314_4 = True
+refactor_partial_capture_handling_c0314_5 = True
+refactor_partial_capture_handling_c0314_6 = True
+refactor_partial_capture_handling_c0314_7 = True
+refactor_partial_capture_handling_c0314_8 = True
+refactor_partial_capture_handling_c0314_9 = True
+refactor_partial_capture_handling_c0314_10 = True
+refactor_partial_capture_handling_c0314_11 = True
+refactor_partial_capture_handling_c0314_12 = True
+refactor_partial_capture_handling_c0314_13 = True
+refactor_partial_capture_handling_c0314_14 = True
+refactor_partial_capture_handling_c0314_15 = True
+refactor_partial_capture_handling_c0314_16 = True
+refactor_partial_capture_handling_c0314_17 = True
+refactor_partial_capture_handling_c0314_18 = True
+refactor_partial_capture_handling_c0314_19 = True
+refactor_partial_capture_handling_c0314_20 = True
+refactor_partial_capture_handling_c0314_21 = True
+refactor_partial_capture_handling_c0314_22 = True
+refactor_partial_capture_handling_c0314_23 = True
+refactor_partial_capture_handling_c0314_24 = True
+refactor_partial_capture_handling_c0314_25 = True
