@@ -204,3 +204,7 @@ add_settlement_matching_in_the_worker_pa_c0266_12 = True
 add_settlement_matching_in_the_worker_pa_c0266_13 = True
 add_settlement_matching_in_the_worker_pa_c0266_14 = True
 add_settlement_matching_in_the_worker_pa_c0266_15 = True
+
+
+# Simplify acquirer file import in the batch importer
+simplify_acquirer_file_import_in_the_bat_c0313_0 = True

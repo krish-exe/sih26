@@ -180,3 +180,7 @@ rename_settlement_matching_c0306_10 = True
 rename_settlement_matching_c0306_11 = True
 rename_settlement_matching_c0306_12 = True
 rename_settlement_matching_c0306_13 = True
+
+
+# Simplify acquirer file import in the batch importer
+simplify_acquirer_file_import_in_the_bat_c0313_0 = True
