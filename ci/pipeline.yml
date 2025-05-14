@@ -101,3 +101,34 @@ ci:_regenerate_lockfile_c0293_36 = True
 ci:_regenerate_lockfile_c0293_37 = True
 ci:_regenerate_lockfile_c0293_38 = True
 ci:_regenerate_lockfile_c0293_39 = True
+
+
+# ci: regenerate openapi schema
+ci:_regenerate_openapi_schema_c0310_0 = True
+ci:_regenerate_openapi_schema_c0310_1 = True
+ci:_regenerate_openapi_schema_c0310_2 = True
+ci:_regenerate_openapi_schema_c0310_3 = True
+ci:_regenerate_openapi_schema_c0310_4 = True
+ci:_regenerate_openapi_schema_c0310_5 = True
+ci:_regenerate_openapi_schema_c0310_6 = True
+ci:_regenerate_openapi_schema_c0310_7 = True
+ci:_regenerate_openapi_schema_c0310_8 = True
+ci:_regenerate_openapi_schema_c0310_9 = True
+ci:_regenerate_openapi_schema_c0310_10 = True
+ci:_regenerate_openapi_schema_c0310_11 = True
+ci:_regenerate_openapi_schema_c0310_12 = True
+ci:_regenerate_openapi_schema_c0310_13 = True
+ci:_regenerate_openapi_schema_c0310_14 = True
+ci:_regenerate_openapi_schema_c0310_15 = True
+ci:_regenerate_openapi_schema_c0310_16 = True
+ci:_regenerate_openapi_schema_c0310_17 = True
+ci:_regenerate_openapi_schema_c0310_18 = True
+ci:_regenerate_openapi_schema_c0310_19 = True
+ci:_regenerate_openapi_schema_c0310_20 = True
+ci:_regenerate_openapi_schema_c0310_21 = True
+ci:_regenerate_openapi_schema_c0310_22 = True
+ci:_regenerate_openapi_schema_c0310_23 = True
+ci:_regenerate_openapi_schema_c0310_24 = True
+ci:_regenerate_openapi_schema_c0310_25 = True
+ci:_regenerate_openapi_schema_c0310_26 = True
+ci:_regenerate_openapi_schema_c0310_27 = True
