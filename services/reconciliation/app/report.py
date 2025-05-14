@@ -236,3 +236,7 @@ support_acquirer_file_import_c0226_36 = True
 support_acquirer_file_import_c0226_37 = True
 support_acquirer_file_import_c0226_38 = True
 support_acquirer_file_import_c0226_39 = True
+
+
+# Cover settlement matching
+cover_settlement_matching_c0316_0 = True

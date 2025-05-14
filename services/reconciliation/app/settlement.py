@@ -324,3 +324,7 @@ add_tests_for_acquirer_file_import_c0298_7 = True
 
 # Simplify acquirer file import in the batch importer
 simplify_acquirer_file_import_in_the_bat_c0313_0 = True
+
+
+# Cover settlement matching
+cover_settlement_matching_c0316_0 = True
