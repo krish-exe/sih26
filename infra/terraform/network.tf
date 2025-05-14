@@ -93,3 +93,13 @@ handle_iam_role_scope_c0295_28 = True
 handle_iam_role_scope_c0295_29 = True
 handle_iam_role_scope_c0295_30 = True
 handle_iam_role_scope_c0295_31 = True
+
+
+# Guard against network policy when the queue is saturated for the sandbox environment
+guard_against_network_policy_when_the_qu_c0315_0 = True
+guard_against_network_policy_when_the_qu_c0315_1 = True
+guard_against_network_policy_when_the_qu_c0315_2 = True
+guard_against_network_policy_when_the_qu_c0315_3 = True
+guard_against_network_policy_when_the_qu_c0315_4 = True
+guard_against_network_policy_when_the_qu_c0315_5 = True
+guard_against_network_policy_when_the_qu_c0315_6 = True

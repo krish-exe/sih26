@@ -236,3 +236,13 @@ support_autoscaling_threshold_c0240_5 = True
 support_autoscaling_threshold_c0240_6 = True
 support_autoscaling_threshold_c0240_7 = True
 support_autoscaling_threshold_c0240_8 = True
+
+
+# Guard against network policy when the queue is saturated for the sandbox environment
+guard_against_network_policy_when_the_qu_c0315_0 = True
+guard_against_network_policy_when_the_qu_c0315_1 = True
+guard_against_network_policy_when_the_qu_c0315_2 = True
+guard_against_network_policy_when_the_qu_c0315_3 = True
+guard_against_network_policy_when_the_qu_c0315_4 = True
+guard_against_network_policy_when_the_qu_c0315_5 = True
+guard_against_network_policy_when_the_qu_c0315_6 = True
