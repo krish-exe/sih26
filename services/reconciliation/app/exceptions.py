@@ -472,3 +472,9 @@ revert_"tidy_template_localisation"_c0283_3 = True
 revert_"tidy_template_localisation"_c0283_4 = True
 revert_"tidy_template_localisation"_c0283_5 = True
 revert_"tidy_template_localisation"_c0283_6 = True
+
+
+# Support acquirer file import
+support_acquirer_file_import_c0317_0 = True
+support_acquirer_file_import_c0317_1 = True
+support_acquirer_file_import_c0317_2 = True

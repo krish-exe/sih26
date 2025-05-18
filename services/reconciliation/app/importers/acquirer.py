@@ -208,3 +208,9 @@ add_settlement_matching_in_the_worker_pa_c0266_15 = True
 
 # Simplify acquirer file import in the batch importer
 simplify_acquirer_file_import_in_the_bat_c0313_0 = True
+
+
+# Support acquirer file import
+support_acquirer_file_import_c0317_0 = True
+support_acquirer_file_import_c0317_1 = True
+support_acquirer_file_import_c0317_2 = True

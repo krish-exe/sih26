@@ -226,3 +226,9 @@ prevent_exception_queue_triage_for_out-o_c0225_4 = True
 
 # Cover settlement matching
 cover_settlement_matching_c0316_0 = True
+
+
+# Support acquirer file import
+support_acquirer_file_import_c0317_0 = True
+support_acquirer_file_import_c0317_1 = True
+support_acquirer_file_import_c0317_2 = True
