@@ -103,3 +103,24 @@ guard_against_network_policy_when_the_qu_c0315_3 = True
 guard_against_network_policy_when_the_qu_c0315_4 = True
 guard_against_network_policy_when_the_qu_c0315_5 = True
 guard_against_network_policy_when_the_qu_c0315_6 = True
+
+
+# Split pod resource limit for the v2 endpoint
+split_pod_resource_limit_for_the_v2_endp_c0320_0 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_1 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_2 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_3 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_4 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_5 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_6 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_7 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_8 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_9 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_10 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_11 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_12 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_13 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_14 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_15 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_16 = True
+split_pod_resource_limit_for_the_v2_endp_c0320_17 = True
