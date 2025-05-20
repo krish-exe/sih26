@@ -698,3 +698,12 @@ refactor_constraint_validation_pass_c0286_46 = True
 refactor_constraint_validation_pass_c0286_47 = True
 refactor_constraint_validation_pass_c0286_48 = True
 refactor_constraint_validation_pass_c0286_49 = True
+
+
+# Revert "Fix API key rotation when the upstream times out"
+revert_"fix_api_key_rotation_when_the_up_c0318_0 = True
+revert_"fix_api_key_rotation_when_the_up_c0318_1 = True
+revert_"fix_api_key_rotation_when_the_up_c0318_2 = True
+revert_"fix_api_key_rotation_when_the_up_c0318_3 = True
+revert_"fix_api_key_rotation_when_the_up_c0318_4 = True
+revert_"fix_api_key_rotation_when_the_up_c0318_5 = True
