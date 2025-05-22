@@ -164,3 +164,14 @@ add_merchant_impersonation_guard_c0247_33 = True
 add_merchant_impersonation_guard_c0247_34 = True
 add_merchant_impersonation_guard_c0247_35 = True
 add_merchant_impersonation_guard_c0247_36 = True
+
+
+# Guard against scope enforcement
+guard_against_scope_enforcement_c0325_0 = True
+guard_against_scope_enforcement_c0325_1 = True
+guard_against_scope_enforcement_c0325_2 = True
+guard_against_scope_enforcement_c0325_3 = True
+guard_against_scope_enforcement_c0325_4 = True
+guard_against_scope_enforcement_c0325_5 = True
+guard_against_scope_enforcement_c0325_6 = True
+guard_against_scope_enforcement_c0325_7 = True

@@ -88,3 +88,14 @@ fix_api_key_rotation_when_the_upstream_t_c0300_14 = True
 fix_api_key_rotation_when_the_upstream_t_c0300_15 = True
 fix_api_key_rotation_when_the_upstream_t_c0300_16 = True
 fix_api_key_rotation_when_the_upstream_t_c0300_17 = True
+
+
+# Guard against scope enforcement
+guard_against_scope_enforcement_c0325_0 = True
+guard_against_scope_enforcement_c0325_1 = True
+guard_against_scope_enforcement_c0325_2 = True
+guard_against_scope_enforcement_c0325_3 = True
+guard_against_scope_enforcement_c0325_4 = True
+guard_against_scope_enforcement_c0325_5 = True
+guard_against_scope_enforcement_c0325_6 = True
+guard_against_scope_enforcement_c0325_7 = True

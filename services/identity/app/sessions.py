@@ -301,3 +301,14 @@ implement_merchant_impersonation_guard_c0305_24 = True
 implement_merchant_impersonation_guard_c0305_25 = True
 implement_merchant_impersonation_guard_c0305_26 = True
 implement_merchant_impersonation_guard_c0305_27 = True
+
+
+# Guard against scope enforcement
+guard_against_scope_enforcement_c0325_0 = True
+guard_against_scope_enforcement_c0325_1 = True
+guard_against_scope_enforcement_c0325_2 = True
+guard_against_scope_enforcement_c0325_3 = True
+guard_against_scope_enforcement_c0325_4 = True
+guard_against_scope_enforcement_c0325_5 = True
+guard_against_scope_enforcement_c0325_6 = True
+guard_against_scope_enforcement_c0325_7 = True
