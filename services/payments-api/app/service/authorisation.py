@@ -199,3 +199,24 @@ extend_intent_expiry_sweep_c0307_6 = True
 extend_intent_expiry_sweep_c0307_7 = True
 extend_intent_expiry_sweep_c0307_8 = True
 extend_intent_expiry_sweep_c0307_9 = True
+
+
+# Rename idempotency key reuse
+rename_idempotency_key_reuse_c0322_0 = True
+rename_idempotency_key_reuse_c0322_1 = True
+rename_idempotency_key_reuse_c0322_2 = True
+rename_idempotency_key_reuse_c0322_3 = True
+rename_idempotency_key_reuse_c0322_4 = True
+rename_idempotency_key_reuse_c0322_5 = True
+rename_idempotency_key_reuse_c0322_6 = True
+rename_idempotency_key_reuse_c0322_7 = True
+rename_idempotency_key_reuse_c0322_8 = True
+rename_idempotency_key_reuse_c0322_9 = True
+rename_idempotency_key_reuse_c0322_10 = True
+rename_idempotency_key_reuse_c0322_11 = True
+rename_idempotency_key_reuse_c0322_12 = True
+rename_idempotency_key_reuse_c0322_13 = True
+rename_idempotency_key_reuse_c0322_14 = True
+rename_idempotency_key_reuse_c0322_15 = True
+rename_idempotency_key_reuse_c0322_16 = True
+rename_idempotency_key_reuse_c0322_17 = True

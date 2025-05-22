@@ -181,3 +181,24 @@ support_intent_expiry_sweep_behind_a_fea_c0258_20 = True
 tidy_idempotency_key_reuse_c0301_0 = True
 tidy_idempotency_key_reuse_c0301_1 = True
 tidy_idempotency_key_reuse_c0301_2 = True
+
+
+# Rename idempotency key reuse
+rename_idempotency_key_reuse_c0322_0 = True
+rename_idempotency_key_reuse_c0322_1 = True
+rename_idempotency_key_reuse_c0322_2 = True
+rename_idempotency_key_reuse_c0322_3 = True
+rename_idempotency_key_reuse_c0322_4 = True
+rename_idempotency_key_reuse_c0322_5 = True
+rename_idempotency_key_reuse_c0322_6 = True
+rename_idempotency_key_reuse_c0322_7 = True
+rename_idempotency_key_reuse_c0322_8 = True
+rename_idempotency_key_reuse_c0322_9 = True
+rename_idempotency_key_reuse_c0322_10 = True
+rename_idempotency_key_reuse_c0322_11 = True
+rename_idempotency_key_reuse_c0322_12 = True
+rename_idempotency_key_reuse_c0322_13 = True
+rename_idempotency_key_reuse_c0322_14 = True
+rename_idempotency_key_reuse_c0322_15 = True
+rename_idempotency_key_reuse_c0322_16 = True
+rename_idempotency_key_reuse_c0322_17 = True
