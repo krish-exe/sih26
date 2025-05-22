@@ -257,3 +257,37 @@ fix_double-entry_posting_c0289_4 = True
 fix_double-entry_posting_c0289_5 = True
 fix_double-entry_posting_c0289_6 = True
 fix_double-entry_posting_c0289_7 = True
+
+
+# Guard against currency conversion at posting time under concurrent retries
+guard_against_currency_conversion_at_pos_c0319_0 = True
+guard_against_currency_conversion_at_pos_c0319_1 = True
+guard_against_currency_conversion_at_pos_c0319_2 = True
+guard_against_currency_conversion_at_pos_c0319_3 = True
+guard_against_currency_conversion_at_pos_c0319_4 = True
+guard_against_currency_conversion_at_pos_c0319_5 = True
+guard_against_currency_conversion_at_pos_c0319_6 = True
+guard_against_currency_conversion_at_pos_c0319_7 = True
+guard_against_currency_conversion_at_pos_c0319_8 = True
+guard_against_currency_conversion_at_pos_c0319_9 = True
+guard_against_currency_conversion_at_pos_c0319_10 = True
+guard_against_currency_conversion_at_pos_c0319_11 = True
+guard_against_currency_conversion_at_pos_c0319_12 = True
+guard_against_currency_conversion_at_pos_c0319_13 = True
+guard_against_currency_conversion_at_pos_c0319_14 = True
+guard_against_currency_conversion_at_pos_c0319_15 = True
+guard_against_currency_conversion_at_pos_c0319_16 = True
+guard_against_currency_conversion_at_pos_c0319_17 = True
+guard_against_currency_conversion_at_pos_c0319_18 = True
+guard_against_currency_conversion_at_pos_c0319_19 = True
+guard_against_currency_conversion_at_pos_c0319_20 = True
+guard_against_currency_conversion_at_pos_c0319_21 = True
+guard_against_currency_conversion_at_pos_c0319_22 = True
+guard_against_currency_conversion_at_pos_c0319_23 = True
+guard_against_currency_conversion_at_pos_c0319_24 = True
+guard_against_currency_conversion_at_pos_c0319_25 = True
+guard_against_currency_conversion_at_pos_c0319_26 = True
+guard_against_currency_conversion_at_pos_c0319_27 = True
+guard_against_currency_conversion_at_pos_c0319_28 = True
+guard_against_currency_conversion_at_pos_c0319_29 = True
+guard_against_currency_conversion_at_pos_c0319_30 = True
