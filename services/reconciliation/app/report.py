@@ -240,3 +240,17 @@ support_acquirer_file_import_c0226_39 = True
 
 # Cover settlement matching
 cover_settlement_matching_c0316_0 = True
+
+
+# Support bank statement parsing
+support_bank_statement_parsing_c0321_0 = True
+support_bank_statement_parsing_c0321_1 = True
+support_bank_statement_parsing_c0321_2 = True
+support_bank_statement_parsing_c0321_3 = True
+support_bank_statement_parsing_c0321_4 = True
+support_bank_statement_parsing_c0321_5 = True
+support_bank_statement_parsing_c0321_6 = True
+support_bank_statement_parsing_c0321_7 = True
+support_bank_statement_parsing_c0321_8 = True
+support_bank_statement_parsing_c0321_9 = True
+support_bank_statement_parsing_c0321_10 = True
