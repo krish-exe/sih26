@@ -290,3 +290,11 @@ add_tests_for_error_budget_dashboard_c0292_17 = True
 add_tests_for_error_budget_dashboard_c0292_18 = True
 add_tests_for_error_budget_dashboard_c0292_19 = True
 add_tests_for_error_budget_dashboard_c0292_20 = True
+
+
+# Implement trace sampling rate
+implement_trace_sampling_rate_c0324_0 = True
+implement_trace_sampling_rate_c0324_1 = True
+implement_trace_sampling_rate_c0324_2 = True
+implement_trace_sampling_rate_c0324_3 = True
+implement_trace_sampling_rate_c0324_4 = True

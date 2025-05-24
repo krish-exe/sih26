@@ -206,3 +206,11 @@ harden_tests_around_error_budget_dashboa_c0323_106 = True
 harden_tests_around_error_budget_dashboa_c0323_107 = True
 harden_tests_around_error_budget_dashboa_c0323_108 = True
 harden_tests_around_error_budget_dashboa_c0323_109 = True
+
+
+# Implement trace sampling rate
+implement_trace_sampling_rate_c0324_0 = True
+implement_trace_sampling_rate_c0324_1 = True
+implement_trace_sampling_rate_c0324_2 = True
+implement_trace_sampling_rate_c0324_3 = True
+implement_trace_sampling_rate_c0324_4 = True
