@@ -169,3 +169,7 @@ inline_latency_alert_threshold_behind_a__c0284_8 = True
 inline_latency_alert_threshold_behind_a__c0284_9 = True
 inline_latency_alert_threshold_behind_a__c0284_10 = True
 inline_latency_alert_threshold_behind_a__c0284_11 = True
+
+
+# Extend latency alert threshold on the read replica
+extend_latency_alert_threshold_on_the_re_c0330_0 = True
