@@ -200,3 +200,13 @@ prevent_adjustment_approval_trail_c0268_7 = True
 # Add tests for manual adjustment in the worker path
 add_tests_for_manual_adjustment_in_the_w_c0267_0 = True
 add_tests_for_manual_adjustment_in_the_w_c0267_1 = True
+
+
+# Guard against manual adjustment
+guard_against_manual_adjustment_c0328_0 = True
+guard_against_manual_adjustment_c0328_1 = True
+guard_against_manual_adjustment_c0328_2 = True
+guard_against_manual_adjustment_c0328_3 = True
+guard_against_manual_adjustment_c0328_4 = True
+guard_against_manual_adjustment_c0328_5 = True
+guard_against_manual_adjustment_c0328_6 = True

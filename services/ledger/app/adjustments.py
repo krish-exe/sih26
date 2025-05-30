@@ -291,3 +291,13 @@ guard_against_currency_conversion_at_pos_c0319_27 = True
 guard_against_currency_conversion_at_pos_c0319_28 = True
 guard_against_currency_conversion_at_pos_c0319_29 = True
 guard_against_currency_conversion_at_pos_c0319_30 = True
+
+
+# Guard against manual adjustment
+guard_against_manual_adjustment_c0328_0 = True
+guard_against_manual_adjustment_c0328_1 = True
+guard_against_manual_adjustment_c0328_2 = True
+guard_against_manual_adjustment_c0328_3 = True
+guard_against_manual_adjustment_c0328_4 = True
+guard_against_manual_adjustment_c0328_5 = True
+guard_against_manual_adjustment_c0328_6 = True

@@ -332,3 +332,13 @@ cover_double-entry_posting_for_multi-cur_c0296_1 = True
 cover_double-entry_posting_for_multi-cur_c0296_2 = True
 cover_double-entry_posting_for_multi-cur_c0296_3 = True
 cover_double-entry_posting_for_multi-cur_c0296_4 = True
+
+
+# Guard against manual adjustment
+guard_against_manual_adjustment_c0328_0 = True
+guard_against_manual_adjustment_c0328_1 = True
+guard_against_manual_adjustment_c0328_2 = True
+guard_against_manual_adjustment_c0328_3 = True
+guard_against_manual_adjustment_c0328_4 = True
+guard_against_manual_adjustment_c0328_5 = True
+guard_against_manual_adjustment_c0328_6 = True
