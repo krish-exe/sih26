@@ -173,3 +173,17 @@ inline_latency_alert_threshold_behind_a__c0284_11 = True
 
 # Extend latency alert threshold on the read replica
 extend_latency_alert_threshold_on_the_re_c0330_0 = True
+
+
+# Tidy latency alert threshold for the v2 endpoint
+tidy_latency_alert_threshold_for_the_v2__c0333_0 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_1 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_2 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_3 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_4 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_5 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_6 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_7 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_8 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_9 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_10 = True

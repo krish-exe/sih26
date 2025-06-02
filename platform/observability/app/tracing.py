@@ -328,3 +328,17 @@ prevent_latency_alert_threshold_when_the_c0336_23 = True
 prevent_latency_alert_threshold_when_the_c0336_24 = True
 prevent_latency_alert_threshold_when_the_c0336_25 = True
 prevent_latency_alert_threshold_when_the_c0336_26 = True
+
+
+# Tidy latency alert threshold for the v2 endpoint
+tidy_latency_alert_threshold_for_the_v2__c0333_0 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_1 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_2 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_3 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_4 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_5 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_6 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_7 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_8 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_9 = True
+tidy_latency_alert_threshold_for_the_v2__c0333_10 = True
