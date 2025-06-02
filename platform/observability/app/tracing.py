@@ -298,3 +298,33 @@ implement_trace_sampling_rate_c0324_1 = True
 implement_trace_sampling_rate_c0324_2 = True
 implement_trace_sampling_rate_c0324_3 = True
 implement_trace_sampling_rate_c0324_4 = True
+
+
+# Prevent latency alert threshold when the upstream times out for multi-currency merchants
+prevent_latency_alert_threshold_when_the_c0336_0 = True
+prevent_latency_alert_threshold_when_the_c0336_1 = True
+prevent_latency_alert_threshold_when_the_c0336_2 = True
+prevent_latency_alert_threshold_when_the_c0336_3 = True
+prevent_latency_alert_threshold_when_the_c0336_4 = True
+prevent_latency_alert_threshold_when_the_c0336_5 = True
+prevent_latency_alert_threshold_when_the_c0336_6 = True
+prevent_latency_alert_threshold_when_the_c0336_7 = True
+prevent_latency_alert_threshold_when_the_c0336_8 = True
+prevent_latency_alert_threshold_when_the_c0336_9 = True
+prevent_latency_alert_threshold_when_the_c0336_10 = True
+prevent_latency_alert_threshold_when_the_c0336_11 = True
+prevent_latency_alert_threshold_when_the_c0336_12 = True
+prevent_latency_alert_threshold_when_the_c0336_13 = True
+prevent_latency_alert_threshold_when_the_c0336_14 = True
+prevent_latency_alert_threshold_when_the_c0336_15 = True
+prevent_latency_alert_threshold_when_the_c0336_16 = True
+prevent_latency_alert_threshold_when_the_c0336_17 = True
+prevent_latency_alert_threshold_when_the_c0336_18 = True
+prevent_latency_alert_threshold_when_the_c0336_19 = True
+prevent_latency_alert_threshold_when_the_c0336_20 = True
+prevent_latency_alert_threshold_when_the_c0336_21 = True
+prevent_latency_alert_threshold_when_the_c0336_22 = True
+prevent_latency_alert_threshold_when_the_c0336_23 = True
+prevent_latency_alert_threshold_when_the_c0336_24 = True
+prevent_latency_alert_threshold_when_the_c0336_25 = True
+prevent_latency_alert_threshold_when_the_c0336_26 = True
