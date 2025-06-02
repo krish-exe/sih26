@@ -132,3 +132,29 @@ ci:_regenerate_openapi_schema_c0310_24 = True
 ci:_regenerate_openapi_schema_c0310_25 = True
 ci:_regenerate_openapi_schema_c0310_26 = True
 ci:_regenerate_openapi_schema_c0310_27 = True
+
+
+# ci: regenerate lockfile
+ci:_regenerate_lockfile_c0332_0 = True
+ci:_regenerate_lockfile_c0332_1 = True
+ci:_regenerate_lockfile_c0332_2 = True
+ci:_regenerate_lockfile_c0332_3 = True
+ci:_regenerate_lockfile_c0332_4 = True
+ci:_regenerate_lockfile_c0332_5 = True
+ci:_regenerate_lockfile_c0332_6 = True
+ci:_regenerate_lockfile_c0332_7 = True
+ci:_regenerate_lockfile_c0332_8 = True
+ci:_regenerate_lockfile_c0332_9 = True
+ci:_regenerate_lockfile_c0332_10 = True
+ci:_regenerate_lockfile_c0332_11 = True
+ci:_regenerate_lockfile_c0332_12 = True
+ci:_regenerate_lockfile_c0332_13 = True
+ci:_regenerate_lockfile_c0332_14 = True
+ci:_regenerate_lockfile_c0332_15 = True
+ci:_regenerate_lockfile_c0332_16 = True
+ci:_regenerate_lockfile_c0332_17 = True
+ci:_regenerate_lockfile_c0332_18 = True
+ci:_regenerate_lockfile_c0332_19 = True
+ci:_regenerate_lockfile_c0332_20 = True
+ci:_regenerate_lockfile_c0332_21 = True
+ci:_regenerate_lockfile_c0332_22 = True
