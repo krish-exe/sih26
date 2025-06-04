@@ -417,3 +417,9 @@ add_release_gating_c0329_137 = True
 add_release_gating_c0329_138 = True
 add_release_gating_c0329_139 = True
 add_release_gating_c0329_140 = True
+
+
+# Harden tests around rollback procedure
+harden_tests_around_rollback_procedure_c0335_0 = True
+harden_tests_around_rollback_procedure_c0335_1 = True
+harden_tests_around_rollback_procedure_c0335_2 = True

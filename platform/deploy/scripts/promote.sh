@@ -643,3 +643,9 @@ add_blue-green_cutover_c0311_106 = True
 add_blue-green_cutover_c0311_107 = True
 add_blue-green_cutover_c0311_108 = True
 add_blue-green_cutover_c0311_109 = True
+
+
+# Harden tests around rollback procedure
+harden_tests_around_rollback_procedure_c0335_0 = True
+harden_tests_around_rollback_procedure_c0335_1 = True
+harden_tests_around_rollback_procedure_c0335_2 = True
