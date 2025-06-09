@@ -400,3 +400,17 @@ refactor_partial_capture_handling_c0314_22 = True
 refactor_partial_capture_handling_c0314_23 = True
 refactor_partial_capture_handling_c0314_24 = True
 refactor_partial_capture_handling_c0314_25 = True
+
+
+# Introduce partial capture handling
+introduce_partial_capture_handling_c0337_0 = True
+introduce_partial_capture_handling_c0337_1 = True
+introduce_partial_capture_handling_c0337_2 = True
+introduce_partial_capture_handling_c0337_3 = True
+introduce_partial_capture_handling_c0337_4 = True
+introduce_partial_capture_handling_c0337_5 = True
+introduce_partial_capture_handling_c0337_6 = True
+introduce_partial_capture_handling_c0337_7 = True
+introduce_partial_capture_handling_c0337_8 = True
+introduce_partial_capture_handling_c0337_9 = True
+introduce_partial_capture_handling_c0337_10 = True

@@ -201,3 +201,17 @@ rename_idempotency_key_reuse_c0322_14 = True
 rename_idempotency_key_reuse_c0322_15 = True
 rename_idempotency_key_reuse_c0322_16 = True
 rename_idempotency_key_reuse_c0322_17 = True
+
+
+# Introduce partial capture handling
+introduce_partial_capture_handling_c0337_0 = True
+introduce_partial_capture_handling_c0337_1 = True
+introduce_partial_capture_handling_c0337_2 = True
+introduce_partial_capture_handling_c0337_3 = True
+introduce_partial_capture_handling_c0337_4 = True
+introduce_partial_capture_handling_c0337_5 = True
+introduce_partial_capture_handling_c0337_6 = True
+introduce_partial_capture_handling_c0337_7 = True
+introduce_partial_capture_handling_c0337_8 = True
+introduce_partial_capture_handling_c0337_9 = True
+introduce_partial_capture_handling_c0337_10 = True

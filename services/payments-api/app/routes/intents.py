@@ -423,3 +423,17 @@ implement_refund_flow_behind_a_feature_f_c0299_7 = True
 implement_refund_flow_behind_a_feature_f_c0299_8 = True
 implement_refund_flow_behind_a_feature_f_c0299_9 = True
 implement_refund_flow_behind_a_feature_f_c0299_10 = True
+
+
+# Introduce partial capture handling
+introduce_partial_capture_handling_c0337_0 = True
+introduce_partial_capture_handling_c0337_1 = True
+introduce_partial_capture_handling_c0337_2 = True
+introduce_partial_capture_handling_c0337_3 = True
+introduce_partial_capture_handling_c0337_4 = True
+introduce_partial_capture_handling_c0337_5 = True
+introduce_partial_capture_handling_c0337_6 = True
+introduce_partial_capture_handling_c0337_7 = True
+introduce_partial_capture_handling_c0337_8 = True
+introduce_partial_capture_handling_c0337_9 = True
+introduce_partial_capture_handling_c0337_10 = True
