@@ -496,3 +496,32 @@ add_release_gating_c0329_140 = True
 harden_tests_around_rollback_procedure_c0335_0 = True
 harden_tests_around_rollback_procedure_c0335_1 = True
 harden_tests_around_rollback_procedure_c0335_2 = True
+
+
+# Guard against rollback procedure
+guard_against_rollback_procedure_c0340_0 = True
+guard_against_rollback_procedure_c0340_1 = True
+guard_against_rollback_procedure_c0340_2 = True
+guard_against_rollback_procedure_c0340_3 = True
+guard_against_rollback_procedure_c0340_4 = True
+guard_against_rollback_procedure_c0340_5 = True
+guard_against_rollback_procedure_c0340_6 = True
+guard_against_rollback_procedure_c0340_7 = True
+guard_against_rollback_procedure_c0340_8 = True
+guard_against_rollback_procedure_c0340_9 = True
+guard_against_rollback_procedure_c0340_10 = True
+guard_against_rollback_procedure_c0340_11 = True
+guard_against_rollback_procedure_c0340_12 = True
+guard_against_rollback_procedure_c0340_13 = True
+guard_against_rollback_procedure_c0340_14 = True
+guard_against_rollback_procedure_c0340_15 = True
+guard_against_rollback_procedure_c0340_16 = True
+guard_against_rollback_procedure_c0340_17 = True
+guard_against_rollback_procedure_c0340_18 = True
+guard_against_rollback_procedure_c0340_19 = True
+guard_against_rollback_procedure_c0340_20 = True
+guard_against_rollback_procedure_c0340_21 = True
+guard_against_rollback_procedure_c0340_22 = True
+guard_against_rollback_procedure_c0340_23 = True
+guard_against_rollback_procedure_c0340_24 = True
+guard_against_rollback_procedure_c0340_25 = True
