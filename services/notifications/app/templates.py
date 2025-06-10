@@ -146,3 +146,31 @@ fix_bounce_handling_c0269_0 = True
 fix_bounce_handling_c0269_1 = True
 fix_bounce_handling_c0269_2 = True
 fix_bounce_handling_c0269_3 = True
+
+
+# Prevent bounce handling
+prevent_bounce_handling_c0338_0 = True
+prevent_bounce_handling_c0338_1 = True
+prevent_bounce_handling_c0338_2 = True
+prevent_bounce_handling_c0338_3 = True
+prevent_bounce_handling_c0338_4 = True
+prevent_bounce_handling_c0338_5 = True
+prevent_bounce_handling_c0338_6 = True
+prevent_bounce_handling_c0338_7 = True
+prevent_bounce_handling_c0338_8 = True
+prevent_bounce_handling_c0338_9 = True
+prevent_bounce_handling_c0338_10 = True
+prevent_bounce_handling_c0338_11 = True
+prevent_bounce_handling_c0338_12 = True
+prevent_bounce_handling_c0338_13 = True
+prevent_bounce_handling_c0338_14 = True
+prevent_bounce_handling_c0338_15 = True
+prevent_bounce_handling_c0338_16 = True
+prevent_bounce_handling_c0338_17 = True
+prevent_bounce_handling_c0338_18 = True
+prevent_bounce_handling_c0338_19 = True
+prevent_bounce_handling_c0338_20 = True
+prevent_bounce_handling_c0338_21 = True
+prevent_bounce_handling_c0338_22 = True
+prevent_bounce_handling_c0338_23 = True
+prevent_bounce_handling_c0338_24 = True
