@@ -406,3 +406,25 @@ rename_currency_conversion_at_posting_ti_c0334_44 = True
 rename_currency_conversion_at_posting_ti_c0334_45 = True
 rename_currency_conversion_at_posting_ti_c0334_46 = True
 rename_currency_conversion_at_posting_ti_c0334_47 = True
+
+
+# Split adjustment approval trail
+split_adjustment_approval_trail_c0339_0 = True
+split_adjustment_approval_trail_c0339_1 = True
+split_adjustment_approval_trail_c0339_2 = True
+split_adjustment_approval_trail_c0339_3 = True
+split_adjustment_approval_trail_c0339_4 = True
+split_adjustment_approval_trail_c0339_5 = True
+split_adjustment_approval_trail_c0339_6 = True
+split_adjustment_approval_trail_c0339_7 = True
+split_adjustment_approval_trail_c0339_8 = True
+split_adjustment_approval_trail_c0339_9 = True
+split_adjustment_approval_trail_c0339_10 = True
+split_adjustment_approval_trail_c0339_11 = True
+split_adjustment_approval_trail_c0339_12 = True
+split_adjustment_approval_trail_c0339_13 = True
+split_adjustment_approval_trail_c0339_14 = True
+split_adjustment_approval_trail_c0339_15 = True
+split_adjustment_approval_trail_c0339_16 = True
+split_adjustment_approval_trail_c0339_17 = True
+split_adjustment_approval_trail_c0339_18 = True

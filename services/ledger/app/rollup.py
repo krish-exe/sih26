@@ -210,3 +210,25 @@ guard_against_manual_adjustment_c0328_3 = True
 guard_against_manual_adjustment_c0328_4 = True
 guard_against_manual_adjustment_c0328_5 = True
 guard_against_manual_adjustment_c0328_6 = True
+
+
+# Split adjustment approval trail
+split_adjustment_approval_trail_c0339_0 = True
+split_adjustment_approval_trail_c0339_1 = True
+split_adjustment_approval_trail_c0339_2 = True
+split_adjustment_approval_trail_c0339_3 = True
+split_adjustment_approval_trail_c0339_4 = True
+split_adjustment_approval_trail_c0339_5 = True
+split_adjustment_approval_trail_c0339_6 = True
+split_adjustment_approval_trail_c0339_7 = True
+split_adjustment_approval_trail_c0339_8 = True
+split_adjustment_approval_trail_c0339_9 = True
+split_adjustment_approval_trail_c0339_10 = True
+split_adjustment_approval_trail_c0339_11 = True
+split_adjustment_approval_trail_c0339_12 = True
+split_adjustment_approval_trail_c0339_13 = True
+split_adjustment_approval_trail_c0339_14 = True
+split_adjustment_approval_trail_c0339_15 = True
+split_adjustment_approval_trail_c0339_16 = True
+split_adjustment_approval_trail_c0339_17 = True
+split_adjustment_approval_trail_c0339_18 = True
