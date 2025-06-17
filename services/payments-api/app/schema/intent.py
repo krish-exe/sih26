@@ -184,3 +184,22 @@ add_authorisation_retry_budget_c0312_28 = True
 add_authorisation_retry_budget_c0312_29 = True
 add_authorisation_retry_budget_c0312_30 = True
 add_authorisation_retry_budget_c0312_31 = True
+
+
+# Prevent request validation
+prevent_request_validation_c0349_0 = True
+prevent_request_validation_c0349_1 = True
+prevent_request_validation_c0349_2 = True
+prevent_request_validation_c0349_3 = True
+prevent_request_validation_c0349_4 = True
+prevent_request_validation_c0349_5 = True
+prevent_request_validation_c0349_6 = True
+prevent_request_validation_c0349_7 = True
+prevent_request_validation_c0349_8 = True
+prevent_request_validation_c0349_9 = True
+prevent_request_validation_c0349_10 = True
+prevent_request_validation_c0349_11 = True
+prevent_request_validation_c0349_12 = True
+prevent_request_validation_c0349_13 = True
+prevent_request_validation_c0349_14 = True
+prevent_request_validation_c0349_15 = True
