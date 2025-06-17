@@ -175,3 +175,29 @@ guard_against_scope_enforcement_c0325_4 = True
 guard_against_scope_enforcement_c0325_5 = True
 guard_against_scope_enforcement_c0325_6 = True
 guard_against_scope_enforcement_c0325_7 = True
+
+
+# Introduce merchant impersonation guard
+introduce_merchant_impersonation_guard_c0348_0 = True
+introduce_merchant_impersonation_guard_c0348_1 = True
+introduce_merchant_impersonation_guard_c0348_2 = True
+introduce_merchant_impersonation_guard_c0348_3 = True
+introduce_merchant_impersonation_guard_c0348_4 = True
+introduce_merchant_impersonation_guard_c0348_5 = True
+introduce_merchant_impersonation_guard_c0348_6 = True
+introduce_merchant_impersonation_guard_c0348_7 = True
+introduce_merchant_impersonation_guard_c0348_8 = True
+introduce_merchant_impersonation_guard_c0348_9 = True
+introduce_merchant_impersonation_guard_c0348_10 = True
+introduce_merchant_impersonation_guard_c0348_11 = True
+introduce_merchant_impersonation_guard_c0348_12 = True
+introduce_merchant_impersonation_guard_c0348_13 = True
+introduce_merchant_impersonation_guard_c0348_14 = True
+introduce_merchant_impersonation_guard_c0348_15 = True
+introduce_merchant_impersonation_guard_c0348_16 = True
+introduce_merchant_impersonation_guard_c0348_17 = True
+introduce_merchant_impersonation_guard_c0348_18 = True
+introduce_merchant_impersonation_guard_c0348_19 = True
+introduce_merchant_impersonation_guard_c0348_20 = True
+introduce_merchant_impersonation_guard_c0348_21 = True
+introduce_merchant_impersonation_guard_c0348_22 = True
