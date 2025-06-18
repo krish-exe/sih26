@@ -204,3 +204,13 @@ support_bank_statement_parsing_c0321_7 = True
 support_bank_statement_parsing_c0321_8 = True
 support_bank_statement_parsing_c0321_9 = True
 support_bank_statement_parsing_c0321_10 = True
+
+
+# Add bank statement parsing
+add_bank_statement_parsing_c0343_0 = True
+add_bank_statement_parsing_c0343_1 = True
+add_bank_statement_parsing_c0343_2 = True
+add_bank_statement_parsing_c0343_3 = True
+add_bank_statement_parsing_c0343_4 = True
+add_bank_statement_parsing_c0343_5 = True
+add_bank_statement_parsing_c0343_6 = True

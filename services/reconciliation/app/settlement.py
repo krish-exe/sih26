@@ -334,3 +334,13 @@ cover_settlement_matching_c0316_0 = True
 support_acquirer_file_import_c0317_0 = True
 support_acquirer_file_import_c0317_1 = True
 support_acquirer_file_import_c0317_2 = True
+
+
+# Add bank statement parsing
+add_bank_statement_parsing_c0343_0 = True
+add_bank_statement_parsing_c0343_1 = True
+add_bank_statement_parsing_c0343_2 = True
+add_bank_statement_parsing_c0343_3 = True
+add_bank_statement_parsing_c0343_4 = True
+add_bank_statement_parsing_c0343_5 = True
+add_bank_statement_parsing_c0343_6 = True
