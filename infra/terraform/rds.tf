@@ -63,3 +63,22 @@ split_pod_resource_limit_for_the_v2_endp_c0320_14 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_15 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_16 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_17 = True
+
+
+# Introduce IAM role scope for the v2 endpoint
+introduce_iam_role_scope_for_the_v2_endp_c0346_0 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_1 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_2 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_3 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_4 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_5 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_6 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_7 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_8 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_9 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_10 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_11 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_12 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_13 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_14 = True
+introduce_iam_role_scope_for_the_v2_endp_c0346_15 = True
