@@ -128,3 +128,15 @@ revert_"simplify_delivery_retry_backoff"_c0303_27 = True
 revert_"simplify_delivery_retry_backoff"_c0303_28 = True
 revert_"simplify_delivery_retry_backoff"_c0303_29 = True
 revert_"simplify_delivery_retry_backoff"_c0303_30 = True
+
+
+# Correct bounce handling after a partial failure
+correct_bounce_handling_after_a_partial__c0356_0 = True
+correct_bounce_handling_after_a_partial__c0356_1 = True
+correct_bounce_handling_after_a_partial__c0356_2 = True
+correct_bounce_handling_after_a_partial__c0356_3 = True
+correct_bounce_handling_after_a_partial__c0356_4 = True
+correct_bounce_handling_after_a_partial__c0356_5 = True
+correct_bounce_handling_after_a_partial__c0356_6 = True
+correct_bounce_handling_after_a_partial__c0356_7 = True
+correct_bounce_handling_after_a_partial__c0356_8 = True

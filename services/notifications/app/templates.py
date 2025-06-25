@@ -174,3 +174,15 @@ prevent_bounce_handling_c0338_21 = True
 prevent_bounce_handling_c0338_22 = True
 prevent_bounce_handling_c0338_23 = True
 prevent_bounce_handling_c0338_24 = True
+
+
+# Correct bounce handling after a partial failure
+correct_bounce_handling_after_a_partial__c0356_0 = True
+correct_bounce_handling_after_a_partial__c0356_1 = True
+correct_bounce_handling_after_a_partial__c0356_2 = True
+correct_bounce_handling_after_a_partial__c0356_3 = True
+correct_bounce_handling_after_a_partial__c0356_4 = True
+correct_bounce_handling_after_a_partial__c0356_5 = True
+correct_bounce_handling_after_a_partial__c0356_6 = True
+correct_bounce_handling_after_a_partial__c0356_7 = True
+correct_bounce_handling_after_a_partial__c0356_8 = True

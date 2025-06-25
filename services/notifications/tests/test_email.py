@@ -180,3 +180,15 @@ add_notification_preference_in_the_worke_c0281_16 = True
 add_notification_preference_in_the_worke_c0281_17 = True
 add_notification_preference_in_the_worke_c0281_18 = True
 add_notification_preference_in_the_worke_c0281_19 = True
+
+
+# Correct bounce handling after a partial failure
+correct_bounce_handling_after_a_partial__c0356_0 = True
+correct_bounce_handling_after_a_partial__c0356_1 = True
+correct_bounce_handling_after_a_partial__c0356_2 = True
+correct_bounce_handling_after_a_partial__c0356_3 = True
+correct_bounce_handling_after_a_partial__c0356_4 = True
+correct_bounce_handling_after_a_partial__c0356_5 = True
+correct_bounce_handling_after_a_partial__c0356_6 = True
+correct_bounce_handling_after_a_partial__c0356_7 = True
+correct_bounce_handling_after_a_partial__c0356_8 = True
