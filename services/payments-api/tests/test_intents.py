@@ -429,3 +429,12 @@ simplify_error_envelope_c0344_32 = True
 simplify_error_envelope_c0344_33 = True
 simplify_error_envelope_c0344_34 = True
 simplify_error_envelope_c0344_35 = True
+
+
+# Cover error envelope
+cover_error_envelope_c0352_0 = True
+cover_error_envelope_c0352_1 = True
+cover_error_envelope_c0352_2 = True
+cover_error_envelope_c0352_3 = True
+cover_error_envelope_c0352_4 = True
+cover_error_envelope_c0352_5 = True

@@ -203,3 +203,12 @@ prevent_request_validation_c0349_12 = True
 prevent_request_validation_c0349_13 = True
 prevent_request_validation_c0349_14 = True
 prevent_request_validation_c0349_15 = True
+
+
+# Cover error envelope
+cover_error_envelope_c0352_0 = True
+cover_error_envelope_c0352_1 = True
+cover_error_envelope_c0352_2 = True
+cover_error_envelope_c0352_3 = True
+cover_error_envelope_c0352_4 = True
+cover_error_envelope_c0352_5 = True
