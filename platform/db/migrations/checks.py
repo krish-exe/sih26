@@ -164,3 +164,17 @@ revert_"fix_api_key_rotation_when_the_up_c0318_2 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_3 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_4 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_5 = True
+
+
+# Split expand-contract migration
+split_expand-contract_migration_c0355_0 = True
+split_expand-contract_migration_c0355_1 = True
+split_expand-contract_migration_c0355_2 = True
+split_expand-contract_migration_c0355_3 = True
+split_expand-contract_migration_c0355_4 = True
+split_expand-contract_migration_c0355_5 = True
+split_expand-contract_migration_c0355_6 = True
+split_expand-contract_migration_c0355_7 = True
+split_expand-contract_migration_c0355_8 = True
+split_expand-contract_migration_c0355_9 = True
+split_expand-contract_migration_c0355_10 = True
