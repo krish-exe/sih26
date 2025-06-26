@@ -494,3 +494,7 @@ prevent_manual_adjustment_when_the_upstr_c0331_39 = True
 prevent_manual_adjustment_when_the_upstr_c0331_40 = True
 prevent_manual_adjustment_when_the_upstr_c0331_41 = True
 prevent_manual_adjustment_when_the_upstr_c0331_42 = True
+
+
+# Handle balance rollup after a partial failure
+handle_balance_rollup_after_a_partial_fa_c0353_0 = True

@@ -428,3 +428,7 @@ split_adjustment_approval_trail_c0339_15 = True
 split_adjustment_approval_trail_c0339_16 = True
 split_adjustment_approval_trail_c0339_17 = True
 split_adjustment_approval_trail_c0339_18 = True
+
+
+# Handle balance rollup after a partial failure
+handle_balance_rollup_after_a_partial_fa_c0353_0 = True
