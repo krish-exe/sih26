@@ -201,3 +201,13 @@ introduce_merchant_impersonation_guard_c0348_19 = True
 introduce_merchant_impersonation_guard_c0348_20 = True
 introduce_merchant_impersonation_guard_c0348_21 = True
 introduce_merchant_impersonation_guard_c0348_22 = True
+
+
+# Implement session expiry during replay
+implement_session_expiry_during_replay_c0350_0 = True
+implement_session_expiry_during_replay_c0350_1 = True
+implement_session_expiry_during_replay_c0350_2 = True
+implement_session_expiry_during_replay_c0350_3 = True
+implement_session_expiry_during_replay_c0350_4 = True
+implement_session_expiry_during_replay_c0350_5 = True
+implement_session_expiry_during_replay_c0350_6 = True

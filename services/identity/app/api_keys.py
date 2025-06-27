@@ -196,3 +196,13 @@ guard_against_scope_enforcement_c0325_4 = True
 guard_against_scope_enforcement_c0325_5 = True
 guard_against_scope_enforcement_c0325_6 = True
 guard_against_scope_enforcement_c0325_7 = True
+
+
+# Implement session expiry during replay
+implement_session_expiry_during_replay_c0350_0 = True
+implement_session_expiry_during_replay_c0350_1 = True
+implement_session_expiry_during_replay_c0350_2 = True
+implement_session_expiry_during_replay_c0350_3 = True
+implement_session_expiry_during_replay_c0350_4 = True
+implement_session_expiry_during_replay_c0350_5 = True
+implement_session_expiry_during_replay_c0350_6 = True
