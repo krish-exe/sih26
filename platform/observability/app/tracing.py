@@ -342,3 +342,26 @@ tidy_latency_alert_threshold_for_the_v2__c0333_7 = True
 tidy_latency_alert_threshold_for_the_v2__c0333_8 = True
 tidy_latency_alert_threshold_for_the_v2__c0333_9 = True
 tidy_latency_alert_threshold_for_the_v2__c0333_10 = True
+
+
+# Cover error budget dashboard
+cover_error_budget_dashboard_c0358_0 = True
+cover_error_budget_dashboard_c0358_1 = True
+cover_error_budget_dashboard_c0358_2 = True
+cover_error_budget_dashboard_c0358_3 = True
+cover_error_budget_dashboard_c0358_4 = True
+cover_error_budget_dashboard_c0358_5 = True
+cover_error_budget_dashboard_c0358_6 = True
+cover_error_budget_dashboard_c0358_7 = True
+cover_error_budget_dashboard_c0358_8 = True
+cover_error_budget_dashboard_c0358_9 = True
+cover_error_budget_dashboard_c0358_10 = True
+cover_error_budget_dashboard_c0358_11 = True
+cover_error_budget_dashboard_c0358_12 = True
+cover_error_budget_dashboard_c0358_13 = True
+cover_error_budget_dashboard_c0358_14 = True
+cover_error_budget_dashboard_c0358_15 = True
+cover_error_budget_dashboard_c0358_16 = True
+cover_error_budget_dashboard_c0358_17 = True
+cover_error_budget_dashboard_c0358_18 = True
+cover_error_budget_dashboard_c0358_19 = True
