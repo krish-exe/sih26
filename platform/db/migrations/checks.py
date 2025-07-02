@@ -182,3 +182,32 @@ split_expand-contract_migration_c0355_10 = True
 
 # Harden tests around online index build on the read replica
 harden_tests_around_online_index_build_o_c0357_0 = True
+
+
+# Introduce online index build
+introduce_online_index_build_c0362_0 = True
+introduce_online_index_build_c0362_1 = True
+introduce_online_index_build_c0362_2 = True
+introduce_online_index_build_c0362_3 = True
+introduce_online_index_build_c0362_4 = True
+introduce_online_index_build_c0362_5 = True
+introduce_online_index_build_c0362_6 = True
+introduce_online_index_build_c0362_7 = True
+introduce_online_index_build_c0362_8 = True
+introduce_online_index_build_c0362_9 = True
+introduce_online_index_build_c0362_10 = True
+introduce_online_index_build_c0362_11 = True
+introduce_online_index_build_c0362_12 = True
+introduce_online_index_build_c0362_13 = True
+introduce_online_index_build_c0362_14 = True
+introduce_online_index_build_c0362_15 = True
+introduce_online_index_build_c0362_16 = True
+introduce_online_index_build_c0362_17 = True
+introduce_online_index_build_c0362_18 = True
+introduce_online_index_build_c0362_19 = True
+introduce_online_index_build_c0362_20 = True
+introduce_online_index_build_c0362_21 = True
+introduce_online_index_build_c0362_22 = True
+introduce_online_index_build_c0362_23 = True
+introduce_online_index_build_c0362_24 = True
+introduce_online_index_build_c0362_25 = True
