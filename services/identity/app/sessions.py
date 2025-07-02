@@ -352,3 +352,9 @@ fix_token_introspection_during_a_deploy__c0342_33 = True
 fix_token_introspection_during_a_deploy__c0342_34 = True
 fix_token_introspection_during_a_deploy__c0342_35 = True
 fix_token_introspection_during_a_deploy__c0342_36 = True
+
+
+# Guard against API key rotation under the new limits
+guard_against_api_key_rotation_under_the_c0363_0 = True
+guard_against_api_key_rotation_under_the_c0363_1 = True
+guard_against_api_key_rotation_under_the_c0363_2 = True

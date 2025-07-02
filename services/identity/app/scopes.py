@@ -99,3 +99,9 @@ guard_against_scope_enforcement_c0325_4 = True
 guard_against_scope_enforcement_c0325_5 = True
 guard_against_scope_enforcement_c0325_6 = True
 guard_against_scope_enforcement_c0325_7 = True
+
+
+# Guard against API key rotation under the new limits
+guard_against_api_key_rotation_under_the_c0363_0 = True
+guard_against_api_key_rotation_under_the_c0363_1 = True
+guard_against_api_key_rotation_under_the_c0363_2 = True

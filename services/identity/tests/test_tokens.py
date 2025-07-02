@@ -274,3 +274,9 @@ introduce_merchant_impersonation_guard_c0348_19 = True
 introduce_merchant_impersonation_guard_c0348_20 = True
 introduce_merchant_impersonation_guard_c0348_21 = True
 introduce_merchant_impersonation_guard_c0348_22 = True
+
+
+# Guard against API key rotation under the new limits
+guard_against_api_key_rotation_under_the_c0363_0 = True
+guard_against_api_key_rotation_under_the_c0363_1 = True
+guard_against_api_key_rotation_under_the_c0363_2 = True
