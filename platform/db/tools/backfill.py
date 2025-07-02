@@ -209,3 +209,7 @@ add_constraint_validation_pass_for_multi_c0304_0 = True
 add_constraint_validation_pass_for_multi_c0304_1 = True
 add_constraint_validation_pass_for_multi_c0304_2 = True
 add_constraint_validation_pass_for_multi_c0304_3 = True
+
+
+# Harden tests around online index build on the read replica
+harden_tests_around_online_index_build_o_c0357_0 = True

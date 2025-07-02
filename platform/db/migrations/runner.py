@@ -707,3 +707,7 @@ revert_"fix_api_key_rotation_when_the_up_c0318_2 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_3 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_4 = True
 revert_"fix_api_key_rotation_when_the_up_c0318_5 = True
+
+
+# Harden tests around online index build on the read replica
+harden_tests_around_online_index_build_o_c0357_0 = True

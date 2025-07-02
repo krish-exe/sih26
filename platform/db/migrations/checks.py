@@ -178,3 +178,7 @@ split_expand-contract_migration_c0355_7 = True
 split_expand-contract_migration_c0355_8 = True
 split_expand-contract_migration_c0355_9 = True
 split_expand-contract_migration_c0355_10 = True
+
+
+# Harden tests around online index build on the read replica
+harden_tests_around_online_index_build_o_c0357_0 = True
