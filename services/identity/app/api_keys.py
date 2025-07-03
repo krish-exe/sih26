@@ -206,3 +206,28 @@ implement_session_expiry_during_replay_c0350_3 = True
 implement_session_expiry_during_replay_c0350_4 = True
 implement_session_expiry_during_replay_c0350_5 = True
 implement_session_expiry_during_replay_c0350_6 = True
+
+
+# Correct merchant impersonation guard on the replica for delegated API keys
+correct_merchant_impersonation_guard_on__c0361_0 = True
+correct_merchant_impersonation_guard_on__c0361_1 = True
+correct_merchant_impersonation_guard_on__c0361_2 = True
+correct_merchant_impersonation_guard_on__c0361_3 = True
+correct_merchant_impersonation_guard_on__c0361_4 = True
+correct_merchant_impersonation_guard_on__c0361_5 = True
+correct_merchant_impersonation_guard_on__c0361_6 = True
+correct_merchant_impersonation_guard_on__c0361_7 = True
+correct_merchant_impersonation_guard_on__c0361_8 = True
+correct_merchant_impersonation_guard_on__c0361_9 = True
+correct_merchant_impersonation_guard_on__c0361_10 = True
+correct_merchant_impersonation_guard_on__c0361_11 = True
+correct_merchant_impersonation_guard_on__c0361_12 = True
+correct_merchant_impersonation_guard_on__c0361_13 = True
+correct_merchant_impersonation_guard_on__c0361_14 = True
+correct_merchant_impersonation_guard_on__c0361_15 = True
+correct_merchant_impersonation_guard_on__c0361_16 = True
+correct_merchant_impersonation_guard_on__c0361_17 = True
+correct_merchant_impersonation_guard_on__c0361_18 = True
+correct_merchant_impersonation_guard_on__c0361_19 = True
+correct_merchant_impersonation_guard_on__c0361_20 = True
+correct_merchant_impersonation_guard_on__c0361_21 = True
