@@ -437,3 +437,16 @@ introduce_partial_capture_handling_c0337_7 = True
 introduce_partial_capture_handling_c0337_8 = True
 introduce_partial_capture_handling_c0337_9 = True
 introduce_partial_capture_handling_c0337_10 = True
+
+
+# Rename authorisation retry budget for the sandbox environment
+rename_authorisation_retry_budget_for_th_c0359_0 = True
+rename_authorisation_retry_budget_for_th_c0359_1 = True
+rename_authorisation_retry_budget_for_th_c0359_2 = True
+rename_authorisation_retry_budget_for_th_c0359_3 = True
+rename_authorisation_retry_budget_for_th_c0359_4 = True
+rename_authorisation_retry_budget_for_th_c0359_5 = True
+rename_authorisation_retry_budget_for_th_c0359_6 = True
+rename_authorisation_retry_budget_for_th_c0359_7 = True
+rename_authorisation_retry_budget_for_th_c0359_8 = True
+rename_authorisation_retry_budget_for_th_c0359_9 = True
