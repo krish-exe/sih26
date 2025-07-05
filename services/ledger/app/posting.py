@@ -393,3 +393,5 @@ rename_currency_conversion_at_posting_ti_c0334_44 = True
 rename_currency_conversion_at_posting_ti_c0334_45 = True
 rename_currency_conversion_at_posting_ti_c0334_46 = True
 rename_currency_conversion_at_posting_ti_c0334_47 = True
+
+# branch work for c0360
