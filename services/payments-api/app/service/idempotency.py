@@ -202,3 +202,9 @@ rename_idempotency_key_reuse_c0322_14 = True
 rename_idempotency_key_reuse_c0322_15 = True
 rename_idempotency_key_reuse_c0322_16 = True
 rename_idempotency_key_reuse_c0322_17 = True
+
+
+# Add tests for partial capture handling
+add_tests_for_partial_capture_handling_c0368_0 = True
+add_tests_for_partial_capture_handling_c0368_1 = True
+add_tests_for_partial_capture_handling_c0368_2 = True

@@ -316,3 +316,9 @@ support_refund_flow_c0308_14 = True
 tidy_idempotency_key_reuse_c0301_0 = True
 tidy_idempotency_key_reuse_c0301_1 = True
 tidy_idempotency_key_reuse_c0301_2 = True
+
+
+# Add tests for partial capture handling
+add_tests_for_partial_capture_handling_c0368_0 = True
+add_tests_for_partial_capture_handling_c0368_1 = True
+add_tests_for_partial_capture_handling_c0368_2 = True

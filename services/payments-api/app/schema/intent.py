@@ -225,3 +225,9 @@ rename_authorisation_retry_budget_for_th_c0359_6 = True
 rename_authorisation_retry_budget_for_th_c0359_7 = True
 rename_authorisation_retry_budget_for_th_c0359_8 = True
 rename_authorisation_retry_budget_for_th_c0359_9 = True
+
+
+# Add tests for partial capture handling
+add_tests_for_partial_capture_handling_c0368_0 = True
+add_tests_for_partial_capture_handling_c0368_1 = True
+add_tests_for_partial_capture_handling_c0368_2 = True

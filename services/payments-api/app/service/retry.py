@@ -197,3 +197,9 @@ extend_intent_expiry_sweep_c0307_6 = True
 extend_intent_expiry_sweep_c0307_7 = True
 extend_intent_expiry_sweep_c0307_8 = True
 extend_intent_expiry_sweep_c0307_9 = True
+
+
+# Add tests for partial capture handling
+add_tests_for_partial_capture_handling_c0368_0 = True
+add_tests_for_partial_capture_handling_c0368_1 = True
+add_tests_for_partial_capture_handling_c0368_2 = True
