@@ -323,3 +323,10 @@ split_adjustment_approval_trail_c0339_15 = True
 split_adjustment_approval_trail_c0339_16 = True
 split_adjustment_approval_trail_c0339_17 = True
 split_adjustment_approval_trail_c0339_18 = True
+
+
+# Support journal replay
+support_journal_replay_c0367_0 = True
+support_journal_replay_c0367_1 = True
+support_journal_replay_c0367_2 = True
+support_journal_replay_c0367_3 = True
