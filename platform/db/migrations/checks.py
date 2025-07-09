@@ -211,3 +211,8 @@ introduce_online_index_build_c0362_22 = True
 introduce_online_index_build_c0362_23 = True
 introduce_online_index_build_c0362_24 = True
 introduce_online_index_build_c0362_25 = True
+
+
+# Handle expand-contract migration
+handle_expand-contract_migration_c0366_0 = True
+handle_expand-contract_migration_c0366_1 = True

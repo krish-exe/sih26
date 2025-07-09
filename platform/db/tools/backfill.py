@@ -213,3 +213,8 @@ add_constraint_validation_pass_for_multi_c0304_3 = True
 
 # Harden tests around online index build on the read replica
 harden_tests_around_online_index_build_o_c0357_0 = True
+
+
+# Handle expand-contract migration
+handle_expand-contract_migration_c0366_0 = True
+handle_expand-contract_migration_c0366_1 = True
