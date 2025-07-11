@@ -438,3 +438,13 @@ cover_error_envelope_c0352_2 = True
 cover_error_envelope_c0352_3 = True
 cover_error_envelope_c0352_4 = True
 cover_error_envelope_c0352_5 = True
+
+
+# Simplify idempotency key reuse for the sandbox environment
+simplify_idempotency_key_reuse_for_the_s_c0365_0 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_1 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_2 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_3 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_4 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_5 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_6 = True

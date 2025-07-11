@@ -203,3 +203,13 @@ extend_intent_expiry_sweep_c0307_9 = True
 add_tests_for_partial_capture_handling_c0368_0 = True
 add_tests_for_partial_capture_handling_c0368_1 = True
 add_tests_for_partial_capture_handling_c0368_2 = True
+
+
+# Simplify idempotency key reuse for the sandbox environment
+simplify_idempotency_key_reuse_for_the_s_c0365_0 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_1 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_2 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_3 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_4 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_5 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_6 = True

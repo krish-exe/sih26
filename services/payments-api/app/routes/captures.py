@@ -302,3 +302,13 @@ rename_authorisation_retry_budget_for_th_c0359_6 = True
 rename_authorisation_retry_budget_for_th_c0359_7 = True
 rename_authorisation_retry_budget_for_th_c0359_8 = True
 rename_authorisation_retry_budget_for_th_c0359_9 = True
+
+
+# Simplify idempotency key reuse for the sandbox environment
+simplify_idempotency_key_reuse_for_the_s_c0365_0 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_1 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_2 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_3 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_4 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_5 = True
+simplify_idempotency_key_reuse_for_the_s_c0365_6 = True
