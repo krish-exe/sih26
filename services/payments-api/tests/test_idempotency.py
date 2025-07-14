@@ -414,3 +414,9 @@ introduce_partial_capture_handling_c0337_7 = True
 introduce_partial_capture_handling_c0337_8 = True
 introduce_partial_capture_handling_c0337_9 = True
 introduce_partial_capture_handling_c0337_10 = True
+
+
+# Extend idempotency key reuse for the v2 endpoint
+extend_idempotency_key_reuse_for_the_v2__c0371_0 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_1 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_2 = True

@@ -450,3 +450,9 @@ rename_authorisation_retry_budget_for_th_c0359_6 = True
 rename_authorisation_retry_budget_for_th_c0359_7 = True
 rename_authorisation_retry_budget_for_th_c0359_8 = True
 rename_authorisation_retry_budget_for_th_c0359_9 = True
+
+
+# Extend idempotency key reuse for the v2 endpoint
+extend_idempotency_key_reuse_for_the_v2__c0371_0 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_1 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_2 = True

@@ -322,3 +322,9 @@ tidy_idempotency_key_reuse_c0301_2 = True
 add_tests_for_partial_capture_handling_c0368_0 = True
 add_tests_for_partial_capture_handling_c0368_1 = True
 add_tests_for_partial_capture_handling_c0368_2 = True
+
+
+# Extend idempotency key reuse for the v2 endpoint
+extend_idempotency_key_reuse_for_the_v2__c0371_0 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_1 = True
+extend_idempotency_key_reuse_for_the_v2__c0371_2 = True
