@@ -498,3 +498,9 @@ prevent_manual_adjustment_when_the_upstr_c0331_42 = True
 
 # Handle balance rollup after a partial failure
 handle_balance_rollup_after_a_partial_fa_c0353_0 = True
+
+
+# Fix balance rollup on the replica
+fix_balance_rollup_on_the_replica_c0372_0 = True
+fix_balance_rollup_on_the_replica_c0372_1 = True
+fix_balance_rollup_on_the_replica_c0372_2 = True
