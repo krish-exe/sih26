@@ -272,3 +272,31 @@ add_adjustment_approval_trail_c0364_33 = True
 add_adjustment_approval_trail_c0364_34 = True
 add_adjustment_approval_trail_c0364_35 = True
 add_adjustment_approval_trail_c0364_36 = True
+
+
+# Handle manual adjustment for out-of-order events during replay
+handle_manual_adjustment_for_out-of-orde_c0369_0 = True
+handle_manual_adjustment_for_out-of-orde_c0369_1 = True
+handle_manual_adjustment_for_out-of-orde_c0369_2 = True
+handle_manual_adjustment_for_out-of-orde_c0369_3 = True
+handle_manual_adjustment_for_out-of-orde_c0369_4 = True
+handle_manual_adjustment_for_out-of-orde_c0369_5 = True
+handle_manual_adjustment_for_out-of-orde_c0369_6 = True
+handle_manual_adjustment_for_out-of-orde_c0369_7 = True
+handle_manual_adjustment_for_out-of-orde_c0369_8 = True
+handle_manual_adjustment_for_out-of-orde_c0369_9 = True
+handle_manual_adjustment_for_out-of-orde_c0369_10 = True
+handle_manual_adjustment_for_out-of-orde_c0369_11 = True
+handle_manual_adjustment_for_out-of-orde_c0369_12 = True
+handle_manual_adjustment_for_out-of-orde_c0369_13 = True
+handle_manual_adjustment_for_out-of-orde_c0369_14 = True
+handle_manual_adjustment_for_out-of-orde_c0369_15 = True
+handle_manual_adjustment_for_out-of-orde_c0369_16 = True
+handle_manual_adjustment_for_out-of-orde_c0369_17 = True
+handle_manual_adjustment_for_out-of-orde_c0369_18 = True
+handle_manual_adjustment_for_out-of-orde_c0369_19 = True
+handle_manual_adjustment_for_out-of-orde_c0369_20 = True
+handle_manual_adjustment_for_out-of-orde_c0369_21 = True
+handle_manual_adjustment_for_out-of-orde_c0369_22 = True
+handle_manual_adjustment_for_out-of-orde_c0369_23 = True
+handle_manual_adjustment_for_out-of-orde_c0369_24 = True
