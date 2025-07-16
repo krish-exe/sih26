@@ -115,3 +115,14 @@ tidy_journal_replay_for_delegated_api_ke_c0326_47 = True
 tidy_journal_replay_for_delegated_api_ke_c0326_48 = True
 tidy_journal_replay_for_delegated_api_ke_c0326_49 = True
 tidy_journal_replay_for_delegated_api_ke_c0326_50 = True
+
+
+# Support manual adjustment
+support_manual_adjustment_c0373_0 = True
+support_manual_adjustment_c0373_1 = True
+support_manual_adjustment_c0373_2 = True
+support_manual_adjustment_c0373_3 = True
+support_manual_adjustment_c0373_4 = True
+support_manual_adjustment_c0373_5 = True
+support_manual_adjustment_c0373_6 = True
+support_manual_adjustment_c0373_7 = True

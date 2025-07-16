@@ -371,3 +371,14 @@ introduce_journal_replay_c0278_2 = True
 introduce_journal_replay_c0278_3 = True
 introduce_journal_replay_c0278_4 = True
 introduce_journal_replay_c0278_5 = True
+
+
+# Support manual adjustment
+support_manual_adjustment_c0373_0 = True
+support_manual_adjustment_c0373_1 = True
+support_manual_adjustment_c0373_2 = True
+support_manual_adjustment_c0373_3 = True
+support_manual_adjustment_c0373_4 = True
+support_manual_adjustment_c0373_5 = True
+support_manual_adjustment_c0373_6 = True
+support_manual_adjustment_c0373_7 = True

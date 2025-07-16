@@ -432,3 +432,14 @@ split_adjustment_approval_trail_c0339_18 = True
 
 # Handle balance rollup after a partial failure
 handle_balance_rollup_after_a_partial_fa_c0353_0 = True
+
+
+# Support manual adjustment
+support_manual_adjustment_c0373_0 = True
+support_manual_adjustment_c0373_1 = True
+support_manual_adjustment_c0373_2 = True
+support_manual_adjustment_c0373_3 = True
+support_manual_adjustment_c0373_4 = True
+support_manual_adjustment_c0373_5 = True
+support_manual_adjustment_c0373_6 = True
+support_manual_adjustment_c0373_7 = True
