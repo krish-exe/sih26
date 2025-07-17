@@ -300,3 +300,15 @@ handle_manual_adjustment_for_out-of-orde_c0369_21 = True
 handle_manual_adjustment_for_out-of-orde_c0369_22 = True
 handle_manual_adjustment_for_out-of-orde_c0369_23 = True
 handle_manual_adjustment_for_out-of-orde_c0369_24 = True
+
+
+# Guard against opening balance snapshot for zero-amount requests
+guard_against_opening_balance_snapshot_f_c0370_0 = True
+guard_against_opening_balance_snapshot_f_c0370_1 = True
+guard_against_opening_balance_snapshot_f_c0370_2 = True
+guard_against_opening_balance_snapshot_f_c0370_3 = True
+guard_against_opening_balance_snapshot_f_c0370_4 = True
+guard_against_opening_balance_snapshot_f_c0370_5 = True
+guard_against_opening_balance_snapshot_f_c0370_6 = True
+guard_against_opening_balance_snapshot_f_c0370_7 = True
+guard_against_opening_balance_snapshot_f_c0370_8 = True
