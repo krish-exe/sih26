@@ -350,3 +350,26 @@ extend_trace_sampling_rate_c0345_81 = True
 extend_trace_sampling_rate_c0345_82 = True
 extend_trace_sampling_rate_c0345_83 = True
 extend_trace_sampling_rate_c0345_84 = True
+
+
+# Introduce trace sampling rate
+introduce_trace_sampling_rate_c0376_0 = True
+introduce_trace_sampling_rate_c0376_1 = True
+introduce_trace_sampling_rate_c0376_2 = True
+introduce_trace_sampling_rate_c0376_3 = True
+introduce_trace_sampling_rate_c0376_4 = True
+introduce_trace_sampling_rate_c0376_5 = True
+introduce_trace_sampling_rate_c0376_6 = True
+introduce_trace_sampling_rate_c0376_7 = True
+introduce_trace_sampling_rate_c0376_8 = True
+introduce_trace_sampling_rate_c0376_9 = True
+introduce_trace_sampling_rate_c0376_10 = True
+introduce_trace_sampling_rate_c0376_11 = True
+introduce_trace_sampling_rate_c0376_12 = True
+introduce_trace_sampling_rate_c0376_13 = True
+introduce_trace_sampling_rate_c0376_14 = True
+introduce_trace_sampling_rate_c0376_15 = True
+introduce_trace_sampling_rate_c0376_16 = True
+introduce_trace_sampling_rate_c0376_17 = True
+introduce_trace_sampling_rate_c0376_18 = True
+introduce_trace_sampling_rate_c0376_19 = True
