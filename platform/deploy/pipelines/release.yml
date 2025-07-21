@@ -525,3 +525,12 @@ guard_against_rollback_procedure_c0340_22 = True
 guard_against_rollback_procedure_c0340_23 = True
 guard_against_rollback_procedure_c0340_24 = True
 guard_against_rollback_procedure_c0340_25 = True
+
+
+# Refactor deployment freeze window
+refactor_deployment_freeze_window_c0378_0 = True
+refactor_deployment_freeze_window_c0378_1 = True
+refactor_deployment_freeze_window_c0378_2 = True
+refactor_deployment_freeze_window_c0378_3 = True
+refactor_deployment_freeze_window_c0378_4 = True
+refactor_deployment_freeze_window_c0378_5 = True
