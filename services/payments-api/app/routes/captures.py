@@ -312,3 +312,11 @@ simplify_idempotency_key_reuse_for_the_s_c0365_3 = True
 simplify_idempotency_key_reuse_for_the_s_c0365_4 = True
 simplify_idempotency_key_reuse_for_the_s_c0365_5 = True
 simplify_idempotency_key_reuse_for_the_s_c0365_6 = True
+
+
+# Correct intent expiry sweep after a partial failure
+correct_intent_expiry_sweep_after_a_part_c0381_0 = True
+correct_intent_expiry_sweep_after_a_part_c0381_1 = True
+correct_intent_expiry_sweep_after_a_part_c0381_2 = True
+correct_intent_expiry_sweep_after_a_part_c0381_3 = True
+correct_intent_expiry_sweep_after_a_part_c0381_4 = True
