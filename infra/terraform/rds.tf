@@ -82,3 +82,17 @@ introduce_iam_role_scope_for_the_v2_endp_c0346_12 = True
 introduce_iam_role_scope_for_the_v2_endp_c0346_13 = True
 introduce_iam_role_scope_for_the_v2_endp_c0346_14 = True
 introduce_iam_role_scope_for_the_v2_endp_c0346_15 = True
+
+
+# Correct autoscaling threshold
+correct_autoscaling_threshold_c0374_0 = True
+correct_autoscaling_threshold_c0374_1 = True
+correct_autoscaling_threshold_c0374_2 = True
+correct_autoscaling_threshold_c0374_3 = True
+correct_autoscaling_threshold_c0374_4 = True
+correct_autoscaling_threshold_c0374_5 = True
+correct_autoscaling_threshold_c0374_6 = True
+correct_autoscaling_threshold_c0374_7 = True
+correct_autoscaling_threshold_c0374_8 = True
+correct_autoscaling_threshold_c0374_9 = True
+correct_autoscaling_threshold_c0374_10 = True

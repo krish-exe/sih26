@@ -124,3 +124,17 @@ split_pod_resource_limit_for_the_v2_endp_c0320_14 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_15 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_16 = True
 split_pod_resource_limit_for_the_v2_endp_c0320_17 = True
+
+
+# Correct autoscaling threshold
+correct_autoscaling_threshold_c0374_0 = True
+correct_autoscaling_threshold_c0374_1 = True
+correct_autoscaling_threshold_c0374_2 = True
+correct_autoscaling_threshold_c0374_3 = True
+correct_autoscaling_threshold_c0374_4 = True
+correct_autoscaling_threshold_c0374_5 = True
+correct_autoscaling_threshold_c0374_6 = True
+correct_autoscaling_threshold_c0374_7 = True
+correct_autoscaling_threshold_c0374_8 = True
+correct_autoscaling_threshold_c0374_9 = True
+correct_autoscaling_threshold_c0374_10 = True

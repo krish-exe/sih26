@@ -246,3 +246,17 @@ guard_against_network_policy_when_the_qu_c0315_3 = True
 guard_against_network_policy_when_the_qu_c0315_4 = True
 guard_against_network_policy_when_the_qu_c0315_5 = True
 guard_against_network_policy_when_the_qu_c0315_6 = True
+
+
+# Correct autoscaling threshold
+correct_autoscaling_threshold_c0374_0 = True
+correct_autoscaling_threshold_c0374_1 = True
+correct_autoscaling_threshold_c0374_2 = True
+correct_autoscaling_threshold_c0374_3 = True
+correct_autoscaling_threshold_c0374_4 = True
+correct_autoscaling_threshold_c0374_5 = True
+correct_autoscaling_threshold_c0374_6 = True
+correct_autoscaling_threshold_c0374_7 = True
+correct_autoscaling_threshold_c0374_8 = True
+correct_autoscaling_threshold_c0374_9 = True
+correct_autoscaling_threshold_c0374_10 = True
