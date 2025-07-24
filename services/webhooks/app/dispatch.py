@@ -111,3 +111,18 @@ introduce_subscription_management_in_the_c0252_18 = True
 introduce_subscription_management_in_the_c0252_19 = True
 
 # branch work for c0261
+
+
+# Introduce delivery ordering guarantee
+introduce_delivery_ordering_guarantee_c0375_0 = True
+introduce_delivery_ordering_guarantee_c0375_1 = True
+introduce_delivery_ordering_guarantee_c0375_2 = True
+introduce_delivery_ordering_guarantee_c0375_3 = True
+introduce_delivery_ordering_guarantee_c0375_4 = True
+introduce_delivery_ordering_guarantee_c0375_5 = True
+introduce_delivery_ordering_guarantee_c0375_6 = True
+introduce_delivery_ordering_guarantee_c0375_7 = True
+introduce_delivery_ordering_guarantee_c0375_8 = True
+introduce_delivery_ordering_guarantee_c0375_9 = True
+introduce_delivery_ordering_guarantee_c0375_10 = True
+introduce_delivery_ordering_guarantee_c0375_11 = True

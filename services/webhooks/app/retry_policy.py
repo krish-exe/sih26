@@ -185,3 +185,18 @@ simplify_delivery_retry_backoff_c0302_7 = True
 simplify_delivery_retry_backoff_c0302_8 = True
 simplify_delivery_retry_backoff_c0302_9 = True
 simplify_delivery_retry_backoff_c0302_10 = True
+
+
+# Introduce delivery ordering guarantee
+introduce_delivery_ordering_guarantee_c0375_0 = True
+introduce_delivery_ordering_guarantee_c0375_1 = True
+introduce_delivery_ordering_guarantee_c0375_2 = True
+introduce_delivery_ordering_guarantee_c0375_3 = True
+introduce_delivery_ordering_guarantee_c0375_4 = True
+introduce_delivery_ordering_guarantee_c0375_5 = True
+introduce_delivery_ordering_guarantee_c0375_6 = True
+introduce_delivery_ordering_guarantee_c0375_7 = True
+introduce_delivery_ordering_guarantee_c0375_8 = True
+introduce_delivery_ordering_guarantee_c0375_9 = True
+introduce_delivery_ordering_guarantee_c0375_10 = True
+introduce_delivery_ordering_guarantee_c0375_11 = True
