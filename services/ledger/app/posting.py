@@ -395,3 +395,13 @@ rename_currency_conversion_at_posting_ti_c0334_46 = True
 rename_currency_conversion_at_posting_ti_c0334_47 = True
 
 # branch work for c0360
+
+
+# Introduce manual adjustment
+introduce_manual_adjustment_c0380_0 = True
+introduce_manual_adjustment_c0380_1 = True
+introduce_manual_adjustment_c0380_2 = True
+introduce_manual_adjustment_c0380_3 = True
+introduce_manual_adjustment_c0380_4 = True
+introduce_manual_adjustment_c0380_5 = True
+introduce_manual_adjustment_c0380_6 = True

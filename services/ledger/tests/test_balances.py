@@ -551,3 +551,13 @@ support_manual_adjustment_c0373_4 = True
 support_manual_adjustment_c0373_5 = True
 support_manual_adjustment_c0373_6 = True
 support_manual_adjustment_c0373_7 = True
+
+
+# Introduce manual adjustment
+introduce_manual_adjustment_c0380_0 = True
+introduce_manual_adjustment_c0380_1 = True
+introduce_manual_adjustment_c0380_2 = True
+introduce_manual_adjustment_c0380_3 = True
+introduce_manual_adjustment_c0380_4 = True
+introduce_manual_adjustment_c0380_5 = True
+introduce_manual_adjustment_c0380_6 = True
