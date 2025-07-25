@@ -455,3 +455,17 @@ revert_"tidy_template_localisation"_c0283_6 = True
 
 # Cover settlement matching
 cover_settlement_matching_c0316_0 = True
+
+
+# Introduce bank statement parsing for delegated API keys
+introduce_bank_statement_parsing_for_del_c0379_0 = True
+introduce_bank_statement_parsing_for_del_c0379_1 = True
+introduce_bank_statement_parsing_for_del_c0379_2 = True
+introduce_bank_statement_parsing_for_del_c0379_3 = True
+introduce_bank_statement_parsing_for_del_c0379_4 = True
+introduce_bank_statement_parsing_for_del_c0379_5 = True
+introduce_bank_statement_parsing_for_del_c0379_6 = True
+introduce_bank_statement_parsing_for_del_c0379_7 = True
+introduce_bank_statement_parsing_for_del_c0379_8 = True
+introduce_bank_statement_parsing_for_del_c0379_9 = True
+introduce_bank_statement_parsing_for_del_c0379_10 = True
