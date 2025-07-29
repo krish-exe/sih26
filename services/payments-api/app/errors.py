@@ -322,3 +322,22 @@ add_request_validation_c0377_30 = True
 add_request_validation_c0377_31 = True
 add_request_validation_c0377_32 = True
 add_request_validation_c0377_33 = True
+
+
+# Rename partial capture handling
+rename_partial_capture_handling_c0388_0 = True
+rename_partial_capture_handling_c0388_1 = True
+rename_partial_capture_handling_c0388_2 = True
+rename_partial_capture_handling_c0388_3 = True
+rename_partial_capture_handling_c0388_4 = True
+rename_partial_capture_handling_c0388_5 = True
+rename_partial_capture_handling_c0388_6 = True
+rename_partial_capture_handling_c0388_7 = True
+rename_partial_capture_handling_c0388_8 = True
+rename_partial_capture_handling_c0388_9 = True
+rename_partial_capture_handling_c0388_10 = True
+rename_partial_capture_handling_c0388_11 = True
+rename_partial_capture_handling_c0388_12 = True
+rename_partial_capture_handling_c0388_13 = True
+rename_partial_capture_handling_c0388_14 = True
+rename_partial_capture_handling_c0388_15 = True

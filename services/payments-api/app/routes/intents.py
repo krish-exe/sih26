@@ -456,3 +456,22 @@ rename_authorisation_retry_budget_for_th_c0359_9 = True
 extend_idempotency_key_reuse_for_the_v2__c0371_0 = True
 extend_idempotency_key_reuse_for_the_v2__c0371_1 = True
 extend_idempotency_key_reuse_for_the_v2__c0371_2 = True
+
+
+# Rename partial capture handling
+rename_partial_capture_handling_c0388_0 = True
+rename_partial_capture_handling_c0388_1 = True
+rename_partial_capture_handling_c0388_2 = True
+rename_partial_capture_handling_c0388_3 = True
+rename_partial_capture_handling_c0388_4 = True
+rename_partial_capture_handling_c0388_5 = True
+rename_partial_capture_handling_c0388_6 = True
+rename_partial_capture_handling_c0388_7 = True
+rename_partial_capture_handling_c0388_8 = True
+rename_partial_capture_handling_c0388_9 = True
+rename_partial_capture_handling_c0388_10 = True
+rename_partial_capture_handling_c0388_11 = True
+rename_partial_capture_handling_c0388_12 = True
+rename_partial_capture_handling_c0388_13 = True
+rename_partial_capture_handling_c0388_14 = True
+rename_partial_capture_handling_c0388_15 = True
