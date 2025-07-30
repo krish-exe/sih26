@@ -365,3 +365,32 @@ cover_error_budget_dashboard_c0358_16 = True
 cover_error_budget_dashboard_c0358_17 = True
 cover_error_budget_dashboard_c0358_18 = True
 cover_error_budget_dashboard_c0358_19 = True
+
+
+# Cover error budget dashboard
+cover_error_budget_dashboard_c0385_0 = True
+cover_error_budget_dashboard_c0385_1 = True
+cover_error_budget_dashboard_c0385_2 = True
+cover_error_budget_dashboard_c0385_3 = True
+cover_error_budget_dashboard_c0385_4 = True
+cover_error_budget_dashboard_c0385_5 = True
+cover_error_budget_dashboard_c0385_6 = True
+cover_error_budget_dashboard_c0385_7 = True
+cover_error_budget_dashboard_c0385_8 = True
+cover_error_budget_dashboard_c0385_9 = True
+cover_error_budget_dashboard_c0385_10 = True
+cover_error_budget_dashboard_c0385_11 = True
+cover_error_budget_dashboard_c0385_12 = True
+cover_error_budget_dashboard_c0385_13 = True
+cover_error_budget_dashboard_c0385_14 = True
+cover_error_budget_dashboard_c0385_15 = True
+cover_error_budget_dashboard_c0385_16 = True
+cover_error_budget_dashboard_c0385_17 = True
+cover_error_budget_dashboard_c0385_18 = True
+cover_error_budget_dashboard_c0385_19 = True
+cover_error_budget_dashboard_c0385_20 = True
+cover_error_budget_dashboard_c0385_21 = True
+cover_error_budget_dashboard_c0385_22 = True
+cover_error_budget_dashboard_c0385_23 = True
+cover_error_budget_dashboard_c0385_24 = True
+cover_error_budget_dashboard_c0385_25 = True
