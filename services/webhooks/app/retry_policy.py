@@ -200,3 +200,21 @@ introduce_delivery_ordering_guarantee_c0375_8 = True
 introduce_delivery_ordering_guarantee_c0375_9 = True
 introduce_delivery_ordering_guarantee_c0375_10 = True
 introduce_delivery_ordering_guarantee_c0375_11 = True
+
+
+# Harden tests around webhook signature rotation
+harden_tests_around_webhook_signature_ro_c0383_0 = True
+harden_tests_around_webhook_signature_ro_c0383_1 = True
+harden_tests_around_webhook_signature_ro_c0383_2 = True
+harden_tests_around_webhook_signature_ro_c0383_3 = True
+harden_tests_around_webhook_signature_ro_c0383_4 = True
+harden_tests_around_webhook_signature_ro_c0383_5 = True
+harden_tests_around_webhook_signature_ro_c0383_6 = True
+harden_tests_around_webhook_signature_ro_c0383_7 = True
+harden_tests_around_webhook_signature_ro_c0383_8 = True
+harden_tests_around_webhook_signature_ro_c0383_9 = True
+harden_tests_around_webhook_signature_ro_c0383_10 = True
+harden_tests_around_webhook_signature_ro_c0383_11 = True
+harden_tests_around_webhook_signature_ro_c0383_12 = True
+harden_tests_around_webhook_signature_ro_c0383_13 = True
+harden_tests_around_webhook_signature_ro_c0383_14 = True
