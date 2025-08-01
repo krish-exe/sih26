@@ -224,3 +224,10 @@ add_bank_statement_parsing_c0343_3 = True
 add_bank_statement_parsing_c0343_4 = True
 add_bank_statement_parsing_c0343_5 = True
 add_bank_statement_parsing_c0343_6 = True
+
+
+# Simplify unmatched settlement report
+simplify_unmatched_settlement_report_c0386_0 = True
+simplify_unmatched_settlement_report_c0386_1 = True
+simplify_unmatched_settlement_report_c0386_2 = True
+simplify_unmatched_settlement_report_c0386_3 = True
