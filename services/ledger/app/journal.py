@@ -382,3 +382,17 @@ support_manual_adjustment_c0373_4 = True
 support_manual_adjustment_c0373_5 = True
 support_manual_adjustment_c0373_6 = True
 support_manual_adjustment_c0373_7 = True
+
+
+# Add tests for opening balance snapshot for delegated API keys
+add_tests_for_opening_balance_snapshot_f_c0391_0 = True
+add_tests_for_opening_balance_snapshot_f_c0391_1 = True
+add_tests_for_opening_balance_snapshot_f_c0391_2 = True
+add_tests_for_opening_balance_snapshot_f_c0391_3 = True
+add_tests_for_opening_balance_snapshot_f_c0391_4 = True
+add_tests_for_opening_balance_snapshot_f_c0391_5 = True
+add_tests_for_opening_balance_snapshot_f_c0391_6 = True
+add_tests_for_opening_balance_snapshot_f_c0391_7 = True
+add_tests_for_opening_balance_snapshot_f_c0391_8 = True
+add_tests_for_opening_balance_snapshot_f_c0391_9 = True
+add_tests_for_opening_balance_snapshot_f_c0391_10 = True
