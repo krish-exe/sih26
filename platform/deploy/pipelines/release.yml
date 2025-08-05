@@ -658,3 +658,8 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Extend blue-green cutover on the read replica
+extend_blue-green_cutover_on_the_read_re_c0393_0 = True
+extend_blue-green_cutover_on_the_read_re_c0393_1 = True

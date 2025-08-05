@@ -645,3 +645,8 @@ correct_deployment_freeze_window_during__c0389_93 = True
 correct_deployment_freeze_window_during__c0389_94 = True
 correct_deployment_freeze_window_during__c0389_95 = True
 correct_deployment_freeze_window_during__c0389_96 = True
+
+
+# Extend blue-green cutover on the read replica
+extend_blue-green_cutover_on_the_read_re_c0393_0 = True
+extend_blue-green_cutover_on_the_read_re_c0393_1 = True

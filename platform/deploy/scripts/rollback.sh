@@ -297,3 +297,8 @@ add_release_gating_c0329_137 = True
 add_release_gating_c0329_138 = True
 add_release_gating_c0329_139 = True
 add_release_gating_c0329_140 = True
+
+
+# Extend blue-green cutover on the read replica
+extend_blue-green_cutover_on_the_read_re_c0393_0 = True
+extend_blue-green_cutover_on_the_read_re_c0393_1 = True
