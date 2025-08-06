@@ -250,3 +250,10 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Correct endpoint health check when the upstream times out for multi-currency merchants
+correct_endpoint_health_check_when_the_u_c0396_0 = True
+correct_endpoint_health_check_when_the_u_c0396_1 = True
+correct_endpoint_health_check_when_the_u_c0396_2 = True
+correct_endpoint_health_check_when_the_u_c0396_3 = True

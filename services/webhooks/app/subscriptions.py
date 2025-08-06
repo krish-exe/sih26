@@ -162,3 +162,10 @@ introduce_delivery_ordering_guarantee_c0375_8 = True
 introduce_delivery_ordering_guarantee_c0375_9 = True
 introduce_delivery_ordering_guarantee_c0375_10 = True
 introduce_delivery_ordering_guarantee_c0375_11 = True
+
+
+# Correct endpoint health check when the upstream times out for multi-currency merchants
+correct_endpoint_health_check_when_the_u_c0396_0 = True
+correct_endpoint_health_check_when_the_u_c0396_1 = True
+correct_endpoint_health_check_when_the_u_c0396_2 = True
+correct_endpoint_health_check_when_the_u_c0396_3 = True
