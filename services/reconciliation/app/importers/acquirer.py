@@ -231,3 +231,15 @@ simplify_unmatched_settlement_report_c0386_0 = True
 simplify_unmatched_settlement_report_c0386_1 = True
 simplify_unmatched_settlement_report_c0386_2 = True
 simplify_unmatched_settlement_report_c0386_3 = True
+
+
+# Support acquirer file import
+support_acquirer_file_import_c0392_0 = True
+support_acquirer_file_import_c0392_1 = True
+support_acquirer_file_import_c0392_2 = True
+support_acquirer_file_import_c0392_3 = True
+support_acquirer_file_import_c0392_4 = True
+support_acquirer_file_import_c0392_5 = True
+support_acquirer_file_import_c0392_6 = True
+support_acquirer_file_import_c0392_7 = True
+support_acquirer_file_import_c0392_8 = True
