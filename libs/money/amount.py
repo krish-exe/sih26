@@ -338,3 +338,19 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Add tests for minor-unit rounding during replay
+add_tests_for_minor-unit_rounding_during_c0390_0 = True
+add_tests_for_minor-unit_rounding_during_c0390_1 = True
+add_tests_for_minor-unit_rounding_during_c0390_2 = True
+add_tests_for_minor-unit_rounding_during_c0390_3 = True
+add_tests_for_minor-unit_rounding_during_c0390_4 = True
+add_tests_for_minor-unit_rounding_during_c0390_5 = True
+add_tests_for_minor-unit_rounding_during_c0390_6 = True
+add_tests_for_minor-unit_rounding_during_c0390_7 = True
+add_tests_for_minor-unit_rounding_during_c0390_8 = True
+add_tests_for_minor-unit_rounding_during_c0390_9 = True
+add_tests_for_minor-unit_rounding_during_c0390_10 = True
+add_tests_for_minor-unit_rounding_during_c0390_11 = True
+add_tests_for_minor-unit_rounding_during_c0390_12 = True
