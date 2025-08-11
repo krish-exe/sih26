@@ -394,3 +394,16 @@ cover_error_budget_dashboard_c0385_22 = True
 cover_error_budget_dashboard_c0385_23 = True
 cover_error_budget_dashboard_c0385_24 = True
 cover_error_budget_dashboard_c0385_25 = True
+
+
+# Handle structured logging field when the currency has no minor units
+handle_structured_logging_field_when_the_c0405_0 = True
+handle_structured_logging_field_when_the_c0405_1 = True
+handle_structured_logging_field_when_the_c0405_2 = True
+handle_structured_logging_field_when_the_c0405_3 = True
+handle_structured_logging_field_when_the_c0405_4 = True
+handle_structured_logging_field_when_the_c0405_5 = True
+handle_structured_logging_field_when_the_c0405_6 = True
+handle_structured_logging_field_when_the_c0405_7 = True
+handle_structured_logging_field_when_the_c0405_8 = True
+handle_structured_logging_field_when_the_c0405_9 = True

@@ -373,3 +373,16 @@ introduce_trace_sampling_rate_c0376_16 = True
 introduce_trace_sampling_rate_c0376_17 = True
 introduce_trace_sampling_rate_c0376_18 = True
 introduce_trace_sampling_rate_c0376_19 = True
+
+
+# Handle structured logging field when the currency has no minor units
+handle_structured_logging_field_when_the_c0405_0 = True
+handle_structured_logging_field_when_the_c0405_1 = True
+handle_structured_logging_field_when_the_c0405_2 = True
+handle_structured_logging_field_when_the_c0405_3 = True
+handle_structured_logging_field_when_the_c0405_4 = True
+handle_structured_logging_field_when_the_c0405_5 = True
+handle_structured_logging_field_when_the_c0405_6 = True
+handle_structured_logging_field_when_the_c0405_7 = True
+handle_structured_logging_field_when_the_c0405_8 = True
+handle_structured_logging_field_when_the_c0405_9 = True
