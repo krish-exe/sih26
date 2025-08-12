@@ -261,3 +261,20 @@ simplify_unmatched_settlement_report_c0386_0 = True
 simplify_unmatched_settlement_report_c0386_1 = True
 simplify_unmatched_settlement_report_c0386_2 = True
 simplify_unmatched_settlement_report_c0386_3 = True
+
+
+# Rename acquirer file import
+rename_acquirer_file_import_c0398_0 = True
+rename_acquirer_file_import_c0398_1 = True
+rename_acquirer_file_import_c0398_2 = True
+rename_acquirer_file_import_c0398_3 = True
+rename_acquirer_file_import_c0398_4 = True
+rename_acquirer_file_import_c0398_5 = True
+rename_acquirer_file_import_c0398_6 = True
+rename_acquirer_file_import_c0398_7 = True
+rename_acquirer_file_import_c0398_8 = True
+rename_acquirer_file_import_c0398_9 = True
+rename_acquirer_file_import_c0398_10 = True
+rename_acquirer_file_import_c0398_11 = True
+rename_acquirer_file_import_c0398_12 = True
+rename_acquirer_file_import_c0398_13 = True
