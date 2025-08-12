@@ -330,3 +330,33 @@ support_journal_replay_c0367_0 = True
 support_journal_replay_c0367_1 = True
 support_journal_replay_c0367_2 = True
 support_journal_replay_c0367_3 = True
+
+
+# Rename opening balance snapshot
+rename_opening_balance_snapshot_c0403_0 = True
+rename_opening_balance_snapshot_c0403_1 = True
+rename_opening_balance_snapshot_c0403_2 = True
+rename_opening_balance_snapshot_c0403_3 = True
+rename_opening_balance_snapshot_c0403_4 = True
+rename_opening_balance_snapshot_c0403_5 = True
+rename_opening_balance_snapshot_c0403_6 = True
+rename_opening_balance_snapshot_c0403_7 = True
+rename_opening_balance_snapshot_c0403_8 = True
+rename_opening_balance_snapshot_c0403_9 = True
+rename_opening_balance_snapshot_c0403_10 = True
+rename_opening_balance_snapshot_c0403_11 = True
+rename_opening_balance_snapshot_c0403_12 = True
+rename_opening_balance_snapshot_c0403_13 = True
+rename_opening_balance_snapshot_c0403_14 = True
+rename_opening_balance_snapshot_c0403_15 = True
+rename_opening_balance_snapshot_c0403_16 = True
+rename_opening_balance_snapshot_c0403_17 = True
+rename_opening_balance_snapshot_c0403_18 = True
+rename_opening_balance_snapshot_c0403_19 = True
+rename_opening_balance_snapshot_c0403_20 = True
+rename_opening_balance_snapshot_c0403_21 = True
+rename_opening_balance_snapshot_c0403_22 = True
+rename_opening_balance_snapshot_c0403_23 = True
+rename_opening_balance_snapshot_c0403_24 = True
+rename_opening_balance_snapshot_c0403_25 = True
+rename_opening_balance_snapshot_c0403_26 = True
