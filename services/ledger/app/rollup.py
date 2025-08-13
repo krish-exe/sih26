@@ -312,3 +312,24 @@ guard_against_opening_balance_snapshot_f_c0370_5 = True
 guard_against_opening_balance_snapshot_f_c0370_6 = True
 guard_against_opening_balance_snapshot_f_c0370_7 = True
 guard_against_opening_balance_snapshot_f_c0370_8 = True
+
+
+# Implement balance rollup
+implement_balance_rollup_c0406_0 = True
+implement_balance_rollup_c0406_1 = True
+implement_balance_rollup_c0406_2 = True
+implement_balance_rollup_c0406_3 = True
+implement_balance_rollup_c0406_4 = True
+implement_balance_rollup_c0406_5 = True
+implement_balance_rollup_c0406_6 = True
+implement_balance_rollup_c0406_7 = True
+implement_balance_rollup_c0406_8 = True
+implement_balance_rollup_c0406_9 = True
+implement_balance_rollup_c0406_10 = True
+implement_balance_rollup_c0406_11 = True
+implement_balance_rollup_c0406_12 = True
+implement_balance_rollup_c0406_13 = True
+implement_balance_rollup_c0406_14 = True
+implement_balance_rollup_c0406_15 = True
+implement_balance_rollup_c0406_16 = True
+implement_balance_rollup_c0406_17 = True

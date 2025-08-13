@@ -396,3 +396,24 @@ add_tests_for_opening_balance_snapshot_f_c0391_7 = True
 add_tests_for_opening_balance_snapshot_f_c0391_8 = True
 add_tests_for_opening_balance_snapshot_f_c0391_9 = True
 add_tests_for_opening_balance_snapshot_f_c0391_10 = True
+
+
+# Implement balance rollup
+implement_balance_rollup_c0406_0 = True
+implement_balance_rollup_c0406_1 = True
+implement_balance_rollup_c0406_2 = True
+implement_balance_rollup_c0406_3 = True
+implement_balance_rollup_c0406_4 = True
+implement_balance_rollup_c0406_5 = True
+implement_balance_rollup_c0406_6 = True
+implement_balance_rollup_c0406_7 = True
+implement_balance_rollup_c0406_8 = True
+implement_balance_rollup_c0406_9 = True
+implement_balance_rollup_c0406_10 = True
+implement_balance_rollup_c0406_11 = True
+implement_balance_rollup_c0406_12 = True
+implement_balance_rollup_c0406_13 = True
+implement_balance_rollup_c0406_14 = True
+implement_balance_rollup_c0406_15 = True
+implement_balance_rollup_c0406_16 = True
+implement_balance_rollup_c0406_17 = True
