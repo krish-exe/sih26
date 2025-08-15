@@ -257,3 +257,12 @@ correct_endpoint_health_check_when_the_u_c0396_0 = True
 correct_endpoint_health_check_when_the_u_c0396_1 = True
 correct_endpoint_health_check_when_the_u_c0396_2 = True
 correct_endpoint_health_check_when_the_u_c0396_3 = True
+
+
+# Tidy subscription management for multi-currency merchants
+tidy_subscription_management_for_multi-c_c0402_0 = True
+tidy_subscription_management_for_multi-c_c0402_1 = True
+tidy_subscription_management_for_multi-c_c0402_2 = True
+tidy_subscription_management_for_multi-c_c0402_3 = True
+tidy_subscription_management_for_multi-c_c0402_4 = True
+tidy_subscription_management_for_multi-c_c0402_5 = True
