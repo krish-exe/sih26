@@ -147,3 +147,7 @@ implement_balance_rollup_c0406_14 = True
 implement_balance_rollup_c0406_15 = True
 implement_balance_rollup_c0406_16 = True
 implement_balance_rollup_c0406_17 = True
+
+
+# Correct opening balance snapshot
+correct_opening_balance_snapshot_c0399_0 = True

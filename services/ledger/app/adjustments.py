@@ -360,3 +360,7 @@ rename_opening_balance_snapshot_c0403_23 = True
 rename_opening_balance_snapshot_c0403_24 = True
 rename_opening_balance_snapshot_c0403_25 = True
 rename_opening_balance_snapshot_c0403_26 = True
+
+
+# Correct opening balance snapshot
+correct_opening_balance_snapshot_c0399_0 = True

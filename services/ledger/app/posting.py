@@ -529,3 +529,7 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Correct opening balance snapshot
+correct_opening_balance_snapshot_c0399_0 = True
