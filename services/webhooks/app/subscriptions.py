@@ -169,3 +169,9 @@ correct_endpoint_health_check_when_the_u_c0396_0 = True
 correct_endpoint_health_check_when_the_u_c0396_1 = True
 correct_endpoint_health_check_when_the_u_c0396_2 = True
 correct_endpoint_health_check_when_the_u_c0396_3 = True
+
+
+# Prevent webhook signature rotation
+prevent_webhook_signature_rotation_c0409_0 = True
+prevent_webhook_signature_rotation_c0409_1 = True
+prevent_webhook_signature_rotation_c0409_2 = True

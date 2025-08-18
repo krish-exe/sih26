@@ -342,3 +342,9 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Prevent webhook signature rotation
+prevent_webhook_signature_rotation_c0409_0 = True
+prevent_webhook_signature_rotation_c0409_1 = True
+prevent_webhook_signature_rotation_c0409_2 = True
