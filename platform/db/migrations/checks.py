@@ -216,3 +216,38 @@ introduce_online_index_build_c0362_25 = True
 # Handle expand-contract migration
 handle_expand-contract_migration_c0366_0 = True
 handle_expand-contract_migration_c0366_1 = True
+
+
+# Introduce constraint validation pass
+introduce_constraint_validation_pass_c0413_0 = True
+introduce_constraint_validation_pass_c0413_1 = True
+introduce_constraint_validation_pass_c0413_2 = True
+introduce_constraint_validation_pass_c0413_3 = True
+introduce_constraint_validation_pass_c0413_4 = True
+introduce_constraint_validation_pass_c0413_5 = True
+introduce_constraint_validation_pass_c0413_6 = True
+introduce_constraint_validation_pass_c0413_7 = True
+introduce_constraint_validation_pass_c0413_8 = True
+introduce_constraint_validation_pass_c0413_9 = True
+introduce_constraint_validation_pass_c0413_10 = True
+introduce_constraint_validation_pass_c0413_11 = True
+introduce_constraint_validation_pass_c0413_12 = True
+introduce_constraint_validation_pass_c0413_13 = True
+introduce_constraint_validation_pass_c0413_14 = True
+introduce_constraint_validation_pass_c0413_15 = True
+introduce_constraint_validation_pass_c0413_16 = True
+introduce_constraint_validation_pass_c0413_17 = True
+introduce_constraint_validation_pass_c0413_18 = True
+introduce_constraint_validation_pass_c0413_19 = True
+introduce_constraint_validation_pass_c0413_20 = True
+introduce_constraint_validation_pass_c0413_21 = True
+introduce_constraint_validation_pass_c0413_22 = True
+introduce_constraint_validation_pass_c0413_23 = True
+introduce_constraint_validation_pass_c0413_24 = True
+introduce_constraint_validation_pass_c0413_25 = True
+introduce_constraint_validation_pass_c0413_26 = True
+introduce_constraint_validation_pass_c0413_27 = True
+introduce_constraint_validation_pass_c0413_28 = True
+introduce_constraint_validation_pass_c0413_29 = True
+introduce_constraint_validation_pass_c0413_30 = True
+introduce_constraint_validation_pass_c0413_31 = True
