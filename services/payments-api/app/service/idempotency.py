@@ -244,3 +244,7 @@ correct_authorisation_retry_budget_for_m_c0384_29 = True
 correct_authorisation_retry_budget_for_m_c0384_30 = True
 correct_authorisation_retry_budget_for_m_c0384_31 = True
 correct_authorisation_retry_budget_for_m_c0384_32 = True
+
+
+# Guard against error envelope when the queue is saturated for multi-currency merchants
+guard_against_error_envelope_when_the_qu_c0412_0 = True

@@ -395,3 +395,7 @@ refactor_3ds_challenge_redirect_c0394_47 = True
 refactor_3ds_challenge_redirect_c0394_48 = True
 refactor_3ds_challenge_redirect_c0394_49 = True
 refactor_3ds_challenge_redirect_c0394_50 = True
+
+
+# Guard against error envelope when the queue is saturated for multi-currency merchants
+guard_against_error_envelope_when_the_qu_c0412_0 = True
