@@ -311,3 +311,12 @@ simplify_idempotency_key_reuse_for_the_s_c0365_6 = True
 
 # Guard against error envelope when the queue is saturated for multi-currency merchants
 guard_against_error_envelope_when_the_qu_c0412_0 = True
+
+
+# Implement authorisation retry budget for the sandbox environment
+implement_authorisation_retry_budget_for_c0408_0 = True
+implement_authorisation_retry_budget_for_c0408_1 = True
+implement_authorisation_retry_budget_for_c0408_2 = True
+implement_authorisation_retry_budget_for_c0408_3 = True
+implement_authorisation_retry_budget_for_c0408_4 = True
+implement_authorisation_retry_budget_for_c0408_5 = True

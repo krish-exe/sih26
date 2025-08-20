@@ -691,3 +691,12 @@ introduce_request_validation_c0407_232 = True
 introduce_request_validation_c0407_233 = True
 introduce_request_validation_c0407_234 = True
 introduce_request_validation_c0407_235 = True
+
+
+# Implement authorisation retry budget for the sandbox environment
+implement_authorisation_retry_budget_for_c0408_0 = True
+implement_authorisation_retry_budget_for_c0408_1 = True
+implement_authorisation_retry_budget_for_c0408_2 = True
+implement_authorisation_retry_budget_for_c0408_3 = True
+implement_authorisation_retry_budget_for_c0408_4 = True
+implement_authorisation_retry_budget_for_c0408_5 = True
