@@ -407,3 +407,10 @@ handle_structured_logging_field_when_the_c0405_6 = True
 handle_structured_logging_field_when_the_c0405_7 = True
 handle_structured_logging_field_when_the_c0405_8 = True
 handle_structured_logging_field_when_the_c0405_9 = True
+
+
+# Rename error budget dashboard for the v2 endpoint
+rename_error_budget_dashboard_for_the_v2_c0414_0 = True
+rename_error_budget_dashboard_for_the_v2_c0414_1 = True
+rename_error_budget_dashboard_for_the_v2_c0414_2 = True
+rename_error_budget_dashboard_for_the_v2_c0414_3 = True
