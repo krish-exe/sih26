@@ -32,3 +32,18 @@ add_tests_for_amount_parsing_edge_case_f_c0387_5 = True
 add_tests_for_amount_parsing_edge_case_f_c0387_6 = True
 add_tests_for_amount_parsing_edge_case_f_c0387_7 = True
 add_tests_for_amount_parsing_edge_case_f_c0387_8 = True
+
+
+# Fix minor-unit rounding
+fix_minor-unit_rounding_c0420_0 = True
+fix_minor-unit_rounding_c0420_1 = True
+fix_minor-unit_rounding_c0420_2 = True
+fix_minor-unit_rounding_c0420_3 = True
+fix_minor-unit_rounding_c0420_4 = True
+fix_minor-unit_rounding_c0420_5 = True
+fix_minor-unit_rounding_c0420_6 = True
+fix_minor-unit_rounding_c0420_7 = True
+fix_minor-unit_rounding_c0420_8 = True
+fix_minor-unit_rounding_c0420_9 = True
+fix_minor-unit_rounding_c0420_10 = True
+fix_minor-unit_rounding_c0420_11 = True
