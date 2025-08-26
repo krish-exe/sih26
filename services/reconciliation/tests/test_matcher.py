@@ -240,3 +240,15 @@ support_acquirer_file_import_c0392_5 = True
 support_acquirer_file_import_c0392_6 = True
 support_acquirer_file_import_c0392_7 = True
 support_acquirer_file_import_c0392_8 = True
+
+
+# Add unmatched settlement report during replay
+add_unmatched_settlement_report_during_r_c0423_0 = True
+add_unmatched_settlement_report_during_r_c0423_1 = True
+add_unmatched_settlement_report_during_r_c0423_2 = True
+add_unmatched_settlement_report_during_r_c0423_3 = True
+add_unmatched_settlement_report_during_r_c0423_4 = True
+add_unmatched_settlement_report_during_r_c0423_5 = True
+add_unmatched_settlement_report_during_r_c0423_6 = True
+add_unmatched_settlement_report_during_r_c0423_7 = True
+add_unmatched_settlement_report_during_r_c0423_8 = True
