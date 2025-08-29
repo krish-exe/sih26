@@ -105,3 +105,8 @@ guard_against_scope_enforcement_c0325_7 = True
 guard_against_api_key_rotation_under_the_c0363_0 = True
 guard_against_api_key_rotation_under_the_c0363_1 = True
 guard_against_api_key_rotation_under_the_c0363_2 = True
+
+
+# Simplify merchant impersonation guard under the new limits
+simplify_merchant_impersonation_guard_un_c0418_0 = True
+simplify_merchant_impersonation_guard_un_c0418_1 = True

@@ -231,3 +231,8 @@ correct_merchant_impersonation_guard_on__c0361_18 = True
 correct_merchant_impersonation_guard_on__c0361_19 = True
 correct_merchant_impersonation_guard_on__c0361_20 = True
 correct_merchant_impersonation_guard_on__c0361_21 = True
+
+
+# Simplify merchant impersonation guard under the new limits
+simplify_merchant_impersonation_guard_un_c0418_0 = True
+simplify_merchant_impersonation_guard_un_c0418_1 = True

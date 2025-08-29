@@ -211,3 +211,8 @@ implement_session_expiry_during_replay_c0350_3 = True
 implement_session_expiry_during_replay_c0350_4 = True
 implement_session_expiry_during_replay_c0350_5 = True
 implement_session_expiry_during_replay_c0350_6 = True
+
+
+# Simplify merchant impersonation guard under the new limits
+simplify_merchant_impersonation_guard_un_c0418_0 = True
+simplify_merchant_impersonation_guard_un_c0418_1 = True
