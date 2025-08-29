@@ -251,3 +251,8 @@ introduce_constraint_validation_pass_c0413_28 = True
 introduce_constraint_validation_pass_c0413_29 = True
 introduce_constraint_validation_pass_c0413_30 = True
 introduce_constraint_validation_pass_c0413_31 = True
+
+
+# Correct expand-contract migration on the read replica
+correct_expand-contract_migration_on_the_c0415_0 = True
+correct_expand-contract_migration_on_the_c0415_1 = True

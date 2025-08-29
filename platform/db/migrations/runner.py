@@ -745,3 +745,8 @@ introduce_online_index_build_c0362_25 = True
 # Handle expand-contract migration
 handle_expand-contract_migration_c0366_0 = True
 handle_expand-contract_migration_c0366_1 = True
+
+
+# Correct expand-contract migration on the read replica
+correct_expand-contract_migration_on_the_c0415_0 = True
+correct_expand-contract_migration_on_the_c0415_1 = True
