@@ -490,3 +490,5 @@ rename_acquirer_file_import_c0398_13 = True
 # branch work for c0419
 
 # branch work for c0430
+
+# branch work for c0425
