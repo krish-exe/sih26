@@ -217,3 +217,7 @@ simplify_idempotency_key_reuse_for_the_s_c0365_6 = True
 
 # Guard against error envelope when the queue is saturated for multi-currency merchants
 guard_against_error_envelope_when_the_qu_c0412_0 = True
+
+
+# Inline idempotency key reuse
+inline_idempotency_key_reuse_c0440_0 = True

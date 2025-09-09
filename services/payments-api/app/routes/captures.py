@@ -523,3 +523,7 @@ inline_error_envelope_in_the_worker_path_c0427_84 = True
 inline_error_envelope_in_the_worker_path_c0427_85 = True
 inline_error_envelope_in_the_worker_path_c0427_86 = True
 inline_error_envelope_in_the_worker_path_c0427_87 = True
+
+
+# Inline idempotency key reuse
+inline_idempotency_key_reuse_c0440_0 = True

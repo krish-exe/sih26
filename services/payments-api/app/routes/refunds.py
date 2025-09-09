@@ -700,3 +700,7 @@ implement_authorisation_retry_budget_for_c0408_2 = True
 implement_authorisation_retry_budget_for_c0408_3 = True
 implement_authorisation_retry_budget_for_c0408_4 = True
 implement_authorisation_retry_budget_for_c0408_5 = True
+
+
+# Inline idempotency key reuse
+inline_idempotency_key_reuse_c0440_0 = True
