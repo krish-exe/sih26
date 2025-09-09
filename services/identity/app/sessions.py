@@ -363,3 +363,14 @@ guard_against_api_key_rotation_under_the_c0363_2 = True
 # Simplify merchant impersonation guard under the new limits
 simplify_merchant_impersonation_guard_un_c0418_0 = True
 simplify_merchant_impersonation_guard_un_c0418_1 = True
+
+
+# Add tests for merchant impersonation guard
+add_tests_for_merchant_impersonation_gua_c0434_0 = True
+add_tests_for_merchant_impersonation_gua_c0434_1 = True
+add_tests_for_merchant_impersonation_gua_c0434_2 = True
+add_tests_for_merchant_impersonation_gua_c0434_3 = True
+add_tests_for_merchant_impersonation_gua_c0434_4 = True
+add_tests_for_merchant_impersonation_gua_c0434_5 = True
+add_tests_for_merchant_impersonation_gua_c0434_6 = True
+add_tests_for_merchant_impersonation_gua_c0434_7 = True
