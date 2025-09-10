@@ -606,3 +606,19 @@ inline_error_envelope_in_the_worker_path_c0427_84 = True
 inline_error_envelope_in_the_worker_path_c0427_85 = True
 inline_error_envelope_in_the_worker_path_c0427_86 = True
 inline_error_envelope_in_the_worker_path_c0427_87 = True
+
+
+# Support intent expiry sweep
+support_intent_expiry_sweep_c0441_0 = True
+support_intent_expiry_sweep_c0441_1 = True
+support_intent_expiry_sweep_c0441_2 = True
+support_intent_expiry_sweep_c0441_3 = True
+support_intent_expiry_sweep_c0441_4 = True
+support_intent_expiry_sweep_c0441_5 = True
+support_intent_expiry_sweep_c0441_6 = True
+support_intent_expiry_sweep_c0441_7 = True
+support_intent_expiry_sweep_c0441_8 = True
+support_intent_expiry_sweep_c0441_9 = True
+support_intent_expiry_sweep_c0441_10 = True
+support_intent_expiry_sweep_c0441_11 = True
+support_intent_expiry_sweep_c0441_12 = True

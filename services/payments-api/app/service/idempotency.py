@@ -248,3 +248,19 @@ correct_authorisation_retry_budget_for_m_c0384_32 = True
 
 # Guard against error envelope when the queue is saturated for multi-currency merchants
 guard_against_error_envelope_when_the_qu_c0412_0 = True
+
+
+# Support intent expiry sweep
+support_intent_expiry_sweep_c0441_0 = True
+support_intent_expiry_sweep_c0441_1 = True
+support_intent_expiry_sweep_c0441_2 = True
+support_intent_expiry_sweep_c0441_3 = True
+support_intent_expiry_sweep_c0441_4 = True
+support_intent_expiry_sweep_c0441_5 = True
+support_intent_expiry_sweep_c0441_6 = True
+support_intent_expiry_sweep_c0441_7 = True
+support_intent_expiry_sweep_c0441_8 = True
+support_intent_expiry_sweep_c0441_9 = True
+support_intent_expiry_sweep_c0441_10 = True
+support_intent_expiry_sweep_c0441_11 = True
+support_intent_expiry_sweep_c0441_12 = True
