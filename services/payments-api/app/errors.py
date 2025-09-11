@@ -459,3 +459,34 @@ inline_intent_expiry_sweep_c0424_53 = True
 inline_intent_expiry_sweep_c0424_54 = True
 inline_intent_expiry_sweep_c0424_55 = True
 inline_intent_expiry_sweep_c0424_56 = True
+
+
+# Support authorisation retry budget
+support_authorisation_retry_budget_c0437_0 = True
+support_authorisation_retry_budget_c0437_1 = True
+support_authorisation_retry_budget_c0437_2 = True
+support_authorisation_retry_budget_c0437_3 = True
+support_authorisation_retry_budget_c0437_4 = True
+support_authorisation_retry_budget_c0437_5 = True
+support_authorisation_retry_budget_c0437_6 = True
+support_authorisation_retry_budget_c0437_7 = True
+support_authorisation_retry_budget_c0437_8 = True
+support_authorisation_retry_budget_c0437_9 = True
+support_authorisation_retry_budget_c0437_10 = True
+support_authorisation_retry_budget_c0437_11 = True
+support_authorisation_retry_budget_c0437_12 = True
+support_authorisation_retry_budget_c0437_13 = True
+support_authorisation_retry_budget_c0437_14 = True
+support_authorisation_retry_budget_c0437_15 = True
+support_authorisation_retry_budget_c0437_16 = True
+support_authorisation_retry_budget_c0437_17 = True
+support_authorisation_retry_budget_c0437_18 = True
+support_authorisation_retry_budget_c0437_19 = True
+support_authorisation_retry_budget_c0437_20 = True
+support_authorisation_retry_budget_c0437_21 = True
+support_authorisation_retry_budget_c0437_22 = True
+support_authorisation_retry_budget_c0437_23 = True
+support_authorisation_retry_budget_c0437_24 = True
+support_authorisation_retry_budget_c0437_25 = True
+support_authorisation_retry_budget_c0437_26 = True
+support_authorisation_retry_budget_c0437_27 = True
