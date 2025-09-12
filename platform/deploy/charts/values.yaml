@@ -650,3 +650,36 @@ correct_deployment_freeze_window_during__c0389_96 = True
 # Extend blue-green cutover on the read replica
 extend_blue-green_cutover_on_the_read_re_c0393_0 = True
 extend_blue-green_cutover_on_the_read_re_c0393_1 = True
+
+
+# Split rollback procedure for the v2 endpoint
+split_rollback_procedure_for_the_v2_endp_c0435_0 = True
+split_rollback_procedure_for_the_v2_endp_c0435_1 = True
+split_rollback_procedure_for_the_v2_endp_c0435_2 = True
+split_rollback_procedure_for_the_v2_endp_c0435_3 = True
+split_rollback_procedure_for_the_v2_endp_c0435_4 = True
+split_rollback_procedure_for_the_v2_endp_c0435_5 = True
+split_rollback_procedure_for_the_v2_endp_c0435_6 = True
+split_rollback_procedure_for_the_v2_endp_c0435_7 = True
+split_rollback_procedure_for_the_v2_endp_c0435_8 = True
+split_rollback_procedure_for_the_v2_endp_c0435_9 = True
+split_rollback_procedure_for_the_v2_endp_c0435_10 = True
+split_rollback_procedure_for_the_v2_endp_c0435_11 = True
+split_rollback_procedure_for_the_v2_endp_c0435_12 = True
+split_rollback_procedure_for_the_v2_endp_c0435_13 = True
+split_rollback_procedure_for_the_v2_endp_c0435_14 = True
+split_rollback_procedure_for_the_v2_endp_c0435_15 = True
+split_rollback_procedure_for_the_v2_endp_c0435_16 = True
+split_rollback_procedure_for_the_v2_endp_c0435_17 = True
+split_rollback_procedure_for_the_v2_endp_c0435_18 = True
+split_rollback_procedure_for_the_v2_endp_c0435_19 = True
+split_rollback_procedure_for_the_v2_endp_c0435_20 = True
+split_rollback_procedure_for_the_v2_endp_c0435_21 = True
+split_rollback_procedure_for_the_v2_endp_c0435_22 = True
+split_rollback_procedure_for_the_v2_endp_c0435_23 = True
+split_rollback_procedure_for_the_v2_endp_c0435_24 = True
+split_rollback_procedure_for_the_v2_endp_c0435_25 = True
+split_rollback_procedure_for_the_v2_endp_c0435_26 = True
+split_rollback_procedure_for_the_v2_endp_c0435_27 = True
+split_rollback_procedure_for_the_v2_endp_c0435_28 = True
+split_rollback_procedure_for_the_v2_endp_c0435_29 = True
