@@ -527,3 +527,8 @@ inline_error_envelope_in_the_worker_path_c0427_87 = True
 
 # Inline idempotency key reuse
 inline_idempotency_key_reuse_c0440_0 = True
+
+
+# Rename payment intent creation
+rename_payment_intent_creation_c0438_0 = True
+rename_payment_intent_creation_c0438_1 = True

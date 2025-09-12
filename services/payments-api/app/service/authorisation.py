@@ -431,3 +431,8 @@ support_intent_expiry_sweep_c0441_9 = True
 support_intent_expiry_sweep_c0441_10 = True
 support_intent_expiry_sweep_c0441_11 = True
 support_intent_expiry_sweep_c0441_12 = True
+
+
+# Rename payment intent creation
+rename_payment_intent_creation_c0438_0 = True
+rename_payment_intent_creation_c0438_1 = True

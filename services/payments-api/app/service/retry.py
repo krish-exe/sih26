@@ -221,3 +221,8 @@ guard_against_error_envelope_when_the_qu_c0412_0 = True
 
 # Inline idempotency key reuse
 inline_idempotency_key_reuse_c0440_0 = True
+
+
+# Rename payment intent creation
+rename_payment_intent_creation_c0438_0 = True
+rename_payment_intent_creation_c0438_1 = True
