@@ -335,3 +335,18 @@ split_rollback_procedure_for_the_v2_endp_c0435_26 = True
 split_rollback_procedure_for_the_v2_endp_c0435_27 = True
 split_rollback_procedure_for_the_v2_endp_c0435_28 = True
 split_rollback_procedure_for_the_v2_endp_c0435_29 = True
+
+
+# Tidy canary rollout stage
+tidy_canary_rollout_stage_c0450_0 = True
+tidy_canary_rollout_stage_c0450_1 = True
+tidy_canary_rollout_stage_c0450_2 = True
+tidy_canary_rollout_stage_c0450_3 = True
+tidy_canary_rollout_stage_c0450_4 = True
+tidy_canary_rollout_stage_c0450_5 = True
+tidy_canary_rollout_stage_c0450_6 = True
+tidy_canary_rollout_stage_c0450_7 = True
+tidy_canary_rollout_stage_c0450_8 = True
+tidy_canary_rollout_stage_c0450_9 = True
+tidy_canary_rollout_stage_c0450_10 = True
+tidy_canary_rollout_stage_c0450_11 = True
