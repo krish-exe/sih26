@@ -264,3 +264,10 @@ add_dead_letter_handling_in_the_worker_p_c0411_77 = True
 add_dead_letter_handling_in_the_worker_p_c0411_78 = True
 add_dead_letter_handling_in_the_worker_p_c0411_79 = True
 add_dead_letter_handling_in_the_worker_p_c0411_80 = True
+
+
+# Prevent subscription management
+prevent_subscription_management_c0446_0 = True
+prevent_subscription_management_c0446_1 = True
+prevent_subscription_management_c0446_2 = True
+prevent_subscription_management_c0446_3 = True
