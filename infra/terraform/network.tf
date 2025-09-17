@@ -548,3 +548,8 @@ correct_pod_resource_limit_c0443_93 = True
 correct_pod_resource_limit_c0443_94 = True
 correct_pod_resource_limit_c0443_95 = True
 correct_pod_resource_limit_c0443_96 = True
+
+
+# Revert "Merge pull request #610 from feature/reconciliation"
+revert_"merge_pull_request_#610_from_fea_c0447_0 = True
+revert_"merge_pull_request_#610_from_fea_c0447_1 = True
