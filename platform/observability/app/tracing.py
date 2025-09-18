@@ -471,3 +471,26 @@ fix_trace_sampling_rate_c0431_50 = True
 fix_trace_sampling_rate_c0431_51 = True
 fix_trace_sampling_rate_c0431_52 = True
 fix_trace_sampling_rate_c0431_53 = True
+
+
+# Simplify trace sampling rate
+simplify_trace_sampling_rate_c0445_0 = True
+simplify_trace_sampling_rate_c0445_1 = True
+simplify_trace_sampling_rate_c0445_2 = True
+simplify_trace_sampling_rate_c0445_3 = True
+simplify_trace_sampling_rate_c0445_4 = True
+simplify_trace_sampling_rate_c0445_5 = True
+simplify_trace_sampling_rate_c0445_6 = True
+simplify_trace_sampling_rate_c0445_7 = True
+simplify_trace_sampling_rate_c0445_8 = True
+simplify_trace_sampling_rate_c0445_9 = True
+simplify_trace_sampling_rate_c0445_10 = True
+simplify_trace_sampling_rate_c0445_11 = True
+simplify_trace_sampling_rate_c0445_12 = True
+simplify_trace_sampling_rate_c0445_13 = True
+simplify_trace_sampling_rate_c0445_14 = True
+simplify_trace_sampling_rate_c0445_15 = True
+simplify_trace_sampling_rate_c0445_16 = True
+simplify_trace_sampling_rate_c0445_17 = True
+simplify_trace_sampling_rate_c0445_18 = True
+simplify_trace_sampling_rate_c0445_19 = True
