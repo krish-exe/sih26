@@ -129,3 +129,17 @@ correct_bounce_handling_after_a_partial__c0356_5 = True
 correct_bounce_handling_after_a_partial__c0356_6 = True
 correct_bounce_handling_after_a_partial__c0356_7 = True
 correct_bounce_handling_after_a_partial__c0356_8 = True
+
+
+# Introduce template localisation during replay
+introduce_template_localisation_during_r_c0444_0 = True
+introduce_template_localisation_during_r_c0444_1 = True
+introduce_template_localisation_during_r_c0444_2 = True
+introduce_template_localisation_during_r_c0444_3 = True
+introduce_template_localisation_during_r_c0444_4 = True
+introduce_template_localisation_during_r_c0444_5 = True
+introduce_template_localisation_during_r_c0444_6 = True
+introduce_template_localisation_during_r_c0444_7 = True
+introduce_template_localisation_during_r_c0444_8 = True
+introduce_template_localisation_during_r_c0444_9 = True
+introduce_template_localisation_during_r_c0444_10 = True
