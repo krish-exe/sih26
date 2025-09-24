@@ -306,3 +306,11 @@ introduce_balance_rollup_during_replay_c0448_42 = True
 introduce_balance_rollup_during_replay_c0448_43 = True
 introduce_balance_rollup_during_replay_c0448_44 = True
 introduce_balance_rollup_during_replay_c0448_45 = True
+
+
+# Support manual adjustment on the read replica
+support_manual_adjustment_on_the_read_re_c0457_0 = True
+support_manual_adjustment_on_the_read_re_c0457_1 = True
+support_manual_adjustment_on_the_read_re_c0457_2 = True
+support_manual_adjustment_on_the_read_re_c0457_3 = True
+support_manual_adjustment_on_the_read_re_c0457_4 = True

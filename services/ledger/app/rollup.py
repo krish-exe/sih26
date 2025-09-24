@@ -337,3 +337,11 @@ implement_balance_rollup_c0406_17 = True
 
 # Correct opening balance snapshot
 correct_opening_balance_snapshot_c0399_0 = True
+
+
+# Support manual adjustment on the read replica
+support_manual_adjustment_on_the_read_re_c0457_0 = True
+support_manual_adjustment_on_the_read_re_c0457_1 = True
+support_manual_adjustment_on_the_read_re_c0457_2 = True
+support_manual_adjustment_on_the_read_re_c0457_3 = True
+support_manual_adjustment_on_the_read_re_c0457_4 = True
