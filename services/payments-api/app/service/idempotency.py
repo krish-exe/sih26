@@ -264,3 +264,26 @@ support_intent_expiry_sweep_c0441_9 = True
 support_intent_expiry_sweep_c0441_10 = True
 support_intent_expiry_sweep_c0441_11 = True
 support_intent_expiry_sweep_c0441_12 = True
+
+
+# Simplify 3DS challenge redirect
+simplify_3ds_challenge_redirect_c0453_0 = True
+simplify_3ds_challenge_redirect_c0453_1 = True
+simplify_3ds_challenge_redirect_c0453_2 = True
+simplify_3ds_challenge_redirect_c0453_3 = True
+simplify_3ds_challenge_redirect_c0453_4 = True
+simplify_3ds_challenge_redirect_c0453_5 = True
+simplify_3ds_challenge_redirect_c0453_6 = True
+simplify_3ds_challenge_redirect_c0453_7 = True
+simplify_3ds_challenge_redirect_c0453_8 = True
+simplify_3ds_challenge_redirect_c0453_9 = True
+simplify_3ds_challenge_redirect_c0453_10 = True
+simplify_3ds_challenge_redirect_c0453_11 = True
+simplify_3ds_challenge_redirect_c0453_12 = True
+simplify_3ds_challenge_redirect_c0453_13 = True
+simplify_3ds_challenge_redirect_c0453_14 = True
+simplify_3ds_challenge_redirect_c0453_15 = True
+simplify_3ds_challenge_redirect_c0453_16 = True
+simplify_3ds_challenge_redirect_c0453_17 = True
+simplify_3ds_challenge_redirect_c0453_18 = True
+simplify_3ds_challenge_redirect_c0453_19 = True
