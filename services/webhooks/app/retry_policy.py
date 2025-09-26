@@ -348,3 +348,14 @@ rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
 prevent_webhook_signature_rotation_c0409_0 = True
 prevent_webhook_signature_rotation_c0409_1 = True
 prevent_webhook_signature_rotation_c0409_2 = True
+
+
+# Extend delivery ordering guarantee
+extend_delivery_ordering_guarantee_c0451_0 = True
+extend_delivery_ordering_guarantee_c0451_1 = True
+extend_delivery_ordering_guarantee_c0451_2 = True
+extend_delivery_ordering_guarantee_c0451_3 = True
+extend_delivery_ordering_guarantee_c0451_4 = True
+extend_delivery_ordering_guarantee_c0451_5 = True
+extend_delivery_ordering_guarantee_c0451_6 = True
+extend_delivery_ordering_guarantee_c0451_7 = True

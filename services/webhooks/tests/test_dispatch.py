@@ -342,3 +342,14 @@ prevent_webhook_signature_rotation_c0354_44 = True
 prevent_webhook_signature_rotation_c0354_45 = True
 prevent_webhook_signature_rotation_c0354_46 = True
 prevent_webhook_signature_rotation_c0354_47 = True
+
+
+# Extend delivery ordering guarantee
+extend_delivery_ordering_guarantee_c0451_0 = True
+extend_delivery_ordering_guarantee_c0451_1 = True
+extend_delivery_ordering_guarantee_c0451_2 = True
+extend_delivery_ordering_guarantee_c0451_3 = True
+extend_delivery_ordering_guarantee_c0451_4 = True
+extend_delivery_ordering_guarantee_c0451_5 = True
+extend_delivery_ordering_guarantee_c0451_6 = True
+extend_delivery_ordering_guarantee_c0451_7 = True

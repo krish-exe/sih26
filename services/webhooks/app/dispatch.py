@@ -266,3 +266,14 @@ tidy_subscription_management_for_multi-c_c0402_2 = True
 tidy_subscription_management_for_multi-c_c0402_3 = True
 tidy_subscription_management_for_multi-c_c0402_4 = True
 tidy_subscription_management_for_multi-c_c0402_5 = True
+
+
+# Extend delivery ordering guarantee
+extend_delivery_ordering_guarantee_c0451_0 = True
+extend_delivery_ordering_guarantee_c0451_1 = True
+extend_delivery_ordering_guarantee_c0451_2 = True
+extend_delivery_ordering_guarantee_c0451_3 = True
+extend_delivery_ordering_guarantee_c0451_4 = True
+extend_delivery_ordering_guarantee_c0451_5 = True
+extend_delivery_ordering_guarantee_c0451_6 = True
+extend_delivery_ordering_guarantee_c0451_7 = True
