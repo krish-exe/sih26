@@ -793,3 +793,16 @@ support_intent_expiry_sweep_c0441_9 = True
 support_intent_expiry_sweep_c0441_10 = True
 support_intent_expiry_sweep_c0441_11 = True
 support_intent_expiry_sweep_c0441_12 = True
+
+
+# Introduce authorisation retry budget
+introduce_authorisation_retry_budget_c0454_0 = True
+introduce_authorisation_retry_budget_c0454_1 = True
+introduce_authorisation_retry_budget_c0454_2 = True
+introduce_authorisation_retry_budget_c0454_3 = True
+introduce_authorisation_retry_budget_c0454_4 = True
+introduce_authorisation_retry_budget_c0454_5 = True
+introduce_authorisation_retry_budget_c0454_6 = True
+introduce_authorisation_retry_budget_c0454_7 = True
+introduce_authorisation_retry_budget_c0454_8 = True
+introduce_authorisation_retry_budget_c0454_9 = True
