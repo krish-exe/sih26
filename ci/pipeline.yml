@@ -180,3 +180,12 @@ ci:_regenerate_client_stubs_c0400_15 = True
 ci:_regenerate_client_stubs_c0400_16 = True
 ci:_regenerate_client_stubs_c0400_17 = True
 ci:_regenerate_client_stubs_c0400_18 = True
+
+
+# ci: regenerate lockfile
+ci:_regenerate_lockfile_c0452_0 = True
+ci:_regenerate_lockfile_c0452_1 = True
+ci:_regenerate_lockfile_c0452_2 = True
+ci:_regenerate_lockfile_c0452_3 = True
+ci:_regenerate_lockfile_c0452_4 = True
+ci:_regenerate_lockfile_c0452_5 = True
