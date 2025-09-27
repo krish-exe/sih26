@@ -682,3 +682,19 @@ split_rollback_procedure_for_the_v2_endp_c0435_26 = True
 split_rollback_procedure_for_the_v2_endp_c0435_27 = True
 split_rollback_procedure_for_the_v2_endp_c0435_28 = True
 split_rollback_procedure_for_the_v2_endp_c0435_29 = True
+
+
+# Fix release gating
+fix_release_gating_c0455_0 = True
+fix_release_gating_c0455_1 = True
+fix_release_gating_c0455_2 = True
+fix_release_gating_c0455_3 = True
+fix_release_gating_c0455_4 = True
+fix_release_gating_c0455_5 = True
+fix_release_gating_c0455_6 = True
+fix_release_gating_c0455_7 = True
+fix_release_gating_c0455_8 = True
+fix_release_gating_c0455_9 = True
+fix_release_gating_c0455_10 = True
+fix_release_gating_c0455_11 = True
+fix_release_gating_c0455_12 = True

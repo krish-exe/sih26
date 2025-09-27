@@ -350,3 +350,19 @@ tidy_canary_rollout_stage_c0450_8 = True
 tidy_canary_rollout_stage_c0450_9 = True
 tidy_canary_rollout_stage_c0450_10 = True
 tidy_canary_rollout_stage_c0450_11 = True
+
+
+# Fix release gating
+fix_release_gating_c0455_0 = True
+fix_release_gating_c0455_1 = True
+fix_release_gating_c0455_2 = True
+fix_release_gating_c0455_3 = True
+fix_release_gating_c0455_4 = True
+fix_release_gating_c0455_5 = True
+fix_release_gating_c0455_6 = True
+fix_release_gating_c0455_7 = True
+fix_release_gating_c0455_8 = True
+fix_release_gating_c0455_9 = True
+fix_release_gating_c0455_10 = True
+fix_release_gating_c0455_11 = True
+fix_release_gating_c0455_12 = True
