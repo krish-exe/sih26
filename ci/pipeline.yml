@@ -189,3 +189,22 @@ ci:_regenerate_lockfile_c0452_2 = True
 ci:_regenerate_lockfile_c0452_3 = True
 ci:_regenerate_lockfile_c0452_4 = True
 ci:_regenerate_lockfile_c0452_5 = True
+
+
+# ci: regenerate client stubs
+ci:_regenerate_client_stubs_c0460_0 = True
+ci:_regenerate_client_stubs_c0460_1 = True
+ci:_regenerate_client_stubs_c0460_2 = True
+ci:_regenerate_client_stubs_c0460_3 = True
+ci:_regenerate_client_stubs_c0460_4 = True
+ci:_regenerate_client_stubs_c0460_5 = True
+ci:_regenerate_client_stubs_c0460_6 = True
+ci:_regenerate_client_stubs_c0460_7 = True
+ci:_regenerate_client_stubs_c0460_8 = True
+ci:_regenerate_client_stubs_c0460_9 = True
+ci:_regenerate_client_stubs_c0460_10 = True
+ci:_regenerate_client_stubs_c0460_11 = True
+ci:_regenerate_client_stubs_c0460_12 = True
+ci:_regenerate_client_stubs_c0460_13 = True
+ci:_regenerate_client_stubs_c0460_14 = True
+ci:_regenerate_client_stubs_c0460_15 = True
