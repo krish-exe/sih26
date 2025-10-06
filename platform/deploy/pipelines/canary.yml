@@ -792,3 +792,16 @@ tidy_canary_rollout_stage_c0450_8 = True
 tidy_canary_rollout_stage_c0450_9 = True
 tidy_canary_rollout_stage_c0450_10 = True
 tidy_canary_rollout_stage_c0450_11 = True
+
+
+# Cover deployment freeze window
+cover_deployment_freeze_window_c0463_0 = True
+cover_deployment_freeze_window_c0463_1 = True
+cover_deployment_freeze_window_c0463_2 = True
+cover_deployment_freeze_window_c0463_3 = True
+cover_deployment_freeze_window_c0463_4 = True
+cover_deployment_freeze_window_c0463_5 = True
+cover_deployment_freeze_window_c0463_6 = True
+cover_deployment_freeze_window_c0463_7 = True
+cover_deployment_freeze_window_c0463_8 = True
+cover_deployment_freeze_window_c0463_9 = True
