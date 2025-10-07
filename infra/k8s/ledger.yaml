@@ -265,3 +265,13 @@ correct_autoscaling_threshold_c0374_10 = True
 # Revert "Merge pull request #610 from feature/reconciliation"
 revert_"merge_pull_request_#610_from_fea_c0447_0 = True
 revert_"merge_pull_request_#610_from_fea_c0447_1 = True
+
+
+# Correct network policy for out-of-order events
+correct_network_policy_for_out-of-order__c0464_0 = True
+correct_network_policy_for_out-of-order__c0464_1 = True
+correct_network_policy_for_out-of-order__c0464_2 = True
+correct_network_policy_for_out-of-order__c0464_3 = True
+correct_network_policy_for_out-of-order__c0464_4 = True
+correct_network_policy_for_out-of-order__c0464_5 = True
+correct_network_policy_for_out-of-order__c0464_6 = True

@@ -406,3 +406,13 @@ move_shared_money_helpers_into_libs/mone_sweep01_179 = True
 move_shared_money_helpers_into_libs/mone_sweep01_180 = True
 move_shared_money_helpers_into_libs/mone_sweep01_181 = True
 move_shared_money_helpers_into_libs/mone_sweep01_182 = True
+
+
+# Correct network policy for out-of-order events
+correct_network_policy_for_out-of-order__c0464_0 = True
+correct_network_policy_for_out-of-order__c0464_1 = True
+correct_network_policy_for_out-of-order__c0464_2 = True
+correct_network_policy_for_out-of-order__c0464_3 = True
+correct_network_policy_for_out-of-order__c0464_4 = True
+correct_network_policy_for_out-of-order__c0464_5 = True
+correct_network_policy_for_out-of-order__c0464_6 = True

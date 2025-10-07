@@ -64,3 +64,13 @@ correct_autoscaling_threshold_c0374_7 = True
 correct_autoscaling_threshold_c0374_8 = True
 correct_autoscaling_threshold_c0374_9 = True
 correct_autoscaling_threshold_c0374_10 = True
+
+
+# Correct network policy for out-of-order events
+correct_network_policy_for_out-of-order__c0464_0 = True
+correct_network_policy_for_out-of-order__c0464_1 = True
+correct_network_policy_for_out-of-order__c0464_2 = True
+correct_network_policy_for_out-of-order__c0464_3 = True
+correct_network_policy_for_out-of-order__c0464_4 = True
+correct_network_policy_for_out-of-order__c0464_5 = True
+correct_network_policy_for_out-of-order__c0464_6 = True
