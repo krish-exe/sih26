@@ -413,3 +413,12 @@ introduce_balance_rollup_during_replay_c0448_42 = True
 introduce_balance_rollup_during_replay_c0448_43 = True
 introduce_balance_rollup_during_replay_c0448_44 = True
 introduce_balance_rollup_during_replay_c0448_45 = True
+
+
+# Extend adjustment approval trail
+extend_adjustment_approval_trail_c0461_0 = True
+extend_adjustment_approval_trail_c0461_1 = True
+extend_adjustment_approval_trail_c0461_2 = True
+extend_adjustment_approval_trail_c0461_3 = True
+extend_adjustment_approval_trail_c0461_4 = True
+extend_adjustment_approval_trail_c0461_5 = True

@@ -521,3 +521,12 @@ support_manual_adjustment_on_the_read_re_c0457_1 = True
 support_manual_adjustment_on_the_read_re_c0457_2 = True
 support_manual_adjustment_on_the_read_re_c0457_3 = True
 support_manual_adjustment_on_the_read_re_c0457_4 = True
+
+
+# Extend adjustment approval trail
+extend_adjustment_approval_trail_c0461_0 = True
+extend_adjustment_approval_trail_c0461_1 = True
+extend_adjustment_approval_trail_c0461_2 = True
+extend_adjustment_approval_trail_c0461_3 = True
+extend_adjustment_approval_trail_c0461_4 = True
+extend_adjustment_approval_trail_c0461_5 = True
