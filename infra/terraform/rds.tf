@@ -416,3 +416,34 @@ correct_network_policy_for_out-of-order__c0464_3 = True
 correct_network_policy_for_out-of-order__c0464_4 = True
 correct_network_policy_for_out-of-order__c0464_5 = True
 correct_network_policy_for_out-of-order__c0464_6 = True
+
+
+# Extend IAM role scope for multi-currency merchants
+extend_iam_role_scope_for_multi-currency_c0462_0 = True
+extend_iam_role_scope_for_multi-currency_c0462_1 = True
+extend_iam_role_scope_for_multi-currency_c0462_2 = True
+extend_iam_role_scope_for_multi-currency_c0462_3 = True
+extend_iam_role_scope_for_multi-currency_c0462_4 = True
+extend_iam_role_scope_for_multi-currency_c0462_5 = True
+extend_iam_role_scope_for_multi-currency_c0462_6 = True
+extend_iam_role_scope_for_multi-currency_c0462_7 = True
+extend_iam_role_scope_for_multi-currency_c0462_8 = True
+extend_iam_role_scope_for_multi-currency_c0462_9 = True
+extend_iam_role_scope_for_multi-currency_c0462_10 = True
+extend_iam_role_scope_for_multi-currency_c0462_11 = True
+extend_iam_role_scope_for_multi-currency_c0462_12 = True
+extend_iam_role_scope_for_multi-currency_c0462_13 = True
+extend_iam_role_scope_for_multi-currency_c0462_14 = True
+extend_iam_role_scope_for_multi-currency_c0462_15 = True
+extend_iam_role_scope_for_multi-currency_c0462_16 = True
+extend_iam_role_scope_for_multi-currency_c0462_17 = True
+extend_iam_role_scope_for_multi-currency_c0462_18 = True
+extend_iam_role_scope_for_multi-currency_c0462_19 = True
+extend_iam_role_scope_for_multi-currency_c0462_20 = True
+extend_iam_role_scope_for_multi-currency_c0462_21 = True
+extend_iam_role_scope_for_multi-currency_c0462_22 = True
+extend_iam_role_scope_for_multi-currency_c0462_23 = True
+extend_iam_role_scope_for_multi-currency_c0462_24 = True
+extend_iam_role_scope_for_multi-currency_c0462_25 = True
+extend_iam_role_scope_for_multi-currency_c0462_26 = True
+extend_iam_role_scope_for_multi-currency_c0462_27 = True
