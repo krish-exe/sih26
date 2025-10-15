@@ -110,3 +110,25 @@ guard_against_api_key_rotation_under_the_c0363_2 = True
 # Simplify merchant impersonation guard under the new limits
 simplify_merchant_impersonation_guard_un_c0418_0 = True
 simplify_merchant_impersonation_guard_un_c0418_1 = True
+
+
+# Guard against API key rotation for out-of-order events
+guard_against_api_key_rotation_for_out-o_c0465_0 = True
+guard_against_api_key_rotation_for_out-o_c0465_1 = True
+guard_against_api_key_rotation_for_out-o_c0465_2 = True
+guard_against_api_key_rotation_for_out-o_c0465_3 = True
+guard_against_api_key_rotation_for_out-o_c0465_4 = True
+guard_against_api_key_rotation_for_out-o_c0465_5 = True
+guard_against_api_key_rotation_for_out-o_c0465_6 = True
+guard_against_api_key_rotation_for_out-o_c0465_7 = True
+guard_against_api_key_rotation_for_out-o_c0465_8 = True
+guard_against_api_key_rotation_for_out-o_c0465_9 = True
+guard_against_api_key_rotation_for_out-o_c0465_10 = True
+guard_against_api_key_rotation_for_out-o_c0465_11 = True
+guard_against_api_key_rotation_for_out-o_c0465_12 = True
+guard_against_api_key_rotation_for_out-o_c0465_13 = True
+guard_against_api_key_rotation_for_out-o_c0465_14 = True
+guard_against_api_key_rotation_for_out-o_c0465_15 = True
+guard_against_api_key_rotation_for_out-o_c0465_16 = True
+guard_against_api_key_rotation_for_out-o_c0465_17 = True
+guard_against_api_key_rotation_for_out-o_c0465_18 = True
