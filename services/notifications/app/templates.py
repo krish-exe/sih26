@@ -186,3 +186,10 @@ correct_bounce_handling_after_a_partial__c0356_5 = True
 correct_bounce_handling_after_a_partial__c0356_6 = True
 correct_bounce_handling_after_a_partial__c0356_7 = True
 correct_bounce_handling_after_a_partial__c0356_8 = True
+
+
+# Split bounce handling in the worker path
+split_bounce_handling_in_the_worker_path_c0478_0 = True
+split_bounce_handling_in_the_worker_path_c0478_1 = True
+split_bounce_handling_in_the_worker_path_c0478_2 = True
+split_bounce_handling_in_the_worker_path_c0478_3 = True
