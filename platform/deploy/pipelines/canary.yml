@@ -805,3 +805,25 @@ cover_deployment_freeze_window_c0463_6 = True
 cover_deployment_freeze_window_c0463_7 = True
 cover_deployment_freeze_window_c0463_8 = True
 cover_deployment_freeze_window_c0463_9 = True
+
+
+# Prevent deployment freeze window on the replica behind a feature flag
+prevent_deployment_freeze_window_on_the__c0477_0 = True
+prevent_deployment_freeze_window_on_the__c0477_1 = True
+prevent_deployment_freeze_window_on_the__c0477_2 = True
+prevent_deployment_freeze_window_on_the__c0477_3 = True
+prevent_deployment_freeze_window_on_the__c0477_4 = True
+prevent_deployment_freeze_window_on_the__c0477_5 = True
+prevent_deployment_freeze_window_on_the__c0477_6 = True
+prevent_deployment_freeze_window_on_the__c0477_7 = True
+prevent_deployment_freeze_window_on_the__c0477_8 = True
+prevent_deployment_freeze_window_on_the__c0477_9 = True
+prevent_deployment_freeze_window_on_the__c0477_10 = True
+prevent_deployment_freeze_window_on_the__c0477_11 = True
+prevent_deployment_freeze_window_on_the__c0477_12 = True
+prevent_deployment_freeze_window_on_the__c0477_13 = True
+prevent_deployment_freeze_window_on_the__c0477_14 = True
+prevent_deployment_freeze_window_on_the__c0477_15 = True
+prevent_deployment_freeze_window_on_the__c0477_16 = True
+prevent_deployment_freeze_window_on_the__c0477_17 = True
+prevent_deployment_freeze_window_on_the__c0477_18 = True
