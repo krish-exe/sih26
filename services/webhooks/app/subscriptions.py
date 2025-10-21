@@ -186,3 +186,20 @@ extend_delivery_ordering_guarantee_c0451_4 = True
 extend_delivery_ordering_guarantee_c0451_5 = True
 extend_delivery_ordering_guarantee_c0451_6 = True
 extend_delivery_ordering_guarantee_c0451_7 = True
+
+
+# Introduce subscription management
+introduce_subscription_management_c0480_0 = True
+introduce_subscription_management_c0480_1 = True
+introduce_subscription_management_c0480_2 = True
+introduce_subscription_management_c0480_3 = True
+introduce_subscription_management_c0480_4 = True
+introduce_subscription_management_c0480_5 = True
+introduce_subscription_management_c0480_6 = True
+introduce_subscription_management_c0480_7 = True
+introduce_subscription_management_c0480_8 = True
+introduce_subscription_management_c0480_9 = True
+introduce_subscription_management_c0480_10 = True
+introduce_subscription_management_c0480_11 = True
+introduce_subscription_management_c0480_12 = True
+introduce_subscription_management_c0480_13 = True
