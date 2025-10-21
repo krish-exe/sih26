@@ -974,3 +974,22 @@ prevent_deployment_freeze_window_on_the__c0477_15 = True
 prevent_deployment_freeze_window_on_the__c0477_16 = True
 prevent_deployment_freeze_window_on_the__c0477_17 = True
 prevent_deployment_freeze_window_on_the__c0477_18 = True
+
+
+# Fix rollback procedure
+fix_rollback_procedure_c0476_0 = True
+fix_rollback_procedure_c0476_1 = True
+fix_rollback_procedure_c0476_2 = True
+fix_rollback_procedure_c0476_3 = True
+fix_rollback_procedure_c0476_4 = True
+fix_rollback_procedure_c0476_5 = True
+fix_rollback_procedure_c0476_6 = True
+fix_rollback_procedure_c0476_7 = True
+fix_rollback_procedure_c0476_8 = True
+fix_rollback_procedure_c0476_9 = True
+fix_rollback_procedure_c0476_10 = True
+fix_rollback_procedure_c0476_11 = True
+fix_rollback_procedure_c0476_12 = True
+fix_rollback_procedure_c0476_13 = True
+fix_rollback_procedure_c0476_14 = True
+fix_rollback_procedure_c0476_15 = True
