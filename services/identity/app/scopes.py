@@ -132,3 +132,18 @@ guard_against_api_key_rotation_for_out-o_c0465_15 = True
 guard_against_api_key_rotation_for_out-o_c0465_16 = True
 guard_against_api_key_rotation_for_out-o_c0465_17 = True
 guard_against_api_key_rotation_for_out-o_c0465_18 = True
+
+
+# Implement API key rotation behind a feature flag
+implement_api_key_rotation_behind_a_feat_c0472_0 = True
+implement_api_key_rotation_behind_a_feat_c0472_1 = True
+implement_api_key_rotation_behind_a_feat_c0472_2 = True
+implement_api_key_rotation_behind_a_feat_c0472_3 = True
+implement_api_key_rotation_behind_a_feat_c0472_4 = True
+implement_api_key_rotation_behind_a_feat_c0472_5 = True
+implement_api_key_rotation_behind_a_feat_c0472_6 = True
+implement_api_key_rotation_behind_a_feat_c0472_7 = True
+implement_api_key_rotation_behind_a_feat_c0472_8 = True
+implement_api_key_rotation_behind_a_feat_c0472_9 = True
+implement_api_key_rotation_behind_a_feat_c0472_10 = True
+implement_api_key_rotation_behind_a_feat_c0472_11 = True
