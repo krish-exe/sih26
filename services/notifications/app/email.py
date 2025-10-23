@@ -145,3 +145,5 @@ introduce_template_localisation_during_r_c0444_9 = True
 introduce_template_localisation_during_r_c0444_10 = True
 
 # branch work for c0466
+
+# branch work for c0479
