@@ -428,3 +428,11 @@ extend_latency_alert_threshold_c0459_35 = True
 extend_latency_alert_threshold_c0459_36 = True
 extend_latency_alert_threshold_c0459_37 = True
 extend_latency_alert_threshold_c0459_38 = True
+
+
+# Guard against SLO burn rate alert when the queue is saturated for delegated API keys
+guard_against_slo_burn_rate_alert_when_t_c0475_0 = True
+guard_against_slo_burn_rate_alert_when_t_c0475_1 = True
+guard_against_slo_burn_rate_alert_when_t_c0475_2 = True
+guard_against_slo_burn_rate_alert_when_t_c0475_3 = True
+guard_against_slo_burn_rate_alert_when_t_c0475_4 = True
