@@ -346,3 +346,9 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Refactor currency table refresh
+refactor_currency_table_refresh_c0483_0 = True
+refactor_currency_table_refresh_c0483_1 = True
+refactor_currency_table_refresh_c0483_2 = True

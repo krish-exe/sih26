@@ -47,3 +47,9 @@ fix_minor-unit_rounding_c0420_8 = True
 fix_minor-unit_rounding_c0420_9 = True
 fix_minor-unit_rounding_c0420_10 = True
 fix_minor-unit_rounding_c0420_11 = True
+
+
+# Refactor currency table refresh
+refactor_currency_table_refresh_c0483_0 = True
+refactor_currency_table_refresh_c0483_1 = True
+refactor_currency_table_refresh_c0483_2 = True
