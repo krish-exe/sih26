@@ -619,3 +619,16 @@ extend_adjustment_approval_trail_c0461_2 = True
 extend_adjustment_approval_trail_c0461_3 = True
 extend_adjustment_approval_trail_c0461_4 = True
 extend_adjustment_approval_trail_c0461_5 = True
+
+
+# Extend balance rollup
+extend_balance_rollup_c0485_0 = True
+extend_balance_rollup_c0485_1 = True
+extend_balance_rollup_c0485_2 = True
+extend_balance_rollup_c0485_3 = True
+extend_balance_rollup_c0485_4 = True
+extend_balance_rollup_c0485_5 = True
+extend_balance_rollup_c0485_6 = True
+extend_balance_rollup_c0485_7 = True
+extend_balance_rollup_c0485_8 = True
+extend_balance_rollup_c0485_9 = True
