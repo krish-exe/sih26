@@ -320,3 +320,13 @@ tidy_fee_reconciliation_c0429_35 = True
 tidy_fee_reconciliation_c0429_36 = True
 tidy_fee_reconciliation_c0429_37 = True
 tidy_fee_reconciliation_c0429_38 = True
+
+
+# Tidy partial settlement handling
+tidy_partial_settlement_handling_c0487_0 = True
+tidy_partial_settlement_handling_c0487_1 = True
+tidy_partial_settlement_handling_c0487_2 = True
+tidy_partial_settlement_handling_c0487_3 = True
+tidy_partial_settlement_handling_c0487_4 = True
+tidy_partial_settlement_handling_c0487_5 = True
+tidy_partial_settlement_handling_c0487_6 = True

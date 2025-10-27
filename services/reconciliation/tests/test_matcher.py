@@ -252,3 +252,13 @@ add_unmatched_settlement_report_during_r_c0423_5 = True
 add_unmatched_settlement_report_during_r_c0423_6 = True
 add_unmatched_settlement_report_during_r_c0423_7 = True
 add_unmatched_settlement_report_during_r_c0423_8 = True
+
+
+# Tidy partial settlement handling
+tidy_partial_settlement_handling_c0487_0 = True
+tidy_partial_settlement_handling_c0487_1 = True
+tidy_partial_settlement_handling_c0487_2 = True
+tidy_partial_settlement_handling_c0487_3 = True
+tidy_partial_settlement_handling_c0487_4 = True
+tidy_partial_settlement_handling_c0487_5 = True
+tidy_partial_settlement_handling_c0487_6 = True

@@ -691,3 +691,13 @@ implement_fee_reconciliation_c0458_6 = True
 implement_fee_reconciliation_c0458_7 = True
 implement_fee_reconciliation_c0458_8 = True
 implement_fee_reconciliation_c0458_9 = True
+
+
+# Tidy partial settlement handling
+tidy_partial_settlement_handling_c0487_0 = True
+tidy_partial_settlement_handling_c0487_1 = True
+tidy_partial_settlement_handling_c0487_2 = True
+tidy_partial_settlement_handling_c0487_3 = True
+tidy_partial_settlement_handling_c0487_4 = True
+tidy_partial_settlement_handling_c0487_5 = True
+tidy_partial_settlement_handling_c0487_6 = True
