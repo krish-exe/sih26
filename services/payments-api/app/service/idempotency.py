@@ -287,3 +287,17 @@ simplify_3ds_challenge_redirect_c0453_16 = True
 simplify_3ds_challenge_redirect_c0453_17 = True
 simplify_3ds_challenge_redirect_c0453_18 = True
 simplify_3ds_challenge_redirect_c0453_19 = True
+
+
+# Inline request validation
+inline_request_validation_c0490_0 = True
+inline_request_validation_c0490_1 = True
+inline_request_validation_c0490_2 = True
+inline_request_validation_c0490_3 = True
+inline_request_validation_c0490_4 = True
+inline_request_validation_c0490_5 = True
+inline_request_validation_c0490_6 = True
+inline_request_validation_c0490_7 = True
+inline_request_validation_c0490_8 = True
+inline_request_validation_c0490_9 = True
+inline_request_validation_c0490_10 = True
