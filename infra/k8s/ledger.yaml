@@ -275,3 +275,9 @@ correct_network_policy_for_out-of-order__c0464_3 = True
 correct_network_policy_for_out-of-order__c0464_4 = True
 correct_network_policy_for_out-of-order__c0464_5 = True
 correct_network_policy_for_out-of-order__c0464_6 = True
+
+
+# Handle IAM role scope on the replica under the new limits
+handle_iam_role_scope_on_the_replica_und_c0489_0 = True
+handle_iam_role_scope_on_the_replica_und_c0489_1 = True
+handle_iam_role_scope_on_the_replica_und_c0489_2 = True

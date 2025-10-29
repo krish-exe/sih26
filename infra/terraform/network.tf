@@ -553,3 +553,9 @@ correct_pod_resource_limit_c0443_96 = True
 # Revert "Merge pull request #610 from feature/reconciliation"
 revert_"merge_pull_request_#610_from_fea_c0447_0 = True
 revert_"merge_pull_request_#610_from_fea_c0447_1 = True
+
+
+# Handle IAM role scope on the replica under the new limits
+handle_iam_role_scope_on_the_replica_und_c0489_0 = True
+handle_iam_role_scope_on_the_replica_und_c0489_1 = True
+handle_iam_role_scope_on_the_replica_und_c0489_2 = True
