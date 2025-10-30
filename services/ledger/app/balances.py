@@ -667,3 +667,27 @@ rename_settlement_id_to_settlement_ref_a_sweep00_117 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_118 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_119 = True
 rename_settlement_id_to_settlement_ref_a_sweep00_120 = True
+
+
+# Correct double-entry posting
+correct_double-entry_posting_c0484_0 = True
+correct_double-entry_posting_c0484_1 = True
+correct_double-entry_posting_c0484_2 = True
+correct_double-entry_posting_c0484_3 = True
+correct_double-entry_posting_c0484_4 = True
+correct_double-entry_posting_c0484_5 = True
+correct_double-entry_posting_c0484_6 = True
+correct_double-entry_posting_c0484_7 = True
+correct_double-entry_posting_c0484_8 = True
+correct_double-entry_posting_c0484_9 = True
+correct_double-entry_posting_c0484_10 = True
+correct_double-entry_posting_c0484_11 = True
+correct_double-entry_posting_c0484_12 = True
+correct_double-entry_posting_c0484_13 = True
+correct_double-entry_posting_c0484_14 = True
+correct_double-entry_posting_c0484_15 = True
+correct_double-entry_posting_c0484_16 = True
+correct_double-entry_posting_c0484_17 = True
+correct_double-entry_posting_c0484_18 = True
+correct_double-entry_posting_c0484_19 = True
+correct_double-entry_posting_c0484_20 = True
