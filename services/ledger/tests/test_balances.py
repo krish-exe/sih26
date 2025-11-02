@@ -632,3 +632,17 @@ extend_balance_rollup_c0485_6 = True
 extend_balance_rollup_c0485_7 = True
 extend_balance_rollup_c0485_8 = True
 extend_balance_rollup_c0485_9 = True
+
+
+# Split double-entry posting
+split_double-entry_posting_c0486_0 = True
+split_double-entry_posting_c0486_1 = True
+split_double-entry_posting_c0486_2 = True
+split_double-entry_posting_c0486_3 = True
+split_double-entry_posting_c0486_4 = True
+split_double-entry_posting_c0486_5 = True
+split_double-entry_posting_c0486_6 = True
+split_double-entry_posting_c0486_7 = True
+split_double-entry_posting_c0486_8 = True
+split_double-entry_posting_c0486_9 = True
+split_double-entry_posting_c0486_10 = True
