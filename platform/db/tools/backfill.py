@@ -223,3 +223,28 @@ handle_expand-contract_migration_c0366_1 = True
 # Correct expand-contract migration on the read replica
 correct_expand-contract_migration_on_the_c0415_0 = True
 correct_expand-contract_migration_on_the_c0415_1 = True
+
+
+# Implement online index build for the v2 endpoint
+implement_online_index_build_for_the_v2__c0492_0 = True
+implement_online_index_build_for_the_v2__c0492_1 = True
+implement_online_index_build_for_the_v2__c0492_2 = True
+implement_online_index_build_for_the_v2__c0492_3 = True
+implement_online_index_build_for_the_v2__c0492_4 = True
+implement_online_index_build_for_the_v2__c0492_5 = True
+implement_online_index_build_for_the_v2__c0492_6 = True
+implement_online_index_build_for_the_v2__c0492_7 = True
+implement_online_index_build_for_the_v2__c0492_8 = True
+implement_online_index_build_for_the_v2__c0492_9 = True
+implement_online_index_build_for_the_v2__c0492_10 = True
+implement_online_index_build_for_the_v2__c0492_11 = True
+implement_online_index_build_for_the_v2__c0492_12 = True
+implement_online_index_build_for_the_v2__c0492_13 = True
+implement_online_index_build_for_the_v2__c0492_14 = True
+implement_online_index_build_for_the_v2__c0492_15 = True
+implement_online_index_build_for_the_v2__c0492_16 = True
+implement_online_index_build_for_the_v2__c0492_17 = True
+implement_online_index_build_for_the_v2__c0492_18 = True
+implement_online_index_build_for_the_v2__c0492_19 = True
+implement_online_index_build_for_the_v2__c0492_20 = True
+implement_online_index_build_for_the_v2__c0492_21 = True
