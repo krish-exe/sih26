@@ -646,3 +646,12 @@ split_double-entry_posting_c0486_7 = True
 split_double-entry_posting_c0486_8 = True
 split_double-entry_posting_c0486_9 = True
 split_double-entry_posting_c0486_10 = True
+
+
+# Support balance rollup
+support_balance_rollup_c0491_0 = True
+support_balance_rollup_c0491_1 = True
+support_balance_rollup_c0491_2 = True
+support_balance_rollup_c0491_3 = True
+support_balance_rollup_c0491_4 = True
+support_balance_rollup_c0491_5 = True

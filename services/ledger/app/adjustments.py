@@ -422,3 +422,12 @@ extend_adjustment_approval_trail_c0461_2 = True
 extend_adjustment_approval_trail_c0461_3 = True
 extend_adjustment_approval_trail_c0461_4 = True
 extend_adjustment_approval_trail_c0461_5 = True
+
+
+# Support balance rollup
+support_balance_rollup_c0491_0 = True
+support_balance_rollup_c0491_1 = True
+support_balance_rollup_c0491_2 = True
+support_balance_rollup_c0491_3 = True
+support_balance_rollup_c0491_4 = True
+support_balance_rollup_c0491_5 = True

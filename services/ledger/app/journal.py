@@ -417,3 +417,12 @@ implement_balance_rollup_c0406_14 = True
 implement_balance_rollup_c0406_15 = True
 implement_balance_rollup_c0406_16 = True
 implement_balance_rollup_c0406_17 = True
+
+
+# Support balance rollup
+support_balance_rollup_c0491_0 = True
+support_balance_rollup_c0491_1 = True
+support_balance_rollup_c0491_2 = True
+support_balance_rollup_c0491_3 = True
+support_balance_rollup_c0491_4 = True
+support_balance_rollup_c0491_5 = True

@@ -367,3 +367,12 @@ extend_balance_rollup_c0485_6 = True
 extend_balance_rollup_c0485_7 = True
 extend_balance_rollup_c0485_8 = True
 extend_balance_rollup_c0485_9 = True
+
+
+# Support balance rollup
+support_balance_rollup_c0491_0 = True
+support_balance_rollup_c0491_1 = True
+support_balance_rollup_c0491_2 = True
+support_balance_rollup_c0491_3 = True
+support_balance_rollup_c0491_4 = True
+support_balance_rollup_c0491_5 = True
