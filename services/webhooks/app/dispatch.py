@@ -277,3 +277,11 @@ extend_delivery_ordering_guarantee_c0451_4 = True
 extend_delivery_ordering_guarantee_c0451_5 = True
 extend_delivery_ordering_guarantee_c0451_6 = True
 extend_delivery_ordering_guarantee_c0451_7 = True
+
+
+# Implement endpoint health check
+implement_endpoint_health_check_c0494_0 = True
+implement_endpoint_health_check_c0494_1 = True
+implement_endpoint_health_check_c0494_2 = True
+implement_endpoint_health_check_c0494_3 = True
+implement_endpoint_health_check_c0494_4 = True

@@ -271,3 +271,11 @@ prevent_subscription_management_c0446_0 = True
 prevent_subscription_management_c0446_1 = True
 prevent_subscription_management_c0446_2 = True
 prevent_subscription_management_c0446_3 = True
+
+
+# Implement endpoint health check
+implement_endpoint_health_check_c0494_0 = True
+implement_endpoint_health_check_c0494_1 = True
+implement_endpoint_health_check_c0494_2 = True
+implement_endpoint_health_check_c0494_3 = True
+implement_endpoint_health_check_c0494_4 = True
