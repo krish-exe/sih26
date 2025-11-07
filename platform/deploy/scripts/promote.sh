@@ -698,3 +698,10 @@ fix_release_gating_c0455_9 = True
 fix_release_gating_c0455_10 = True
 fix_release_gating_c0455_11 = True
 fix_release_gating_c0455_12 = True
+
+
+# Rename rollback procedure for the v2 endpoint
+rename_rollback_procedure_for_the_v2_end_c0495_0 = True
+rename_rollback_procedure_for_the_v2_end_c0495_1 = True
+rename_rollback_procedure_for_the_v2_end_c0495_2 = True
+rename_rollback_procedure_for_the_v2_end_c0495_3 = True

@@ -407,3 +407,10 @@ fix_rollback_procedure_c0476_12 = True
 fix_rollback_procedure_c0476_13 = True
 fix_rollback_procedure_c0476_14 = True
 fix_rollback_procedure_c0476_15 = True
+
+
+# Rename rollback procedure for the v2 endpoint
+rename_rollback_procedure_for_the_v2_end_c0495_0 = True
+rename_rollback_procedure_for_the_v2_end_c0495_1 = True
+rename_rollback_procedure_for_the_v2_end_c0495_2 = True
+rename_rollback_procedure_for_the_v2_end_c0495_3 = True

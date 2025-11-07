@@ -683,3 +683,10 @@ split_rollback_procedure_for_the_v2_endp_c0435_26 = True
 split_rollback_procedure_for_the_v2_endp_c0435_27 = True
 split_rollback_procedure_for_the_v2_endp_c0435_28 = True
 split_rollback_procedure_for_the_v2_endp_c0435_29 = True
+
+
+# Rename rollback procedure for the v2 endpoint
+rename_rollback_procedure_for_the_v2_end_c0495_0 = True
+rename_rollback_procedure_for_the_v2_end_c0495_1 = True
+rename_rollback_procedure_for_the_v2_end_c0495_2 = True
+rename_rollback_procedure_for_the_v2_end_c0495_3 = True
