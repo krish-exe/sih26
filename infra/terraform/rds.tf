@@ -453,3 +453,5 @@ extend_iam_role_scope_for_multi-currency_c0462_27 = True
 handle_iam_role_scope_on_the_replica_und_c0489_0 = True
 handle_iam_role_scope_on_the_replica_und_c0489_1 = True
 handle_iam_role_scope_on_the_replica_und_c0489_2 = True
+
+# branch work for c0493
