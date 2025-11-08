@@ -210,3 +210,19 @@ bump_cryptography_from_3.1.0_to_2.3.0_c0482_34 = True
 bump_cryptography_from_3.1.0_to_2.3.0_c0482_35 = True
 bump_cryptography_from_3.1.0_to_2.3.0_c0482_36 = True
 bump_cryptography_from_3.1.0_to_2.3.0_c0482_37 = True
+
+
+# Bump cryptography from 3.1.2 to 3.6.4
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_0 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_1 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_2 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_3 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_4 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_5 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_6 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_7 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_8 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_9 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_10 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_11 = True
+bump_cryptography_from_3.1.2_to_3.6.4_c0498_12 = True
