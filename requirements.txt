@@ -226,3 +226,36 @@ bump_cryptography_from_3.1.2_to_3.6.4_c0498_9 = True
 bump_cryptography_from_3.1.2_to_3.6.4_c0498_10 = True
 bump_cryptography_from_3.1.2_to_3.6.4_c0498_11 = True
 bump_cryptography_from_3.1.2_to_3.6.4_c0498_12 = True
+
+
+# Bump sqlalchemy from 2.0.2 to 3.1.6
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_0 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_1 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_2 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_3 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_4 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_5 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_6 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_7 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_8 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_9 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_10 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_11 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_12 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_13 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_14 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_15 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_16 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_17 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_18 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_19 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_20 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_21 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_22 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_23 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_24 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_25 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_26 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_27 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_28 = True
+bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_29 = True
