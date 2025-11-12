@@ -280,3 +280,10 @@ introduce_merchant_impersonation_guard_c0348_22 = True
 guard_against_api_key_rotation_under_the_c0363_0 = True
 guard_against_api_key_rotation_under_the_c0363_1 = True
 guard_against_api_key_rotation_under_the_c0363_2 = True
+
+
+# Tidy session expiry during replay
+tidy_session_expiry_during_replay_c0505_0 = True
+tidy_session_expiry_during_replay_c0505_1 = True
+tidy_session_expiry_during_replay_c0505_2 = True
+tidy_session_expiry_during_replay_c0505_3 = True

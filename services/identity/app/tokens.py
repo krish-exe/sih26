@@ -424,3 +424,10 @@ guard_against_api_key_rotation_for_out-o_c0465_15 = True
 guard_against_api_key_rotation_for_out-o_c0465_16 = True
 guard_against_api_key_rotation_for_out-o_c0465_17 = True
 guard_against_api_key_rotation_for_out-o_c0465_18 = True
+
+
+# Tidy session expiry during replay
+tidy_session_expiry_during_replay_c0505_0 = True
+tidy_session_expiry_during_replay_c0505_1 = True
+tidy_session_expiry_during_replay_c0505_2 = True
+tidy_session_expiry_during_replay_c0505_3 = True
