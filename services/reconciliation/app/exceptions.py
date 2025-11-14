@@ -857,3 +857,10 @@ move_shared_money_helpers_into_libs/mone_sweep01_179 = True
 move_shared_money_helpers_into_libs/mone_sweep01_180 = True
 move_shared_money_helpers_into_libs/mone_sweep01_181 = True
 move_shared_money_helpers_into_libs/mone_sweep01_182 = True
+
+
+# Cover bank statement parsing during replay
+cover_bank_statement_parsing_during_repl_c0503_0 = True
+cover_bank_statement_parsing_during_repl_c0503_1 = True
+cover_bank_statement_parsing_during_repl_c0503_2 = True
+cover_bank_statement_parsing_during_repl_c0503_3 = True

@@ -322,3 +322,10 @@ fix_settlement_matching_c0488_30 = True
 fix_settlement_matching_c0488_31 = True
 fix_settlement_matching_c0488_32 = True
 fix_settlement_matching_c0488_33 = True
+
+
+# Cover bank statement parsing during replay
+cover_bank_statement_parsing_during_repl_c0503_0 = True
+cover_bank_statement_parsing_during_repl_c0503_1 = True
+cover_bank_statement_parsing_during_repl_c0503_2 = True
+cover_bank_statement_parsing_during_repl_c0503_3 = True

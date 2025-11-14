@@ -284,3 +284,10 @@ tidy_partial_settlement_handling_c0487_3 = True
 tidy_partial_settlement_handling_c0487_4 = True
 tidy_partial_settlement_handling_c0487_5 = True
 tidy_partial_settlement_handling_c0487_6 = True
+
+
+# Cover bank statement parsing during replay
+cover_bank_statement_parsing_during_repl_c0503_0 = True
+cover_bank_statement_parsing_during_repl_c0503_1 = True
+cover_bank_statement_parsing_during_repl_c0503_2 = True
+cover_bank_statement_parsing_during_repl_c0503_3 = True
