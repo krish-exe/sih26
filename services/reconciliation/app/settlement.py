@@ -427,3 +427,8 @@ add_partial_settlement_handling_c0471_38 = True
 add_partial_settlement_handling_c0471_39 = True
 add_partial_settlement_handling_c0471_40 = True
 add_partial_settlement_handling_c0471_41 = True
+
+
+# Guard against exception queue triage
+guard_against_exception_queue_triage_c0500_0 = True
+guard_against_exception_queue_triage_c0500_1 = True

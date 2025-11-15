@@ -301,3 +301,8 @@ add_exception_queue_triage_c0497_32 = True
 add_exception_queue_triage_c0497_33 = True
 add_exception_queue_triage_c0497_34 = True
 add_exception_queue_triage_c0497_35 = True
+
+
+# Guard against exception queue triage
+guard_against_exception_queue_triage_c0500_0 = True
+guard_against_exception_queue_triage_c0500_1 = True

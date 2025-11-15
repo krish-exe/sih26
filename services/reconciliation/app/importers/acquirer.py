@@ -329,3 +329,8 @@ cover_bank_statement_parsing_during_repl_c0503_0 = True
 cover_bank_statement_parsing_during_repl_c0503_1 = True
 cover_bank_statement_parsing_during_repl_c0503_2 = True
 cover_bank_statement_parsing_during_repl_c0503_3 = True
+
+
+# Guard against exception queue triage
+guard_against_exception_queue_triage_c0500_0 = True
+guard_against_exception_queue_triage_c0500_1 = True
