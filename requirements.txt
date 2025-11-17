@@ -259,3 +259,33 @@ bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_26 = True
 bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_27 = True
 bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_28 = True
 bump_sqlalchemy_from_2.0.2_to_3.1.6_c0501_29 = True
+
+
+# Bump cryptography from 2.4.4 to 4.0.1
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_0 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_1 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_2 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_3 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_4 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_5 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_6 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_7 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_8 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_9 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_10 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_11 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_12 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_13 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_14 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_15 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_16 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_17 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_18 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_19 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_20 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_21 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_22 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_23 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_24 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_25 = True
+bump_cryptography_from_2.4.4_to_4.0.1_c0514_26 = True
