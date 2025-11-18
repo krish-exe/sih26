@@ -426,3 +426,36 @@ support_balance_rollup_c0491_2 = True
 support_balance_rollup_c0491_3 = True
 support_balance_rollup_c0491_4 = True
 support_balance_rollup_c0491_5 = True
+
+
+# Handle manual adjustment when the currency has no minor units
+handle_manual_adjustment_when_the_curren_c0512_0 = True
+handle_manual_adjustment_when_the_curren_c0512_1 = True
+handle_manual_adjustment_when_the_curren_c0512_2 = True
+handle_manual_adjustment_when_the_curren_c0512_3 = True
+handle_manual_adjustment_when_the_curren_c0512_4 = True
+handle_manual_adjustment_when_the_curren_c0512_5 = True
+handle_manual_adjustment_when_the_curren_c0512_6 = True
+handle_manual_adjustment_when_the_curren_c0512_7 = True
+handle_manual_adjustment_when_the_curren_c0512_8 = True
+handle_manual_adjustment_when_the_curren_c0512_9 = True
+handle_manual_adjustment_when_the_curren_c0512_10 = True
+handle_manual_adjustment_when_the_curren_c0512_11 = True
+handle_manual_adjustment_when_the_curren_c0512_12 = True
+handle_manual_adjustment_when_the_curren_c0512_13 = True
+handle_manual_adjustment_when_the_curren_c0512_14 = True
+handle_manual_adjustment_when_the_curren_c0512_15 = True
+handle_manual_adjustment_when_the_curren_c0512_16 = True
+handle_manual_adjustment_when_the_curren_c0512_17 = True
+handle_manual_adjustment_when_the_curren_c0512_18 = True
+handle_manual_adjustment_when_the_curren_c0512_19 = True
+handle_manual_adjustment_when_the_curren_c0512_20 = True
+handle_manual_adjustment_when_the_curren_c0512_21 = True
+handle_manual_adjustment_when_the_curren_c0512_22 = True
+handle_manual_adjustment_when_the_curren_c0512_23 = True
+handle_manual_adjustment_when_the_curren_c0512_24 = True
+handle_manual_adjustment_when_the_curren_c0512_25 = True
+handle_manual_adjustment_when_the_curren_c0512_26 = True
+handle_manual_adjustment_when_the_curren_c0512_27 = True
+handle_manual_adjustment_when_the_curren_c0512_28 = True
+handle_manual_adjustment_when_the_curren_c0512_29 = True
