@@ -530,3 +530,11 @@ extend_adjustment_approval_trail_c0461_2 = True
 extend_adjustment_approval_trail_c0461_3 = True
 extend_adjustment_approval_trail_c0461_4 = True
 extend_adjustment_approval_trail_c0461_5 = True
+
+
+# Split double-entry posting
+split_double-entry_posting_c0508_0 = True
+split_double-entry_posting_c0508_1 = True
+split_double-entry_posting_c0508_2 = True
+split_double-entry_posting_c0508_3 = True
+split_double-entry_posting_c0508_4 = True
