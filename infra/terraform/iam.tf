@@ -214,3 +214,32 @@ support_iam_role_scope_c0467_31 = True
 support_iam_role_scope_c0467_32 = True
 support_iam_role_scope_c0467_33 = True
 support_iam_role_scope_c0467_34 = True
+
+
+# Extend autoscaling threshold
+extend_autoscaling_threshold_c0513_0 = True
+extend_autoscaling_threshold_c0513_1 = True
+extend_autoscaling_threshold_c0513_2 = True
+extend_autoscaling_threshold_c0513_3 = True
+extend_autoscaling_threshold_c0513_4 = True
+extend_autoscaling_threshold_c0513_5 = True
+extend_autoscaling_threshold_c0513_6 = True
+extend_autoscaling_threshold_c0513_7 = True
+extend_autoscaling_threshold_c0513_8 = True
+extend_autoscaling_threshold_c0513_9 = True
+extend_autoscaling_threshold_c0513_10 = True
+extend_autoscaling_threshold_c0513_11 = True
+extend_autoscaling_threshold_c0513_12 = True
+extend_autoscaling_threshold_c0513_13 = True
+extend_autoscaling_threshold_c0513_14 = True
+extend_autoscaling_threshold_c0513_15 = True
+extend_autoscaling_threshold_c0513_16 = True
+extend_autoscaling_threshold_c0513_17 = True
+extend_autoscaling_threshold_c0513_18 = True
+extend_autoscaling_threshold_c0513_19 = True
+extend_autoscaling_threshold_c0513_20 = True
+extend_autoscaling_threshold_c0513_21 = True
+extend_autoscaling_threshold_c0513_22 = True
+extend_autoscaling_threshold_c0513_23 = True
+extend_autoscaling_threshold_c0513_24 = True
+extend_autoscaling_threshold_c0513_25 = True
