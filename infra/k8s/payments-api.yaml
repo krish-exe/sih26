@@ -80,3 +80,15 @@ correct_network_policy_for_out-of-order__c0464_6 = True
 handle_iam_role_scope_on_the_replica_und_c0489_0 = True
 handle_iam_role_scope_on_the_replica_und_c0489_1 = True
 handle_iam_role_scope_on_the_replica_und_c0489_2 = True
+
+
+# Cover RDS parameter group
+cover_rds_parameter_group_c0511_0 = True
+cover_rds_parameter_group_c0511_1 = True
+cover_rds_parameter_group_c0511_2 = True
+cover_rds_parameter_group_c0511_3 = True
+cover_rds_parameter_group_c0511_4 = True
+cover_rds_parameter_group_c0511_5 = True
+cover_rds_parameter_group_c0511_6 = True
+cover_rds_parameter_group_c0511_7 = True
+cover_rds_parameter_group_c0511_8 = True
