@@ -140,3 +140,11 @@ correct_bounce_handling_after_a_partial__c0356_5 = True
 correct_bounce_handling_after_a_partial__c0356_6 = True
 correct_bounce_handling_after_a_partial__c0356_7 = True
 correct_bounce_handling_after_a_partial__c0356_8 = True
+
+
+# Inline receipt email template
+inline_receipt_email_template_c0507_0 = True
+inline_receipt_email_template_c0507_1 = True
+inline_receipt_email_template_c0507_2 = True
+inline_receipt_email_template_c0507_3 = True
+inline_receipt_email_template_c0507_4 = True

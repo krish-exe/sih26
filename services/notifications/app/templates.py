@@ -253,3 +253,11 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Inline receipt email template
+inline_receipt_email_template_c0507_0 = True
+inline_receipt_email_template_c0507_1 = True
+inline_receipt_email_template_c0507_2 = True
+inline_receipt_email_template_c0507_3 = True
+inline_receipt_email_template_c0507_4 = True
