@@ -436,3 +436,23 @@ support_intent_expiry_sweep_c0441_12 = True
 # Rename payment intent creation
 rename_payment_intent_creation_c0438_0 = True
 rename_payment_intent_creation_c0438_1 = True
+
+
+# Guard against 3DS challenge redirect during a deploy freeze
+guard_against_3ds_challenge_redirect_dur_c0517_0 = True
+guard_against_3ds_challenge_redirect_dur_c0517_1 = True
+guard_against_3ds_challenge_redirect_dur_c0517_2 = True
+guard_against_3ds_challenge_redirect_dur_c0517_3 = True
+guard_against_3ds_challenge_redirect_dur_c0517_4 = True
+guard_against_3ds_challenge_redirect_dur_c0517_5 = True
+guard_against_3ds_challenge_redirect_dur_c0517_6 = True
+guard_against_3ds_challenge_redirect_dur_c0517_7 = True
+guard_against_3ds_challenge_redirect_dur_c0517_8 = True
+guard_against_3ds_challenge_redirect_dur_c0517_9 = True
+guard_against_3ds_challenge_redirect_dur_c0517_10 = True
+guard_against_3ds_challenge_redirect_dur_c0517_11 = True
+guard_against_3ds_challenge_redirect_dur_c0517_12 = True
+guard_against_3ds_challenge_redirect_dur_c0517_13 = True
+guard_against_3ds_challenge_redirect_dur_c0517_14 = True
+guard_against_3ds_challenge_redirect_dur_c0517_15 = True
+guard_against_3ds_challenge_redirect_dur_c0517_16 = True
