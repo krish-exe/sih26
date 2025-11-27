@@ -906,3 +906,20 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Guard against rollback procedure for out-of-order events
+guard_against_rollback_procedure_for_out_c0519_0 = True
+guard_against_rollback_procedure_for_out_c0519_1 = True
+guard_against_rollback_procedure_for_out_c0519_2 = True
+guard_against_rollback_procedure_for_out_c0519_3 = True
+guard_against_rollback_procedure_for_out_c0519_4 = True
+guard_against_rollback_procedure_for_out_c0519_5 = True
+guard_against_rollback_procedure_for_out_c0519_6 = True
+guard_against_rollback_procedure_for_out_c0519_7 = True
+guard_against_rollback_procedure_for_out_c0519_8 = True
+guard_against_rollback_procedure_for_out_c0519_9 = True
+guard_against_rollback_procedure_for_out_c0519_10 = True
+guard_against_rollback_procedure_for_out_c0519_11 = True
+guard_against_rollback_procedure_for_out_c0519_12 = True
+guard_against_rollback_procedure_for_out_c0519_13 = True
