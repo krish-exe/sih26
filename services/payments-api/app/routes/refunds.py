@@ -866,3 +866,10 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Tidy intent expiry sweep
+tidy_intent_expiry_sweep_c0516_0 = True
+tidy_intent_expiry_sweep_c0516_1 = True
+tidy_intent_expiry_sweep_c0516_2 = True
+tidy_intent_expiry_sweep_c0516_3 = True

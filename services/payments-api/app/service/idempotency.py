@@ -301,3 +301,10 @@ inline_request_validation_c0490_7 = True
 inline_request_validation_c0490_8 = True
 inline_request_validation_c0490_9 = True
 inline_request_validation_c0490_10 = True
+
+
+# Tidy intent expiry sweep
+tidy_intent_expiry_sweep_c0516_0 = True
+tidy_intent_expiry_sweep_c0516_1 = True
+tidy_intent_expiry_sweep_c0516_2 = True
+tidy_intent_expiry_sweep_c0516_3 = True

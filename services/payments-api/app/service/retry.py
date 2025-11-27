@@ -266,3 +266,10 @@ handle_payment_intent_creation_when_the__c0470_33 = True
 handle_payment_intent_creation_when_the__c0470_34 = True
 handle_payment_intent_creation_when_the__c0470_35 = True
 handle_payment_intent_creation_when_the__c0470_36 = True
+
+
+# Tidy intent expiry sweep
+tidy_intent_expiry_sweep_c0516_0 = True
+tidy_intent_expiry_sweep_c0516_1 = True
+tidy_intent_expiry_sweep_c0516_2 = True
+tidy_intent_expiry_sweep_c0516_3 = True
