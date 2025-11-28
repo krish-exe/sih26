@@ -559,3 +559,28 @@ revert_"merge_pull_request_#610_from_fea_c0447_1 = True
 handle_iam_role_scope_on_the_replica_und_c0489_0 = True
 handle_iam_role_scope_on_the_replica_und_c0489_1 = True
 handle_iam_role_scope_on_the_replica_und_c0489_2 = True
+
+
+# Add tests for network policy
+add_tests_for_network_policy_c0518_0 = True
+add_tests_for_network_policy_c0518_1 = True
+add_tests_for_network_policy_c0518_2 = True
+add_tests_for_network_policy_c0518_3 = True
+add_tests_for_network_policy_c0518_4 = True
+add_tests_for_network_policy_c0518_5 = True
+add_tests_for_network_policy_c0518_6 = True
+add_tests_for_network_policy_c0518_7 = True
+add_tests_for_network_policy_c0518_8 = True
+add_tests_for_network_policy_c0518_9 = True
+add_tests_for_network_policy_c0518_10 = True
+add_tests_for_network_policy_c0518_11 = True
+add_tests_for_network_policy_c0518_12 = True
+add_tests_for_network_policy_c0518_13 = True
+add_tests_for_network_policy_c0518_14 = True
+add_tests_for_network_policy_c0518_15 = True
+add_tests_for_network_policy_c0518_16 = True
+add_tests_for_network_policy_c0518_17 = True
+add_tests_for_network_policy_c0518_18 = True
+add_tests_for_network_policy_c0518_19 = True
+add_tests_for_network_policy_c0518_20 = True
+add_tests_for_network_policy_c0518_21 = True
