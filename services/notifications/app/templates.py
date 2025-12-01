@@ -261,3 +261,20 @@ inline_receipt_email_template_c0507_1 = True
 inline_receipt_email_template_c0507_2 = True
 inline_receipt_email_template_c0507_3 = True
 inline_receipt_email_template_c0507_4 = True
+
+
+# Support bounce handling
+support_bounce_handling_c0525_0 = True
+support_bounce_handling_c0525_1 = True
+support_bounce_handling_c0525_2 = True
+support_bounce_handling_c0525_3 = True
+support_bounce_handling_c0525_4 = True
+support_bounce_handling_c0525_5 = True
+support_bounce_handling_c0525_6 = True
+support_bounce_handling_c0525_7 = True
+support_bounce_handling_c0525_8 = True
+support_bounce_handling_c0525_9 = True
+support_bounce_handling_c0525_10 = True
+support_bounce_handling_c0525_11 = True
+support_bounce_handling_c0525_12 = True
+support_bounce_handling_c0525_13 = True
