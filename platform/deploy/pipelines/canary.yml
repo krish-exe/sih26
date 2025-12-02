@@ -923,3 +923,26 @@ guard_against_rollback_procedure_for_out_c0519_10 = True
 guard_against_rollback_procedure_for_out_c0519_11 = True
 guard_against_rollback_procedure_for_out_c0519_12 = True
 guard_against_rollback_procedure_for_out_c0519_13 = True
+
+
+# Introduce rollback procedure
+introduce_rollback_procedure_c0520_0 = True
+introduce_rollback_procedure_c0520_1 = True
+introduce_rollback_procedure_c0520_2 = True
+introduce_rollback_procedure_c0520_3 = True
+introduce_rollback_procedure_c0520_4 = True
+introduce_rollback_procedure_c0520_5 = True
+introduce_rollback_procedure_c0520_6 = True
+introduce_rollback_procedure_c0520_7 = True
+introduce_rollback_procedure_c0520_8 = True
+introduce_rollback_procedure_c0520_9 = True
+introduce_rollback_procedure_c0520_10 = True
+introduce_rollback_procedure_c0520_11 = True
+introduce_rollback_procedure_c0520_12 = True
+introduce_rollback_procedure_c0520_13 = True
+introduce_rollback_procedure_c0520_14 = True
+introduce_rollback_procedure_c0520_15 = True
+introduce_rollback_procedure_c0520_16 = True
+introduce_rollback_procedure_c0520_17 = True
+introduce_rollback_procedure_c0520_18 = True
+introduce_rollback_procedure_c0520_19 = True
