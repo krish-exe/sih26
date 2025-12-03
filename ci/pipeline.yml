@@ -276,3 +276,18 @@ ci:_regenerate_lockfile_c0474_26 = True
 ci:_regenerate_lockfile_c0474_27 = True
 ci:_regenerate_lockfile_c0474_28 = True
 ci:_regenerate_lockfile_c0474_29 = True
+
+
+# ci: regenerate openapi schema
+ci:_regenerate_openapi_schema_c0527_0 = True
+ci:_regenerate_openapi_schema_c0527_1 = True
+ci:_regenerate_openapi_schema_c0527_2 = True
+ci:_regenerate_openapi_schema_c0527_3 = True
+ci:_regenerate_openapi_schema_c0527_4 = True
+ci:_regenerate_openapi_schema_c0527_5 = True
+ci:_regenerate_openapi_schema_c0527_6 = True
+ci:_regenerate_openapi_schema_c0527_7 = True
+ci:_regenerate_openapi_schema_c0527_8 = True
+ci:_regenerate_openapi_schema_c0527_9 = True
+ci:_regenerate_openapi_schema_c0527_10 = True
+ci:_regenerate_openapi_schema_c0527_11 = True
