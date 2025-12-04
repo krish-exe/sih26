@@ -299,3 +299,10 @@ introduce_expand-contract_migration_unde_c0510_44 = True
 introduce_expand-contract_migration_unde_c0510_45 = True
 introduce_expand-contract_migration_unde_c0510_46 = True
 introduce_expand-contract_migration_unde_c0510_47 = True
+
+
+# Correct backfill checkpoint
+correct_backfill_checkpoint_c0523_0 = True
+correct_backfill_checkpoint_c0523_1 = True
+correct_backfill_checkpoint_c0523_2 = True
+correct_backfill_checkpoint_c0523_3 = True

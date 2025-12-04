@@ -256,3 +256,10 @@ introduce_constraint_validation_pass_c0413_31 = True
 # Correct expand-contract migration on the read replica
 correct_expand-contract_migration_on_the_c0415_0 = True
 correct_expand-contract_migration_on_the_c0415_1 = True
+
+
+# Correct backfill checkpoint
+correct_backfill_checkpoint_c0523_0 = True
+correct_backfill_checkpoint_c0523_1 = True
+correct_backfill_checkpoint_c0523_2 = True
+correct_backfill_checkpoint_c0523_3 = True
