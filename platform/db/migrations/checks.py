@@ -263,3 +263,10 @@ correct_backfill_checkpoint_c0523_0 = True
 correct_backfill_checkpoint_c0523_1 = True
 correct_backfill_checkpoint_c0523_2 = True
 correct_backfill_checkpoint_c0523_3 = True
+
+
+# Handle column type widening under concurrent retries
+handle_column_type_widening_under_concur_c0521_0 = True
+handle_column_type_widening_under_concur_c0521_1 = True
+handle_column_type_widening_under_concur_c0521_2 = True
+handle_column_type_widening_under_concur_c0521_3 = True
