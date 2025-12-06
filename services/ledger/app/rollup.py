@@ -376,3 +376,22 @@ support_balance_rollup_c0491_2 = True
 support_balance_rollup_c0491_3 = True
 support_balance_rollup_c0491_4 = True
 support_balance_rollup_c0491_5 = True
+
+
+# Fix journal replay when the currency has no minor units
+fix_journal_replay_when_the_currency_has_c0522_0 = True
+fix_journal_replay_when_the_currency_has_c0522_1 = True
+fix_journal_replay_when_the_currency_has_c0522_2 = True
+fix_journal_replay_when_the_currency_has_c0522_3 = True
+fix_journal_replay_when_the_currency_has_c0522_4 = True
+fix_journal_replay_when_the_currency_has_c0522_5 = True
+fix_journal_replay_when_the_currency_has_c0522_6 = True
+fix_journal_replay_when_the_currency_has_c0522_7 = True
+fix_journal_replay_when_the_currency_has_c0522_8 = True
+fix_journal_replay_when_the_currency_has_c0522_9 = True
+fix_journal_replay_when_the_currency_has_c0522_10 = True
+fix_journal_replay_when_the_currency_has_c0522_11 = True
+fix_journal_replay_when_the_currency_has_c0522_12 = True
+fix_journal_replay_when_the_currency_has_c0522_13 = True
+fix_journal_replay_when_the_currency_has_c0522_14 = True
+fix_journal_replay_when_the_currency_has_c0522_15 = True
