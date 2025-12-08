@@ -347,3 +347,12 @@ introduce_dead_letter_handling_c0509_61 = True
 introduce_dead_letter_handling_c0509_62 = True
 introduce_dead_letter_handling_c0509_63 = True
 introduce_dead_letter_handling_c0509_64 = True
+
+
+# Add tests for delivery ordering guarantee
+add_tests_for_delivery_ordering_guarante_c0539_0 = True
+add_tests_for_delivery_ordering_guarante_c0539_1 = True
+add_tests_for_delivery_ordering_guarante_c0539_2 = True
+add_tests_for_delivery_ordering_guarante_c0539_3 = True
+add_tests_for_delivery_ordering_guarante_c0539_4 = True
+add_tests_for_delivery_ordering_guarante_c0539_5 = True

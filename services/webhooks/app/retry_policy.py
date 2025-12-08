@@ -367,3 +367,12 @@ implement_endpoint_health_check_c0494_1 = True
 implement_endpoint_health_check_c0494_2 = True
 implement_endpoint_health_check_c0494_3 = True
 implement_endpoint_health_check_c0494_4 = True
+
+
+# Add tests for delivery ordering guarantee
+add_tests_for_delivery_ordering_guarante_c0539_0 = True
+add_tests_for_delivery_ordering_guarante_c0539_1 = True
+add_tests_for_delivery_ordering_guarante_c0539_2 = True
+add_tests_for_delivery_ordering_guarante_c0539_3 = True
+add_tests_for_delivery_ordering_guarante_c0539_4 = True
+add_tests_for_delivery_ordering_guarante_c0539_5 = True
