@@ -459,3 +459,22 @@ handle_manual_adjustment_when_the_curren_c0512_26 = True
 handle_manual_adjustment_when_the_curren_c0512_27 = True
 handle_manual_adjustment_when_the_curren_c0512_28 = True
 handle_manual_adjustment_when_the_curren_c0512_29 = True
+
+
+# Support double-entry posting
+support_double-entry_posting_c0536_0 = True
+support_double-entry_posting_c0536_1 = True
+support_double-entry_posting_c0536_2 = True
+support_double-entry_posting_c0536_3 = True
+support_double-entry_posting_c0536_4 = True
+support_double-entry_posting_c0536_5 = True
+support_double-entry_posting_c0536_6 = True
+support_double-entry_posting_c0536_7 = True
+support_double-entry_posting_c0536_8 = True
+support_double-entry_posting_c0536_9 = True
+support_double-entry_posting_c0536_10 = True
+support_double-entry_posting_c0536_11 = True
+support_double-entry_posting_c0536_12 = True
+support_double-entry_posting_c0536_13 = True
+support_double-entry_posting_c0536_14 = True
+support_double-entry_posting_c0536_15 = True
