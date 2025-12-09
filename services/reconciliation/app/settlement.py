@@ -432,3 +432,25 @@ add_partial_settlement_handling_c0471_41 = True
 # Guard against exception queue triage
 guard_against_exception_queue_triage_c0500_0 = True
 guard_against_exception_queue_triage_c0500_1 = True
+
+
+# Implement partial settlement handling behind a feature flag
+implement_partial_settlement_handling_be_c0531_0 = True
+implement_partial_settlement_handling_be_c0531_1 = True
+implement_partial_settlement_handling_be_c0531_2 = True
+implement_partial_settlement_handling_be_c0531_3 = True
+implement_partial_settlement_handling_be_c0531_4 = True
+implement_partial_settlement_handling_be_c0531_5 = True
+implement_partial_settlement_handling_be_c0531_6 = True
+implement_partial_settlement_handling_be_c0531_7 = True
+implement_partial_settlement_handling_be_c0531_8 = True
+implement_partial_settlement_handling_be_c0531_9 = True
+implement_partial_settlement_handling_be_c0531_10 = True
+implement_partial_settlement_handling_be_c0531_11 = True
+implement_partial_settlement_handling_be_c0531_12 = True
+implement_partial_settlement_handling_be_c0531_13 = True
+implement_partial_settlement_handling_be_c0531_14 = True
+implement_partial_settlement_handling_be_c0531_15 = True
+implement_partial_settlement_handling_be_c0531_16 = True
+implement_partial_settlement_handling_be_c0531_17 = True
+implement_partial_settlement_handling_be_c0531_18 = True
