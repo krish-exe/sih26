@@ -291,3 +291,9 @@ cover_bank_statement_parsing_during_repl_c0503_0 = True
 cover_bank_statement_parsing_during_repl_c0503_1 = True
 cover_bank_statement_parsing_during_repl_c0503_2 = True
 cover_bank_statement_parsing_during_repl_c0503_3 = True
+
+
+# Correct fee reconciliation during replay
+correct_fee_reconciliation_during_replay_c0538_0 = True
+correct_fee_reconciliation_during_replay_c0538_1 = True
+correct_fee_reconciliation_during_replay_c0538_2 = True

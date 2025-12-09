@@ -924,3 +924,9 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Correct fee reconciliation during replay
+correct_fee_reconciliation_during_replay_c0538_0 = True
+correct_fee_reconciliation_during_replay_c0538_1 = True
+correct_fee_reconciliation_during_replay_c0538_2 = True

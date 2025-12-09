@@ -374,3 +374,9 @@ add_exception_queue_triage_c0497_35 = True
 # Guard against exception queue triage
 guard_against_exception_queue_triage_c0500_0 = True
 guard_against_exception_queue_triage_c0500_1 = True
+
+
+# Correct fee reconciliation during replay
+correct_fee_reconciliation_during_replay_c0538_0 = True
+correct_fee_reconciliation_during_replay_c0538_1 = True
+correct_fee_reconciliation_during_replay_c0538_2 = True
