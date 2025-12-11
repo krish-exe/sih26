@@ -436,3 +436,11 @@ guard_against_slo_burn_rate_alert_when_t_c0475_1 = True
 guard_against_slo_burn_rate_alert_when_t_c0475_2 = True
 guard_against_slo_burn_rate_alert_when_t_c0475_3 = True
 guard_against_slo_burn_rate_alert_when_t_c0475_4 = True
+
+
+# Tidy SLO burn rate alert
+tidy_slo_burn_rate_alert_c0535_0 = True
+tidy_slo_burn_rate_alert_c0535_1 = True
+tidy_slo_burn_rate_alert_c0535_2 = True
+tidy_slo_burn_rate_alert_c0535_3 = True
+tidy_slo_burn_rate_alert_c0535_4 = True
