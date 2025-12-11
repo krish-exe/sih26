@@ -532,3 +532,11 @@ inline_idempotency_key_reuse_c0440_0 = True
 # Rename payment intent creation
 rename_payment_intent_creation_c0438_0 = True
 rename_payment_intent_creation_c0438_1 = True
+
+
+# Guard against intent expiry sweep for zero-amount requests in the worker path
+guard_against_intent_expiry_sweep_for_ze_c0537_0 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_1 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_2 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_3 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_4 = True

@@ -707,3 +707,11 @@ add_partial_capture_handling_under_the_n_c0469_38 = True
 add_partial_capture_handling_under_the_n_c0469_39 = True
 add_partial_capture_handling_under_the_n_c0469_40 = True
 add_partial_capture_handling_under_the_n_c0469_41 = True
+
+
+# Guard against intent expiry sweep for zero-amount requests in the worker path
+guard_against_intent_expiry_sweep_for_ze_c0537_0 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_1 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_2 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_3 = True
+guard_against_intent_expiry_sweep_for_ze_c0537_4 = True
