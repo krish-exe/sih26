@@ -297,3 +297,21 @@ cover_bank_statement_parsing_during_repl_c0503_3 = True
 correct_fee_reconciliation_during_replay_c0538_0 = True
 correct_fee_reconciliation_during_replay_c0538_1 = True
 correct_fee_reconciliation_during_replay_c0538_2 = True
+
+
+# Extend unmatched settlement report
+extend_unmatched_settlement_report_c0530_0 = True
+extend_unmatched_settlement_report_c0530_1 = True
+extend_unmatched_settlement_report_c0530_2 = True
+extend_unmatched_settlement_report_c0530_3 = True
+extend_unmatched_settlement_report_c0530_4 = True
+extend_unmatched_settlement_report_c0530_5 = True
+extend_unmatched_settlement_report_c0530_6 = True
+extend_unmatched_settlement_report_c0530_7 = True
+extend_unmatched_settlement_report_c0530_8 = True
+extend_unmatched_settlement_report_c0530_9 = True
+extend_unmatched_settlement_report_c0530_10 = True
+extend_unmatched_settlement_report_c0530_11 = True
+extend_unmatched_settlement_report_c0530_12 = True
+extend_unmatched_settlement_report_c0530_13 = True
+extend_unmatched_settlement_report_c0530_14 = True

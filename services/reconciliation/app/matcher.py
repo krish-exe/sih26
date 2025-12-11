@@ -770,3 +770,21 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
 
 # branch work for c0526
+
+
+# Extend unmatched settlement report
+extend_unmatched_settlement_report_c0530_0 = True
+extend_unmatched_settlement_report_c0530_1 = True
+extend_unmatched_settlement_report_c0530_2 = True
+extend_unmatched_settlement_report_c0530_3 = True
+extend_unmatched_settlement_report_c0530_4 = True
+extend_unmatched_settlement_report_c0530_5 = True
+extend_unmatched_settlement_report_c0530_6 = True
+extend_unmatched_settlement_report_c0530_7 = True
+extend_unmatched_settlement_report_c0530_8 = True
+extend_unmatched_settlement_report_c0530_9 = True
+extend_unmatched_settlement_report_c0530_10 = True
+extend_unmatched_settlement_report_c0530_11 = True
+extend_unmatched_settlement_report_c0530_12 = True
+extend_unmatched_settlement_report_c0530_13 = True
+extend_unmatched_settlement_report_c0530_14 = True

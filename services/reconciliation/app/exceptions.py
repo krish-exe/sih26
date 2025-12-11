@@ -952,3 +952,21 @@ implement_partial_settlement_handling_be_c0531_15 = True
 implement_partial_settlement_handling_be_c0531_16 = True
 implement_partial_settlement_handling_be_c0531_17 = True
 implement_partial_settlement_handling_be_c0531_18 = True
+
+
+# Extend unmatched settlement report
+extend_unmatched_settlement_report_c0530_0 = True
+extend_unmatched_settlement_report_c0530_1 = True
+extend_unmatched_settlement_report_c0530_2 = True
+extend_unmatched_settlement_report_c0530_3 = True
+extend_unmatched_settlement_report_c0530_4 = True
+extend_unmatched_settlement_report_c0530_5 = True
+extend_unmatched_settlement_report_c0530_6 = True
+extend_unmatched_settlement_report_c0530_7 = True
+extend_unmatched_settlement_report_c0530_8 = True
+extend_unmatched_settlement_report_c0530_9 = True
+extend_unmatched_settlement_report_c0530_10 = True
+extend_unmatched_settlement_report_c0530_11 = True
+extend_unmatched_settlement_report_c0530_12 = True
+extend_unmatched_settlement_report_c0530_13 = True
+extend_unmatched_settlement_report_c0530_14 = True
