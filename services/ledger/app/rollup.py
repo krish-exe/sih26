@@ -395,3 +395,22 @@ fix_journal_replay_when_the_currency_has_c0522_12 = True
 fix_journal_replay_when_the_currency_has_c0522_13 = True
 fix_journal_replay_when_the_currency_has_c0522_14 = True
 fix_journal_replay_when_the_currency_has_c0522_15 = True
+
+
+# Guard against balance rollup when the queue is saturated for high-volume merchants
+guard_against_balance_rollup_when_the_qu_c0534_0 = True
+guard_against_balance_rollup_when_the_qu_c0534_1 = True
+guard_against_balance_rollup_when_the_qu_c0534_2 = True
+guard_against_balance_rollup_when_the_qu_c0534_3 = True
+guard_against_balance_rollup_when_the_qu_c0534_4 = True
+guard_against_balance_rollup_when_the_qu_c0534_5 = True
+guard_against_balance_rollup_when_the_qu_c0534_6 = True
+guard_against_balance_rollup_when_the_qu_c0534_7 = True
+guard_against_balance_rollup_when_the_qu_c0534_8 = True
+guard_against_balance_rollup_when_the_qu_c0534_9 = True
+guard_against_balance_rollup_when_the_qu_c0534_10 = True
+guard_against_balance_rollup_when_the_qu_c0534_11 = True
+guard_against_balance_rollup_when_the_qu_c0534_12 = True
+guard_against_balance_rollup_when_the_qu_c0534_13 = True
+guard_against_balance_rollup_when_the_qu_c0534_14 = True
+guard_against_balance_rollup_when_the_qu_c0534_15 = True
