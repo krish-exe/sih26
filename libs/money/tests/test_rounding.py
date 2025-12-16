@@ -89,3 +89,7 @@ introduce_half-even_rounding_fix_c0506_29 = True
 introduce_half-even_rounding_fix_c0506_30 = True
 introduce_half-even_rounding_fix_c0506_31 = True
 introduce_half-even_rounding_fix_c0506_32 = True
+
+
+# Add tests for currency table refresh for the sandbox environment
+add_tests_for_currency_table_refresh_for_c0549_0 = True

@@ -412,3 +412,7 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Add tests for currency table refresh for the sandbox environment
+add_tests_for_currency_table_refresh_for_c0549_0 = True
