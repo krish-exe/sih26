@@ -270,3 +270,12 @@ handle_column_type_widening_under_concur_c0521_0 = True
 handle_column_type_widening_under_concur_c0521_1 = True
 handle_column_type_widening_under_concur_c0521_2 = True
 handle_column_type_widening_under_concur_c0521_3 = True
+
+
+# Add constraint validation pass under the new limits
+add_constraint_validation_pass_under_the_c0548_0 = True
+add_constraint_validation_pass_under_the_c0548_1 = True
+add_constraint_validation_pass_under_the_c0548_2 = True
+add_constraint_validation_pass_under_the_c0548_3 = True
+add_constraint_validation_pass_under_the_c0548_4 = True
+add_constraint_validation_pass_under_the_c0548_5 = True
