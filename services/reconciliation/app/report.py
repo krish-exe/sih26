@@ -380,3 +380,32 @@ guard_against_exception_queue_triage_c0500_1 = True
 correct_fee_reconciliation_during_replay_c0538_0 = True
 correct_fee_reconciliation_during_replay_c0538_1 = True
 correct_fee_reconciliation_during_replay_c0538_2 = True
+
+
+# Add tests for acquirer file import
+add_tests_for_acquirer_file_import_c0545_0 = True
+add_tests_for_acquirer_file_import_c0545_1 = True
+add_tests_for_acquirer_file_import_c0545_2 = True
+add_tests_for_acquirer_file_import_c0545_3 = True
+add_tests_for_acquirer_file_import_c0545_4 = True
+add_tests_for_acquirer_file_import_c0545_5 = True
+add_tests_for_acquirer_file_import_c0545_6 = True
+add_tests_for_acquirer_file_import_c0545_7 = True
+add_tests_for_acquirer_file_import_c0545_8 = True
+add_tests_for_acquirer_file_import_c0545_9 = True
+add_tests_for_acquirer_file_import_c0545_10 = True
+add_tests_for_acquirer_file_import_c0545_11 = True
+add_tests_for_acquirer_file_import_c0545_12 = True
+add_tests_for_acquirer_file_import_c0545_13 = True
+add_tests_for_acquirer_file_import_c0545_14 = True
+add_tests_for_acquirer_file_import_c0545_15 = True
+add_tests_for_acquirer_file_import_c0545_16 = True
+add_tests_for_acquirer_file_import_c0545_17 = True
+add_tests_for_acquirer_file_import_c0545_18 = True
+add_tests_for_acquirer_file_import_c0545_19 = True
+add_tests_for_acquirer_file_import_c0545_20 = True
+add_tests_for_acquirer_file_import_c0545_21 = True
+add_tests_for_acquirer_file_import_c0545_22 = True
+add_tests_for_acquirer_file_import_c0545_23 = True
+add_tests_for_acquirer_file_import_c0545_24 = True
+add_tests_for_acquirer_file_import_c0545_25 = True
