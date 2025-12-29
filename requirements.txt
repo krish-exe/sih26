@@ -289,3 +289,22 @@ bump_cryptography_from_2.4.4_to_4.0.1_c0514_23 = True
 bump_cryptography_from_2.4.4_to_4.0.1_c0514_24 = True
 bump_cryptography_from_2.4.4_to_4.0.1_c0514_25 = True
 bump_cryptography_from_2.4.4_to_4.0.1_c0514_26 = True
+
+
+# Bump pydantic from 1.0.6 to 2.8.4
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_0 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_1 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_2 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_3 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_4 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_5 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_6 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_7 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_8 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_9 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_10 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_11 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_12 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_13 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_14 = True
+bump_pydantic_from_1.0.6_to_2.8.4_c0552_15 = True
