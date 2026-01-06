@@ -370,3 +370,32 @@ add_tests_for_delivery_ordering_guarante_c0539_2 = True
 add_tests_for_delivery_ordering_guarante_c0539_3 = True
 add_tests_for_delivery_ordering_guarante_c0539_4 = True
 add_tests_for_delivery_ordering_guarante_c0539_5 = True
+
+
+# Cover delivery ordering guarantee
+cover_delivery_ordering_guarantee_c0554_0 = True
+cover_delivery_ordering_guarantee_c0554_1 = True
+cover_delivery_ordering_guarantee_c0554_2 = True
+cover_delivery_ordering_guarantee_c0554_3 = True
+cover_delivery_ordering_guarantee_c0554_4 = True
+cover_delivery_ordering_guarantee_c0554_5 = True
+cover_delivery_ordering_guarantee_c0554_6 = True
+cover_delivery_ordering_guarantee_c0554_7 = True
+cover_delivery_ordering_guarantee_c0554_8 = True
+cover_delivery_ordering_guarantee_c0554_9 = True
+cover_delivery_ordering_guarantee_c0554_10 = True
+cover_delivery_ordering_guarantee_c0554_11 = True
+cover_delivery_ordering_guarantee_c0554_12 = True
+cover_delivery_ordering_guarantee_c0554_13 = True
+cover_delivery_ordering_guarantee_c0554_14 = True
+cover_delivery_ordering_guarantee_c0554_15 = True
+cover_delivery_ordering_guarantee_c0554_16 = True
+cover_delivery_ordering_guarantee_c0554_17 = True
+cover_delivery_ordering_guarantee_c0554_18 = True
+cover_delivery_ordering_guarantee_c0554_19 = True
+cover_delivery_ordering_guarantee_c0554_20 = True
+cover_delivery_ordering_guarantee_c0554_21 = True
+cover_delivery_ordering_guarantee_c0554_22 = True
+cover_delivery_ordering_guarantee_c0554_23 = True
+cover_delivery_ordering_guarantee_c0554_24 = True
+cover_delivery_ordering_guarantee_c0554_25 = True
