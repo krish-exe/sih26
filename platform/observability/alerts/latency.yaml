@@ -720,3 +720,19 @@ tidy_slo_burn_rate_alert_c0535_1 = True
 tidy_slo_burn_rate_alert_c0535_2 = True
 tidy_slo_burn_rate_alert_c0535_3 = True
 tidy_slo_burn_rate_alert_c0535_4 = True
+
+
+# Prevent error budget dashboard
+prevent_error_budget_dashboard_c0557_0 = True
+prevent_error_budget_dashboard_c0557_1 = True
+prevent_error_budget_dashboard_c0557_2 = True
+prevent_error_budget_dashboard_c0557_3 = True
+prevent_error_budget_dashboard_c0557_4 = True
+prevent_error_budget_dashboard_c0557_5 = True
+prevent_error_budget_dashboard_c0557_6 = True
+prevent_error_budget_dashboard_c0557_7 = True
+prevent_error_budget_dashboard_c0557_8 = True
+prevent_error_budget_dashboard_c0557_9 = True
+prevent_error_budget_dashboard_c0557_10 = True
+prevent_error_budget_dashboard_c0557_11 = True
+prevent_error_budget_dashboard_c0557_12 = True
