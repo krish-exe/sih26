@@ -273,3 +273,9 @@ implement_api_key_rotation_behind_a_feat_c0472_8 = True
 implement_api_key_rotation_behind_a_feat_c0472_9 = True
 implement_api_key_rotation_behind_a_feat_c0472_10 = True
 implement_api_key_rotation_behind_a_feat_c0472_11 = True
+
+
+# Inline session expiry
+inline_session_expiry_c0563_0 = True
+inline_session_expiry_c0563_1 = True
+inline_session_expiry_c0563_2 = True

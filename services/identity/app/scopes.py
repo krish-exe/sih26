@@ -154,3 +154,9 @@ tidy_session_expiry_during_replay_c0505_0 = True
 tidy_session_expiry_during_replay_c0505_1 = True
 tidy_session_expiry_during_replay_c0505_2 = True
 tidy_session_expiry_during_replay_c0505_3 = True
+
+
+# Inline session expiry
+inline_session_expiry_c0563_0 = True
+inline_session_expiry_c0563_1 = True
+inline_session_expiry_c0563_2 = True

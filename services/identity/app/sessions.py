@@ -642,3 +642,9 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Inline session expiry
+inline_session_expiry_c0563_0 = True
+inline_session_expiry_c0563_1 = True
+inline_session_expiry_c0563_2 = True
