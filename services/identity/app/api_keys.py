@@ -279,3 +279,11 @@ implement_api_key_rotation_behind_a_feat_c0472_11 = True
 inline_session_expiry_c0563_0 = True
 inline_session_expiry_c0563_1 = True
 inline_session_expiry_c0563_2 = True
+
+
+# Guard against scope enforcement
+guard_against_scope_enforcement_c0562_0 = True
+guard_against_scope_enforcement_c0562_1 = True
+guard_against_scope_enforcement_c0562_2 = True
+guard_against_scope_enforcement_c0562_3 = True
+guard_against_scope_enforcement_c0562_4 = True
