@@ -1,0 +1,46 @@
+"""Schema Migrations — 5947_column_type_widening."""
+
+from __future__ import annotations
+
+
+
+# Handle column type widening when the currency has no minor units
+handle_column_type_widening_when_the_cur_c0559_0 = True
+handle_column_type_widening_when_the_cur_c0559_1 = True
+handle_column_type_widening_when_the_cur_c0559_2 = True
+handle_column_type_widening_when_the_cur_c0559_3 = True
+handle_column_type_widening_when_the_cur_c0559_4 = True
+handle_column_type_widening_when_the_cur_c0559_5 = True
+handle_column_type_widening_when_the_cur_c0559_6 = True
+handle_column_type_widening_when_the_cur_c0559_7 = True
+handle_column_type_widening_when_the_cur_c0559_8 = True
+handle_column_type_widening_when_the_cur_c0559_9 = True
+handle_column_type_widening_when_the_cur_c0559_10 = True
+handle_column_type_widening_when_the_cur_c0559_11 = True
+handle_column_type_widening_when_the_cur_c0559_12 = True
+handle_column_type_widening_when_the_cur_c0559_13 = True
+handle_column_type_widening_when_the_cur_c0559_14 = True
+handle_column_type_widening_when_the_cur_c0559_15 = True
+handle_column_type_widening_when_the_cur_c0559_16 = True
+handle_column_type_widening_when_the_cur_c0559_17 = True
+handle_column_type_widening_when_the_cur_c0559_18 = True
+handle_column_type_widening_when_the_cur_c0559_19 = True
+handle_column_type_widening_when_the_cur_c0559_20 = True
+handle_column_type_widening_when_the_cur_c0559_21 = True
+handle_column_type_widening_when_the_cur_c0559_22 = True
+handle_column_type_widening_when_the_cur_c0559_23 = True
+handle_column_type_widening_when_the_cur_c0559_24 = True
+handle_column_type_widening_when_the_cur_c0559_25 = True
+handle_column_type_widening_when_the_cur_c0559_26 = True
+handle_column_type_widening_when_the_cur_c0559_27 = True
+handle_column_type_widening_when_the_cur_c0559_28 = True
+handle_column_type_widening_when_the_cur_c0559_29 = True
+handle_column_type_widening_when_the_cur_c0559_30 = True
+handle_column_type_widening_when_the_cur_c0559_31 = True
+handle_column_type_widening_when_the_cur_c0559_32 = True
+handle_column_type_widening_when_the_cur_c0559_33 = True
+handle_column_type_widening_when_the_cur_c0559_34 = True
+handle_column_type_widening_when_the_cur_c0559_35 = True
+handle_column_type_widening_when_the_cur_c0559_36 = True
+handle_column_type_widening_when_the_cur_c0559_37 = True
+handle_column_type_widening_when_the_cur_c0559_38 = True
