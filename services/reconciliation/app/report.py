@@ -409,3 +409,7 @@ add_tests_for_acquirer_file_import_c0545_22 = True
 add_tests_for_acquirer_file_import_c0545_23 = True
 add_tests_for_acquirer_file_import_c0545_24 = True
 add_tests_for_acquirer_file_import_c0545_25 = True
+
+
+# Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
+prevent_unmatched_settlement_report_for__c0558_0 = True

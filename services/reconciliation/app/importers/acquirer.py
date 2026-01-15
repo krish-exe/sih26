@@ -334,3 +334,7 @@ cover_bank_statement_parsing_during_repl_c0503_3 = True
 # Guard against exception queue triage
 guard_against_exception_queue_triage_c0500_0 = True
 guard_against_exception_queue_triage_c0500_1 = True
+
+
+# Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
+prevent_unmatched_settlement_report_for__c0558_0 = True

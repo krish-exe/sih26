@@ -330,3 +330,7 @@ extend_unmatched_settlement_report_c0530_11 = True
 extend_unmatched_settlement_report_c0530_12 = True
 extend_unmatched_settlement_report_c0530_13 = True
 extend_unmatched_settlement_report_c0530_14 = True
+
+
+# Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
+prevent_unmatched_settlement_report_for__c0558_0 = True

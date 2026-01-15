@@ -454,3 +454,7 @@ implement_partial_settlement_handling_be_c0531_15 = True
 implement_partial_settlement_handling_be_c0531_16 = True
 implement_partial_settlement_handling_be_c0531_17 = True
 implement_partial_settlement_handling_be_c0531_18 = True
+
+
+# Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
+prevent_unmatched_settlement_report_for__c0558_0 = True
