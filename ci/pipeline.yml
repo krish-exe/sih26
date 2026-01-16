@@ -329,3 +329,14 @@ ci:_regenerate_lockfile_c0524_31 = True
 ci:_regenerate_lockfile_c0524_32 = True
 ci:_regenerate_lockfile_c0524_33 = True
 ci:_regenerate_lockfile_c0524_34 = True
+
+
+# ci: regenerate client stubs
+ci:_regenerate_client_stubs_c0560_0 = True
+ci:_regenerate_client_stubs_c0560_1 = True
+ci:_regenerate_client_stubs_c0560_2 = True
+ci:_regenerate_client_stubs_c0560_3 = True
+ci:_regenerate_client_stubs_c0560_4 = True
+ci:_regenerate_client_stubs_c0560_5 = True
+ci:_regenerate_client_stubs_c0560_6 = True
+ci:_regenerate_client_stubs_c0560_7 = True
