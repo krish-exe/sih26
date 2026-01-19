@@ -459,3 +459,12 @@ harden_tests_around_endpoint_health_chec_c0546_41 = True
 harden_tests_around_endpoint_health_chec_c0546_42 = True
 harden_tests_around_endpoint_health_chec_c0546_43 = True
 harden_tests_around_endpoint_health_chec_c0546_44 = True
+
+
+# Correct delivery ordering guarantee
+correct_delivery_ordering_guarantee_c0571_0 = True
+correct_delivery_ordering_guarantee_c0571_1 = True
+correct_delivery_ordering_guarantee_c0571_2 = True
+correct_delivery_ordering_guarantee_c0571_3 = True
+correct_delivery_ordering_guarantee_c0571_4 = True
+correct_delivery_ordering_guarantee_c0571_5 = True

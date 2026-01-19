@@ -296,3 +296,12 @@ add_tests_for_delivery_ordering_guarante_c0539_2 = True
 add_tests_for_delivery_ordering_guarante_c0539_3 = True
 add_tests_for_delivery_ordering_guarante_c0539_4 = True
 add_tests_for_delivery_ordering_guarante_c0539_5 = True
+
+
+# Correct delivery ordering guarantee
+correct_delivery_ordering_guarantee_c0571_0 = True
+correct_delivery_ordering_guarantee_c0571_1 = True
+correct_delivery_ordering_guarantee_c0571_2 = True
+correct_delivery_ordering_guarantee_c0571_3 = True
+correct_delivery_ordering_guarantee_c0571_4 = True
+correct_delivery_ordering_guarantee_c0571_5 = True
