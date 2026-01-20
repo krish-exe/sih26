@@ -652,3 +652,10 @@ extend_balance_rollup_c0485_9 = True
 # branch work for c0528
 
 # branch work for c0541
+
+
+# Split opening balance snapshot during replay
+split_opening_balance_snapshot_during_re_c0568_0 = True
+split_opening_balance_snapshot_during_re_c0568_1 = True
+split_opening_balance_snapshot_during_re_c0568_2 = True
+split_opening_balance_snapshot_during_re_c0568_3 = True

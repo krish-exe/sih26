@@ -414,3 +414,10 @@ guard_against_balance_rollup_when_the_qu_c0534_12 = True
 guard_against_balance_rollup_when_the_qu_c0534_13 = True
 guard_against_balance_rollup_when_the_qu_c0534_14 = True
 guard_against_balance_rollup_when_the_qu_c0534_15 = True
+
+
+# Split opening balance snapshot during replay
+split_opening_balance_snapshot_during_re_c0568_0 = True
+split_opening_balance_snapshot_during_re_c0568_1 = True
+split_opening_balance_snapshot_during_re_c0568_2 = True
+split_opening_balance_snapshot_during_re_c0568_3 = True
