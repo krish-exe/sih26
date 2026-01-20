@@ -691,3 +691,18 @@ correct_double-entry_posting_c0484_17 = True
 correct_double-entry_posting_c0484_18 = True
 correct_double-entry_posting_c0484_19 = True
 correct_double-entry_posting_c0484_20 = True
+
+
+# Fix opening balance snapshot for zero-amount requests for the sandbox environment
+fix_opening_balance_snapshot_for_zero-am_c0574_0 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_1 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_2 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_3 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_4 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_5 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_6 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_7 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_8 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_9 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_10 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_11 = True

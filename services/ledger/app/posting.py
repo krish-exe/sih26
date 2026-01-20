@@ -659,3 +659,18 @@ split_opening_balance_snapshot_during_re_c0568_0 = True
 split_opening_balance_snapshot_during_re_c0568_1 = True
 split_opening_balance_snapshot_during_re_c0568_2 = True
 split_opening_balance_snapshot_during_re_c0568_3 = True
+
+
+# Fix opening balance snapshot for zero-amount requests for the sandbox environment
+fix_opening_balance_snapshot_for_zero-am_c0574_0 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_1 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_2 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_3 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_4 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_5 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_6 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_7 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_8 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_9 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_10 = True
+fix_opening_balance_snapshot_for_zero-am_c0574_11 = True
