@@ -538,3 +538,12 @@ split_double-entry_posting_c0508_1 = True
 split_double-entry_posting_c0508_2 = True
 split_double-entry_posting_c0508_3 = True
 split_double-entry_posting_c0508_4 = True
+
+
+# Handle balance rollup when the currency has no minor units
+handle_balance_rollup_when_the_currency__c0567_0 = True
+handle_balance_rollup_when_the_currency__c0567_1 = True
+handle_balance_rollup_when_the_currency__c0567_2 = True
+handle_balance_rollup_when_the_currency__c0567_3 = True
+handle_balance_rollup_when_the_currency__c0567_4 = True
+handle_balance_rollup_when_the_currency__c0567_5 = True
