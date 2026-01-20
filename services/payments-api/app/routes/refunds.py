@@ -914,3 +914,9 @@ add_intent_expiry_sweep_c0529_34 = True
 add_intent_expiry_sweep_c0529_35 = True
 add_intent_expiry_sweep_c0529_36 = True
 add_intent_expiry_sweep_c0529_37 = True
+
+
+# Support currency rounding on capture for delegated API keys
+support_currency_rounding_on_capture_for_c0575_0 = True
+support_currency_rounding_on_capture_for_c0575_1 = True
+support_currency_rounding_on_capture_for_c0575_2 = True

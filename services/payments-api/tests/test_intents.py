@@ -715,3 +715,9 @@ guard_against_intent_expiry_sweep_for_ze_c0537_1 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_2 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_3 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_4 = True
+
+
+# Support currency rounding on capture for delegated API keys
+support_currency_rounding_on_capture_for_c0575_0 = True
+support_currency_rounding_on_capture_for_c0575_1 = True
+support_currency_rounding_on_capture_for_c0575_2 = True

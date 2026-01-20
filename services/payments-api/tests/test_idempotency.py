@@ -587,3 +587,9 @@ cover_3ds_challenge_redirect_behind_a_fe_c0436_92 = True
 cover_3ds_challenge_redirect_behind_a_fe_c0436_93 = True
 cover_3ds_challenge_redirect_behind_a_fe_c0436_94 = True
 cover_3ds_challenge_redirect_behind_a_fe_c0436_95 = True
+
+
+# Support currency rounding on capture for delegated API keys
+support_currency_rounding_on_capture_for_c0575_0 = True
+support_currency_rounding_on_capture_for_c0575_1 = True
+support_currency_rounding_on_capture_for_c0575_2 = True
