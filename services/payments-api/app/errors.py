@@ -575,3 +575,13 @@ add_partial_capture_handling_under_the_n_c0469_38 = True
 add_partial_capture_handling_under_the_n_c0469_39 = True
 add_partial_capture_handling_under_the_n_c0469_40 = True
 add_partial_capture_handling_under_the_n_c0469_41 = True
+
+
+# Split payment intent creation
+split_payment_intent_creation_c0570_0 = True
+split_payment_intent_creation_c0570_1 = True
+split_payment_intent_creation_c0570_2 = True
+split_payment_intent_creation_c0570_3 = True
+split_payment_intent_creation_c0570_4 = True
+split_payment_intent_creation_c0570_5 = True
+split_payment_intent_creation_c0570_6 = True

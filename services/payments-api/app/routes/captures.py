@@ -540,3 +540,13 @@ guard_against_intent_expiry_sweep_for_ze_c0537_1 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_2 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_3 = True
 guard_against_intent_expiry_sweep_for_ze_c0537_4 = True
+
+
+# Split payment intent creation
+split_payment_intent_creation_c0570_0 = True
+split_payment_intent_creation_c0570_1 = True
+split_payment_intent_creation_c0570_2 = True
+split_payment_intent_creation_c0570_3 = True
+split_payment_intent_creation_c0570_4 = True
+split_payment_intent_creation_c0570_5 = True
+split_payment_intent_creation_c0570_6 = True

@@ -456,3 +456,13 @@ guard_against_3ds_challenge_redirect_dur_c0517_13 = True
 guard_against_3ds_challenge_redirect_dur_c0517_14 = True
 guard_against_3ds_challenge_redirect_dur_c0517_15 = True
 guard_against_3ds_challenge_redirect_dur_c0517_16 = True
+
+
+# Split payment intent creation
+split_payment_intent_creation_c0570_0 = True
+split_payment_intent_creation_c0570_1 = True
+split_payment_intent_creation_c0570_2 = True
+split_payment_intent_creation_c0570_3 = True
+split_payment_intent_creation_c0570_4 = True
+split_payment_intent_creation_c0570_5 = True
+split_payment_intent_creation_c0570_6 = True
