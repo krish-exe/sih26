@@ -791,3 +791,33 @@ inline_rds_parameter_group_c0540_200 = True
 inline_rds_parameter_group_c0540_201 = True
 inline_rds_parameter_group_c0540_202 = True
 inline_rds_parameter_group_c0540_203 = True
+
+
+# Tidy RDS parameter group
+tidy_rds_parameter_group_c0573_0 = True
+tidy_rds_parameter_group_c0573_1 = True
+tidy_rds_parameter_group_c0573_2 = True
+tidy_rds_parameter_group_c0573_3 = True
+tidy_rds_parameter_group_c0573_4 = True
+tidy_rds_parameter_group_c0573_5 = True
+tidy_rds_parameter_group_c0573_6 = True
+tidy_rds_parameter_group_c0573_7 = True
+tidy_rds_parameter_group_c0573_8 = True
+tidy_rds_parameter_group_c0573_9 = True
+tidy_rds_parameter_group_c0573_10 = True
+tidy_rds_parameter_group_c0573_11 = True
+tidy_rds_parameter_group_c0573_12 = True
+tidy_rds_parameter_group_c0573_13 = True
+tidy_rds_parameter_group_c0573_14 = True
+tidy_rds_parameter_group_c0573_15 = True
+tidy_rds_parameter_group_c0573_16 = True
+tidy_rds_parameter_group_c0573_17 = True
+tidy_rds_parameter_group_c0573_18 = True
+tidy_rds_parameter_group_c0573_19 = True
+tidy_rds_parameter_group_c0573_20 = True
+tidy_rds_parameter_group_c0573_21 = True
+tidy_rds_parameter_group_c0573_22 = True
+tidy_rds_parameter_group_c0573_23 = True
+tidy_rds_parameter_group_c0573_24 = True
+tidy_rds_parameter_group_c0573_25 = True
+tidy_rds_parameter_group_c0573_26 = True
