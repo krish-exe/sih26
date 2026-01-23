@@ -674,3 +674,5 @@ fix_opening_balance_snapshot_for_zero-am_c0574_8 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_9 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_10 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_11 = True
+
+# branch work for c0572
