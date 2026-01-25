@@ -721,3 +721,9 @@ guard_against_intent_expiry_sweep_for_ze_c0537_4 = True
 support_currency_rounding_on_capture_for_c0575_0 = True
 support_currency_rounding_on_capture_for_c0575_1 = True
 support_currency_rounding_on_capture_for_c0575_2 = True
+
+
+# Harden tests around currency rounding on capture for the v2 endpoint
+harden_tests_around_currency_rounding_on_c0566_0 = True
+harden_tests_around_currency_rounding_on_c0566_1 = True
+harden_tests_around_currency_rounding_on_c0566_2 = True

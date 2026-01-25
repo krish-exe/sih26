@@ -390,3 +390,9 @@ support_partial_capture_handling_c0550_44 = True
 support_partial_capture_handling_c0550_45 = True
 support_partial_capture_handling_c0550_46 = True
 support_partial_capture_handling_c0550_47 = True
+
+
+# Harden tests around currency rounding on capture for the v2 endpoint
+harden_tests_around_currency_rounding_on_c0566_0 = True
+harden_tests_around_currency_rounding_on_c0566_1 = True
+harden_tests_around_currency_rounding_on_c0566_2 = True
