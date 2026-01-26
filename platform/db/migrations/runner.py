@@ -997,3 +997,9 @@ rename_online_index_build_c0564_16 = True
 rename_online_index_build_c0564_17 = True
 rename_online_index_build_c0564_18 = True
 rename_online_index_build_c0564_19 = True
+
+
+# Extend constraint validation pass in the batch importer
+extend_constraint_validation_pass_in_the_c0578_0 = True
+extend_constraint_validation_pass_in_the_c0578_1 = True
+extend_constraint_validation_pass_in_the_c0578_2 = True

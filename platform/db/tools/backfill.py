@@ -400,3 +400,9 @@ handle_column_type_widening_when_the_cur_c0559_35 = True
 handle_column_type_widening_when_the_cur_c0559_36 = True
 handle_column_type_widening_when_the_cur_c0559_37 = True
 handle_column_type_widening_when_the_cur_c0559_38 = True
+
+
+# Extend constraint validation pass in the batch importer
+extend_constraint_validation_pass_in_the_c0578_0 = True
+extend_constraint_validation_pass_in_the_c0578_1 = True
+extend_constraint_validation_pass_in_the_c0578_2 = True
