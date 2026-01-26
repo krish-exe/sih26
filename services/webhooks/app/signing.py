@@ -391,3 +391,17 @@ tidy_webhook_signature_rotation_c0544_28 = True
 tidy_webhook_signature_rotation_c0544_29 = True
 tidy_webhook_signature_rotation_c0544_30 = True
 tidy_webhook_signature_rotation_c0544_31 = True
+
+
+# Fix delivery ordering guarantee when the queue is saturated in the batch importer
+fix_delivery_ordering_guarantee_when_the_c0577_0 = True
+fix_delivery_ordering_guarantee_when_the_c0577_1 = True
+fix_delivery_ordering_guarantee_when_the_c0577_2 = True
+fix_delivery_ordering_guarantee_when_the_c0577_3 = True
+fix_delivery_ordering_guarantee_when_the_c0577_4 = True
+fix_delivery_ordering_guarantee_when_the_c0577_5 = True
+fix_delivery_ordering_guarantee_when_the_c0577_6 = True
+fix_delivery_ordering_guarantee_when_the_c0577_7 = True
+fix_delivery_ordering_guarantee_when_the_c0577_8 = True
+fix_delivery_ordering_guarantee_when_the_c0577_9 = True
+fix_delivery_ordering_guarantee_when_the_c0577_10 = True
