@@ -491,3 +491,11 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_53 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_54 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_55 = True
 adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
+
+
+# Rename session expiry
+rename_session_expiry_c0580_0 = True
+rename_session_expiry_c0580_1 = True
+rename_session_expiry_c0580_2 = True
+rename_session_expiry_c0580_3 = True
+rename_session_expiry_c0580_4 = True

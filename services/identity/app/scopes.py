@@ -160,3 +160,11 @@ tidy_session_expiry_during_replay_c0505_3 = True
 inline_session_expiry_c0563_0 = True
 inline_session_expiry_c0563_1 = True
 inline_session_expiry_c0563_2 = True
+
+
+# Rename session expiry
+rename_session_expiry_c0580_0 = True
+rename_session_expiry_c0580_1 = True
+rename_session_expiry_c0580_2 = True
+rename_session_expiry_c0580_3 = True
+rename_session_expiry_c0580_4 = True
