@@ -550,3 +550,24 @@ split_payment_intent_creation_c0570_3 = True
 split_payment_intent_creation_c0570_4 = True
 split_payment_intent_creation_c0570_5 = True
 split_payment_intent_creation_c0570_6 = True
+
+
+# Introduce payment intent creation for the sandbox environment
+introduce_payment_intent_creation_for_th_c0582_0 = True
+introduce_payment_intent_creation_for_th_c0582_1 = True
+introduce_payment_intent_creation_for_th_c0582_2 = True
+introduce_payment_intent_creation_for_th_c0582_3 = True
+introduce_payment_intent_creation_for_th_c0582_4 = True
+introduce_payment_intent_creation_for_th_c0582_5 = True
+introduce_payment_intent_creation_for_th_c0582_6 = True
+introduce_payment_intent_creation_for_th_c0582_7 = True
+introduce_payment_intent_creation_for_th_c0582_8 = True
+introduce_payment_intent_creation_for_th_c0582_9 = True
+introduce_payment_intent_creation_for_th_c0582_10 = True
+introduce_payment_intent_creation_for_th_c0582_11 = True
+introduce_payment_intent_creation_for_th_c0582_12 = True
+introduce_payment_intent_creation_for_th_c0582_13 = True
+introduce_payment_intent_creation_for_th_c0582_14 = True
+introduce_payment_intent_creation_for_th_c0582_15 = True
+introduce_payment_intent_creation_for_th_c0582_16 = True
+introduce_payment_intent_creation_for_th_c0582_17 = True
