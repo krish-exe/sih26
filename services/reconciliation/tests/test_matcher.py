@@ -334,3 +334,55 @@ extend_unmatched_settlement_report_c0530_14 = True
 
 # Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
 prevent_unmatched_settlement_report_for__c0558_0 = True
+
+
+# Handle bank statement parsing
+handle_bank_statement_parsing_c0576_0 = True
+handle_bank_statement_parsing_c0576_1 = True
+handle_bank_statement_parsing_c0576_2 = True
+handle_bank_statement_parsing_c0576_3 = True
+handle_bank_statement_parsing_c0576_4 = True
+handle_bank_statement_parsing_c0576_5 = True
+handle_bank_statement_parsing_c0576_6 = True
+handle_bank_statement_parsing_c0576_7 = True
+handle_bank_statement_parsing_c0576_8 = True
+handle_bank_statement_parsing_c0576_9 = True
+handle_bank_statement_parsing_c0576_10 = True
+handle_bank_statement_parsing_c0576_11 = True
+handle_bank_statement_parsing_c0576_12 = True
+handle_bank_statement_parsing_c0576_13 = True
+handle_bank_statement_parsing_c0576_14 = True
+handle_bank_statement_parsing_c0576_15 = True
+handle_bank_statement_parsing_c0576_16 = True
+handle_bank_statement_parsing_c0576_17 = True
+handle_bank_statement_parsing_c0576_18 = True
+handle_bank_statement_parsing_c0576_19 = True
+handle_bank_statement_parsing_c0576_20 = True
+handle_bank_statement_parsing_c0576_21 = True
+handle_bank_statement_parsing_c0576_22 = True
+handle_bank_statement_parsing_c0576_23 = True
+handle_bank_statement_parsing_c0576_24 = True
+handle_bank_statement_parsing_c0576_25 = True
+handle_bank_statement_parsing_c0576_26 = True
+handle_bank_statement_parsing_c0576_27 = True
+handle_bank_statement_parsing_c0576_28 = True
+handle_bank_statement_parsing_c0576_29 = True
+handle_bank_statement_parsing_c0576_30 = True
+handle_bank_statement_parsing_c0576_31 = True
+handle_bank_statement_parsing_c0576_32 = True
+handle_bank_statement_parsing_c0576_33 = True
+handle_bank_statement_parsing_c0576_34 = True
+handle_bank_statement_parsing_c0576_35 = True
+handle_bank_statement_parsing_c0576_36 = True
+handle_bank_statement_parsing_c0576_37 = True
+handle_bank_statement_parsing_c0576_38 = True
+handle_bank_statement_parsing_c0576_39 = True
+handle_bank_statement_parsing_c0576_40 = True
+handle_bank_statement_parsing_c0576_41 = True
+handle_bank_statement_parsing_c0576_42 = True
+handle_bank_statement_parsing_c0576_43 = True
+handle_bank_statement_parsing_c0576_44 = True
+handle_bank_statement_parsing_c0576_45 = True
+handle_bank_statement_parsing_c0576_46 = True
+handle_bank_statement_parsing_c0576_47 = True
+handle_bank_statement_parsing_c0576_48 = True
