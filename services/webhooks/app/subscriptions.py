@@ -419,3 +419,30 @@ implement_endpoint_health_check_c0579_3 = True
 implement_endpoint_health_check_c0579_4 = True
 implement_endpoint_health_check_c0579_5 = True
 implement_endpoint_health_check_c0579_6 = True
+
+
+# Prevent endpoint health check
+prevent_endpoint_health_check_c0584_0 = True
+prevent_endpoint_health_check_c0584_1 = True
+prevent_endpoint_health_check_c0584_2 = True
+prevent_endpoint_health_check_c0584_3 = True
+prevent_endpoint_health_check_c0584_4 = True
+prevent_endpoint_health_check_c0584_5 = True
+prevent_endpoint_health_check_c0584_6 = True
+prevent_endpoint_health_check_c0584_7 = True
+prevent_endpoint_health_check_c0584_8 = True
+prevent_endpoint_health_check_c0584_9 = True
+prevent_endpoint_health_check_c0584_10 = True
+prevent_endpoint_health_check_c0584_11 = True
+prevent_endpoint_health_check_c0584_12 = True
+prevent_endpoint_health_check_c0584_13 = True
+prevent_endpoint_health_check_c0584_14 = True
+prevent_endpoint_health_check_c0584_15 = True
+prevent_endpoint_health_check_c0584_16 = True
+prevent_endpoint_health_check_c0584_17 = True
+prevent_endpoint_health_check_c0584_18 = True
+prevent_endpoint_health_check_c0584_19 = True
+prevent_endpoint_health_check_c0584_20 = True
+prevent_endpoint_health_check_c0584_21 = True
+prevent_endpoint_health_check_c0584_22 = True
+prevent_endpoint_health_check_c0584_23 = True
