@@ -460,3 +460,14 @@ handle_balance_rollup_in_the_batch_impor_c0587_32 = True
 handle_balance_rollup_in_the_batch_impor_c0587_33 = True
 handle_balance_rollup_in_the_batch_impor_c0587_34 = True
 handle_balance_rollup_in_the_batch_impor_c0587_35 = True
+
+
+# Fix double-entry posting
+fix_double-entry_posting_c0585_0 = True
+fix_double-entry_posting_c0585_1 = True
+fix_double-entry_posting_c0585_2 = True
+fix_double-entry_posting_c0585_3 = True
+fix_double-entry_posting_c0585_4 = True
+fix_double-entry_posting_c0585_5 = True
+fix_double-entry_posting_c0585_6 = True
+fix_double-entry_posting_c0585_7 = True
