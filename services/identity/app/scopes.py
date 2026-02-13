@@ -168,3 +168,18 @@ rename_session_expiry_c0580_1 = True
 rename_session_expiry_c0580_2 = True
 rename_session_expiry_c0580_3 = True
 rename_session_expiry_c0580_4 = True
+
+
+# Implement token introspection under the new limits
+implement_token_introspection_under_the__c0592_0 = True
+implement_token_introspection_under_the__c0592_1 = True
+implement_token_introspection_under_the__c0592_2 = True
+implement_token_introspection_under_the__c0592_3 = True
+implement_token_introspection_under_the__c0592_4 = True
+implement_token_introspection_under_the__c0592_5 = True
+implement_token_introspection_under_the__c0592_6 = True
+implement_token_introspection_under_the__c0592_7 = True
+implement_token_introspection_under_the__c0592_8 = True
+implement_token_introspection_under_the__c0592_9 = True
+implement_token_introspection_under_the__c0592_10 = True
+implement_token_introspection_under_the__c0592_11 = True
