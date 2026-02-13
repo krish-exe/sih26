@@ -1000,3 +1000,27 @@ add_canary_rollout_stage_c0586_29 = True
 add_canary_rollout_stage_c0586_30 = True
 add_canary_rollout_stage_c0586_31 = True
 add_canary_rollout_stage_c0586_32 = True
+
+
+# Guard against blue-green cutover in the worker path
+guard_against_blue-green_cutover_in_the__c0590_0 = True
+guard_against_blue-green_cutover_in_the__c0590_1 = True
+guard_against_blue-green_cutover_in_the__c0590_2 = True
+guard_against_blue-green_cutover_in_the__c0590_3 = True
+guard_against_blue-green_cutover_in_the__c0590_4 = True
+guard_against_blue-green_cutover_in_the__c0590_5 = True
+guard_against_blue-green_cutover_in_the__c0590_6 = True
+guard_against_blue-green_cutover_in_the__c0590_7 = True
+guard_against_blue-green_cutover_in_the__c0590_8 = True
+guard_against_blue-green_cutover_in_the__c0590_9 = True
+guard_against_blue-green_cutover_in_the__c0590_10 = True
+guard_against_blue-green_cutover_in_the__c0590_11 = True
+guard_against_blue-green_cutover_in_the__c0590_12 = True
+guard_against_blue-green_cutover_in_the__c0590_13 = True
+guard_against_blue-green_cutover_in_the__c0590_14 = True
+guard_against_blue-green_cutover_in_the__c0590_15 = True
+guard_against_blue-green_cutover_in_the__c0590_16 = True
+guard_against_blue-green_cutover_in_the__c0590_17 = True
+guard_against_blue-green_cutover_in_the__c0590_18 = True
+guard_against_blue-green_cutover_in_the__c0590_19 = True
+guard_against_blue-green_cutover_in_the__c0590_20 = True
