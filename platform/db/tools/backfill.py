@@ -406,3 +406,11 @@ handle_column_type_widening_when_the_cur_c0559_38 = True
 extend_constraint_validation_pass_in_the_c0578_0 = True
 extend_constraint_validation_pass_in_the_c0578_1 = True
 extend_constraint_validation_pass_in_the_c0578_2 = True
+
+
+# Cover migration dry-run check
+cover_migration_dry-run_check_c0591_0 = True
+cover_migration_dry-run_check_c0591_1 = True
+cover_migration_dry-run_check_c0591_2 = True
+cover_migration_dry-run_check_c0591_3 = True
+cover_migration_dry-run_check_c0591_4 = True

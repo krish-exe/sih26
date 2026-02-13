@@ -302,3 +302,11 @@ rename_online_index_build_c0564_16 = True
 rename_online_index_build_c0564_17 = True
 rename_online_index_build_c0564_18 = True
 rename_online_index_build_c0564_19 = True
+
+
+# Cover migration dry-run check
+cover_migration_dry-run_check_c0591_0 = True
+cover_migration_dry-run_check_c0591_1 = True
+cover_migration_dry-run_check_c0591_2 = True
+cover_migration_dry-run_check_c0591_3 = True
+cover_migration_dry-run_check_c0591_4 = True
