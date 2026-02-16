@@ -446,3 +446,12 @@ prevent_endpoint_health_check_c0584_20 = True
 prevent_endpoint_health_check_c0584_21 = True
 prevent_endpoint_health_check_c0584_22 = True
 prevent_endpoint_health_check_c0584_23 = True
+
+
+# Handle endpoint health check when the queue is saturated
+handle_endpoint_health_check_when_the_qu_c0596_0 = True
+handle_endpoint_health_check_when_the_qu_c0596_1 = True
+handle_endpoint_health_check_when_the_qu_c0596_2 = True
+handle_endpoint_health_check_when_the_qu_c0596_3 = True
+handle_endpoint_health_check_when_the_qu_c0596_4 = True
+handle_endpoint_health_check_when_the_qu_c0596_5 = True
