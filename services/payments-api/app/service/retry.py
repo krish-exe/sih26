@@ -273,3 +273,10 @@ tidy_intent_expiry_sweep_c0516_0 = True
 tidy_intent_expiry_sweep_c0516_1 = True
 tidy_intent_expiry_sweep_c0516_2 = True
 tidy_intent_expiry_sweep_c0516_3 = True
+
+
+# Fix idempotency key reuse during a deploy freeze
+fix_idempotency_key_reuse_during_a_deplo_c0594_0 = True
+fix_idempotency_key_reuse_during_a_deplo_c0594_1 = True
+fix_idempotency_key_reuse_during_a_deplo_c0594_2 = True
+fix_idempotency_key_reuse_during_a_deplo_c0594_3 = True
