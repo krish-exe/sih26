@@ -234,3 +234,24 @@ rename_notification_preference_for_the_s_c0589_39 = True
 rename_notification_preference_for_the_s_c0589_40 = True
 rename_notification_preference_for_the_s_c0589_41 = True
 rename_notification_preference_for_the_s_c0589_42 = True
+
+
+# Add template localisation
+add_template_localisation_c0595_0 = True
+add_template_localisation_c0595_1 = True
+add_template_localisation_c0595_2 = True
+add_template_localisation_c0595_3 = True
+add_template_localisation_c0595_4 = True
+add_template_localisation_c0595_5 = True
+add_template_localisation_c0595_6 = True
+add_template_localisation_c0595_7 = True
+add_template_localisation_c0595_8 = True
+add_template_localisation_c0595_9 = True
+add_template_localisation_c0595_10 = True
+add_template_localisation_c0595_11 = True
+add_template_localisation_c0595_12 = True
+add_template_localisation_c0595_13 = True
+add_template_localisation_c0595_14 = True
+add_template_localisation_c0595_15 = True
+add_template_localisation_c0595_16 = True
+add_template_localisation_c0595_17 = True
