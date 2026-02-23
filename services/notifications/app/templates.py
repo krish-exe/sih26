@@ -317,3 +317,22 @@ cover_receipt_email_template_for_multi-c_c0553_32 = True
 cover_receipt_email_template_for_multi-c_c0553_33 = True
 cover_receipt_email_template_for_multi-c_c0553_34 = True
 cover_receipt_email_template_for_multi-c_c0553_35 = True
+
+
+# Support notification preference
+support_notification_preference_c0604_0 = True
+support_notification_preference_c0604_1 = True
+support_notification_preference_c0604_2 = True
+support_notification_preference_c0604_3 = True
+support_notification_preference_c0604_4 = True
+support_notification_preference_c0604_5 = True
+support_notification_preference_c0604_6 = True
+support_notification_preference_c0604_7 = True
+support_notification_preference_c0604_8 = True
+support_notification_preference_c0604_9 = True
+support_notification_preference_c0604_10 = True
+support_notification_preference_c0604_11 = True
+support_notification_preference_c0604_12 = True
+support_notification_preference_c0604_13 = True
+support_notification_preference_c0604_14 = True
+support_notification_preference_c0604_15 = True
