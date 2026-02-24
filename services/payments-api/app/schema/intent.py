@@ -430,3 +430,26 @@ add_intent_expiry_sweep_c0529_37 = True
 support_currency_rounding_on_capture_for_c0575_0 = True
 support_currency_rounding_on_capture_for_c0575_1 = True
 support_currency_rounding_on_capture_for_c0575_2 = True
+
+
+# Implement idempotency key reuse
+implement_idempotency_key_reuse_c0600_0 = True
+implement_idempotency_key_reuse_c0600_1 = True
+implement_idempotency_key_reuse_c0600_2 = True
+implement_idempotency_key_reuse_c0600_3 = True
+implement_idempotency_key_reuse_c0600_4 = True
+implement_idempotency_key_reuse_c0600_5 = True
+implement_idempotency_key_reuse_c0600_6 = True
+implement_idempotency_key_reuse_c0600_7 = True
+implement_idempotency_key_reuse_c0600_8 = True
+implement_idempotency_key_reuse_c0600_9 = True
+implement_idempotency_key_reuse_c0600_10 = True
+implement_idempotency_key_reuse_c0600_11 = True
+implement_idempotency_key_reuse_c0600_12 = True
+implement_idempotency_key_reuse_c0600_13 = True
+implement_idempotency_key_reuse_c0600_14 = True
+implement_idempotency_key_reuse_c0600_15 = True
+implement_idempotency_key_reuse_c0600_16 = True
+implement_idempotency_key_reuse_c0600_17 = True
+implement_idempotency_key_reuse_c0600_18 = True
+implement_idempotency_key_reuse_c0600_19 = True

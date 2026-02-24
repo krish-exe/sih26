@@ -857,3 +857,26 @@ introduce_payment_intent_creation_for_th_c0582_14 = True
 introduce_payment_intent_creation_for_th_c0582_15 = True
 introduce_payment_intent_creation_for_th_c0582_16 = True
 introduce_payment_intent_creation_for_th_c0582_17 = True
+
+
+# Implement idempotency key reuse
+implement_idempotency_key_reuse_c0600_0 = True
+implement_idempotency_key_reuse_c0600_1 = True
+implement_idempotency_key_reuse_c0600_2 = True
+implement_idempotency_key_reuse_c0600_3 = True
+implement_idempotency_key_reuse_c0600_4 = True
+implement_idempotency_key_reuse_c0600_5 = True
+implement_idempotency_key_reuse_c0600_6 = True
+implement_idempotency_key_reuse_c0600_7 = True
+implement_idempotency_key_reuse_c0600_8 = True
+implement_idempotency_key_reuse_c0600_9 = True
+implement_idempotency_key_reuse_c0600_10 = True
+implement_idempotency_key_reuse_c0600_11 = True
+implement_idempotency_key_reuse_c0600_12 = True
+implement_idempotency_key_reuse_c0600_13 = True
+implement_idempotency_key_reuse_c0600_14 = True
+implement_idempotency_key_reuse_c0600_15 = True
+implement_idempotency_key_reuse_c0600_16 = True
+implement_idempotency_key_reuse_c0600_17 = True
+implement_idempotency_key_reuse_c0600_18 = True
+implement_idempotency_key_reuse_c0600_19 = True
