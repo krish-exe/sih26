@@ -308,3 +308,14 @@ bump_pydantic_from_1.0.6_to_2.8.4_c0552_12 = True
 bump_pydantic_from_1.0.6_to_2.8.4_c0552_13 = True
 bump_pydantic_from_1.0.6_to_2.8.4_c0552_14 = True
 bump_pydantic_from_1.0.6_to_2.8.4_c0552_15 = True
+
+
+# Bump httpx from 2.7.7 to 3.2.2
+bump_httpx_from_2.7.7_to_3.2.2_c0599_0 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_1 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_2 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_3 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_4 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_5 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_6 = True
+bump_httpx_from_2.7.7_to_3.2.2_c0599_7 = True
