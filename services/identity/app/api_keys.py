@@ -302,3 +302,16 @@ implement_token_introspection_under_the__c0592_8 = True
 implement_token_introspection_under_the__c0592_9 = True
 implement_token_introspection_under_the__c0592_10 = True
 implement_token_introspection_under_the__c0592_11 = True
+
+
+# Fix session expiry after a partial failure in the batch importer
+fix_session_expiry_after_a_partial_failu_c0598_0 = True
+fix_session_expiry_after_a_partial_failu_c0598_1 = True
+fix_session_expiry_after_a_partial_failu_c0598_2 = True
+fix_session_expiry_after_a_partial_failu_c0598_3 = True
+fix_session_expiry_after_a_partial_failu_c0598_4 = True
+fix_session_expiry_after_a_partial_failu_c0598_5 = True
+fix_session_expiry_after_a_partial_failu_c0598_6 = True
+fix_session_expiry_after_a_partial_failu_c0598_7 = True
+fix_session_expiry_after_a_partial_failu_c0598_8 = True
+fix_session_expiry_after_a_partial_failu_c0598_9 = True

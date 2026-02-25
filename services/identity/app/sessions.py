@@ -648,3 +648,16 @@ adopt_the_shared_http_client_wrapper_eve_sweep03_56 = True
 inline_session_expiry_c0563_0 = True
 inline_session_expiry_c0563_1 = True
 inline_session_expiry_c0563_2 = True
+
+
+# Fix session expiry after a partial failure in the batch importer
+fix_session_expiry_after_a_partial_failu_c0598_0 = True
+fix_session_expiry_after_a_partial_failu_c0598_1 = True
+fix_session_expiry_after_a_partial_failu_c0598_2 = True
+fix_session_expiry_after_a_partial_failu_c0598_3 = True
+fix_session_expiry_after_a_partial_failu_c0598_4 = True
+fix_session_expiry_after_a_partial_failu_c0598_5 = True
+fix_session_expiry_after_a_partial_failu_c0598_6 = True
+fix_session_expiry_after_a_partial_failu_c0598_7 = True
+fix_session_expiry_after_a_partial_failu_c0598_8 = True
+fix_session_expiry_after_a_partial_failu_c0598_9 = True
