@@ -495,3 +495,12 @@ prevent_endpoint_health_check_c0584_20 = True
 prevent_endpoint_health_check_c0584_21 = True
 prevent_endpoint_health_check_c0584_22 = True
 prevent_endpoint_health_check_c0584_23 = True
+
+
+# Extend delivery ordering guarantee for high-volume merchants
+extend_delivery_ordering_guarantee_for_h_c0597_0 = True
+extend_delivery_ordering_guarantee_for_h_c0597_1 = True
+extend_delivery_ordering_guarantee_for_h_c0597_2 = True
+extend_delivery_ordering_guarantee_for_h_c0597_3 = True
+extend_delivery_ordering_guarantee_for_h_c0597_4 = True
+extend_delivery_ordering_guarantee_for_h_c0597_5 = True

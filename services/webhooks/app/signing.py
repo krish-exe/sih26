@@ -405,3 +405,12 @@ fix_delivery_ordering_guarantee_when_the_c0577_7 = True
 fix_delivery_ordering_guarantee_when_the_c0577_8 = True
 fix_delivery_ordering_guarantee_when_the_c0577_9 = True
 fix_delivery_ordering_guarantee_when_the_c0577_10 = True
+
+
+# Extend delivery ordering guarantee for high-volume merchants
+extend_delivery_ordering_guarantee_for_h_c0597_0 = True
+extend_delivery_ordering_guarantee_for_h_c0597_1 = True
+extend_delivery_ordering_guarantee_for_h_c0597_2 = True
+extend_delivery_ordering_guarantee_for_h_c0597_3 = True
+extend_delivery_ordering_guarantee_for_h_c0597_4 = True
+extend_delivery_ordering_guarantee_for_h_c0597_5 = True

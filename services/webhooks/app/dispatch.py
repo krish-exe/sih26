@@ -307,3 +307,12 @@ correct_delivery_ordering_guarantee_c0571_4 = True
 correct_delivery_ordering_guarantee_c0571_5 = True
 
 # branch work for c0569
+
+
+# Extend delivery ordering guarantee for high-volume merchants
+extend_delivery_ordering_guarantee_for_h_c0597_0 = True
+extend_delivery_ordering_guarantee_for_h_c0597_1 = True
+extend_delivery_ordering_guarantee_for_h_c0597_2 = True
+extend_delivery_ordering_guarantee_for_h_c0597_3 = True
+extend_delivery_ordering_guarantee_for_h_c0597_4 = True
+extend_delivery_ordering_guarantee_for_h_c0597_5 = True
