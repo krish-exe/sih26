@@ -970,3 +970,11 @@ extend_unmatched_settlement_report_c0530_11 = True
 extend_unmatched_settlement_report_c0530_12 = True
 extend_unmatched_settlement_report_c0530_13 = True
 extend_unmatched_settlement_report_c0530_14 = True
+
+
+# Support acquirer file import for delegated API keys
+support_acquirer_file_import_for_delegat_c0602_0 = True
+support_acquirer_file_import_for_delegat_c0602_1 = True
+support_acquirer_file_import_for_delegat_c0602_2 = True
+support_acquirer_file_import_for_delegat_c0602_3 = True
+support_acquirer_file_import_for_delegat_c0602_4 = True

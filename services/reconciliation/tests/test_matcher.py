@@ -386,3 +386,11 @@ handle_bank_statement_parsing_c0576_45 = True
 handle_bank_statement_parsing_c0576_46 = True
 handle_bank_statement_parsing_c0576_47 = True
 handle_bank_statement_parsing_c0576_48 = True
+
+
+# Support acquirer file import for delegated API keys
+support_acquirer_file_import_for_delegat_c0602_0 = True
+support_acquirer_file_import_for_delegat_c0602_1 = True
+support_acquirer_file_import_for_delegat_c0602_2 = True
+support_acquirer_file_import_for_delegat_c0602_3 = True
+support_acquirer_file_import_for_delegat_c0602_4 = True
