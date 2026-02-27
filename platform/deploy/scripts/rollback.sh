@@ -456,3 +456,12 @@ guard_against_blue-green_cutover_in_the__c0590_17 = True
 guard_against_blue-green_cutover_in_the__c0590_18 = True
 guard_against_blue-green_cutover_in_the__c0590_19 = True
 guard_against_blue-green_cutover_in_the__c0590_20 = True
+
+
+# Introduce deployment freeze window on the read replica
+introduce_deployment_freeze_window_on_th_c0601_0 = True
+introduce_deployment_freeze_window_on_th_c0601_1 = True
+introduce_deployment_freeze_window_on_th_c0601_2 = True
+introduce_deployment_freeze_window_on_th_c0601_3 = True
+introduce_deployment_freeze_window_on_th_c0601_4 = True
+introduce_deployment_freeze_window_on_th_c0601_5 = True
