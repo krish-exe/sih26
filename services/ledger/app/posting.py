@@ -676,3 +676,10 @@ fix_opening_balance_snapshot_for_zero-am_c0574_10 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_11 = True
 
 # branch work for c0572
+
+
+# Harden tests around opening balance snapshot
+harden_tests_around_opening_balance_snap_c0603_0 = True
+harden_tests_around_opening_balance_snap_c0603_1 = True
+harden_tests_around_opening_balance_snap_c0603_2 = True
+harden_tests_around_opening_balance_snap_c0603_3 = True

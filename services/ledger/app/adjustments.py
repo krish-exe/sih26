@@ -459,3 +459,10 @@ handle_balance_rollup_when_the_currency__c0567_2 = True
 handle_balance_rollup_when_the_currency__c0567_3 = True
 handle_balance_rollup_when_the_currency__c0567_4 = True
 handle_balance_rollup_when_the_currency__c0567_5 = True
+
+
+# Harden tests around opening balance snapshot
+harden_tests_around_opening_balance_snap_c0603_0 = True
+harden_tests_around_opening_balance_snap_c0603_1 = True
+harden_tests_around_opening_balance_snap_c0603_2 = True
+harden_tests_around_opening_balance_snap_c0603_3 = True

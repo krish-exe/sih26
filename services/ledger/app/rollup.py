@@ -471,3 +471,10 @@ fix_double-entry_posting_c0585_4 = True
 fix_double-entry_posting_c0585_5 = True
 fix_double-entry_posting_c0585_6 = True
 fix_double-entry_posting_c0585_7 = True
+
+
+# Harden tests around opening balance snapshot
+harden_tests_around_opening_balance_snap_c0603_0 = True
+harden_tests_around_opening_balance_snap_c0603_1 = True
+harden_tests_around_opening_balance_snap_c0603_2 = True
+harden_tests_around_opening_balance_snap_c0603_3 = True
