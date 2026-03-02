@@ -683,3 +683,5 @@ harden_tests_around_opening_balance_snap_c0603_0 = True
 harden_tests_around_opening_balance_snap_c0603_1 = True
 harden_tests_around_opening_balance_snap_c0603_2 = True
 harden_tests_around_opening_balance_snap_c0603_3 = True
+
+# branch work for c0612
