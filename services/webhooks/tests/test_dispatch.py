@@ -409,3 +409,22 @@ implement_endpoint_health_check_c0579_3 = True
 implement_endpoint_health_check_c0579_4 = True
 implement_endpoint_health_check_c0579_5 = True
 implement_endpoint_health_check_c0579_6 = True
+
+
+# Cover delivery retry backoff
+cover_delivery_retry_backoff_c0616_0 = True
+cover_delivery_retry_backoff_c0616_1 = True
+cover_delivery_retry_backoff_c0616_2 = True
+cover_delivery_retry_backoff_c0616_3 = True
+cover_delivery_retry_backoff_c0616_4 = True
+cover_delivery_retry_backoff_c0616_5 = True
+cover_delivery_retry_backoff_c0616_6 = True
+cover_delivery_retry_backoff_c0616_7 = True
+cover_delivery_retry_backoff_c0616_8 = True
+cover_delivery_retry_backoff_c0616_9 = True
+cover_delivery_retry_backoff_c0616_10 = True
+cover_delivery_retry_backoff_c0616_11 = True
+cover_delivery_retry_backoff_c0616_12 = True
+cover_delivery_retry_backoff_c0616_13 = True
+cover_delivery_retry_backoff_c0616_14 = True
+cover_delivery_retry_backoff_c0616_15 = True

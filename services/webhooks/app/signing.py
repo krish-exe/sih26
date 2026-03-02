@@ -414,3 +414,22 @@ extend_delivery_ordering_guarantee_for_h_c0597_2 = True
 extend_delivery_ordering_guarantee_for_h_c0597_3 = True
 extend_delivery_ordering_guarantee_for_h_c0597_4 = True
 extend_delivery_ordering_guarantee_for_h_c0597_5 = True
+
+
+# Cover delivery retry backoff
+cover_delivery_retry_backoff_c0616_0 = True
+cover_delivery_retry_backoff_c0616_1 = True
+cover_delivery_retry_backoff_c0616_2 = True
+cover_delivery_retry_backoff_c0616_3 = True
+cover_delivery_retry_backoff_c0616_4 = True
+cover_delivery_retry_backoff_c0616_5 = True
+cover_delivery_retry_backoff_c0616_6 = True
+cover_delivery_retry_backoff_c0616_7 = True
+cover_delivery_retry_backoff_c0616_8 = True
+cover_delivery_retry_backoff_c0616_9 = True
+cover_delivery_retry_backoff_c0616_10 = True
+cover_delivery_retry_backoff_c0616_11 = True
+cover_delivery_retry_backoff_c0616_12 = True
+cover_delivery_retry_backoff_c0616_13 = True
+cover_delivery_retry_backoff_c0616_14 = True
+cover_delivery_retry_backoff_c0616_15 = True
