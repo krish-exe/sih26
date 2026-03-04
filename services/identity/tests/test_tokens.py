@@ -306,3 +306,33 @@ fix_session_expiry_after_a_partial_failu_c0598_9 = True
 rename_scope_enforcement_in_the_worker_p_c0614_0 = True
 rename_scope_enforcement_in_the_worker_p_c0614_1 = True
 rename_scope_enforcement_in_the_worker_p_c0614_2 = True
+
+
+# Support API key rotation
+support_api_key_rotation_c0611_0 = True
+support_api_key_rotation_c0611_1 = True
+support_api_key_rotation_c0611_2 = True
+support_api_key_rotation_c0611_3 = True
+support_api_key_rotation_c0611_4 = True
+support_api_key_rotation_c0611_5 = True
+support_api_key_rotation_c0611_6 = True
+support_api_key_rotation_c0611_7 = True
+support_api_key_rotation_c0611_8 = True
+support_api_key_rotation_c0611_9 = True
+support_api_key_rotation_c0611_10 = True
+support_api_key_rotation_c0611_11 = True
+support_api_key_rotation_c0611_12 = True
+support_api_key_rotation_c0611_13 = True
+support_api_key_rotation_c0611_14 = True
+support_api_key_rotation_c0611_15 = True
+support_api_key_rotation_c0611_16 = True
+support_api_key_rotation_c0611_17 = True
+support_api_key_rotation_c0611_18 = True
+support_api_key_rotation_c0611_19 = True
+support_api_key_rotation_c0611_20 = True
+support_api_key_rotation_c0611_21 = True
+support_api_key_rotation_c0611_22 = True
+support_api_key_rotation_c0611_23 = True
+support_api_key_rotation_c0611_24 = True
+support_api_key_rotation_c0611_25 = True
+support_api_key_rotation_c0611_26 = True
