@@ -300,3 +300,9 @@ fix_session_expiry_after_a_partial_failu_c0598_6 = True
 fix_session_expiry_after_a_partial_failu_c0598_7 = True
 fix_session_expiry_after_a_partial_failu_c0598_8 = True
 fix_session_expiry_after_a_partial_failu_c0598_9 = True
+
+
+# Rename scope enforcement in the worker path
+rename_scope_enforcement_in_the_worker_p_c0614_0 = True
+rename_scope_enforcement_in_the_worker_p_c0614_1 = True
+rename_scope_enforcement_in_the_worker_p_c0614_2 = True

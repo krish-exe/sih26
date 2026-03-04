@@ -499,3 +499,9 @@ rename_session_expiry_c0580_1 = True
 rename_session_expiry_c0580_2 = True
 rename_session_expiry_c0580_3 = True
 rename_session_expiry_c0580_4 = True
+
+
+# Rename scope enforcement in the worker path
+rename_scope_enforcement_in_the_worker_p_c0614_0 = True
+rename_scope_enforcement_in_the_worker_p_c0614_1 = True
+rename_scope_enforcement_in_the_worker_p_c0614_2 = True
