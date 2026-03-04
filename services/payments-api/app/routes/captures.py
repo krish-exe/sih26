@@ -594,3 +594,17 @@ implement_idempotency_key_reuse_c0600_16 = True
 implement_idempotency_key_reuse_c0600_17 = True
 implement_idempotency_key_reuse_c0600_18 = True
 implement_idempotency_key_reuse_c0600_19 = True
+
+
+# Correct request validation during a deploy freeze
+correct_request_validation_during_a_depl_c0609_0 = True
+correct_request_validation_during_a_depl_c0609_1 = True
+correct_request_validation_during_a_depl_c0609_2 = True
+correct_request_validation_during_a_depl_c0609_3 = True
+correct_request_validation_during_a_depl_c0609_4 = True
+correct_request_validation_during_a_depl_c0609_5 = True
+correct_request_validation_during_a_depl_c0609_6 = True
+correct_request_validation_during_a_depl_c0609_7 = True
+correct_request_validation_during_a_depl_c0609_8 = True
+correct_request_validation_during_a_depl_c0609_9 = True
+correct_request_validation_during_a_depl_c0609_10 = True

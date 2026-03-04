@@ -920,3 +920,17 @@ add_intent_expiry_sweep_c0529_37 = True
 support_currency_rounding_on_capture_for_c0575_0 = True
 support_currency_rounding_on_capture_for_c0575_1 = True
 support_currency_rounding_on_capture_for_c0575_2 = True
+
+
+# Correct request validation during a deploy freeze
+correct_request_validation_during_a_depl_c0609_0 = True
+correct_request_validation_during_a_depl_c0609_1 = True
+correct_request_validation_during_a_depl_c0609_2 = True
+correct_request_validation_during_a_depl_c0609_3 = True
+correct_request_validation_during_a_depl_c0609_4 = True
+correct_request_validation_during_a_depl_c0609_5 = True
+correct_request_validation_during_a_depl_c0609_6 = True
+correct_request_validation_during_a_depl_c0609_7 = True
+correct_request_validation_during_a_depl_c0609_8 = True
+correct_request_validation_during_a_depl_c0609_9 = True
+correct_request_validation_during_a_depl_c0609_10 = True
