@@ -522,3 +522,11 @@ handle_balance_rollup_when_the_currency__c0567_2 = True
 handle_balance_rollup_when_the_currency__c0567_3 = True
 handle_balance_rollup_when_the_currency__c0567_4 = True
 handle_balance_rollup_when_the_currency__c0567_5 = True
+
+
+# Split currency conversion at posting time for multi-currency merchants
+split_currency_conversion_at_posting_tim_c0610_0 = True
+split_currency_conversion_at_posting_tim_c0610_1 = True
+split_currency_conversion_at_posting_tim_c0610_2 = True
+split_currency_conversion_at_posting_tim_c0610_3 = True
+split_currency_conversion_at_posting_tim_c0610_4 = True

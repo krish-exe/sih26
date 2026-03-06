@@ -466,3 +466,11 @@ harden_tests_around_opening_balance_snap_c0603_0 = True
 harden_tests_around_opening_balance_snap_c0603_1 = True
 harden_tests_around_opening_balance_snap_c0603_2 = True
 harden_tests_around_opening_balance_snap_c0603_3 = True
+
+
+# Split currency conversion at posting time for multi-currency merchants
+split_currency_conversion_at_posting_tim_c0610_0 = True
+split_currency_conversion_at_posting_tim_c0610_1 = True
+split_currency_conversion_at_posting_tim_c0610_2 = True
+split_currency_conversion_at_posting_tim_c0610_3 = True
+split_currency_conversion_at_posting_tim_c0610_4 = True
