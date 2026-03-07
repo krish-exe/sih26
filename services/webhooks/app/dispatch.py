@@ -316,3 +316,8 @@ extend_delivery_ordering_guarantee_for_h_c0597_2 = True
 extend_delivery_ordering_guarantee_for_h_c0597_3 = True
 extend_delivery_ordering_guarantee_for_h_c0597_4 = True
 extend_delivery_ordering_guarantee_for_h_c0597_5 = True
+
+
+# Handle dead letter handling
+handle_dead_letter_handling_c0608_0 = True
+handle_dead_letter_handling_c0608_1 = True
