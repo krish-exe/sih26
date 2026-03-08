@@ -674,3 +674,12 @@ support_double-entry_posting_c0536_12 = True
 support_double-entry_posting_c0536_13 = True
 support_double-entry_posting_c0536_14 = True
 support_double-entry_posting_c0536_15 = True
+
+
+# Introduce journal replay
+introduce_journal_replay_c0615_0 = True
+introduce_journal_replay_c0615_1 = True
+introduce_journal_replay_c0615_2 = True
+introduce_journal_replay_c0615_3 = True
+introduce_journal_replay_c0615_4 = True
+introduce_journal_replay_c0615_5 = True

@@ -474,3 +474,12 @@ split_currency_conversion_at_posting_tim_c0610_1 = True
 split_currency_conversion_at_posting_tim_c0610_2 = True
 split_currency_conversion_at_posting_tim_c0610_3 = True
 split_currency_conversion_at_posting_tim_c0610_4 = True
+
+
+# Introduce journal replay
+introduce_journal_replay_c0615_0 = True
+introduce_journal_replay_c0615_1 = True
+introduce_journal_replay_c0615_2 = True
+introduce_journal_replay_c0615_3 = True
+introduce_journal_replay_c0615_4 = True
+introduce_journal_replay_c0615_5 = True
