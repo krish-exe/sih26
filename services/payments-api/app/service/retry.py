@@ -280,3 +280,9 @@ fix_idempotency_key_reuse_during_a_deplo_c0594_0 = True
 fix_idempotency_key_reuse_during_a_deplo_c0594_1 = True
 fix_idempotency_key_reuse_during_a_deplo_c0594_2 = True
 fix_idempotency_key_reuse_during_a_deplo_c0594_3 = True
+
+
+# Prevent authorisation retry budget
+prevent_authorisation_retry_budget_c0618_0 = True
+prevent_authorisation_retry_budget_c0618_1 = True
+prevent_authorisation_retry_budget_c0618_2 = True

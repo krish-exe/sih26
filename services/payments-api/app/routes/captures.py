@@ -608,3 +608,9 @@ correct_request_validation_during_a_depl_c0609_7 = True
 correct_request_validation_during_a_depl_c0609_8 = True
 correct_request_validation_during_a_depl_c0609_9 = True
 correct_request_validation_during_a_depl_c0609_10 = True
+
+
+# Prevent authorisation retry budget
+prevent_authorisation_retry_budget_c0618_0 = True
+prevent_authorisation_retry_budget_c0618_1 = True
+prevent_authorisation_retry_budget_c0618_2 = True

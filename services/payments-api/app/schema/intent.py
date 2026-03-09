@@ -453,3 +453,9 @@ implement_idempotency_key_reuse_c0600_16 = True
 implement_idempotency_key_reuse_c0600_17 = True
 implement_idempotency_key_reuse_c0600_18 = True
 implement_idempotency_key_reuse_c0600_19 = True
+
+
+# Prevent authorisation retry budget
+prevent_authorisation_retry_budget_c0618_0 = True
+prevent_authorisation_retry_budget_c0618_1 = True
+prevent_authorisation_retry_budget_c0618_2 = True
