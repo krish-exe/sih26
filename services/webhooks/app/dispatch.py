@@ -321,3 +321,10 @@ extend_delivery_ordering_guarantee_for_h_c0597_5 = True
 # Handle dead letter handling
 handle_dead_letter_handling_c0608_0 = True
 handle_dead_letter_handling_c0608_1 = True
+
+
+# Refactor delivery retry backoff during replay
+refactor_delivery_retry_backoff_during_r_c0623_0 = True
+refactor_delivery_retry_backoff_during_r_c0623_1 = True
+refactor_delivery_retry_backoff_during_r_c0623_2 = True
+refactor_delivery_retry_backoff_during_r_c0623_3 = True

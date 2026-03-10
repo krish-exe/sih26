@@ -516,3 +516,10 @@ implement_subscription_management_for_th_c0619_10 = True
 implement_subscription_management_for_th_c0619_11 = True
 implement_subscription_management_for_th_c0619_12 = True
 implement_subscription_management_for_th_c0619_13 = True
+
+
+# Refactor delivery retry backoff during replay
+refactor_delivery_retry_backoff_during_r_c0623_0 = True
+refactor_delivery_retry_backoff_during_r_c0623_1 = True
+refactor_delivery_retry_backoff_during_r_c0623_2 = True
+refactor_delivery_retry_backoff_during_r_c0623_3 = True
