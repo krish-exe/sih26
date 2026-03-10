@@ -523,3 +523,20 @@ cover_delivery_retry_backoff_c0616_12 = True
 cover_delivery_retry_backoff_c0616_13 = True
 cover_delivery_retry_backoff_c0616_14 = True
 cover_delivery_retry_backoff_c0616_15 = True
+
+
+# Implement subscription management for the v2 endpoint
+implement_subscription_management_for_th_c0619_0 = True
+implement_subscription_management_for_th_c0619_1 = True
+implement_subscription_management_for_th_c0619_2 = True
+implement_subscription_management_for_th_c0619_3 = True
+implement_subscription_management_for_th_c0619_4 = True
+implement_subscription_management_for_th_c0619_5 = True
+implement_subscription_management_for_th_c0619_6 = True
+implement_subscription_management_for_th_c0619_7 = True
+implement_subscription_management_for_th_c0619_8 = True
+implement_subscription_management_for_th_c0619_9 = True
+implement_subscription_management_for_th_c0619_10 = True
+implement_subscription_management_for_th_c0619_11 = True
+implement_subscription_management_for_th_c0619_12 = True
+implement_subscription_management_for_th_c0619_13 = True
