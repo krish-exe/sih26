@@ -330,3 +330,18 @@ harden_tests_around_opening_balance_snap_c0603_0 = True
 harden_tests_around_opening_balance_snap_c0603_1 = True
 harden_tests_around_opening_balance_snap_c0603_2 = True
 harden_tests_around_opening_balance_snap_c0603_3 = True
+
+
+# Refactor opening balance snapshot under the new limits
+refactor_opening_balance_snapshot_under__c0622_0 = True
+refactor_opening_balance_snapshot_under__c0622_1 = True
+refactor_opening_balance_snapshot_under__c0622_2 = True
+refactor_opening_balance_snapshot_under__c0622_3 = True
+refactor_opening_balance_snapshot_under__c0622_4 = True
+refactor_opening_balance_snapshot_under__c0622_5 = True
+refactor_opening_balance_snapshot_under__c0622_6 = True
+refactor_opening_balance_snapshot_under__c0622_7 = True
+refactor_opening_balance_snapshot_under__c0622_8 = True
+refactor_opening_balance_snapshot_under__c0622_9 = True
+refactor_opening_balance_snapshot_under__c0622_10 = True
+refactor_opening_balance_snapshot_under__c0622_11 = True
