@@ -585,3 +585,16 @@ introduce_adjustment_approval_trail_c0606_31 = True
 introduce_adjustment_approval_trail_c0606_32 = True
 introduce_adjustment_approval_trail_c0606_33 = True
 introduce_adjustment_approval_trail_c0606_34 = True
+
+
+# Split double-entry posting
+split_double-entry_posting_c0624_0 = True
+split_double-entry_posting_c0624_1 = True
+split_double-entry_posting_c0624_2 = True
+split_double-entry_posting_c0624_3 = True
+split_double-entry_posting_c0624_4 = True
+split_double-entry_posting_c0624_5 = True
+split_double-entry_posting_c0624_6 = True
+split_double-entry_posting_c0624_7 = True
+split_double-entry_posting_c0624_8 = True
+split_double-entry_posting_c0624_9 = True
