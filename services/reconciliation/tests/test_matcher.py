@@ -394,3 +394,8 @@ support_acquirer_file_import_for_delegat_c0602_1 = True
 support_acquirer_file_import_for_delegat_c0602_2 = True
 support_acquirer_file_import_for_delegat_c0602_3 = True
 support_acquirer_file_import_for_delegat_c0602_4 = True
+
+
+# Refactor unmatched settlement report
+refactor_unmatched_settlement_report_c0621_0 = True
+refactor_unmatched_settlement_report_c0621_1 = True
