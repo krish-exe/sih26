@@ -307,3 +307,17 @@ add_template_localisation_c0595_14 = True
 add_template_localisation_c0595_15 = True
 add_template_localisation_c0595_16 = True
 add_template_localisation_c0595_17 = True
+
+
+# Add tests for receipt email template for high-volume merchants
+add_tests_for_receipt_email_template_for_c0625_0 = True
+add_tests_for_receipt_email_template_for_c0625_1 = True
+add_tests_for_receipt_email_template_for_c0625_2 = True
+add_tests_for_receipt_email_template_for_c0625_3 = True
+add_tests_for_receipt_email_template_for_c0625_4 = True
+add_tests_for_receipt_email_template_for_c0625_5 = True
+add_tests_for_receipt_email_template_for_c0625_6 = True
+add_tests_for_receipt_email_template_for_c0625_7 = True
+add_tests_for_receipt_email_template_for_c0625_8 = True
+add_tests_for_receipt_email_template_for_c0625_9 = True
+add_tests_for_receipt_email_template_for_c0625_10 = True
