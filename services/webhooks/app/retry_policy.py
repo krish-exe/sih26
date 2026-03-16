@@ -547,3 +547,18 @@ refactor_delivery_retry_backoff_during_r_c0623_0 = True
 refactor_delivery_retry_backoff_during_r_c0623_1 = True
 refactor_delivery_retry_backoff_during_r_c0623_2 = True
 refactor_delivery_retry_backoff_during_r_c0623_3 = True
+
+
+# Introduce endpoint health check
+introduce_endpoint_health_check_c0637_0 = True
+introduce_endpoint_health_check_c0637_1 = True
+introduce_endpoint_health_check_c0637_2 = True
+introduce_endpoint_health_check_c0637_3 = True
+introduce_endpoint_health_check_c0637_4 = True
+introduce_endpoint_health_check_c0637_5 = True
+introduce_endpoint_health_check_c0637_6 = True
+introduce_endpoint_health_check_c0637_7 = True
+introduce_endpoint_health_check_c0637_8 = True
+introduce_endpoint_health_check_c0637_9 = True
+introduce_endpoint_health_check_c0637_10 = True
+introduce_endpoint_health_check_c0637_11 = True
