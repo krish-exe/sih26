@@ -802,3 +802,17 @@ refactor_canary_rollout_stage_c0605_34 = True
 refactor_canary_rollout_stage_c0605_35 = True
 refactor_canary_rollout_stage_c0605_36 = True
 refactor_canary_rollout_stage_c0605_37 = True
+
+
+# Cover rollback procedure
+cover_rollback_procedure_c0638_0 = True
+cover_rollback_procedure_c0638_1 = True
+cover_rollback_procedure_c0638_2 = True
+cover_rollback_procedure_c0638_3 = True
+cover_rollback_procedure_c0638_4 = True
+cover_rollback_procedure_c0638_5 = True
+cover_rollback_procedure_c0638_6 = True
+cover_rollback_procedure_c0638_7 = True
+cover_rollback_procedure_c0638_8 = True
+cover_rollback_procedure_c0638_9 = True
+cover_rollback_procedure_c0638_10 = True
