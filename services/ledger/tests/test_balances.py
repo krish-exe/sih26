@@ -689,3 +689,7 @@ introduce_journal_replay_c0615_5 = True
 correct_currency_conversion_at_posting_t_c0628_0 = True
 correct_currency_conversion_at_posting_t_c0628_1 = True
 correct_currency_conversion_at_posting_t_c0628_2 = True
+
+
+# Add opening balance snapshot
+add_opening_balance_snapshot_c0639_0 = True

@@ -712,3 +712,7 @@ fix_opening_balance_snapshot_for_zero-am_c0574_11 = True
 correct_currency_conversion_at_posting_t_c0628_0 = True
 correct_currency_conversion_at_posting_t_c0628_1 = True
 correct_currency_conversion_at_posting_t_c0628_2 = True
+
+
+# Add opening balance snapshot
+add_opening_balance_snapshot_c0639_0 = True
