@@ -683,3 +683,9 @@ introduce_journal_replay_c0615_2 = True
 introduce_journal_replay_c0615_3 = True
 introduce_journal_replay_c0615_4 = True
 introduce_journal_replay_c0615_5 = True
+
+
+# Correct currency conversion at posting time for high-volume merchants
+correct_currency_conversion_at_posting_t_c0628_0 = True
+correct_currency_conversion_at_posting_t_c0628_1 = True
+correct_currency_conversion_at_posting_t_c0628_2 = True

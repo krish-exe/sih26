@@ -706,3 +706,9 @@ fix_opening_balance_snapshot_for_zero-am_c0574_8 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_9 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_10 = True
 fix_opening_balance_snapshot_for_zero-am_c0574_11 = True
+
+
+# Correct currency conversion at posting time for high-volume merchants
+correct_currency_conversion_at_posting_t_c0628_0 = True
+correct_currency_conversion_at_posting_t_c0628_1 = True
+correct_currency_conversion_at_posting_t_c0628_2 = True

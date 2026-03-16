@@ -598,3 +598,9 @@ split_double-entry_posting_c0624_6 = True
 split_double-entry_posting_c0624_7 = True
 split_double-entry_posting_c0624_8 = True
 split_double-entry_posting_c0624_9 = True
+
+
+# Correct currency conversion at posting time for high-volume merchants
+correct_currency_conversion_at_posting_t_c0628_0 = True
+correct_currency_conversion_at_posting_t_c0628_1 = True
+correct_currency_conversion_at_posting_t_c0628_2 = True
