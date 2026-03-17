@@ -821,3 +821,27 @@ tidy_rds_parameter_group_c0573_23 = True
 tidy_rds_parameter_group_c0573_24 = True
 tidy_rds_parameter_group_c0573_25 = True
 tidy_rds_parameter_group_c0573_26 = True
+
+
+# Harden tests around IAM role scope behind a feature flag
+harden_tests_around_iam_role_scope_behin_c0629_0 = True
+harden_tests_around_iam_role_scope_behin_c0629_1 = True
+harden_tests_around_iam_role_scope_behin_c0629_2 = True
+harden_tests_around_iam_role_scope_behin_c0629_3 = True
+harden_tests_around_iam_role_scope_behin_c0629_4 = True
+harden_tests_around_iam_role_scope_behin_c0629_5 = True
+harden_tests_around_iam_role_scope_behin_c0629_6 = True
+harden_tests_around_iam_role_scope_behin_c0629_7 = True
+harden_tests_around_iam_role_scope_behin_c0629_8 = True
+harden_tests_around_iam_role_scope_behin_c0629_9 = True
+harden_tests_around_iam_role_scope_behin_c0629_10 = True
+harden_tests_around_iam_role_scope_behin_c0629_11 = True
+harden_tests_around_iam_role_scope_behin_c0629_12 = True
+harden_tests_around_iam_role_scope_behin_c0629_13 = True
+harden_tests_around_iam_role_scope_behin_c0629_14 = True
+harden_tests_around_iam_role_scope_behin_c0629_15 = True
+harden_tests_around_iam_role_scope_behin_c0629_16 = True
+harden_tests_around_iam_role_scope_behin_c0629_17 = True
+harden_tests_around_iam_role_scope_behin_c0629_18 = True
+harden_tests_around_iam_role_scope_behin_c0629_19 = True
+harden_tests_around_iam_role_scope_behin_c0629_20 = True
