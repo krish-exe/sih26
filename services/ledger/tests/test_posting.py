@@ -604,3 +604,37 @@ split_double-entry_posting_c0624_9 = True
 correct_currency_conversion_at_posting_t_c0628_0 = True
 correct_currency_conversion_at_posting_t_c0628_1 = True
 correct_currency_conversion_at_posting_t_c0628_2 = True
+
+
+# Support adjustment approval trail
+support_adjustment_approval_trail_c0631_0 = True
+support_adjustment_approval_trail_c0631_1 = True
+support_adjustment_approval_trail_c0631_2 = True
+support_adjustment_approval_trail_c0631_3 = True
+support_adjustment_approval_trail_c0631_4 = True
+support_adjustment_approval_trail_c0631_5 = True
+support_adjustment_approval_trail_c0631_6 = True
+support_adjustment_approval_trail_c0631_7 = True
+support_adjustment_approval_trail_c0631_8 = True
+support_adjustment_approval_trail_c0631_9 = True
+support_adjustment_approval_trail_c0631_10 = True
+support_adjustment_approval_trail_c0631_11 = True
+support_adjustment_approval_trail_c0631_12 = True
+support_adjustment_approval_trail_c0631_13 = True
+support_adjustment_approval_trail_c0631_14 = True
+support_adjustment_approval_trail_c0631_15 = True
+support_adjustment_approval_trail_c0631_16 = True
+support_adjustment_approval_trail_c0631_17 = True
+support_adjustment_approval_trail_c0631_18 = True
+support_adjustment_approval_trail_c0631_19 = True
+support_adjustment_approval_trail_c0631_20 = True
+support_adjustment_approval_trail_c0631_21 = True
+support_adjustment_approval_trail_c0631_22 = True
+support_adjustment_approval_trail_c0631_23 = True
+support_adjustment_approval_trail_c0631_24 = True
+support_adjustment_approval_trail_c0631_25 = True
+support_adjustment_approval_trail_c0631_26 = True
+support_adjustment_approval_trail_c0631_27 = True
+support_adjustment_approval_trail_c0631_28 = True
+support_adjustment_approval_trail_c0631_29 = True
+support_adjustment_approval_trail_c0631_30 = True
