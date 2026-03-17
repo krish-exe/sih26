@@ -1495,3 +1495,8 @@ add_rollback_procedure_c0620_188 = True
 add_rollback_procedure_c0620_189 = True
 add_rollback_procedure_c0620_190 = True
 add_rollback_procedure_c0620_191 = True
+
+
+# Split deployment freeze window
+split_deployment_freeze_window_c0636_0 = True
+split_deployment_freeze_window_c0636_1 = True

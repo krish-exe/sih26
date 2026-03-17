@@ -809,3 +809,8 @@ introduce_deployment_freeze_window_on_th_c0601_2 = True
 introduce_deployment_freeze_window_on_th_c0601_3 = True
 introduce_deployment_freeze_window_on_th_c0601_4 = True
 introduce_deployment_freeze_window_on_th_c0601_5 = True
+
+
+# Split deployment freeze window
+split_deployment_freeze_window_c0636_0 = True
+split_deployment_freeze_window_c0636_1 = True
