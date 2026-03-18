@@ -255,3 +255,18 @@ add_template_localisation_c0595_14 = True
 add_template_localisation_c0595_15 = True
 add_template_localisation_c0595_16 = True
 add_template_localisation_c0595_17 = True
+
+
+# Split receipt email template
+split_receipt_email_template_c0635_0 = True
+split_receipt_email_template_c0635_1 = True
+split_receipt_email_template_c0635_2 = True
+split_receipt_email_template_c0635_3 = True
+split_receipt_email_template_c0635_4 = True
+split_receipt_email_template_c0635_5 = True
+split_receipt_email_template_c0635_6 = True
+split_receipt_email_template_c0635_7 = True
+split_receipt_email_template_c0635_8 = True
+split_receipt_email_template_c0635_9 = True
+split_receipt_email_template_c0635_10 = True
+split_receipt_email_template_c0635_11 = True

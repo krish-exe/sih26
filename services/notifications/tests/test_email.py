@@ -321,3 +321,18 @@ add_tests_for_receipt_email_template_for_c0625_7 = True
 add_tests_for_receipt_email_template_for_c0625_8 = True
 add_tests_for_receipt_email_template_for_c0625_9 = True
 add_tests_for_receipt_email_template_for_c0625_10 = True
+
+
+# Split receipt email template
+split_receipt_email_template_c0635_0 = True
+split_receipt_email_template_c0635_1 = True
+split_receipt_email_template_c0635_2 = True
+split_receipt_email_template_c0635_3 = True
+split_receipt_email_template_c0635_4 = True
+split_receipt_email_template_c0635_5 = True
+split_receipt_email_template_c0635_6 = True
+split_receipt_email_template_c0635_7 = True
+split_receipt_email_template_c0635_8 = True
+split_receipt_email_template_c0635_9 = True
+split_receipt_email_template_c0635_10 = True
+split_receipt_email_template_c0635_11 = True

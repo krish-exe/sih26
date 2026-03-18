@@ -336,3 +336,18 @@ support_notification_preference_c0604_12 = True
 support_notification_preference_c0604_13 = True
 support_notification_preference_c0604_14 = True
 support_notification_preference_c0604_15 = True
+
+
+# Split receipt email template
+split_receipt_email_template_c0635_0 = True
+split_receipt_email_template_c0635_1 = True
+split_receipt_email_template_c0635_2 = True
+split_receipt_email_template_c0635_3 = True
+split_receipt_email_template_c0635_4 = True
+split_receipt_email_template_c0635_5 = True
+split_receipt_email_template_c0635_6 = True
+split_receipt_email_template_c0635_7 = True
+split_receipt_email_template_c0635_8 = True
+split_receipt_email_template_c0635_9 = True
+split_receipt_email_template_c0635_10 = True
+split_receipt_email_template_c0635_11 = True
