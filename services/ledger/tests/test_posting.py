@@ -638,3 +638,27 @@ support_adjustment_approval_trail_c0631_27 = True
 support_adjustment_approval_trail_c0631_28 = True
 support_adjustment_approval_trail_c0631_29 = True
 support_adjustment_approval_trail_c0631_30 = True
+
+
+# Simplify balance rollup
+simplify_balance_rollup_c0632_0 = True
+simplify_balance_rollup_c0632_1 = True
+simplify_balance_rollup_c0632_2 = True
+simplify_balance_rollup_c0632_3 = True
+simplify_balance_rollup_c0632_4 = True
+simplify_balance_rollup_c0632_5 = True
+simplify_balance_rollup_c0632_6 = True
+simplify_balance_rollup_c0632_7 = True
+simplify_balance_rollup_c0632_8 = True
+simplify_balance_rollup_c0632_9 = True
+simplify_balance_rollup_c0632_10 = True
+simplify_balance_rollup_c0632_11 = True
+simplify_balance_rollup_c0632_12 = True
+simplify_balance_rollup_c0632_13 = True
+simplify_balance_rollup_c0632_14 = True
+simplify_balance_rollup_c0632_15 = True
+simplify_balance_rollup_c0632_16 = True
+simplify_balance_rollup_c0632_17 = True
+simplify_balance_rollup_c0632_18 = True
+simplify_balance_rollup_c0632_19 = True
+simplify_balance_rollup_c0632_20 = True
