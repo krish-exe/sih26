@@ -409,3 +409,37 @@ ci:_regenerate_lockfile_c0633_35 = True
 ci:_regenerate_lockfile_c0633_36 = True
 ci:_regenerate_lockfile_c0633_37 = True
 ci:_regenerate_lockfile_c0633_38 = True
+
+
+# ci: regenerate openapi schema
+ci:_regenerate_openapi_schema_c0626_0 = True
+ci:_regenerate_openapi_schema_c0626_1 = True
+ci:_regenerate_openapi_schema_c0626_2 = True
+ci:_regenerate_openapi_schema_c0626_3 = True
+ci:_regenerate_openapi_schema_c0626_4 = True
+ci:_regenerate_openapi_schema_c0626_5 = True
+ci:_regenerate_openapi_schema_c0626_6 = True
+ci:_regenerate_openapi_schema_c0626_7 = True
+ci:_regenerate_openapi_schema_c0626_8 = True
+ci:_regenerate_openapi_schema_c0626_9 = True
+ci:_regenerate_openapi_schema_c0626_10 = True
+ci:_regenerate_openapi_schema_c0626_11 = True
+ci:_regenerate_openapi_schema_c0626_12 = True
+ci:_regenerate_openapi_schema_c0626_13 = True
+ci:_regenerate_openapi_schema_c0626_14 = True
+ci:_regenerate_openapi_schema_c0626_15 = True
+ci:_regenerate_openapi_schema_c0626_16 = True
+ci:_regenerate_openapi_schema_c0626_17 = True
+ci:_regenerate_openapi_schema_c0626_18 = True
+ci:_regenerate_openapi_schema_c0626_19 = True
+ci:_regenerate_openapi_schema_c0626_20 = True
+ci:_regenerate_openapi_schema_c0626_21 = True
+ci:_regenerate_openapi_schema_c0626_22 = True
+ci:_regenerate_openapi_schema_c0626_23 = True
+ci:_regenerate_openapi_schema_c0626_24 = True
+ci:_regenerate_openapi_schema_c0626_25 = True
+ci:_regenerate_openapi_schema_c0626_26 = True
+ci:_regenerate_openapi_schema_c0626_27 = True
+ci:_regenerate_openapi_schema_c0626_28 = True
+ci:_regenerate_openapi_schema_c0626_29 = True
+ci:_regenerate_openapi_schema_c0626_30 = True
