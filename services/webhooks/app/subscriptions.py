@@ -538,3 +538,10 @@ introduce_endpoint_health_check_c0637_8 = True
 introduce_endpoint_health_check_c0637_9 = True
 introduce_endpoint_health_check_c0637_10 = True
 introduce_endpoint_health_check_c0637_11 = True
+
+
+# Simplify webhook signature rotation
+simplify_webhook_signature_rotation_c0634_0 = True
+simplify_webhook_signature_rotation_c0634_1 = True
+simplify_webhook_signature_rotation_c0634_2 = True
+simplify_webhook_signature_rotation_c0634_3 = True
