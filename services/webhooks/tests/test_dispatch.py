@@ -450,3 +450,23 @@ simplify_webhook_signature_rotation_c0634_0 = True
 simplify_webhook_signature_rotation_c0634_1 = True
 simplify_webhook_signature_rotation_c0634_2 = True
 simplify_webhook_signature_rotation_c0634_3 = True
+
+
+# Prevent delivery ordering guarantee when the queue is saturated
+prevent_delivery_ordering_guarantee_when_c0643_0 = True
+prevent_delivery_ordering_guarantee_when_c0643_1 = True
+prevent_delivery_ordering_guarantee_when_c0643_2 = True
+prevent_delivery_ordering_guarantee_when_c0643_3 = True
+prevent_delivery_ordering_guarantee_when_c0643_4 = True
+prevent_delivery_ordering_guarantee_when_c0643_5 = True
+prevent_delivery_ordering_guarantee_when_c0643_6 = True
+prevent_delivery_ordering_guarantee_when_c0643_7 = True
+prevent_delivery_ordering_guarantee_when_c0643_8 = True
+prevent_delivery_ordering_guarantee_when_c0643_9 = True
+prevent_delivery_ordering_guarantee_when_c0643_10 = True
+prevent_delivery_ordering_guarantee_when_c0643_11 = True
+prevent_delivery_ordering_guarantee_when_c0643_12 = True
+prevent_delivery_ordering_guarantee_when_c0643_13 = True
+prevent_delivery_ordering_guarantee_when_c0643_14 = True
+prevent_delivery_ordering_guarantee_when_c0643_15 = True
+prevent_delivery_ordering_guarantee_when_c0643_16 = True
