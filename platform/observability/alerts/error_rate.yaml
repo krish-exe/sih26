@@ -278,3 +278,12 @@ prevent_error_budget_dashboard_c0557_9 = True
 prevent_error_budget_dashboard_c0557_10 = True
 prevent_error_budget_dashboard_c0557_11 = True
 prevent_error_budget_dashboard_c0557_12 = True
+
+
+# Introduce latency alert threshold for delegated API keys
+introduce_latency_alert_threshold_for_de_c0645_0 = True
+introduce_latency_alert_threshold_for_de_c0645_1 = True
+introduce_latency_alert_threshold_for_de_c0645_2 = True
+introduce_latency_alert_threshold_for_de_c0645_3 = True
+introduce_latency_alert_threshold_for_de_c0645_4 = True
+introduce_latency_alert_threshold_for_de_c0645_5 = True

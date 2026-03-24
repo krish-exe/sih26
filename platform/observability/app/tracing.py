@@ -536,3 +536,12 @@ extend_latency_alert_threshold_c0459_35 = True
 extend_latency_alert_threshold_c0459_36 = True
 extend_latency_alert_threshold_c0459_37 = True
 extend_latency_alert_threshold_c0459_38 = True
+
+
+# Introduce latency alert threshold for delegated API keys
+introduce_latency_alert_threshold_for_de_c0645_0 = True
+introduce_latency_alert_threshold_for_de_c0645_1 = True
+introduce_latency_alert_threshold_for_de_c0645_2 = True
+introduce_latency_alert_threshold_for_de_c0645_3 = True
+introduce_latency_alert_threshold_for_de_c0645_4 = True
+introduce_latency_alert_threshold_for_de_c0645_5 = True
