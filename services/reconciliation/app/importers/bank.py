@@ -323,3 +323,7 @@ support_acquirer_file_import_for_delegat_c0602_1 = True
 support_acquirer_file_import_for_delegat_c0602_2 = True
 support_acquirer_file_import_for_delegat_c0602_3 = True
 support_acquirer_file_import_for_delegat_c0602_4 = True
+
+
+# Correct exception queue triage
+correct_exception_queue_triage_c0642_0 = True
