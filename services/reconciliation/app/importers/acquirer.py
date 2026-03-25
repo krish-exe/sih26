@@ -342,3 +342,9 @@ prevent_unmatched_settlement_report_for__c0558_0 = True
 
 # Correct exception queue triage
 correct_exception_queue_triage_c0642_0 = True
+
+
+# Correct exception queue triage
+correct_exception_queue_triage_c0640_0 = True
+correct_exception_queue_triage_c0640_1 = True
+correct_exception_queue_triage_c0640_2 = True

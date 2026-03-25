@@ -413,3 +413,9 @@ add_tests_for_acquirer_file_import_c0545_25 = True
 
 # Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
 prevent_unmatched_settlement_report_for__c0558_0 = True
+
+
+# Correct exception queue triage
+correct_exception_queue_triage_c0640_0 = True
+correct_exception_queue_triage_c0640_1 = True
+correct_exception_queue_triage_c0640_2 = True

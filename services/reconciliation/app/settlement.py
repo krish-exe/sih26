@@ -458,3 +458,9 @@ implement_partial_settlement_handling_be_c0531_18 = True
 
 # Prevent unmatched settlement report for zero-amount requests for multi-currency merchants
 prevent_unmatched_settlement_report_for__c0558_0 = True
+
+
+# Correct exception queue triage
+correct_exception_queue_triage_c0640_0 = True
+correct_exception_queue_triage_c0640_1 = True
+correct_exception_queue_triage_c0640_2 = True
