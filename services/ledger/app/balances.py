@@ -716,3 +716,10 @@ correct_currency_conversion_at_posting_t_c0628_2 = True
 
 # Add opening balance snapshot
 add_opening_balance_snapshot_c0639_0 = True
+
+
+# Handle adjustment approval trail in the batch importer
+handle_adjustment_approval_trail_in_the__c0647_0 = True
+handle_adjustment_approval_trail_in_the__c0647_1 = True
+handle_adjustment_approval_trail_in_the__c0647_2 = True
+handle_adjustment_approval_trail_in_the__c0647_3 = True

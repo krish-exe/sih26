@@ -379,3 +379,10 @@ support_adjustment_approval_trail_c0631_27 = True
 support_adjustment_approval_trail_c0631_28 = True
 support_adjustment_approval_trail_c0631_29 = True
 support_adjustment_approval_trail_c0631_30 = True
+
+
+# Handle adjustment approval trail in the batch importer
+handle_adjustment_approval_trail_in_the__c0647_0 = True
+handle_adjustment_approval_trail_in_the__c0647_1 = True
+handle_adjustment_approval_trail_in_the__c0647_2 = True
+handle_adjustment_approval_trail_in_the__c0647_3 = True
