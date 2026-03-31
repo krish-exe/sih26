@@ -336,3 +336,30 @@ support_api_key_rotation_c0611_23 = True
 support_api_key_rotation_c0611_24 = True
 support_api_key_rotation_c0611_25 = True
 support_api_key_rotation_c0611_26 = True
+
+
+# Add API key rotation during replay
+add_api_key_rotation_during_replay_c0649_0 = True
+add_api_key_rotation_during_replay_c0649_1 = True
+add_api_key_rotation_during_replay_c0649_2 = True
+add_api_key_rotation_during_replay_c0649_3 = True
+add_api_key_rotation_during_replay_c0649_4 = True
+add_api_key_rotation_during_replay_c0649_5 = True
+add_api_key_rotation_during_replay_c0649_6 = True
+add_api_key_rotation_during_replay_c0649_7 = True
+add_api_key_rotation_during_replay_c0649_8 = True
+add_api_key_rotation_during_replay_c0649_9 = True
+add_api_key_rotation_during_replay_c0649_10 = True
+add_api_key_rotation_during_replay_c0649_11 = True
+add_api_key_rotation_during_replay_c0649_12 = True
+add_api_key_rotation_during_replay_c0649_13 = True
+add_api_key_rotation_during_replay_c0649_14 = True
+add_api_key_rotation_during_replay_c0649_15 = True
+add_api_key_rotation_during_replay_c0649_16 = True
+add_api_key_rotation_during_replay_c0649_17 = True
+add_api_key_rotation_during_replay_c0649_18 = True
+add_api_key_rotation_during_replay_c0649_19 = True
+add_api_key_rotation_during_replay_c0649_20 = True
+add_api_key_rotation_during_replay_c0649_21 = True
+add_api_key_rotation_during_replay_c0649_22 = True
+add_api_key_rotation_during_replay_c0649_23 = True
