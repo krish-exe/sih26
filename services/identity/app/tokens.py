@@ -505,3 +505,17 @@ rename_session_expiry_c0580_4 = True
 rename_scope_enforcement_in_the_worker_p_c0614_0 = True
 rename_scope_enforcement_in_the_worker_p_c0614_1 = True
 rename_scope_enforcement_in_the_worker_p_c0614_2 = True
+
+
+# Support merchant impersonation guard
+support_merchant_impersonation_guard_c0648_0 = True
+support_merchant_impersonation_guard_c0648_1 = True
+support_merchant_impersonation_guard_c0648_2 = True
+support_merchant_impersonation_guard_c0648_3 = True
+support_merchant_impersonation_guard_c0648_4 = True
+support_merchant_impersonation_guard_c0648_5 = True
+support_merchant_impersonation_guard_c0648_6 = True
+support_merchant_impersonation_guard_c0648_7 = True
+support_merchant_impersonation_guard_c0648_8 = True
+support_merchant_impersonation_guard_c0648_9 = True
+support_merchant_impersonation_guard_c0648_10 = True

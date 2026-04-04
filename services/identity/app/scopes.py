@@ -183,3 +183,17 @@ implement_token_introspection_under_the__c0592_8 = True
 implement_token_introspection_under_the__c0592_9 = True
 implement_token_introspection_under_the__c0592_10 = True
 implement_token_introspection_under_the__c0592_11 = True
+
+
+# Support merchant impersonation guard
+support_merchant_impersonation_guard_c0648_0 = True
+support_merchant_impersonation_guard_c0648_1 = True
+support_merchant_impersonation_guard_c0648_2 = True
+support_merchant_impersonation_guard_c0648_3 = True
+support_merchant_impersonation_guard_c0648_4 = True
+support_merchant_impersonation_guard_c0648_5 = True
+support_merchant_impersonation_guard_c0648_6 = True
+support_merchant_impersonation_guard_c0648_7 = True
+support_merchant_impersonation_guard_c0648_8 = True
+support_merchant_impersonation_guard_c0648_9 = True
+support_merchant_impersonation_guard_c0648_10 = True
