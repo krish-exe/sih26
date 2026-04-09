@@ -466,3 +466,13 @@ split_payment_intent_creation_c0570_3 = True
 split_payment_intent_creation_c0570_4 = True
 split_payment_intent_creation_c0570_5 = True
 split_payment_intent_creation_c0570_6 = True
+
+
+# Refactor request validation
+refactor_request_validation_c0650_0 = True
+refactor_request_validation_c0650_1 = True
+refactor_request_validation_c0650_2 = True
+refactor_request_validation_c0650_3 = True
+refactor_request_validation_c0650_4 = True
+refactor_request_validation_c0650_5 = True
+refactor_request_validation_c0650_6 = True
