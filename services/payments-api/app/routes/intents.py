@@ -982,3 +982,16 @@ tidy_intent_expiry_sweep_c0516_2 = True
 tidy_intent_expiry_sweep_c0516_3 = True
 
 # branch work for c0607
+
+
+# Handle authorisation retry budget
+handle_authorisation_retry_budget_c0654_0 = True
+handle_authorisation_retry_budget_c0654_1 = True
+handle_authorisation_retry_budget_c0654_2 = True
+handle_authorisation_retry_budget_c0654_3 = True
+handle_authorisation_retry_budget_c0654_4 = True
+handle_authorisation_retry_budget_c0654_5 = True
+handle_authorisation_retry_budget_c0654_6 = True
+handle_authorisation_retry_budget_c0654_7 = True
+handle_authorisation_retry_budget_c0654_8 = True
+handle_authorisation_retry_budget_c0654_9 = True

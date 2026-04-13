@@ -459,3 +459,16 @@ implement_idempotency_key_reuse_c0600_19 = True
 prevent_authorisation_retry_budget_c0618_0 = True
 prevent_authorisation_retry_budget_c0618_1 = True
 prevent_authorisation_retry_budget_c0618_2 = True
+
+
+# Handle authorisation retry budget
+handle_authorisation_retry_budget_c0654_0 = True
+handle_authorisation_retry_budget_c0654_1 = True
+handle_authorisation_retry_budget_c0654_2 = True
+handle_authorisation_retry_budget_c0654_3 = True
+handle_authorisation_retry_budget_c0654_4 = True
+handle_authorisation_retry_budget_c0654_5 = True
+handle_authorisation_retry_budget_c0654_6 = True
+handle_authorisation_retry_budget_c0654_7 = True
+handle_authorisation_retry_budget_c0654_8 = True
+handle_authorisation_retry_budget_c0654_9 = True

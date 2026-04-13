@@ -476,3 +476,16 @@ refactor_request_validation_c0650_3 = True
 refactor_request_validation_c0650_4 = True
 refactor_request_validation_c0650_5 = True
 refactor_request_validation_c0650_6 = True
+
+
+# Handle authorisation retry budget
+handle_authorisation_retry_budget_c0654_0 = True
+handle_authorisation_retry_budget_c0654_1 = True
+handle_authorisation_retry_budget_c0654_2 = True
+handle_authorisation_retry_budget_c0654_3 = True
+handle_authorisation_retry_budget_c0654_4 = True
+handle_authorisation_retry_budget_c0654_5 = True
+handle_authorisation_retry_budget_c0654_6 = True
+handle_authorisation_retry_budget_c0654_7 = True
+handle_authorisation_retry_budget_c0654_8 = True
+handle_authorisation_retry_budget_c0654_9 = True
