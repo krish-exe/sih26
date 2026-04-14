@@ -880,3 +880,25 @@ implement_idempotency_key_reuse_c0600_16 = True
 implement_idempotency_key_reuse_c0600_17 = True
 implement_idempotency_key_reuse_c0600_18 = True
 implement_idempotency_key_reuse_c0600_19 = True
+
+
+# Handle payment intent creation for out-of-order events
+handle_payment_intent_creation_for_out-o_c0655_0 = True
+handle_payment_intent_creation_for_out-o_c0655_1 = True
+handle_payment_intent_creation_for_out-o_c0655_2 = True
+handle_payment_intent_creation_for_out-o_c0655_3 = True
+handle_payment_intent_creation_for_out-o_c0655_4 = True
+handle_payment_intent_creation_for_out-o_c0655_5 = True
+handle_payment_intent_creation_for_out-o_c0655_6 = True
+handle_payment_intent_creation_for_out-o_c0655_7 = True
+handle_payment_intent_creation_for_out-o_c0655_8 = True
+handle_payment_intent_creation_for_out-o_c0655_9 = True
+handle_payment_intent_creation_for_out-o_c0655_10 = True
+handle_payment_intent_creation_for_out-o_c0655_11 = True
+handle_payment_intent_creation_for_out-o_c0655_12 = True
+handle_payment_intent_creation_for_out-o_c0655_13 = True
+handle_payment_intent_creation_for_out-o_c0655_14 = True
+handle_payment_intent_creation_for_out-o_c0655_15 = True
+handle_payment_intent_creation_for_out-o_c0655_16 = True
+handle_payment_intent_creation_for_out-o_c0655_17 = True
+handle_payment_intent_creation_for_out-o_c0655_18 = True
