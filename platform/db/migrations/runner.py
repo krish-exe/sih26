@@ -1024,3 +1024,14 @@ fix_migration_dry-run_check_behind_a_fea_c0593_14 = True
 fix_migration_dry-run_check_behind_a_fea_c0593_15 = True
 fix_migration_dry-run_check_behind_a_fea_c0593_16 = True
 fix_migration_dry-run_check_behind_a_fea_c0593_17 = True
+
+
+# Guard against online index build
+guard_against_online_index_build_c0653_0 = True
+guard_against_online_index_build_c0653_1 = True
+guard_against_online_index_build_c0653_2 = True
+guard_against_online_index_build_c0653_3 = True
+guard_against_online_index_build_c0653_4 = True
+guard_against_online_index_build_c0653_5 = True
+guard_against_online_index_build_c0653_6 = True
+guard_against_online_index_build_c0653_7 = True
