@@ -1017,3 +1017,14 @@ handle_payment_intent_creation_for_out-o_c0655_15 = True
 handle_payment_intent_creation_for_out-o_c0655_16 = True
 handle_payment_intent_creation_for_out-o_c0655_17 = True
 handle_payment_intent_creation_for_out-o_c0655_18 = True
+
+
+# Extend authorisation retry budget on the read replica
+extend_authorisation_retry_budget_on_the_c0656_0 = True
+extend_authorisation_retry_budget_on_the_c0656_1 = True
+extend_authorisation_retry_budget_on_the_c0656_2 = True
+extend_authorisation_retry_budget_on_the_c0656_3 = True
+extend_authorisation_retry_budget_on_the_c0656_4 = True
+extend_authorisation_retry_budget_on_the_c0656_5 = True
+extend_authorisation_retry_budget_on_the_c0656_6 = True
+extend_authorisation_retry_budget_on_the_c0656_7 = True

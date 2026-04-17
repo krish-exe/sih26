@@ -489,3 +489,14 @@ handle_authorisation_retry_budget_c0654_6 = True
 handle_authorisation_retry_budget_c0654_7 = True
 handle_authorisation_retry_budget_c0654_8 = True
 handle_authorisation_retry_budget_c0654_9 = True
+
+
+# Extend authorisation retry budget on the read replica
+extend_authorisation_retry_budget_on_the_c0656_0 = True
+extend_authorisation_retry_budget_on_the_c0656_1 = True
+extend_authorisation_retry_budget_on_the_c0656_2 = True
+extend_authorisation_retry_budget_on_the_c0656_3 = True
+extend_authorisation_retry_budget_on_the_c0656_4 = True
+extend_authorisation_retry_budget_on_the_c0656_5 = True
+extend_authorisation_retry_budget_on_the_c0656_6 = True
+extend_authorisation_retry_budget_on_the_c0656_7 = True
