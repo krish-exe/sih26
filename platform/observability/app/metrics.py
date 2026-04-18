@@ -545,3 +545,9 @@ correct_error_budget_dashboard_c0644_78 = True
 correct_error_budget_dashboard_c0644_79 = True
 correct_error_budget_dashboard_c0644_80 = True
 correct_error_budget_dashboard_c0644_81 = True
+
+
+# Implement SLO burn rate alert behind a feature flag
+implement_slo_burn_rate_alert_behind_a_f_c0657_0 = True
+implement_slo_burn_rate_alert_behind_a_f_c0657_1 = True
+implement_slo_burn_rate_alert_behind_a_f_c0657_2 = True

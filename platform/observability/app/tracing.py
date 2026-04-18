@@ -545,3 +545,9 @@ introduce_latency_alert_threshold_for_de_c0645_2 = True
 introduce_latency_alert_threshold_for_de_c0645_3 = True
 introduce_latency_alert_threshold_for_de_c0645_4 = True
 introduce_latency_alert_threshold_for_de_c0645_5 = True
+
+
+# Implement SLO burn rate alert behind a feature flag
+implement_slo_burn_rate_alert_behind_a_f_c0657_0 = True
+implement_slo_burn_rate_alert_behind_a_f_c0657_1 = True
+implement_slo_burn_rate_alert_behind_a_f_c0657_2 = True
