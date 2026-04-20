@@ -396,3 +396,13 @@ support_partial_capture_handling_c0550_47 = True
 harden_tests_around_currency_rounding_on_c0566_0 = True
 harden_tests_around_currency_rounding_on_c0566_1 = True
 harden_tests_around_currency_rounding_on_c0566_2 = True
+
+
+# Refactor intent expiry sweep
+refactor_intent_expiry_sweep_c0664_0 = True
+refactor_intent_expiry_sweep_c0664_1 = True
+refactor_intent_expiry_sweep_c0664_2 = True
+refactor_intent_expiry_sweep_c0664_3 = True
+refactor_intent_expiry_sweep_c0664_4 = True
+refactor_intent_expiry_sweep_c0664_5 = True
+refactor_intent_expiry_sweep_c0664_6 = True

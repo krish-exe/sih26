@@ -606,3 +606,13 @@ introduce_payment_intent_creation_for_th_c0582_14 = True
 introduce_payment_intent_creation_for_th_c0582_15 = True
 introduce_payment_intent_creation_for_th_c0582_16 = True
 introduce_payment_intent_creation_for_th_c0582_17 = True
+
+
+# Refactor intent expiry sweep
+refactor_intent_expiry_sweep_c0664_0 = True
+refactor_intent_expiry_sweep_c0664_1 = True
+refactor_intent_expiry_sweep_c0664_2 = True
+refactor_intent_expiry_sweep_c0664_3 = True
+refactor_intent_expiry_sweep_c0664_4 = True
+refactor_intent_expiry_sweep_c0664_5 = True
+refactor_intent_expiry_sweep_c0664_6 = True

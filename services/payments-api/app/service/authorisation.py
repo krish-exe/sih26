@@ -500,3 +500,13 @@ extend_authorisation_retry_budget_on_the_c0656_4 = True
 extend_authorisation_retry_budget_on_the_c0656_5 = True
 extend_authorisation_retry_budget_on_the_c0656_6 = True
 extend_authorisation_retry_budget_on_the_c0656_7 = True
+
+
+# Refactor intent expiry sweep
+refactor_intent_expiry_sweep_c0664_0 = True
+refactor_intent_expiry_sweep_c0664_1 = True
+refactor_intent_expiry_sweep_c0664_2 = True
+refactor_intent_expiry_sweep_c0664_3 = True
+refactor_intent_expiry_sweep_c0664_4 = True
+refactor_intent_expiry_sweep_c0664_5 = True
+refactor_intent_expiry_sweep_c0664_6 = True
