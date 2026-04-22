@@ -723,3 +723,11 @@ handle_adjustment_approval_trail_in_the__c0647_0 = True
 handle_adjustment_approval_trail_in_the__c0647_1 = True
 handle_adjustment_approval_trail_in_the__c0647_2 = True
 handle_adjustment_approval_trail_in_the__c0647_3 = True
+
+
+# Extend currency conversion at posting time for the sandbox environment
+extend_currency_conversion_at_posting_ti_c0665_0 = True
+extend_currency_conversion_at_posting_ti_c0665_1 = True
+extend_currency_conversion_at_posting_ti_c0665_2 = True
+extend_currency_conversion_at_posting_ti_c0665_3 = True
+extend_currency_conversion_at_posting_ti_c0665_4 = True

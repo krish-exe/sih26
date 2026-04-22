@@ -530,3 +530,11 @@ harden_tests_around_currency_conversion__c0641_45 = True
 harden_tests_around_currency_conversion__c0641_46 = True
 harden_tests_around_currency_conversion__c0641_47 = True
 harden_tests_around_currency_conversion__c0641_48 = True
+
+
+# Extend currency conversion at posting time for the sandbox environment
+extend_currency_conversion_at_posting_ti_c0665_0 = True
+extend_currency_conversion_at_posting_ti_c0665_1 = True
+extend_currency_conversion_at_posting_ti_c0665_2 = True
+extend_currency_conversion_at_posting_ti_c0665_3 = True
+extend_currency_conversion_at_posting_ti_c0665_4 = True
