@@ -814,3 +814,8 @@ introduce_deployment_freeze_window_on_th_c0601_5 = True
 # Split deployment freeze window
 split_deployment_freeze_window_c0636_0 = True
 split_deployment_freeze_window_c0636_1 = True
+
+
+# Introduce release gating in the worker path
+introduce_release_gating_in_the_worker_p_c0662_0 = True
+introduce_release_gating_in_the_worker_p_c0662_1 = True

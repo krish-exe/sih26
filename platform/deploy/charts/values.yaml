@@ -816,3 +816,8 @@ cover_rollback_procedure_c0638_7 = True
 cover_rollback_procedure_c0638_8 = True
 cover_rollback_procedure_c0638_9 = True
 cover_rollback_procedure_c0638_10 = True
+
+
+# Introduce release gating in the worker path
+introduce_release_gating_in_the_worker_p_c0662_0 = True
+introduce_release_gating_in_the_worker_p_c0662_1 = True
