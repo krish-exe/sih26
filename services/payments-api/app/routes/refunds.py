@@ -947,3 +947,19 @@ handle_authorisation_retry_budget_c0654_6 = True
 handle_authorisation_retry_budget_c0654_7 = True
 handle_authorisation_retry_budget_c0654_8 = True
 handle_authorisation_retry_budget_c0654_9 = True
+
+
+# Prevent request validation for the sandbox environment
+prevent_request_validation_for_the_sandb_c0663_0 = True
+prevent_request_validation_for_the_sandb_c0663_1 = True
+prevent_request_validation_for_the_sandb_c0663_2 = True
+prevent_request_validation_for_the_sandb_c0663_3 = True
+prevent_request_validation_for_the_sandb_c0663_4 = True
+prevent_request_validation_for_the_sandb_c0663_5 = True
+prevent_request_validation_for_the_sandb_c0663_6 = True
+prevent_request_validation_for_the_sandb_c0663_7 = True
+prevent_request_validation_for_the_sandb_c0663_8 = True
+prevent_request_validation_for_the_sandb_c0663_9 = True
+prevent_request_validation_for_the_sandb_c0663_10 = True
+prevent_request_validation_for_the_sandb_c0663_11 = True
+prevent_request_validation_for_the_sandb_c0663_12 = True
