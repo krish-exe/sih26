@@ -661,3 +661,7 @@ fix_session_expiry_after_a_partial_failu_c0598_6 = True
 fix_session_expiry_after_a_partial_failu_c0598_7 = True
 fix_session_expiry_after_a_partial_failu_c0598_8 = True
 fix_session_expiry_after_a_partial_failu_c0598_9 = True
+
+
+# Tidy merchant impersonation guard
+tidy_merchant_impersonation_guard_c0659_0 = True
