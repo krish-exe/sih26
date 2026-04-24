@@ -472,3 +472,18 @@ handle_authorisation_retry_budget_c0654_6 = True
 handle_authorisation_retry_budget_c0654_7 = True
 handle_authorisation_retry_budget_c0654_8 = True
 handle_authorisation_retry_budget_c0654_9 = True
+
+
+# Support error envelope behind a feature flag
+support_error_envelope_behind_a_feature__c0661_0 = True
+support_error_envelope_behind_a_feature__c0661_1 = True
+support_error_envelope_behind_a_feature__c0661_2 = True
+support_error_envelope_behind_a_feature__c0661_3 = True
+support_error_envelope_behind_a_feature__c0661_4 = True
+support_error_envelope_behind_a_feature__c0661_5 = True
+support_error_envelope_behind_a_feature__c0661_6 = True
+support_error_envelope_behind_a_feature__c0661_7 = True
+support_error_envelope_behind_a_feature__c0661_8 = True
+support_error_envelope_behind_a_feature__c0661_9 = True
+support_error_envelope_behind_a_feature__c0661_10 = True
+support_error_envelope_behind_a_feature__c0661_11 = True
