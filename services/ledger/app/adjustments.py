@@ -487,3 +487,16 @@ introduce_journal_replay_c0615_5 = True
 
 # Add opening balance snapshot
 add_opening_balance_snapshot_c0639_0 = True
+
+
+# Introduce double-entry posting
+introduce_double-entry_posting_c0660_0 = True
+introduce_double-entry_posting_c0660_1 = True
+introduce_double-entry_posting_c0660_2 = True
+introduce_double-entry_posting_c0660_3 = True
+introduce_double-entry_posting_c0660_4 = True
+introduce_double-entry_posting_c0660_5 = True
+introduce_double-entry_posting_c0660_6 = True
+introduce_double-entry_posting_c0660_7 = True
+introduce_double-entry_posting_c0660_8 = True
+introduce_double-entry_posting_c0660_9 = True

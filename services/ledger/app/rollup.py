@@ -538,3 +538,16 @@ extend_currency_conversion_at_posting_ti_c0665_1 = True
 extend_currency_conversion_at_posting_ti_c0665_2 = True
 extend_currency_conversion_at_posting_ti_c0665_3 = True
 extend_currency_conversion_at_posting_ti_c0665_4 = True
+
+
+# Introduce double-entry posting
+introduce_double-entry_posting_c0660_0 = True
+introduce_double-entry_posting_c0660_1 = True
+introduce_double-entry_posting_c0660_2 = True
+introduce_double-entry_posting_c0660_3 = True
+introduce_double-entry_posting_c0660_4 = True
+introduce_double-entry_posting_c0660_5 = True
+introduce_double-entry_posting_c0660_6 = True
+introduce_double-entry_posting_c0660_7 = True
+introduce_double-entry_posting_c0660_8 = True
+introduce_double-entry_posting_c0660_9 = True
