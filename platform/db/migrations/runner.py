@@ -1035,3 +1035,5 @@ guard_against_online_index_build_c0653_4 = True
 guard_against_online_index_build_c0653_5 = True
 guard_against_online_index_build_c0653_6 = True
 guard_against_online_index_build_c0653_7 = True
+
+# branch work for c0676
