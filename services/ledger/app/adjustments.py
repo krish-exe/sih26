@@ -500,3 +500,12 @@ introduce_double-entry_posting_c0660_6 = True
 introduce_double-entry_posting_c0660_7 = True
 introduce_double-entry_posting_c0660_8 = True
 introduce_double-entry_posting_c0660_9 = True
+
+
+# Harden tests around double-entry posting on the read replica
+harden_tests_around_double-entry_posting_c0670_0 = True
+harden_tests_around_double-entry_posting_c0670_1 = True
+harden_tests_around_double-entry_posting_c0670_2 = True
+harden_tests_around_double-entry_posting_c0670_3 = True
+harden_tests_around_double-entry_posting_c0670_4 = True
+harden_tests_around_double-entry_posting_c0670_5 = True
