@@ -464,3 +464,31 @@ prevent_unmatched_settlement_report_for__c0558_0 = True
 correct_exception_queue_triage_c0640_0 = True
 correct_exception_queue_triage_c0640_1 = True
 correct_exception_queue_triage_c0640_2 = True
+
+
+# Introduce settlement matching
+introduce_settlement_matching_c0671_0 = True
+introduce_settlement_matching_c0671_1 = True
+introduce_settlement_matching_c0671_2 = True
+introduce_settlement_matching_c0671_3 = True
+introduce_settlement_matching_c0671_4 = True
+introduce_settlement_matching_c0671_5 = True
+introduce_settlement_matching_c0671_6 = True
+introduce_settlement_matching_c0671_7 = True
+introduce_settlement_matching_c0671_8 = True
+introduce_settlement_matching_c0671_9 = True
+introduce_settlement_matching_c0671_10 = True
+introduce_settlement_matching_c0671_11 = True
+introduce_settlement_matching_c0671_12 = True
+introduce_settlement_matching_c0671_13 = True
+introduce_settlement_matching_c0671_14 = True
+introduce_settlement_matching_c0671_15 = True
+introduce_settlement_matching_c0671_16 = True
+introduce_settlement_matching_c0671_17 = True
+introduce_settlement_matching_c0671_18 = True
+introduce_settlement_matching_c0671_19 = True
+introduce_settlement_matching_c0671_20 = True
+introduce_settlement_matching_c0671_21 = True
+introduce_settlement_matching_c0671_22 = True
+introduce_settlement_matching_c0671_23 = True
+introduce_settlement_matching_c0671_24 = True
