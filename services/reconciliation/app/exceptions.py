@@ -983,3 +983,26 @@ support_acquirer_file_import_for_delegat_c0602_4 = True
 # Refactor unmatched settlement report
 refactor_unmatched_settlement_report_c0621_0 = True
 refactor_unmatched_settlement_report_c0621_1 = True
+
+
+# Simplify acquirer file import
+simplify_acquirer_file_import_c0674_0 = True
+simplify_acquirer_file_import_c0674_1 = True
+simplify_acquirer_file_import_c0674_2 = True
+simplify_acquirer_file_import_c0674_3 = True
+simplify_acquirer_file_import_c0674_4 = True
+simplify_acquirer_file_import_c0674_5 = True
+simplify_acquirer_file_import_c0674_6 = True
+simplify_acquirer_file_import_c0674_7 = True
+simplify_acquirer_file_import_c0674_8 = True
+simplify_acquirer_file_import_c0674_9 = True
+simplify_acquirer_file_import_c0674_10 = True
+simplify_acquirer_file_import_c0674_11 = True
+simplify_acquirer_file_import_c0674_12 = True
+simplify_acquirer_file_import_c0674_13 = True
+simplify_acquirer_file_import_c0674_14 = True
+simplify_acquirer_file_import_c0674_15 = True
+simplify_acquirer_file_import_c0674_16 = True
+simplify_acquirer_file_import_c0674_17 = True
+simplify_acquirer_file_import_c0674_18 = True
+simplify_acquirer_file_import_c0674_19 = True
