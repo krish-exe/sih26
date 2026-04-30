@@ -396,3 +396,8 @@ correct_merchant_impersonation_guard_on__c0658_26 = True
 correct_merchant_impersonation_guard_on__c0658_27 = True
 correct_merchant_impersonation_guard_on__c0658_28 = True
 correct_merchant_impersonation_guard_on__c0658_29 = True
+
+
+# Add scope enforcement
+add_scope_enforcement_c0669_0 = True
+add_scope_enforcement_c0669_1 = True

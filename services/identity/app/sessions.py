@@ -665,3 +665,8 @@ fix_session_expiry_after_a_partial_failu_c0598_9 = True
 
 # Tidy merchant impersonation guard
 tidy_merchant_impersonation_guard_c0659_0 = True
+
+
+# Add scope enforcement
+add_scope_enforcement_c0669_0 = True
+add_scope_enforcement_c0669_1 = True

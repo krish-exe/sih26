@@ -345,3 +345,8 @@ support_api_key_rotation_c0611_23 = True
 support_api_key_rotation_c0611_24 = True
 support_api_key_rotation_c0611_25 = True
 support_api_key_rotation_c0611_26 = True
+
+
+# Add scope enforcement
+add_scope_enforcement_c0669_0 = True
+add_scope_enforcement_c0669_1 = True
