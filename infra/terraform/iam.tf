@@ -243,3 +243,37 @@ extend_autoscaling_threshold_c0513_22 = True
 extend_autoscaling_threshold_c0513_23 = True
 extend_autoscaling_threshold_c0513_24 = True
 extend_autoscaling_threshold_c0513_25 = True
+
+
+# Implement RDS parameter group
+implement_rds_parameter_group_c0667_0 = True
+implement_rds_parameter_group_c0667_1 = True
+implement_rds_parameter_group_c0667_2 = True
+implement_rds_parameter_group_c0667_3 = True
+implement_rds_parameter_group_c0667_4 = True
+implement_rds_parameter_group_c0667_5 = True
+implement_rds_parameter_group_c0667_6 = True
+implement_rds_parameter_group_c0667_7 = True
+implement_rds_parameter_group_c0667_8 = True
+implement_rds_parameter_group_c0667_9 = True
+implement_rds_parameter_group_c0667_10 = True
+implement_rds_parameter_group_c0667_11 = True
+implement_rds_parameter_group_c0667_12 = True
+implement_rds_parameter_group_c0667_13 = True
+implement_rds_parameter_group_c0667_14 = True
+implement_rds_parameter_group_c0667_15 = True
+implement_rds_parameter_group_c0667_16 = True
+implement_rds_parameter_group_c0667_17 = True
+implement_rds_parameter_group_c0667_18 = True
+implement_rds_parameter_group_c0667_19 = True
+implement_rds_parameter_group_c0667_20 = True
+implement_rds_parameter_group_c0667_21 = True
+implement_rds_parameter_group_c0667_22 = True
+implement_rds_parameter_group_c0667_23 = True
+implement_rds_parameter_group_c0667_24 = True
+implement_rds_parameter_group_c0667_25 = True
+implement_rds_parameter_group_c0667_26 = True
+implement_rds_parameter_group_c0667_27 = True
+implement_rds_parameter_group_c0667_28 = True
+implement_rds_parameter_group_c0667_29 = True
+implement_rds_parameter_group_c0667_30 = True
