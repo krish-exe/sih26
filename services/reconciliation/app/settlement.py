@@ -492,3 +492,13 @@ introduce_settlement_matching_c0671_21 = True
 introduce_settlement_matching_c0671_22 = True
 introduce_settlement_matching_c0671_23 = True
 introduce_settlement_matching_c0671_24 = True
+
+
+# Guard against bank statement parsing during replay
+guard_against_bank_statement_parsing_dur_c0672_0 = True
+guard_against_bank_statement_parsing_dur_c0672_1 = True
+guard_against_bank_statement_parsing_dur_c0672_2 = True
+guard_against_bank_statement_parsing_dur_c0672_3 = True
+guard_against_bank_statement_parsing_dur_c0672_4 = True
+guard_against_bank_statement_parsing_dur_c0672_5 = True
+guard_against_bank_statement_parsing_dur_c0672_6 = True
