@@ -455,3 +455,5 @@ handle_iam_role_scope_on_the_replica_und_c0489_1 = True
 handle_iam_role_scope_on_the_replica_und_c0489_2 = True
 
 # branch work for c0493
+
+# branch work for c0673
