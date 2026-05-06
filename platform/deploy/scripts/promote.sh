@@ -819,3 +819,20 @@ split_deployment_freeze_window_c0636_1 = True
 # Introduce release gating in the worker path
 introduce_release_gating_in_the_worker_p_c0662_0 = True
 introduce_release_gating_in_the_worker_p_c0662_1 = True
+
+
+# Support release gating
+support_release_gating_c0680_0 = True
+support_release_gating_c0680_1 = True
+support_release_gating_c0680_2 = True
+support_release_gating_c0680_3 = True
+support_release_gating_c0680_4 = True
+support_release_gating_c0680_5 = True
+support_release_gating_c0680_6 = True
+support_release_gating_c0680_7 = True
+support_release_gating_c0680_8 = True
+support_release_gating_c0680_9 = True
+support_release_gating_c0680_10 = True
+support_release_gating_c0680_11 = True
+support_release_gating_c0680_12 = True
+support_release_gating_c0680_13 = True
