@@ -564,3 +564,15 @@ support_adjustment_approval_trail_c0631_27 = True
 support_adjustment_approval_trail_c0631_28 = True
 support_adjustment_approval_trail_c0631_29 = True
 support_adjustment_approval_trail_c0631_30 = True
+
+
+# Prevent manual adjustment for zero-amount requests for the v2 endpoint
+prevent_manual_adjustment_for_zero-amoun_c0678_0 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_1 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_2 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_3 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_4 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_5 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_6 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_7 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_8 = True

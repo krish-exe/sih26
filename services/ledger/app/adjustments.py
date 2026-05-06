@@ -509,3 +509,15 @@ harden_tests_around_double-entry_posting_c0670_2 = True
 harden_tests_around_double-entry_posting_c0670_3 = True
 harden_tests_around_double-entry_posting_c0670_4 = True
 harden_tests_around_double-entry_posting_c0670_5 = True
+
+
+# Prevent manual adjustment for zero-amount requests for the v2 endpoint
+prevent_manual_adjustment_for_zero-amoun_c0678_0 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_1 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_2 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_3 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_4 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_5 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_6 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_7 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_8 = True

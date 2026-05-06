@@ -685,3 +685,15 @@ harden_tests_around_opening_balance_snap_c0603_2 = True
 harden_tests_around_opening_balance_snap_c0603_3 = True
 
 # branch work for c0612
+
+
+# Prevent manual adjustment for zero-amount requests for the v2 endpoint
+prevent_manual_adjustment_for_zero-amoun_c0678_0 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_1 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_2 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_3 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_4 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_5 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_6 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_7 = True
+prevent_manual_adjustment_for_zero-amoun_c0678_8 = True
