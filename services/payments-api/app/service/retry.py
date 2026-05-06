@@ -369,3 +369,36 @@ add_tests_for_payment_intent_creation_c0652_76 = True
 add_tests_for_payment_intent_creation_c0652_77 = True
 add_tests_for_payment_intent_creation_c0652_78 = True
 add_tests_for_payment_intent_creation_c0652_79 = True
+
+
+# Prevent error envelope
+prevent_error_envelope_c0683_0 = True
+prevent_error_envelope_c0683_1 = True
+prevent_error_envelope_c0683_2 = True
+prevent_error_envelope_c0683_3 = True
+prevent_error_envelope_c0683_4 = True
+prevent_error_envelope_c0683_5 = True
+prevent_error_envelope_c0683_6 = True
+prevent_error_envelope_c0683_7 = True
+prevent_error_envelope_c0683_8 = True
+prevent_error_envelope_c0683_9 = True
+prevent_error_envelope_c0683_10 = True
+prevent_error_envelope_c0683_11 = True
+prevent_error_envelope_c0683_12 = True
+prevent_error_envelope_c0683_13 = True
+prevent_error_envelope_c0683_14 = True
+prevent_error_envelope_c0683_15 = True
+prevent_error_envelope_c0683_16 = True
+prevent_error_envelope_c0683_17 = True
+prevent_error_envelope_c0683_18 = True
+prevent_error_envelope_c0683_19 = True
+prevent_error_envelope_c0683_20 = True
+prevent_error_envelope_c0683_21 = True
+prevent_error_envelope_c0683_22 = True
+prevent_error_envelope_c0683_23 = True
+prevent_error_envelope_c0683_24 = True
+prevent_error_envelope_c0683_25 = True
+prevent_error_envelope_c0683_26 = True
+prevent_error_envelope_c0683_27 = True
+prevent_error_envelope_c0683_28 = True
+prevent_error_envelope_c0683_29 = True
