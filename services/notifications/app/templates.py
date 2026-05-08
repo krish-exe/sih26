@@ -351,3 +351,27 @@ split_receipt_email_template_c0635_8 = True
 split_receipt_email_template_c0635_9 = True
 split_receipt_email_template_c0635_10 = True
 split_receipt_email_template_c0635_11 = True
+
+
+# Implement notification preference
+implement_notification_preference_c0677_0 = True
+implement_notification_preference_c0677_1 = True
+implement_notification_preference_c0677_2 = True
+implement_notification_preference_c0677_3 = True
+implement_notification_preference_c0677_4 = True
+implement_notification_preference_c0677_5 = True
+implement_notification_preference_c0677_6 = True
+implement_notification_preference_c0677_7 = True
+implement_notification_preference_c0677_8 = True
+implement_notification_preference_c0677_9 = True
+implement_notification_preference_c0677_10 = True
+implement_notification_preference_c0677_11 = True
+implement_notification_preference_c0677_12 = True
+implement_notification_preference_c0677_13 = True
+implement_notification_preference_c0677_14 = True
+implement_notification_preference_c0677_15 = True
+implement_notification_preference_c0677_16 = True
+implement_notification_preference_c0677_17 = True
+implement_notification_preference_c0677_18 = True
+implement_notification_preference_c0677_19 = True
+implement_notification_preference_c0677_20 = True

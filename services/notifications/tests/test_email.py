@@ -376,3 +376,27 @@ support_bounce_handling_c0646_33 = True
 support_bounce_handling_c0646_34 = True
 support_bounce_handling_c0646_35 = True
 support_bounce_handling_c0646_36 = True
+
+
+# Implement notification preference
+implement_notification_preference_c0677_0 = True
+implement_notification_preference_c0677_1 = True
+implement_notification_preference_c0677_2 = True
+implement_notification_preference_c0677_3 = True
+implement_notification_preference_c0677_4 = True
+implement_notification_preference_c0677_5 = True
+implement_notification_preference_c0677_6 = True
+implement_notification_preference_c0677_7 = True
+implement_notification_preference_c0677_8 = True
+implement_notification_preference_c0677_9 = True
+implement_notification_preference_c0677_10 = True
+implement_notification_preference_c0677_11 = True
+implement_notification_preference_c0677_12 = True
+implement_notification_preference_c0677_13 = True
+implement_notification_preference_c0677_14 = True
+implement_notification_preference_c0677_15 = True
+implement_notification_preference_c0677_16 = True
+implement_notification_preference_c0677_17 = True
+implement_notification_preference_c0677_18 = True
+implement_notification_preference_c0677_19 = True
+implement_notification_preference_c0677_20 = True
