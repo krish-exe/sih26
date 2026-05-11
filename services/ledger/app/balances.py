@@ -731,3 +731,14 @@ extend_currency_conversion_at_posting_ti_c0665_1 = True
 extend_currency_conversion_at_posting_ti_c0665_2 = True
 extend_currency_conversion_at_posting_ti_c0665_3 = True
 extend_currency_conversion_at_posting_ti_c0665_4 = True
+
+
+# Guard against opening balance snapshot
+guard_against_opening_balance_snapshot_c0684_0 = True
+guard_against_opening_balance_snapshot_c0684_1 = True
+guard_against_opening_balance_snapshot_c0684_2 = True
+guard_against_opening_balance_snapshot_c0684_3 = True
+guard_against_opening_balance_snapshot_c0684_4 = True
+guard_against_opening_balance_snapshot_c0684_5 = True
+guard_against_opening_balance_snapshot_c0684_6 = True
+guard_against_opening_balance_snapshot_c0684_7 = True
