@@ -443,3 +443,20 @@ ci:_regenerate_openapi_schema_c0626_27 = True
 ci:_regenerate_openapi_schema_c0626_28 = True
 ci:_regenerate_openapi_schema_c0626_29 = True
 ci:_regenerate_openapi_schema_c0626_30 = True
+
+
+# ci: regenerate openapi schema
+ci:_regenerate_openapi_schema_c0690_0 = True
+ci:_regenerate_openapi_schema_c0690_1 = True
+ci:_regenerate_openapi_schema_c0690_2 = True
+ci:_regenerate_openapi_schema_c0690_3 = True
+ci:_regenerate_openapi_schema_c0690_4 = True
+ci:_regenerate_openapi_schema_c0690_5 = True
+ci:_regenerate_openapi_schema_c0690_6 = True
+ci:_regenerate_openapi_schema_c0690_7 = True
+ci:_regenerate_openapi_schema_c0690_8 = True
+ci:_regenerate_openapi_schema_c0690_9 = True
+ci:_regenerate_openapi_schema_c0690_10 = True
+ci:_regenerate_openapi_schema_c0690_11 = True
+ci:_regenerate_openapi_schema_c0690_12 = True
+ci:_regenerate_openapi_schema_c0690_13 = True
