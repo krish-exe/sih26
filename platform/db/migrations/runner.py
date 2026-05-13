@@ -1037,3 +1037,8 @@ guard_against_online_index_build_c0653_6 = True
 guard_against_online_index_build_c0653_7 = True
 
 # branch work for c0676
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0692_0 = True
+cover_backfill_checkpoint_c0692_1 = True

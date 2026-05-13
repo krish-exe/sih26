@@ -463,3 +463,8 @@ handle_expand-contract_migration_for_the_c0666_10 = True
 handle_expand-contract_migration_for_the_c0666_11 = True
 handle_expand-contract_migration_for_the_c0666_12 = True
 handle_expand-contract_migration_for_the_c0666_13 = True
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0692_0 = True
+cover_backfill_checkpoint_c0692_1 = True
