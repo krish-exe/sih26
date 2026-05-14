@@ -364,3 +364,24 @@ handle_expand-contract_migration_for_the_c0666_13 = True
 # Cover backfill checkpoint
 cover_backfill_checkpoint_c0692_0 = True
 cover_backfill_checkpoint_c0692_1 = True
+
+
+# Add tests for expand-contract migration under the new limits
+add_tests_for_expand-contract_migration__c0693_0 = True
+add_tests_for_expand-contract_migration__c0693_1 = True
+add_tests_for_expand-contract_migration__c0693_2 = True
+add_tests_for_expand-contract_migration__c0693_3 = True
+add_tests_for_expand-contract_migration__c0693_4 = True
+add_tests_for_expand-contract_migration__c0693_5 = True
+add_tests_for_expand-contract_migration__c0693_6 = True
+add_tests_for_expand-contract_migration__c0693_7 = True
+add_tests_for_expand-contract_migration__c0693_8 = True
+add_tests_for_expand-contract_migration__c0693_9 = True
+add_tests_for_expand-contract_migration__c0693_10 = True
+add_tests_for_expand-contract_migration__c0693_11 = True
+add_tests_for_expand-contract_migration__c0693_12 = True
+add_tests_for_expand-contract_migration__c0693_13 = True
+add_tests_for_expand-contract_migration__c0693_14 = True
+add_tests_for_expand-contract_migration__c0693_15 = True
+add_tests_for_expand-contract_migration__c0693_16 = True
+add_tests_for_expand-contract_migration__c0693_17 = True
