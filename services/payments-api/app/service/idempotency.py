@@ -439,3 +439,12 @@ prevent_error_envelope_c0683_26 = True
 prevent_error_envelope_c0683_27 = True
 prevent_error_envelope_c0683_28 = True
 prevent_error_envelope_c0683_29 = True
+
+
+# Prevent payment intent creation during replay
+prevent_payment_intent_creation_during_r_c0686_0 = True
+prevent_payment_intent_creation_during_r_c0686_1 = True
+prevent_payment_intent_creation_during_r_c0686_2 = True
+prevent_payment_intent_creation_during_r_c0686_3 = True
+prevent_payment_intent_creation_during_r_c0686_4 = True
+prevent_payment_intent_creation_during_r_c0686_5 = True
