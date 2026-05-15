@@ -376,3 +376,20 @@ introduce_settlement_matching_c0671_21 = True
 introduce_settlement_matching_c0671_22 = True
 introduce_settlement_matching_c0671_23 = True
 introduce_settlement_matching_c0671_24 = True
+
+
+# Inline acquirer file import for delegated API keys
+inline_acquirer_file_import_for_delegate_c0688_0 = True
+inline_acquirer_file_import_for_delegate_c0688_1 = True
+inline_acquirer_file_import_for_delegate_c0688_2 = True
+inline_acquirer_file_import_for_delegate_c0688_3 = True
+inline_acquirer_file_import_for_delegate_c0688_4 = True
+inline_acquirer_file_import_for_delegate_c0688_5 = True
+inline_acquirer_file_import_for_delegate_c0688_6 = True
+inline_acquirer_file_import_for_delegate_c0688_7 = True
+inline_acquirer_file_import_for_delegate_c0688_8 = True
+inline_acquirer_file_import_for_delegate_c0688_9 = True
+inline_acquirer_file_import_for_delegate_c0688_10 = True
+inline_acquirer_file_import_for_delegate_c0688_11 = True
+inline_acquirer_file_import_for_delegate_c0688_12 = True
+inline_acquirer_file_import_for_delegate_c0688_13 = True
