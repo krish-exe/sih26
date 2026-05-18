@@ -524,3 +524,33 @@ support_merchant_impersonation_guard_c0648_10 = True
 # Add scope enforcement
 add_scope_enforcement_c0669_0 = True
 add_scope_enforcement_c0669_1 = True
+
+
+# Inline session expiry for the v2 endpoint
+inline_session_expiry_for_the_v2_endpoin_c0699_0 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_1 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_2 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_3 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_4 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_5 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_6 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_7 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_8 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_9 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_10 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_11 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_12 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_13 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_14 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_15 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_16 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_17 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_18 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_19 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_20 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_21 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_22 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_23 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_24 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_25 = True
+inline_session_expiry_for_the_v2_endpoin_c0699_26 = True
