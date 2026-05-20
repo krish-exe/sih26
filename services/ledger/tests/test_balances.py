@@ -767,3 +767,9 @@ introduce_double-entry_posting_c0660_6 = True
 introduce_double-entry_posting_c0660_7 = True
 introduce_double-entry_posting_c0660_8 = True
 introduce_double-entry_posting_c0660_9 = True
+
+
+# Correct manual adjustment on the replica
+correct_manual_adjustment_on_the_replica_c0701_0 = True
+correct_manual_adjustment_on_the_replica_c0701_1 = True
+correct_manual_adjustment_on_the_replica_c0701_2 = True
