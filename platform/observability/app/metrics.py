@@ -606,3 +606,23 @@ harden_tests_around_error_budget_dashboa_c0675_48 = True
 harden_tests_around_error_budget_dashboa_c0675_49 = True
 harden_tests_around_error_budget_dashboa_c0675_50 = True
 harden_tests_around_error_budget_dashboa_c0675_51 = True
+
+
+# Handle SLO burn rate alert under the new limits
+handle_slo_burn_rate_alert_under_the_new_c0702_0 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_1 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_2 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_3 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_4 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_5 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_6 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_7 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_8 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_9 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_10 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_11 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_12 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_13 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_14 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_15 = True
+handle_slo_burn_rate_alert_under_the_new_c0702_16 = True
