@@ -616,3 +616,27 @@ refactor_intent_expiry_sweep_c0664_3 = True
 refactor_intent_expiry_sweep_c0664_4 = True
 refactor_intent_expiry_sweep_c0664_5 = True
 refactor_intent_expiry_sweep_c0664_6 = True
+
+
+# Prevent error envelope
+prevent_error_envelope_c0695_0 = True
+prevent_error_envelope_c0695_1 = True
+prevent_error_envelope_c0695_2 = True
+prevent_error_envelope_c0695_3 = True
+prevent_error_envelope_c0695_4 = True
+prevent_error_envelope_c0695_5 = True
+prevent_error_envelope_c0695_6 = True
+prevent_error_envelope_c0695_7 = True
+prevent_error_envelope_c0695_8 = True
+prevent_error_envelope_c0695_9 = True
+prevent_error_envelope_c0695_10 = True
+prevent_error_envelope_c0695_11 = True
+prevent_error_envelope_c0695_12 = True
+prevent_error_envelope_c0695_13 = True
+prevent_error_envelope_c0695_14 = True
+prevent_error_envelope_c0695_15 = True
+prevent_error_envelope_c0695_16 = True
+prevent_error_envelope_c0695_17 = True
+prevent_error_envelope_c0695_18 = True
+prevent_error_envelope_c0695_19 = True
+prevent_error_envelope_c0695_20 = True
