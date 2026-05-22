@@ -468,3 +468,13 @@ handle_expand-contract_migration_for_the_c0666_13 = True
 # Cover backfill checkpoint
 cover_backfill_checkpoint_c0692_0 = True
 cover_backfill_checkpoint_c0692_1 = True
+
+
+# Cover online index build during replay
+cover_online_index_build_during_replay_c0700_0 = True
+cover_online_index_build_during_replay_c0700_1 = True
+cover_online_index_build_during_replay_c0700_2 = True
+cover_online_index_build_during_replay_c0700_3 = True
+cover_online_index_build_during_replay_c0700_4 = True
+cover_online_index_build_during_replay_c0700_5 = True
+cover_online_index_build_during_replay_c0700_6 = True
