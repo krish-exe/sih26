@@ -662,3 +662,14 @@ simplify_balance_rollup_c0632_17 = True
 simplify_balance_rollup_c0632_18 = True
 simplify_balance_rollup_c0632_19 = True
 simplify_balance_rollup_c0632_20 = True
+
+
+# Rename currency conversion at posting time for high-volume merchants
+rename_currency_conversion_at_posting_ti_c0703_0 = True
+rename_currency_conversion_at_posting_ti_c0703_1 = True
+rename_currency_conversion_at_posting_ti_c0703_2 = True
+rename_currency_conversion_at_posting_ti_c0703_3 = True
+rename_currency_conversion_at_posting_ti_c0703_4 = True
+rename_currency_conversion_at_posting_ti_c0703_5 = True
+rename_currency_conversion_at_posting_ti_c0703_6 = True
+rename_currency_conversion_at_posting_ti_c0703_7 = True
