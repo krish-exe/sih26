@@ -386,3 +386,14 @@ implement_rds_parameter_group_c0667_27 = True
 implement_rds_parameter_group_c0667_28 = True
 implement_rds_parameter_group_c0667_29 = True
 implement_rds_parameter_group_c0667_30 = True
+
+
+# Add tests for RDS parameter group during replay
+add_tests_for_rds_parameter_group_during_c0704_0 = True
+add_tests_for_rds_parameter_group_during_c0704_1 = True
+add_tests_for_rds_parameter_group_during_c0704_2 = True
+add_tests_for_rds_parameter_group_during_c0704_3 = True
+add_tests_for_rds_parameter_group_during_c0704_4 = True
+add_tests_for_rds_parameter_group_during_c0704_5 = True
+add_tests_for_rds_parameter_group_during_c0704_6 = True
+add_tests_for_rds_parameter_group_during_c0704_7 = True
