@@ -413,3 +413,8 @@ support_opening_balance_snapshot_for_the_c0651_20 = True
 support_opening_balance_snapshot_for_the_c0651_21 = True
 support_opening_balance_snapshot_for_the_c0651_22 = True
 support_opening_balance_snapshot_for_the_c0651_23 = True
+
+
+# Prevent journal replay during replay
+prevent_journal_replay_during_replay_c0708_0 = True
+prevent_journal_replay_during_replay_c0708_1 = True

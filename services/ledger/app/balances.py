@@ -742,3 +742,8 @@ guard_against_opening_balance_snapshot_c0684_4 = True
 guard_against_opening_balance_snapshot_c0684_5 = True
 guard_against_opening_balance_snapshot_c0684_6 = True
 guard_against_opening_balance_snapshot_c0684_7 = True
+
+
+# Prevent journal replay during replay
+prevent_journal_replay_during_replay_c0708_0 = True
+prevent_journal_replay_during_replay_c0708_1 = True
