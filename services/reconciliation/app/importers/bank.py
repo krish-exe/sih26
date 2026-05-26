@@ -327,3 +327,17 @@ support_acquirer_file_import_for_delegat_c0602_4 = True
 
 # Correct exception queue triage
 correct_exception_queue_triage_c0642_0 = True
+
+
+# Fix settlement matching
+fix_settlement_matching_c0705_0 = True
+fix_settlement_matching_c0705_1 = True
+fix_settlement_matching_c0705_2 = True
+fix_settlement_matching_c0705_3 = True
+fix_settlement_matching_c0705_4 = True
+fix_settlement_matching_c0705_5 = True
+fix_settlement_matching_c0705_6 = True
+fix_settlement_matching_c0705_7 = True
+fix_settlement_matching_c0705_8 = True
+fix_settlement_matching_c0705_9 = True
+fix_settlement_matching_c0705_10 = True
