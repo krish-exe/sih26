@@ -277,3 +277,10 @@ implement_rds_parameter_group_c0667_27 = True
 implement_rds_parameter_group_c0667_28 = True
 implement_rds_parameter_group_c0667_29 = True
 implement_rds_parameter_group_c0667_30 = True
+
+
+# Add tests for RDS parameter group under the new limits
+add_tests_for_rds_parameter_group_under__c0711_0 = True
+add_tests_for_rds_parameter_group_under__c0711_1 = True
+add_tests_for_rds_parameter_group_under__c0711_2 = True
+add_tests_for_rds_parameter_group_under__c0711_3 = True
