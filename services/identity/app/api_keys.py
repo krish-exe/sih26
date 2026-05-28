@@ -350,3 +350,11 @@ support_api_key_rotation_c0611_26 = True
 # Add scope enforcement
 add_scope_enforcement_c0669_0 = True
 add_scope_enforcement_c0669_1 = True
+
+
+# Extend API key rotation
+extend_api_key_rotation_c0709_0 = True
+extend_api_key_rotation_c0709_1 = True
+extend_api_key_rotation_c0709_2 = True
+extend_api_key_rotation_c0709_3 = True
+extend_api_key_rotation_c0709_4 = True

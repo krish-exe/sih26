@@ -197,3 +197,11 @@ support_merchant_impersonation_guard_c0648_7 = True
 support_merchant_impersonation_guard_c0648_8 = True
 support_merchant_impersonation_guard_c0648_9 = True
 support_merchant_impersonation_guard_c0648_10 = True
+
+
+# Extend API key rotation
+extend_api_key_rotation_c0709_0 = True
+extend_api_key_rotation_c0709_1 = True
+extend_api_key_rotation_c0709_2 = True
+extend_api_key_rotation_c0709_3 = True
+extend_api_key_rotation_c0709_4 = True

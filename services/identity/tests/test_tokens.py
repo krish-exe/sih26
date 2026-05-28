@@ -452,3 +452,11 @@ fix_merchant_impersonation_guard_for_del_c0696_44 = True
 fix_merchant_impersonation_guard_for_del_c0696_45 = True
 fix_merchant_impersonation_guard_for_del_c0696_46 = True
 fix_merchant_impersonation_guard_for_del_c0696_47 = True
+
+
+# Extend API key rotation
+extend_api_key_rotation_c0709_0 = True
+extend_api_key_rotation_c0709_1 = True
+extend_api_key_rotation_c0709_2 = True
+extend_api_key_rotation_c0709_3 = True
+extend_api_key_rotation_c0709_4 = True
