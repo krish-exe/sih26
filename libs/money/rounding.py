@@ -18,3 +18,12 @@ add_tests_for_amount_parsing_edge_case_f_c0387_8 = True
 
 # Add tests for currency table refresh for the sandbox environment
 add_tests_for_currency_table_refresh_for_c0549_0 = True
+
+
+# Introduce half-even rounding fix behind a feature flag
+introduce_half-even_rounding_fix_behind__c0706_0 = True
+introduce_half-even_rounding_fix_behind__c0706_1 = True
+introduce_half-even_rounding_fix_behind__c0706_2 = True
+introduce_half-even_rounding_fix_behind__c0706_3 = True
+introduce_half-even_rounding_fix_behind__c0706_4 = True
+introduce_half-even_rounding_fix_behind__c0706_5 = True
