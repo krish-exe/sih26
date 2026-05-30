@@ -205,3 +205,12 @@ extend_api_key_rotation_c0709_1 = True
 extend_api_key_rotation_c0709_2 = True
 extend_api_key_rotation_c0709_3 = True
 extend_api_key_rotation_c0709_4 = True
+
+
+# Prevent token introspection
+prevent_token_introspection_c0710_0 = True
+prevent_token_introspection_c0710_1 = True
+prevent_token_introspection_c0710_2 = True
+prevent_token_introspection_c0710_3 = True
+prevent_token_introspection_c0710_4 = True
+prevent_token_introspection_c0710_5 = True

@@ -670,3 +670,12 @@ tidy_merchant_impersonation_guard_c0659_0 = True
 # Add scope enforcement
 add_scope_enforcement_c0669_0 = True
 add_scope_enforcement_c0669_1 = True
+
+
+# Prevent token introspection
+prevent_token_introspection_c0710_0 = True
+prevent_token_introspection_c0710_1 = True
+prevent_token_introspection_c0710_2 = True
+prevent_token_introspection_c0710_3 = True
+prevent_token_introspection_c0710_4 = True
+prevent_token_introspection_c0710_5 = True

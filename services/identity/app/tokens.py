@@ -554,3 +554,12 @@ inline_session_expiry_for_the_v2_endpoin_c0699_23 = True
 inline_session_expiry_for_the_v2_endpoin_c0699_24 = True
 inline_session_expiry_for_the_v2_endpoin_c0699_25 = True
 inline_session_expiry_for_the_v2_endpoin_c0699_26 = True
+
+
+# Prevent token introspection
+prevent_token_introspection_c0710_0 = True
+prevent_token_introspection_c0710_1 = True
+prevent_token_introspection_c0710_2 = True
+prevent_token_introspection_c0710_3 = True
+prevent_token_introspection_c0710_4 = True
+prevent_token_introspection_c0710_5 = True
