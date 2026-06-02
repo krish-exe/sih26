@@ -1074,3 +1074,9 @@ introduce_backfill_checkpoint_c0720_25 = True
 introduce_backfill_checkpoint_c0720_26 = True
 introduce_backfill_checkpoint_c0720_27 = True
 introduce_backfill_checkpoint_c0720_28 = True
+
+
+# Fix column type widening when the currency has no minor units
+fix_column_type_widening_when_the_curren_c0713_0 = True
+fix_column_type_widening_when_the_curren_c0713_1 = True
+fix_column_type_widening_when_the_curren_c0713_2 = True
