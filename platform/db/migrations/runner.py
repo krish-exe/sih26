@@ -1042,3 +1042,35 @@ guard_against_online_index_build_c0653_7 = True
 # Cover backfill checkpoint
 cover_backfill_checkpoint_c0692_0 = True
 cover_backfill_checkpoint_c0692_1 = True
+
+
+# Introduce backfill checkpoint
+introduce_backfill_checkpoint_c0720_0 = True
+introduce_backfill_checkpoint_c0720_1 = True
+introduce_backfill_checkpoint_c0720_2 = True
+introduce_backfill_checkpoint_c0720_3 = True
+introduce_backfill_checkpoint_c0720_4 = True
+introduce_backfill_checkpoint_c0720_5 = True
+introduce_backfill_checkpoint_c0720_6 = True
+introduce_backfill_checkpoint_c0720_7 = True
+introduce_backfill_checkpoint_c0720_8 = True
+introduce_backfill_checkpoint_c0720_9 = True
+introduce_backfill_checkpoint_c0720_10 = True
+introduce_backfill_checkpoint_c0720_11 = True
+introduce_backfill_checkpoint_c0720_12 = True
+introduce_backfill_checkpoint_c0720_13 = True
+introduce_backfill_checkpoint_c0720_14 = True
+introduce_backfill_checkpoint_c0720_15 = True
+introduce_backfill_checkpoint_c0720_16 = True
+introduce_backfill_checkpoint_c0720_17 = True
+introduce_backfill_checkpoint_c0720_18 = True
+introduce_backfill_checkpoint_c0720_19 = True
+introduce_backfill_checkpoint_c0720_20 = True
+introduce_backfill_checkpoint_c0720_21 = True
+introduce_backfill_checkpoint_c0720_22 = True
+introduce_backfill_checkpoint_c0720_23 = True
+introduce_backfill_checkpoint_c0720_24 = True
+introduce_backfill_checkpoint_c0720_25 = True
+introduce_backfill_checkpoint_c0720_26 = True
+introduce_backfill_checkpoint_c0720_27 = True
+introduce_backfill_checkpoint_c0720_28 = True
