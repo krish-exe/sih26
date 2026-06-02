@@ -1243,3 +1243,9 @@ cover_backfill_checkpoint_c0784_1 = True
 cover_backfill_checkpoint_c0784_2 = True
 cover_backfill_checkpoint_c0784_3 = True
 cover_backfill_checkpoint_c0784_4 = True
+
+
+# Fix column type widening when the currency has no minor units
+fix_column_type_widening_when_the_curren_c0713_0 = True
+fix_column_type_widening_when_the_curren_c0713_1 = True
+fix_column_type_widening_when_the_curren_c0713_2 = True
