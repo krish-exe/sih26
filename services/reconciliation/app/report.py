@@ -419,3 +419,11 @@ prevent_unmatched_settlement_report_for__c0558_0 = True
 correct_exception_queue_triage_c0640_0 = True
 correct_exception_queue_triage_c0640_1 = True
 correct_exception_queue_triage_c0640_2 = True
+
+
+# Fix unmatched settlement report when the queue is saturated
+fix_unmatched_settlement_report_when_the_c0715_0 = True
+fix_unmatched_settlement_report_when_the_c0715_1 = True
+fix_unmatched_settlement_report_when_the_c0715_2 = True
+fix_unmatched_settlement_report_when_the_c0715_3 = True
+fix_unmatched_settlement_report_when_the_c0715_4 = True
