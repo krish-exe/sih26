@@ -102,3 +102,12 @@ introduce_half-even_rounding_fix_behind__c0706_2 = True
 introduce_half-even_rounding_fix_behind__c0706_3 = True
 introduce_half-even_rounding_fix_behind__c0706_4 = True
 introduce_half-even_rounding_fix_behind__c0706_5 = True
+
+
+# Implement minor-unit rounding for delegated API keys
+implement_minor-unit_rounding_for_delega_c0717_0 = True
+implement_minor-unit_rounding_for_delega_c0717_1 = True
+implement_minor-unit_rounding_for_delega_c0717_2 = True
+implement_minor-unit_rounding_for_delega_c0717_3 = True
+implement_minor-unit_rounding_for_delega_c0717_4 = True
+implement_minor-unit_rounding_for_delega_c0717_5 = True
