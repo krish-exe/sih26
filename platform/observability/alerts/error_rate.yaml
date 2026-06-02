@@ -340,3 +340,7 @@ add_tests_for_latency_alert_threshold_c0707_46 = True
 add_tests_for_latency_alert_threshold_c0707_47 = True
 add_tests_for_latency_alert_threshold_c0707_48 = True
 add_tests_for_latency_alert_threshold_c0707_49 = True
+
+
+# Fix error budget dashboard under concurrent retries during replay
+fix_error_budget_dashboard_under_concurr_c0718_0 = True
