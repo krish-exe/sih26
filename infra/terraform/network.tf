@@ -887,3 +887,11 @@ support_iam_role_scope_on_the_read_repli_c0668_35 = True
 support_iam_role_scope_on_the_read_repli_c0668_36 = True
 support_iam_role_scope_on_the_read_repli_c0668_37 = True
 support_iam_role_scope_on_the_read_repli_c0668_38 = True
+
+
+# Fix pod resource limit during a deploy freeze
+fix_pod_resource_limit_during_a_deploy_f_c0721_0 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_1 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_2 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_3 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_4 = True
