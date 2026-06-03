@@ -402,3 +402,20 @@ prevent_error_envelope_c0683_26 = True
 prevent_error_envelope_c0683_27 = True
 prevent_error_envelope_c0683_28 = True
 prevent_error_envelope_c0683_29 = True
+
+
+# Add tests for request validation for high-volume merchants
+add_tests_for_request_validation_for_hig_c0719_0 = True
+add_tests_for_request_validation_for_hig_c0719_1 = True
+add_tests_for_request_validation_for_hig_c0719_2 = True
+add_tests_for_request_validation_for_hig_c0719_3 = True
+add_tests_for_request_validation_for_hig_c0719_4 = True
+add_tests_for_request_validation_for_hig_c0719_5 = True
+add_tests_for_request_validation_for_hig_c0719_6 = True
+add_tests_for_request_validation_for_hig_c0719_7 = True
+add_tests_for_request_validation_for_hig_c0719_8 = True
+add_tests_for_request_validation_for_hig_c0719_9 = True
+add_tests_for_request_validation_for_hig_c0719_10 = True
+add_tests_for_request_validation_for_hig_c0719_11 = True
+add_tests_for_request_validation_for_hig_c0719_12 = True
+add_tests_for_request_validation_for_hig_c0719_13 = True
