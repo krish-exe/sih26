@@ -1006,3 +1006,7 @@ simplify_acquirer_file_import_c0674_16 = True
 simplify_acquirer_file_import_c0674_17 = True
 simplify_acquirer_file_import_c0674_18 = True
 simplify_acquirer_file_import_c0674_19 = True
+
+
+# Add exception queue triage
+add_exception_queue_triage_c0716_0 = True
