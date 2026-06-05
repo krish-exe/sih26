@@ -563,3 +563,12 @@ prevent_token_introspection_c0710_2 = True
 prevent_token_introspection_c0710_3 = True
 prevent_token_introspection_c0710_4 = True
 prevent_token_introspection_c0710_5 = True
+
+
+# Implement API key rotation
+implement_api_key_rotation_c0714_0 = True
+implement_api_key_rotation_c0714_1 = True
+implement_api_key_rotation_c0714_2 = True
+implement_api_key_rotation_c0714_3 = True
+implement_api_key_rotation_c0714_4 = True
+implement_api_key_rotation_c0714_5 = True

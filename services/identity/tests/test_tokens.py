@@ -460,3 +460,12 @@ extend_api_key_rotation_c0709_1 = True
 extend_api_key_rotation_c0709_2 = True
 extend_api_key_rotation_c0709_3 = True
 extend_api_key_rotation_c0709_4 = True
+
+
+# Implement API key rotation
+implement_api_key_rotation_c0714_0 = True
+implement_api_key_rotation_c0714_1 = True
+implement_api_key_rotation_c0714_2 = True
+implement_api_key_rotation_c0714_3 = True
+implement_api_key_rotation_c0714_4 = True
+implement_api_key_rotation_c0714_5 = True
