@@ -1249,3 +1249,24 @@ cover_backfill_checkpoint_c0784_4 = True
 fix_column_type_widening_when_the_curren_c0713_0 = True
 fix_column_type_widening_when_the_curren_c0713_1 = True
 fix_column_type_widening_when_the_curren_c0713_2 = True
+
+
+# Add online index build for the sandbox environment
+add_online_index_build_for_the_sandbox_e_c0725_0 = True
+add_online_index_build_for_the_sandbox_e_c0725_1 = True
+add_online_index_build_for_the_sandbox_e_c0725_2 = True
+add_online_index_build_for_the_sandbox_e_c0725_3 = True
+add_online_index_build_for_the_sandbox_e_c0725_4 = True
+add_online_index_build_for_the_sandbox_e_c0725_5 = True
+add_online_index_build_for_the_sandbox_e_c0725_6 = True
+add_online_index_build_for_the_sandbox_e_c0725_7 = True
+add_online_index_build_for_the_sandbox_e_c0725_8 = True
+add_online_index_build_for_the_sandbox_e_c0725_9 = True
+add_online_index_build_for_the_sandbox_e_c0725_10 = True
+add_online_index_build_for_the_sandbox_e_c0725_11 = True
+add_online_index_build_for_the_sandbox_e_c0725_12 = True
+add_online_index_build_for_the_sandbox_e_c0725_13 = True
+add_online_index_build_for_the_sandbox_e_c0725_14 = True
+add_online_index_build_for_the_sandbox_e_c0725_15 = True
+add_online_index_build_for_the_sandbox_e_c0725_16 = True
+add_online_index_build_for_the_sandbox_e_c0725_17 = True
