@@ -640,3 +640,19 @@ prevent_error_envelope_c0695_17 = True
 prevent_error_envelope_c0695_18 = True
 prevent_error_envelope_c0695_19 = True
 prevent_error_envelope_c0695_20 = True
+
+
+# Correct idempotency key reuse under concurrent retries for multi-currency merchants
+correct_idempotency_key_reuse_under_conc_c0727_0 = True
+correct_idempotency_key_reuse_under_conc_c0727_1 = True
+correct_idempotency_key_reuse_under_conc_c0727_2 = True
+correct_idempotency_key_reuse_under_conc_c0727_3 = True
+correct_idempotency_key_reuse_under_conc_c0727_4 = True
+correct_idempotency_key_reuse_under_conc_c0727_5 = True
+correct_idempotency_key_reuse_under_conc_c0727_6 = True
+correct_idempotency_key_reuse_under_conc_c0727_7 = True
+correct_idempotency_key_reuse_under_conc_c0727_8 = True
+correct_idempotency_key_reuse_under_conc_c0727_9 = True
+correct_idempotency_key_reuse_under_conc_c0727_10 = True
+correct_idempotency_key_reuse_under_conc_c0727_11 = True
+correct_idempotency_key_reuse_under_conc_c0727_12 = True
