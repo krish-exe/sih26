@@ -679,3 +679,7 @@ add_tests_for_latency_alert_threshold_c0707_46 = True
 add_tests_for_latency_alert_threshold_c0707_47 = True
 add_tests_for_latency_alert_threshold_c0707_48 = True
 add_tests_for_latency_alert_threshold_c0707_49 = True
+
+
+# Correct trace sampling rate
+correct_trace_sampling_rate_c0733_0 = True

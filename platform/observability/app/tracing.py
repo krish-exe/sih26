@@ -674,3 +674,7 @@ refactor_latency_alert_threshold_c0729_116 = True
 refactor_latency_alert_threshold_c0729_117 = True
 refactor_latency_alert_threshold_c0729_118 = True
 refactor_latency_alert_threshold_c0729_119 = True
+
+
+# Correct trace sampling rate
+correct_trace_sampling_rate_c0733_0 = True

@@ -827,3 +827,7 @@ correct_error_budget_dashboard_c0644_81 = True
 implement_slo_burn_rate_alert_behind_a_f_c0657_0 = True
 implement_slo_burn_rate_alert_behind_a_f_c0657_1 = True
 implement_slo_burn_rate_alert_behind_a_f_c0657_2 = True
+
+
+# Correct trace sampling rate
+correct_trace_sampling_rate_c0733_0 = True
