@@ -1010,3 +1010,31 @@ simplify_acquirer_file_import_c0674_19 = True
 
 # Add exception queue triage
 add_exception_queue_triage_c0716_0 = True
+
+
+# Revert "Introduce settlement matching during replay"
+revert_"introduce_settlement_matching_du_c0732_0 = True
+revert_"introduce_settlement_matching_du_c0732_1 = True
+revert_"introduce_settlement_matching_du_c0732_2 = True
+revert_"introduce_settlement_matching_du_c0732_3 = True
+revert_"introduce_settlement_matching_du_c0732_4 = True
+revert_"introduce_settlement_matching_du_c0732_5 = True
+revert_"introduce_settlement_matching_du_c0732_6 = True
+revert_"introduce_settlement_matching_du_c0732_7 = True
+revert_"introduce_settlement_matching_du_c0732_8 = True
+revert_"introduce_settlement_matching_du_c0732_9 = True
+revert_"introduce_settlement_matching_du_c0732_10 = True
+revert_"introduce_settlement_matching_du_c0732_11 = True
+revert_"introduce_settlement_matching_du_c0732_12 = True
+revert_"introduce_settlement_matching_du_c0732_13 = True
+revert_"introduce_settlement_matching_du_c0732_14 = True
+revert_"introduce_settlement_matching_du_c0732_15 = True
+revert_"introduce_settlement_matching_du_c0732_16 = True
+revert_"introduce_settlement_matching_du_c0732_17 = True
+revert_"introduce_settlement_matching_du_c0732_18 = True
+revert_"introduce_settlement_matching_du_c0732_19 = True
+revert_"introduce_settlement_matching_du_c0732_20 = True
+revert_"introduce_settlement_matching_du_c0732_21 = True
+revert_"introduce_settlement_matching_du_c0732_22 = True
+revert_"introduce_settlement_matching_du_c0732_23 = True
+revert_"introduce_settlement_matching_du_c0732_24 = True
