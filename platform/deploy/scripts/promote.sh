@@ -874,3 +874,8 @@ split_blue-green_cutover_c0698_31 = True
 split_blue-green_cutover_c0698_32 = True
 split_blue-green_cutover_c0698_33 = True
 split_blue-green_cutover_c0698_34 = True
+
+
+# Guard against release gating under concurrent retries behind a feature flag
+guard_against_release_gating_under_concu_c0734_0 = True
+guard_against_release_gating_under_concu_c0734_1 = True

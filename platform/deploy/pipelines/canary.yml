@@ -1152,3 +1152,8 @@ correct_canary_rollout_stage_c0694_99 = True
 correct_canary_rollout_stage_c0694_100 = True
 correct_canary_rollout_stage_c0694_101 = True
 correct_canary_rollout_stage_c0694_102 = True
+
+
+# Guard against release gating under concurrent retries behind a feature flag
+guard_against_release_gating_under_concu_c0734_0 = True
+guard_against_release_gating_under_concu_c0734_1 = True
