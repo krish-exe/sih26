@@ -933,3 +933,8 @@ prevent_deployment_freeze_window_for_zer_c0776_20 = True
 prevent_deployment_freeze_window_for_zer_c0776_21 = True
 prevent_deployment_freeze_window_for_zer_c0776_22 = True
 prevent_deployment_freeze_window_for_zer_c0776_23 = True
+
+
+# Guard against release gating under concurrent retries behind a feature flag
+guard_against_release_gating_under_concu_c0734_0 = True
+guard_against_release_gating_under_concu_c0734_1 = True
