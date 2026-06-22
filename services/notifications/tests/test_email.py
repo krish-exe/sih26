@@ -448,3 +448,13 @@ introduce_receipt_email_template_c0728_41 = True
 introduce_receipt_email_template_c0728_42 = True
 introduce_receipt_email_template_c0728_43 = True
 introduce_receipt_email_template_c0728_44 = True
+
+
+# Handle receipt email template for high-volume merchants
+handle_receipt_email_template_for_high-v_c0741_0 = True
+handle_receipt_email_template_for_high-v_c0741_1 = True
+handle_receipt_email_template_for_high-v_c0741_2 = True
+handle_receipt_email_template_for_high-v_c0741_3 = True
+handle_receipt_email_template_for_high-v_c0741_4 = True
+handle_receipt_email_template_for_high-v_c0741_5 = True
+handle_receipt_email_template_for_high-v_c0741_6 = True
