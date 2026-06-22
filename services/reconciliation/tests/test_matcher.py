@@ -527,3 +527,15 @@ introduce_settlement_matching_during_rep_c0697_103 = True
 
 # Add exception queue triage
 add_exception_queue_triage_c0716_0 = True
+
+
+# Handle bank statement parsing when the upstream times out for the v2 endpoint
+handle_bank_statement_parsing_when_the_u_c0742_0 = True
+handle_bank_statement_parsing_when_the_u_c0742_1 = True
+handle_bank_statement_parsing_when_the_u_c0742_2 = True
+handle_bank_statement_parsing_when_the_u_c0742_3 = True
+handle_bank_statement_parsing_when_the_u_c0742_4 = True
+handle_bank_statement_parsing_when_the_u_c0742_5 = True
+handle_bank_statement_parsing_when_the_u_c0742_6 = True
+handle_bank_statement_parsing_when_the_u_c0742_7 = True
+handle_bank_statement_parsing_when_the_u_c0742_8 = True

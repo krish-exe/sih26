@@ -341,3 +341,15 @@ fix_settlement_matching_c0705_7 = True
 fix_settlement_matching_c0705_8 = True
 fix_settlement_matching_c0705_9 = True
 fix_settlement_matching_c0705_10 = True
+
+
+# Handle bank statement parsing when the upstream times out for the v2 endpoint
+handle_bank_statement_parsing_when_the_u_c0742_0 = True
+handle_bank_statement_parsing_when_the_u_c0742_1 = True
+handle_bank_statement_parsing_when_the_u_c0742_2 = True
+handle_bank_statement_parsing_when_the_u_c0742_3 = True
+handle_bank_statement_parsing_when_the_u_c0742_4 = True
+handle_bank_statement_parsing_when_the_u_c0742_5 = True
+handle_bank_statement_parsing_when_the_u_c0742_6 = True
+handle_bank_statement_parsing_when_the_u_c0742_7 = True
+handle_bank_statement_parsing_when_the_u_c0742_8 = True
