@@ -1,0 +1,9 @@
+"""Bump urllib3 from 2.2.1 to 2.2.2"""
+
+# bot-bump line 0
+# bot-bump line 1
+# bot-bump line 2
+# bot-bump line 3
+# bot-bump line 4
+# bot-bump line 5
+# bot-bump line 6
