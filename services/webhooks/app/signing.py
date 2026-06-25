@@ -472,3 +472,30 @@ introduce_endpoint_health_check_c0637_8 = True
 introduce_endpoint_health_check_c0637_9 = True
 introduce_endpoint_health_check_c0637_10 = True
 introduce_endpoint_health_check_c0637_11 = True
+
+
+# Inline subscription management
+inline_subscription_management_c0736_0 = True
+inline_subscription_management_c0736_1 = True
+inline_subscription_management_c0736_2 = True
+inline_subscription_management_c0736_3 = True
+inline_subscription_management_c0736_4 = True
+inline_subscription_management_c0736_5 = True
+inline_subscription_management_c0736_6 = True
+inline_subscription_management_c0736_7 = True
+inline_subscription_management_c0736_8 = True
+inline_subscription_management_c0736_9 = True
+inline_subscription_management_c0736_10 = True
+inline_subscription_management_c0736_11 = True
+inline_subscription_management_c0736_12 = True
+inline_subscription_management_c0736_13 = True
+inline_subscription_management_c0736_14 = True
+inline_subscription_management_c0736_15 = True
+inline_subscription_management_c0736_16 = True
+inline_subscription_management_c0736_17 = True
+inline_subscription_management_c0736_18 = True
+inline_subscription_management_c0736_19 = True
+inline_subscription_management_c0736_20 = True
+inline_subscription_management_c0736_21 = True
+inline_subscription_management_c0736_22 = True
+inline_subscription_management_c0736_23 = True
