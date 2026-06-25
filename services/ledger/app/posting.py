@@ -699,3 +699,10 @@ prevent_manual_adjustment_for_zero-amoun_c0678_7 = True
 prevent_manual_adjustment_for_zero-amoun_c0678_8 = True
 
 # branch work for c0679
+
+
+# Support currency conversion at posting time
+support_currency_conversion_at_posting_t_c0735_0 = True
+support_currency_conversion_at_posting_t_c0735_1 = True
+support_currency_conversion_at_posting_t_c0735_2 = True
+support_currency_conversion_at_posting_t_c0735_3 = True

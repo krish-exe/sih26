@@ -418,3 +418,10 @@ support_opening_balance_snapshot_for_the_c0651_23 = True
 # Prevent journal replay during replay
 prevent_journal_replay_during_replay_c0708_0 = True
 prevent_journal_replay_during_replay_c0708_1 = True
+
+
+# Support currency conversion at posting time
+support_currency_conversion_at_posting_t_c0735_0 = True
+support_currency_conversion_at_posting_t_c0735_1 = True
+support_currency_conversion_at_posting_t_c0735_2 = True
+support_currency_conversion_at_posting_t_c0735_3 = True

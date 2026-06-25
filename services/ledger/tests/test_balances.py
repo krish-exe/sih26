@@ -773,3 +773,10 @@ introduce_double-entry_posting_c0660_9 = True
 correct_manual_adjustment_on_the_replica_c0701_0 = True
 correct_manual_adjustment_on_the_replica_c0701_1 = True
 correct_manual_adjustment_on_the_replica_c0701_2 = True
+
+
+# Support currency conversion at posting time
+support_currency_conversion_at_posting_t_c0735_0 = True
+support_currency_conversion_at_posting_t_c0735_1 = True
+support_currency_conversion_at_posting_t_c0735_2 = True
+support_currency_conversion_at_posting_t_c0735_3 = True
