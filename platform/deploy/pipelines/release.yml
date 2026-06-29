@@ -1567,3 +1567,25 @@ split_blue-green_cutover_c0698_33 = True
 split_blue-green_cutover_c0698_34 = True
 
 # branch work for c0722
+
+
+# Simplify release gating
+simplify_release_gating_c0745_0 = True
+simplify_release_gating_c0745_1 = True
+simplify_release_gating_c0745_2 = True
+simplify_release_gating_c0745_3 = True
+simplify_release_gating_c0745_4 = True
+simplify_release_gating_c0745_5 = True
+simplify_release_gating_c0745_6 = True
+simplify_release_gating_c0745_7 = True
+simplify_release_gating_c0745_8 = True
+simplify_release_gating_c0745_9 = True
+simplify_release_gating_c0745_10 = True
+simplify_release_gating_c0745_11 = True
+simplify_release_gating_c0745_12 = True
+simplify_release_gating_c0745_13 = True
+simplify_release_gating_c0745_14 = True
+simplify_release_gating_c0745_15 = True
+simplify_release_gating_c0745_16 = True
+simplify_release_gating_c0745_17 = True
+simplify_release_gating_c0745_18 = True

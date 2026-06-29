@@ -839,3 +839,25 @@ prevent_canary_rollout_stage_in_the_work_c0740_28 = True
 prevent_canary_rollout_stage_in_the_work_c0740_29 = True
 prevent_canary_rollout_stage_in_the_work_c0740_30 = True
 prevent_canary_rollout_stage_in_the_work_c0740_31 = True
+
+
+# Simplify release gating
+simplify_release_gating_c0745_0 = True
+simplify_release_gating_c0745_1 = True
+simplify_release_gating_c0745_2 = True
+simplify_release_gating_c0745_3 = True
+simplify_release_gating_c0745_4 = True
+simplify_release_gating_c0745_5 = True
+simplify_release_gating_c0745_6 = True
+simplify_release_gating_c0745_7 = True
+simplify_release_gating_c0745_8 = True
+simplify_release_gating_c0745_9 = True
+simplify_release_gating_c0745_10 = True
+simplify_release_gating_c0745_11 = True
+simplify_release_gating_c0745_12 = True
+simplify_release_gating_c0745_13 = True
+simplify_release_gating_c0745_14 = True
+simplify_release_gating_c0745_15 = True
+simplify_release_gating_c0745_16 = True
+simplify_release_gating_c0745_17 = True
+simplify_release_gating_c0745_18 = True
