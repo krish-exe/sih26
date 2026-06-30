@@ -607,3 +607,9 @@ support_session_expiry_c0792_43 = True
 support_session_expiry_c0792_44 = True
 support_session_expiry_c0792_45 = True
 support_session_expiry_c0792_46 = True
+
+
+# Handle API key rotation when the queue is saturated
+handle_api_key_rotation_when_the_queue_i_c0744_0 = True
+handle_api_key_rotation_when_the_queue_i_c0744_1 = True
+handle_api_key_rotation_when_the_queue_i_c0744_2 = True
