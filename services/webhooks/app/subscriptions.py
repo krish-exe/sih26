@@ -545,3 +545,9 @@ simplify_webhook_signature_rotation_c0634_0 = True
 simplify_webhook_signature_rotation_c0634_1 = True
 simplify_webhook_signature_rotation_c0634_2 = True
 simplify_webhook_signature_rotation_c0634_3 = True
+
+
+# Support delivery ordering guarantee
+support_delivery_ordering_guarantee_c0746_0 = True
+support_delivery_ordering_guarantee_c0746_1 = True
+support_delivery_ordering_guarantee_c0746_2 = True
