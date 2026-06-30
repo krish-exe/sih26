@@ -214,3 +214,9 @@ prevent_token_introspection_c0710_2 = True
 prevent_token_introspection_c0710_3 = True
 prevent_token_introspection_c0710_4 = True
 prevent_token_introspection_c0710_5 = True
+
+
+# Handle API key rotation when the queue is saturated
+handle_api_key_rotation_when_the_queue_i_c0744_0 = True
+handle_api_key_rotation_when_the_queue_i_c0744_1 = True
+handle_api_key_rotation_when_the_queue_i_c0744_2 = True
