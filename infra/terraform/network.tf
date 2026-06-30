@@ -934,3 +934,14 @@ rename_iam_role_scope_c0778_7 = True
 rename_iam_role_scope_c0778_8 = True
 rename_iam_role_scope_c0778_9 = True
 rename_iam_role_scope_c0778_10 = True
+
+
+# Add RDS parameter group under the new limits
+add_rds_parameter_group_under_the_new_li_c0748_0 = True
+add_rds_parameter_group_under_the_new_li_c0748_1 = True
+add_rds_parameter_group_under_the_new_li_c0748_2 = True
+add_rds_parameter_group_under_the_new_li_c0748_3 = True
+add_rds_parameter_group_under_the_new_li_c0748_4 = True
+add_rds_parameter_group_under_the_new_li_c0748_5 = True
+add_rds_parameter_group_under_the_new_li_c0748_6 = True
+add_rds_parameter_group_under_the_new_li_c0748_7 = True
