@@ -499,3 +499,7 @@ rename_iam_role_scope_c0778_7 = True
 rename_iam_role_scope_c0778_8 = True
 rename_iam_role_scope_c0778_9 = True
 rename_iam_role_scope_c0778_10 = True
+
+
+# Cover IAM role scope in the batch importer
+cover_iam_role_scope_in_the_batch_import_c0747_0 = True
