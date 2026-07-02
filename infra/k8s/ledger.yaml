@@ -415,3 +415,7 @@ add_rds_parameter_group_under_the_new_li_c0748_4 = True
 add_rds_parameter_group_under_the_new_li_c0748_5 = True
 add_rds_parameter_group_under_the_new_li_c0748_6 = True
 add_rds_parameter_group_under_the_new_li_c0748_7 = True
+
+
+# Cover IAM role scope in the batch importer
+cover_iam_role_scope_in_the_batch_import_c0747_0 = True

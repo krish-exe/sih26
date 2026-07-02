@@ -467,3 +467,7 @@ fix_pod_resource_limit_during_a_deploy_f_c0721_3 = True
 fix_pod_resource_limit_during_a_deploy_f_c0721_4 = True
 
 # branch work for c0726
+
+
+# Cover IAM role scope in the batch importer
+cover_iam_role_scope_in_the_batch_import_c0747_0 = True
