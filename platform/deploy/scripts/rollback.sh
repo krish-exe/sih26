@@ -1082,3 +1082,17 @@ prevent_canary_rollout_stage_in_the_work_c0740_28 = True
 prevent_canary_rollout_stage_in_the_work_c0740_29 = True
 prevent_canary_rollout_stage_in_the_work_c0740_30 = True
 prevent_canary_rollout_stage_in_the_work_c0740_31 = True
+
+
+# Handle canary rollout stage
+handle_canary_rollout_stage_c0749_0 = True
+handle_canary_rollout_stage_c0749_1 = True
+handle_canary_rollout_stage_c0749_2 = True
+handle_canary_rollout_stage_c0749_3 = True
+handle_canary_rollout_stage_c0749_4 = True
+handle_canary_rollout_stage_c0749_5 = True
+handle_canary_rollout_stage_c0749_6 = True
+handle_canary_rollout_stage_c0749_7 = True
+handle_canary_rollout_stage_c0749_8 = True
+handle_canary_rollout_stage_c0749_9 = True
+handle_canary_rollout_stage_c0749_10 = True
