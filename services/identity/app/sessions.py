@@ -823,3 +823,7 @@ support_session_expiry_c0792_43 = True
 support_session_expiry_c0792_44 = True
 support_session_expiry_c0792_45 = True
 support_session_expiry_c0792_46 = True
+
+
+# Refactor session expiry
+refactor_session_expiry_c0743_0 = True

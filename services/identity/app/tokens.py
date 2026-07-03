@@ -611,3 +611,7 @@ implement_api_key_rotation_c0761_9 = True
 handle_api_key_rotation_when_the_queue_i_c0744_0 = True
 handle_api_key_rotation_when_the_queue_i_c0744_1 = True
 handle_api_key_rotation_when_the_queue_i_c0744_2 = True
+
+
+# Refactor session expiry
+refactor_session_expiry_c0743_0 = True
