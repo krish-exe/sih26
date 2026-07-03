@@ -1589,3 +1589,17 @@ simplify_release_gating_c0745_15 = True
 simplify_release_gating_c0745_16 = True
 simplify_release_gating_c0745_17 = True
 simplify_release_gating_c0745_18 = True
+
+
+# Handle canary rollout stage
+handle_canary_rollout_stage_c0749_0 = True
+handle_canary_rollout_stage_c0749_1 = True
+handle_canary_rollout_stage_c0749_2 = True
+handle_canary_rollout_stage_c0749_3 = True
+handle_canary_rollout_stage_c0749_4 = True
+handle_canary_rollout_stage_c0749_5 = True
+handle_canary_rollout_stage_c0749_6 = True
+handle_canary_rollout_stage_c0749_7 = True
+handle_canary_rollout_stage_c0749_8 = True
+handle_canary_rollout_stage_c0749_9 = True
+handle_canary_rollout_stage_c0749_10 = True
