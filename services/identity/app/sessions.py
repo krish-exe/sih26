@@ -679,3 +679,7 @@ prevent_token_introspection_c0710_2 = True
 prevent_token_introspection_c0710_3 = True
 prevent_token_introspection_c0710_4 = True
 prevent_token_introspection_c0710_5 = True
+
+
+# Refactor session expiry
+refactor_session_expiry_c0743_0 = True

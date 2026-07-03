@@ -358,3 +358,7 @@ extend_api_key_rotation_c0709_1 = True
 extend_api_key_rotation_c0709_2 = True
 extend_api_key_rotation_c0709_3 = True
 extend_api_key_rotation_c0709_4 = True
+
+
+# Refactor session expiry
+refactor_session_expiry_c0743_0 = True
