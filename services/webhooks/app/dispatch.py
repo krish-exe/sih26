@@ -332,3 +332,26 @@ refactor_delivery_retry_backoff_during_r_c0623_3 = True
 # branch work for c0682
 
 # branch work for c0689
+
+
+# Introduce delivery retry backoff
+introduce_delivery_retry_backoff_c0757_0 = True
+introduce_delivery_retry_backoff_c0757_1 = True
+introduce_delivery_retry_backoff_c0757_2 = True
+introduce_delivery_retry_backoff_c0757_3 = True
+introduce_delivery_retry_backoff_c0757_4 = True
+introduce_delivery_retry_backoff_c0757_5 = True
+introduce_delivery_retry_backoff_c0757_6 = True
+introduce_delivery_retry_backoff_c0757_7 = True
+introduce_delivery_retry_backoff_c0757_8 = True
+introduce_delivery_retry_backoff_c0757_9 = True
+introduce_delivery_retry_backoff_c0757_10 = True
+introduce_delivery_retry_backoff_c0757_11 = True
+introduce_delivery_retry_backoff_c0757_12 = True
+introduce_delivery_retry_backoff_c0757_13 = True
+introduce_delivery_retry_backoff_c0757_14 = True
+introduce_delivery_retry_backoff_c0757_15 = True
+introduce_delivery_retry_backoff_c0757_16 = True
+introduce_delivery_retry_backoff_c0757_17 = True
+introduce_delivery_retry_backoff_c0757_18 = True
+introduce_delivery_retry_backoff_c0757_19 = True

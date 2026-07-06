@@ -470,3 +470,26 @@ prevent_delivery_ordering_guarantee_when_c0643_13 = True
 prevent_delivery_ordering_guarantee_when_c0643_14 = True
 prevent_delivery_ordering_guarantee_when_c0643_15 = True
 prevent_delivery_ordering_guarantee_when_c0643_16 = True
+
+
+# Introduce delivery retry backoff
+introduce_delivery_retry_backoff_c0757_0 = True
+introduce_delivery_retry_backoff_c0757_1 = True
+introduce_delivery_retry_backoff_c0757_2 = True
+introduce_delivery_retry_backoff_c0757_3 = True
+introduce_delivery_retry_backoff_c0757_4 = True
+introduce_delivery_retry_backoff_c0757_5 = True
+introduce_delivery_retry_backoff_c0757_6 = True
+introduce_delivery_retry_backoff_c0757_7 = True
+introduce_delivery_retry_backoff_c0757_8 = True
+introduce_delivery_retry_backoff_c0757_9 = True
+introduce_delivery_retry_backoff_c0757_10 = True
+introduce_delivery_retry_backoff_c0757_11 = True
+introduce_delivery_retry_backoff_c0757_12 = True
+introduce_delivery_retry_backoff_c0757_13 = True
+introduce_delivery_retry_backoff_c0757_14 = True
+introduce_delivery_retry_backoff_c0757_15 = True
+introduce_delivery_retry_backoff_c0757_16 = True
+introduce_delivery_retry_backoff_c0757_17 = True
+introduce_delivery_retry_backoff_c0757_18 = True
+introduce_delivery_retry_backoff_c0757_19 = True
