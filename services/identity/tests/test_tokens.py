@@ -475,3 +475,12 @@ implement_api_key_rotation_c0714_5 = True
 handle_api_key_rotation_when_the_queue_i_c0744_0 = True
 handle_api_key_rotation_when_the_queue_i_c0744_1 = True
 handle_api_key_rotation_when_the_queue_i_c0744_2 = True
+
+
+# Handle API key rotation for delegated API keys
+handle_api_key_rotation_for_delegated_ap_c0759_0 = True
+handle_api_key_rotation_for_delegated_ap_c0759_1 = True
+handle_api_key_rotation_for_delegated_ap_c0759_2 = True
+handle_api_key_rotation_for_delegated_ap_c0759_3 = True
+handle_api_key_rotation_for_delegated_ap_c0759_4 = True
+handle_api_key_rotation_for_delegated_ap_c0759_5 = True

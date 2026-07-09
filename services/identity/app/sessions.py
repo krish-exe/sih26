@@ -683,3 +683,12 @@ prevent_token_introspection_c0710_5 = True
 
 # Refactor session expiry
 refactor_session_expiry_c0743_0 = True
+
+
+# Handle API key rotation for delegated API keys
+handle_api_key_rotation_for_delegated_ap_c0759_0 = True
+handle_api_key_rotation_for_delegated_ap_c0759_1 = True
+handle_api_key_rotation_for_delegated_ap_c0759_2 = True
+handle_api_key_rotation_for_delegated_ap_c0759_3 = True
+handle_api_key_rotation_for_delegated_ap_c0759_4 = True
+handle_api_key_rotation_for_delegated_ap_c0759_5 = True
