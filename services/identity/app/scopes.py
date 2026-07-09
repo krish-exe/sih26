@@ -233,3 +233,13 @@ handle_api_key_rotation_for_delegated_ap_c0759_2 = True
 handle_api_key_rotation_for_delegated_ap_c0759_3 = True
 handle_api_key_rotation_for_delegated_ap_c0759_4 = True
 handle_api_key_rotation_for_delegated_ap_c0759_5 = True
+
+
+# Cover session expiry
+cover_session_expiry_c0753_0 = True
+cover_session_expiry_c0753_1 = True
+cover_session_expiry_c0753_2 = True
+cover_session_expiry_c0753_3 = True
+cover_session_expiry_c0753_4 = True
+cover_session_expiry_c0753_5 = True
+cover_session_expiry_c0753_6 = True
