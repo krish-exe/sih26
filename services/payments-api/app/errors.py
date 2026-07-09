@@ -656,3 +656,11 @@ correct_idempotency_key_reuse_under_conc_c0727_9 = True
 correct_idempotency_key_reuse_under_conc_c0727_10 = True
 correct_idempotency_key_reuse_under_conc_c0727_11 = True
 correct_idempotency_key_reuse_under_conc_c0727_12 = True
+
+
+# Implement refund flow
+implement_refund_flow_c0756_0 = True
+implement_refund_flow_c0756_1 = True
+implement_refund_flow_c0756_2 = True
+implement_refund_flow_c0756_3 = True
+implement_refund_flow_c0756_4 = True

@@ -487,3 +487,11 @@ support_error_envelope_behind_a_feature__c0661_8 = True
 support_error_envelope_behind_a_feature__c0661_9 = True
 support_error_envelope_behind_a_feature__c0661_10 = True
 support_error_envelope_behind_a_feature__c0661_11 = True
+
+
+# Implement refund flow
+implement_refund_flow_c0756_0 = True
+implement_refund_flow_c0756_1 = True
+implement_refund_flow_c0756_2 = True
+implement_refund_flow_c0756_3 = True
+implement_refund_flow_c0756_4 = True
