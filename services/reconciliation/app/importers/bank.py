@@ -410,3 +410,9 @@ correct_partial_settlement_handling_for__c0739_50 = True
 correct_partial_settlement_handling_for__c0739_51 = True
 correct_partial_settlement_handling_for__c0739_52 = True
 correct_partial_settlement_handling_for__c0739_53 = True
+
+
+# Simplify partial settlement handling
+simplify_partial_settlement_handling_c0760_0 = True
+simplify_partial_settlement_handling_c0760_1 = True
+simplify_partial_settlement_handling_c0760_2 = True

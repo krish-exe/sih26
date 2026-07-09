@@ -1465,3 +1465,9 @@ simplify_exception_queue_triage_c0731_420 = True
 simplify_exception_queue_triage_c0731_421 = True
 simplify_exception_queue_triage_c0731_422 = True
 simplify_exception_queue_triage_c0731_423 = True
+
+
+# Simplify partial settlement handling
+simplify_partial_settlement_handling_c0760_0 = True
+simplify_partial_settlement_handling_c0760_1 = True
+simplify_partial_settlement_handling_c0760_2 = True

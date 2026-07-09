@@ -502,3 +502,9 @@ guard_against_bank_statement_parsing_dur_c0672_3 = True
 guard_against_bank_statement_parsing_dur_c0672_4 = True
 guard_against_bank_statement_parsing_dur_c0672_5 = True
 guard_against_bank_statement_parsing_dur_c0672_6 = True
+
+
+# Simplify partial settlement handling
+simplify_partial_settlement_handling_c0760_0 = True
+simplify_partial_settlement_handling_c0760_1 = True
+simplify_partial_settlement_handling_c0760_2 = True

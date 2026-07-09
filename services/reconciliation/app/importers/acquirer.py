@@ -544,3 +544,9 @@ handle_bank_statement_parsing_when_the_u_c0742_5 = True
 handle_bank_statement_parsing_when_the_u_c0742_6 = True
 handle_bank_statement_parsing_when_the_u_c0742_7 = True
 handle_bank_statement_parsing_when_the_u_c0742_8 = True
+
+
+# Simplify partial settlement handling
+simplify_partial_settlement_handling_c0760_0 = True
+simplify_partial_settlement_handling_c0760_1 = True
+simplify_partial_settlement_handling_c0760_2 = True
