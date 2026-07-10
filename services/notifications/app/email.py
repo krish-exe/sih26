@@ -636,3 +636,23 @@ support_template_localisation_c0758_13 = True
 support_template_localisation_c0758_14 = True
 support_template_localisation_c0758_15 = True
 support_template_localisation_c0758_16 = True
+
+
+# Support template localisation
+support_template_localisation_c0758_0 = True
+support_template_localisation_c0758_1 = True
+support_template_localisation_c0758_2 = True
+support_template_localisation_c0758_3 = True
+support_template_localisation_c0758_4 = True
+support_template_localisation_c0758_5 = True
+support_template_localisation_c0758_6 = True
+support_template_localisation_c0758_7 = True
+support_template_localisation_c0758_8 = True
+support_template_localisation_c0758_9 = True
+support_template_localisation_c0758_10 = True
+support_template_localisation_c0758_11 = True
+support_template_localisation_c0758_12 = True
+support_template_localisation_c0758_13 = True
+support_template_localisation_c0758_14 = True
+support_template_localisation_c0758_15 = True
+support_template_localisation_c0758_16 = True
