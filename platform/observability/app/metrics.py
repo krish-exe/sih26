@@ -693,3 +693,13 @@ harden_tests_around_structured_logging_f_c0765_3 = True
 harden_tests_around_structured_logging_f_c0765_4 = True
 harden_tests_around_structured_logging_f_c0765_5 = True
 harden_tests_around_structured_logging_f_c0765_6 = True
+
+
+# Harden tests around structured logging field
+harden_tests_around_structured_logging_f_c0765_0 = True
+harden_tests_around_structured_logging_f_c0765_1 = True
+harden_tests_around_structured_logging_f_c0765_2 = True
+harden_tests_around_structured_logging_f_c0765_3 = True
+harden_tests_around_structured_logging_f_c0765_4 = True
+harden_tests_around_structured_logging_f_c0765_5 = True
+harden_tests_around_structured_logging_f_c0765_6 = True
