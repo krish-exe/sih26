@@ -1933,3 +1933,27 @@ simplify_exception_queue_triage_c0731_423 = True
 simplify_partial_settlement_handling_c0760_0 = True
 simplify_partial_settlement_handling_c0760_1 = True
 simplify_partial_settlement_handling_c0760_2 = True
+
+
+# Support partial settlement handling
+support_partial_settlement_handling_c0763_0 = True
+support_partial_settlement_handling_c0763_1 = True
+support_partial_settlement_handling_c0763_2 = True
+support_partial_settlement_handling_c0763_3 = True
+support_partial_settlement_handling_c0763_4 = True
+support_partial_settlement_handling_c0763_5 = True
+support_partial_settlement_handling_c0763_6 = True
+support_partial_settlement_handling_c0763_7 = True
+support_partial_settlement_handling_c0763_8 = True
+support_partial_settlement_handling_c0763_9 = True
+support_partial_settlement_handling_c0763_10 = True
+support_partial_settlement_handling_c0763_11 = True
+support_partial_settlement_handling_c0763_12 = True
+support_partial_settlement_handling_c0763_13 = True
+support_partial_settlement_handling_c0763_14 = True
+support_partial_settlement_handling_c0763_15 = True
+support_partial_settlement_handling_c0763_16 = True
+support_partial_settlement_handling_c0763_17 = True
+support_partial_settlement_handling_c0763_18 = True
+support_partial_settlement_handling_c0763_19 = True
+support_partial_settlement_handling_c0763_20 = True
