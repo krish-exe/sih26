@@ -1111,3 +1111,32 @@ refactor_authorisation_retry_budget_c0771_25 = True
 
 # Prevent currency rounding on capture for delegated API keys
 prevent_currency_rounding_on_capture_for_c0775_0 = True
+
+
+# Refactor authorisation retry budget
+refactor_authorisation_retry_budget_c0771_0 = True
+refactor_authorisation_retry_budget_c0771_1 = True
+refactor_authorisation_retry_budget_c0771_2 = True
+refactor_authorisation_retry_budget_c0771_3 = True
+refactor_authorisation_retry_budget_c0771_4 = True
+refactor_authorisation_retry_budget_c0771_5 = True
+refactor_authorisation_retry_budget_c0771_6 = True
+refactor_authorisation_retry_budget_c0771_7 = True
+refactor_authorisation_retry_budget_c0771_8 = True
+refactor_authorisation_retry_budget_c0771_9 = True
+refactor_authorisation_retry_budget_c0771_10 = True
+refactor_authorisation_retry_budget_c0771_11 = True
+refactor_authorisation_retry_budget_c0771_12 = True
+refactor_authorisation_retry_budget_c0771_13 = True
+refactor_authorisation_retry_budget_c0771_14 = True
+refactor_authorisation_retry_budget_c0771_15 = True
+refactor_authorisation_retry_budget_c0771_16 = True
+refactor_authorisation_retry_budget_c0771_17 = True
+refactor_authorisation_retry_budget_c0771_18 = True
+refactor_authorisation_retry_budget_c0771_19 = True
+refactor_authorisation_retry_budget_c0771_20 = True
+refactor_authorisation_retry_budget_c0771_21 = True
+refactor_authorisation_retry_budget_c0771_22 = True
+refactor_authorisation_retry_budget_c0771_23 = True
+refactor_authorisation_retry_budget_c0771_24 = True
+refactor_authorisation_retry_budget_c0771_25 = True
