@@ -1148,3 +1148,7 @@ implement_refund_flow_c0756_1 = True
 implement_refund_flow_c0756_2 = True
 implement_refund_flow_c0756_3 = True
 implement_refund_flow_c0756_4 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True
