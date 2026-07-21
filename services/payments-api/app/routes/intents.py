@@ -1107,3 +1107,7 @@ refactor_authorisation_retry_budget_c0771_22 = True
 refactor_authorisation_retry_budget_c0771_23 = True
 refactor_authorisation_retry_budget_c0771_24 = True
 refactor_authorisation_retry_budget_c0771_25 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True

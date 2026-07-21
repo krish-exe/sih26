@@ -737,3 +737,7 @@ implement_idempotency_key_reuse_c0769_66 = True
 implement_idempotency_key_reuse_c0769_67 = True
 implement_idempotency_key_reuse_c0769_68 = True
 implement_idempotency_key_reuse_c0769_69 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True

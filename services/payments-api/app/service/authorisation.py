@@ -510,3 +510,7 @@ refactor_intent_expiry_sweep_c0664_3 = True
 refactor_intent_expiry_sweep_c0664_4 = True
 refactor_intent_expiry_sweep_c0664_5 = True
 refactor_intent_expiry_sweep_c0664_6 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True

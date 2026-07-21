@@ -465,3 +465,7 @@ add_tests_for_request_validation_for_hig_c0719_10 = True
 add_tests_for_request_validation_for_hig_c0719_11 = True
 add_tests_for_request_validation_for_hig_c0719_12 = True
 add_tests_for_request_validation_for_hig_c0719_13 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True
