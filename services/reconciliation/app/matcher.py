@@ -810,3 +810,31 @@ correct_exception_queue_triage_c0640_2 = True
 # branch work for c0685
 
 # branch work for c0768
+
+
+# Simplify fee reconciliation
+simplify_fee_reconciliation_c0774_0 = True
+simplify_fee_reconciliation_c0774_1 = True
+simplify_fee_reconciliation_c0774_2 = True
+simplify_fee_reconciliation_c0774_3 = True
+simplify_fee_reconciliation_c0774_4 = True
+simplify_fee_reconciliation_c0774_5 = True
+simplify_fee_reconciliation_c0774_6 = True
+simplify_fee_reconciliation_c0774_7 = True
+simplify_fee_reconciliation_c0774_8 = True
+simplify_fee_reconciliation_c0774_9 = True
+simplify_fee_reconciliation_c0774_10 = True
+simplify_fee_reconciliation_c0774_11 = True
+simplify_fee_reconciliation_c0774_12 = True
+simplify_fee_reconciliation_c0774_13 = True
+simplify_fee_reconciliation_c0774_14 = True
+simplify_fee_reconciliation_c0774_15 = True
+simplify_fee_reconciliation_c0774_16 = True
+simplify_fee_reconciliation_c0774_17 = True
+simplify_fee_reconciliation_c0774_18 = True
+simplify_fee_reconciliation_c0774_19 = True
+simplify_fee_reconciliation_c0774_20 = True
+simplify_fee_reconciliation_c0774_21 = True
+simplify_fee_reconciliation_c0774_22 = True
+simplify_fee_reconciliation_c0774_23 = True
+simplify_fee_reconciliation_c0774_24 = True
