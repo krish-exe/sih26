@@ -431,3 +431,18 @@ fix_constraint_validation_pass_c0730_18 = True
 fix_constraint_validation_pass_c0730_19 = True
 fix_constraint_validation_pass_c0730_20 = True
 fix_constraint_validation_pass_c0730_21 = True
+
+
+# Tidy backfill checkpoint for high-volume merchants
+tidy_backfill_checkpoint_for_high-volume_c0770_0 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_1 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_2 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_3 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_4 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_5 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_6 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_7 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_8 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_9 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_10 = True
+tidy_backfill_checkpoint_for_high-volume_c0770_11 = True
