@@ -879,3 +879,30 @@ split_blue-green_cutover_c0698_34 = True
 # Guard against release gating under concurrent retries behind a feature flag
 guard_against_release_gating_under_concu_c0734_0 = True
 guard_against_release_gating_under_concu_c0734_1 = True
+
+
+# Prevent deployment freeze window for zero-amount requests
+prevent_deployment_freeze_window_for_zer_c0776_0 = True
+prevent_deployment_freeze_window_for_zer_c0776_1 = True
+prevent_deployment_freeze_window_for_zer_c0776_2 = True
+prevent_deployment_freeze_window_for_zer_c0776_3 = True
+prevent_deployment_freeze_window_for_zer_c0776_4 = True
+prevent_deployment_freeze_window_for_zer_c0776_5 = True
+prevent_deployment_freeze_window_for_zer_c0776_6 = True
+prevent_deployment_freeze_window_for_zer_c0776_7 = True
+prevent_deployment_freeze_window_for_zer_c0776_8 = True
+prevent_deployment_freeze_window_for_zer_c0776_9 = True
+prevent_deployment_freeze_window_for_zer_c0776_10 = True
+prevent_deployment_freeze_window_for_zer_c0776_11 = True
+prevent_deployment_freeze_window_for_zer_c0776_12 = True
+prevent_deployment_freeze_window_for_zer_c0776_13 = True
+prevent_deployment_freeze_window_for_zer_c0776_14 = True
+prevent_deployment_freeze_window_for_zer_c0776_15 = True
+prevent_deployment_freeze_window_for_zer_c0776_16 = True
+prevent_deployment_freeze_window_for_zer_c0776_17 = True
+prevent_deployment_freeze_window_for_zer_c0776_18 = True
+prevent_deployment_freeze_window_for_zer_c0776_19 = True
+prevent_deployment_freeze_window_for_zer_c0776_20 = True
+prevent_deployment_freeze_window_for_zer_c0776_21 = True
+prevent_deployment_freeze_window_for_zer_c0776_22 = True
+prevent_deployment_freeze_window_for_zer_c0776_23 = True
