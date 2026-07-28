@@ -849,3 +849,21 @@ implement_api_key_rotation_c0761_6 = True
 implement_api_key_rotation_c0761_7 = True
 implement_api_key_rotation_c0761_8 = True
 implement_api_key_rotation_c0761_9 = True
+
+
+# Support session expiry under the new limits
+support_session_expiry_under_the_new_lim_c0777_0 = True
+support_session_expiry_under_the_new_lim_c0777_1 = True
+support_session_expiry_under_the_new_lim_c0777_2 = True
+support_session_expiry_under_the_new_lim_c0777_3 = True
+support_session_expiry_under_the_new_lim_c0777_4 = True
+support_session_expiry_under_the_new_lim_c0777_5 = True
+support_session_expiry_under_the_new_lim_c0777_6 = True
+support_session_expiry_under_the_new_lim_c0777_7 = True
+support_session_expiry_under_the_new_lim_c0777_8 = True
+support_session_expiry_under_the_new_lim_c0777_9 = True
+support_session_expiry_under_the_new_lim_c0777_10 = True
+support_session_expiry_under_the_new_lim_c0777_11 = True
+support_session_expiry_under_the_new_lim_c0777_12 = True
+support_session_expiry_under_the_new_lim_c0777_13 = True
+support_session_expiry_under_the_new_lim_c0777_14 = True
