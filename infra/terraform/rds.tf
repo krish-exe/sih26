@@ -471,3 +471,17 @@ fix_pod_resource_limit_during_a_deploy_f_c0721_4 = True
 
 # Cover IAM role scope in the batch importer
 cover_iam_role_scope_in_the_batch_import_c0747_0 = True
+
+
+# Rename IAM role scope
+rename_iam_role_scope_c0778_0 = True
+rename_iam_role_scope_c0778_1 = True
+rename_iam_role_scope_c0778_2 = True
+rename_iam_role_scope_c0778_3 = True
+rename_iam_role_scope_c0778_4 = True
+rename_iam_role_scope_c0778_5 = True
+rename_iam_role_scope_c0778_6 = True
+rename_iam_role_scope_c0778_7 = True
+rename_iam_role_scope_c0778_8 = True
+rename_iam_role_scope_c0778_9 = True
+rename_iam_role_scope_c0778_10 = True
