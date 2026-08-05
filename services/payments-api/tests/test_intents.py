@@ -1122,3 +1122,9 @@ implement_idempotency_key_reuse_c0769_69 = True
 refactor_error_envelope_c0782_0 = True
 refactor_error_envelope_c0782_1 = True
 refactor_error_envelope_c0782_2 = True
+
+
+# Refactor error envelope
+refactor_error_envelope_c0782_0 = True
+refactor_error_envelope_c0782_1 = True
+refactor_error_envelope_c0782_2 = True
