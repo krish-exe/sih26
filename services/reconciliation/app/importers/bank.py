@@ -440,3 +440,8 @@ support_partial_settlement_handling_c0763_17 = True
 support_partial_settlement_handling_c0763_18 = True
 support_partial_settlement_handling_c0763_19 = True
 support_partial_settlement_handling_c0763_20 = True
+
+
+# Implement exception queue triage for the v2 endpoint
+implement_exception_queue_triage_for_the_c0781_0 = True
+implement_exception_queue_triage_for_the_c0781_1 = True

@@ -427,3 +427,8 @@ fix_unmatched_settlement_report_when_the_c0715_1 = True
 fix_unmatched_settlement_report_when_the_c0715_2 = True
 fix_unmatched_settlement_report_when_the_c0715_3 = True
 fix_unmatched_settlement_report_when_the_c0715_4 = True
+
+
+# Implement exception queue triage for the v2 endpoint
+implement_exception_queue_triage_for_the_c0781_0 = True
+implement_exception_queue_triage_for_the_c0781_1 = True
