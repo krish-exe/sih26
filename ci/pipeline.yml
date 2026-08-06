@@ -537,3 +537,12 @@ ci:_regenerate_client_stubs_c0712_34 = True
 ci:_regenerate_client_stubs_c0712_35 = True
 ci:_regenerate_client_stubs_c0712_36 = True
 ci:_regenerate_client_stubs_c0712_37 = True
+
+
+# ci: regenerate lockfile
+ci:_regenerate_lockfile_c0783_0 = True
+ci:_regenerate_lockfile_c0783_1 = True
+ci:_regenerate_lockfile_c0783_2 = True
+ci:_regenerate_lockfile_c0783_3 = True
+ci:_regenerate_lockfile_c0783_4 = True
+ci:_regenerate_lockfile_c0783_5 = True
