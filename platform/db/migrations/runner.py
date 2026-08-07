@@ -1143,3 +1143,11 @@ cover_backfill_checkpoint_c0737_35 = True
 cover_backfill_checkpoint_c0737_36 = True
 cover_backfill_checkpoint_c0737_37 = True
 cover_backfill_checkpoint_c0737_38 = True
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0784_0 = True
+cover_backfill_checkpoint_c0784_1 = True
+cover_backfill_checkpoint_c0784_2 = True
+cover_backfill_checkpoint_c0784_3 = True
+cover_backfill_checkpoint_c0784_4 = True

@@ -500,3 +500,11 @@ refactor_migration_dry-run_check_for_del_c0723_9 = True
 refactor_migration_dry-run_check_for_del_c0723_10 = True
 refactor_migration_dry-run_check_for_del_c0723_11 = True
 refactor_migration_dry-run_check_for_del_c0723_12 = True
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0784_0 = True
+cover_backfill_checkpoint_c0784_1 = True
+cover_backfill_checkpoint_c0784_2 = True
+cover_backfill_checkpoint_c0784_3 = True
+cover_backfill_checkpoint_c0784_4 = True
