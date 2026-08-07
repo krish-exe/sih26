@@ -548,3 +548,11 @@ implement_constraint_validation_pass_und_c0786_0 = True
 implement_constraint_validation_pass_und_c0786_1 = True
 implement_constraint_validation_pass_und_c0786_2 = True
 implement_constraint_validation_pass_und_c0786_3 = True
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0784_0 = True
+cover_backfill_checkpoint_c0784_1 = True
+cover_backfill_checkpoint_c0784_2 = True
+cover_backfill_checkpoint_c0784_3 = True
+cover_backfill_checkpoint_c0784_4 = True
