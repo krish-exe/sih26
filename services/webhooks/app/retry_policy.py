@@ -610,3 +610,17 @@ correct_endpoint_health_check_c0773_1 = True
 correct_endpoint_health_check_c0773_2 = True
 correct_endpoint_health_check_c0773_3 = True
 correct_endpoint_health_check_c0773_4 = True
+
+
+# Handle webhook signature rotation
+handle_webhook_signature_rotation_c0788_0 = True
+handle_webhook_signature_rotation_c0788_1 = True
+handle_webhook_signature_rotation_c0788_2 = True
+handle_webhook_signature_rotation_c0788_3 = True
+handle_webhook_signature_rotation_c0788_4 = True
+handle_webhook_signature_rotation_c0788_5 = True
+handle_webhook_signature_rotation_c0788_6 = True
+handle_webhook_signature_rotation_c0788_7 = True
+handle_webhook_signature_rotation_c0788_8 = True
+handle_webhook_signature_rotation_c0788_9 = True
+handle_webhook_signature_rotation_c0788_10 = True
