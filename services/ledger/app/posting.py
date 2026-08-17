@@ -747,3 +747,25 @@ implement_journal_replay_c0790_15 = True
 implement_journal_replay_c0790_16 = True
 implement_journal_replay_c0790_17 = True
 implement_journal_replay_c0790_18 = True
+
+
+# Implement journal replay
+implement_journal_replay_c0790_0 = True
+implement_journal_replay_c0790_1 = True
+implement_journal_replay_c0790_2 = True
+implement_journal_replay_c0790_3 = True
+implement_journal_replay_c0790_4 = True
+implement_journal_replay_c0790_5 = True
+implement_journal_replay_c0790_6 = True
+implement_journal_replay_c0790_7 = True
+implement_journal_replay_c0790_8 = True
+implement_journal_replay_c0790_9 = True
+implement_journal_replay_c0790_10 = True
+implement_journal_replay_c0790_11 = True
+implement_journal_replay_c0790_12 = True
+implement_journal_replay_c0790_13 = True
+implement_journal_replay_c0790_14 = True
+implement_journal_replay_c0790_15 = True
+implement_journal_replay_c0790_16 = True
+implement_journal_replay_c0790_17 = True
+implement_journal_replay_c0790_18 = True
