@@ -423,3 +423,9 @@ introduce_receipt_email_template_c0728_41 = True
 introduce_receipt_email_template_c0728_42 = True
 introduce_receipt_email_template_c0728_43 = True
 introduce_receipt_email_template_c0728_44 = True
+
+
+# Prevent notification preference
+prevent_notification_preference_c0795_0 = True
+prevent_notification_preference_c0795_1 = True
+prevent_notification_preference_c0795_2 = True
