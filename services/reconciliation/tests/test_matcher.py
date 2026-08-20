@@ -591,3 +591,17 @@ simplify_fee_reconciliation_c0774_21 = True
 simplify_fee_reconciliation_c0774_22 = True
 simplify_fee_reconciliation_c0774_23 = True
 simplify_fee_reconciliation_c0774_24 = True
+
+
+# Add tests for exception queue triage behind a feature flag
+add_tests_for_exception_queue_triage_beh_c0793_0 = True
+add_tests_for_exception_queue_triage_beh_c0793_1 = True
+add_tests_for_exception_queue_triage_beh_c0793_2 = True
+add_tests_for_exception_queue_triage_beh_c0793_3 = True
+add_tests_for_exception_queue_triage_beh_c0793_4 = True
+add_tests_for_exception_queue_triage_beh_c0793_5 = True
+add_tests_for_exception_queue_triage_beh_c0793_6 = True
+add_tests_for_exception_queue_triage_beh_c0793_7 = True
+add_tests_for_exception_queue_triage_beh_c0793_8 = True
+add_tests_for_exception_queue_triage_beh_c0793_9 = True
+add_tests_for_exception_queue_triage_beh_c0793_10 = True
