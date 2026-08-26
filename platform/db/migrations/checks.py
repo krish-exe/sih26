@@ -474,3 +474,23 @@ implement_constraint_validation_pass_und_c0786_0 = True
 implement_constraint_validation_pass_und_c0786_1 = True
 implement_constraint_validation_pass_und_c0786_2 = True
 implement_constraint_validation_pass_und_c0786_3 = True
+
+
+# Cover expand-contract migration
+cover_expand-contract_migration_c0787_0 = True
+cover_expand-contract_migration_c0787_1 = True
+cover_expand-contract_migration_c0787_2 = True
+cover_expand-contract_migration_c0787_3 = True
+cover_expand-contract_migration_c0787_4 = True
+cover_expand-contract_migration_c0787_5 = True
+cover_expand-contract_migration_c0787_6 = True
+cover_expand-contract_migration_c0787_7 = True
+cover_expand-contract_migration_c0787_8 = True
+cover_expand-contract_migration_c0787_9 = True
+
+
+# Implement constraint validation pass under the new limits
+implement_constraint_validation_pass_und_c0786_0 = True
+implement_constraint_validation_pass_und_c0786_1 = True
+implement_constraint_validation_pass_und_c0786_2 = True
+implement_constraint_validation_pass_und_c0786_3 = True
