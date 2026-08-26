@@ -613,3 +613,13 @@ support_session_expiry_c0792_46 = True
 handle_api_key_rotation_when_the_queue_i_c0744_0 = True
 handle_api_key_rotation_when_the_queue_i_c0744_1 = True
 handle_api_key_rotation_when_the_queue_i_c0744_2 = True
+
+
+# Cover session expiry
+cover_session_expiry_c0753_0 = True
+cover_session_expiry_c0753_1 = True
+cover_session_expiry_c0753_2 = True
+cover_session_expiry_c0753_3 = True
+cover_session_expiry_c0753_4 = True
+cover_session_expiry_c0753_5 = True
+cover_session_expiry_c0753_6 = True

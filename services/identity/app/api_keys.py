@@ -476,3 +476,13 @@ support_session_expiry_c0792_46 = True
 
 # Refactor session expiry
 refactor_session_expiry_c0743_0 = True
+
+
+# Cover session expiry
+cover_session_expiry_c0753_0 = True
+cover_session_expiry_c0753_1 = True
+cover_session_expiry_c0753_2 = True
+cover_session_expiry_c0753_3 = True
+cover_session_expiry_c0753_4 = True
+cover_session_expiry_c0753_5 = True
+cover_session_expiry_c0753_6 = True
