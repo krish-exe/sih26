@@ -562,3 +562,19 @@ cover_backfill_checkpoint_c0784_4 = True
 fix_column_type_widening_when_the_curren_c0713_0 = True
 fix_column_type_widening_when_the_curren_c0713_1 = True
 fix_column_type_widening_when_the_curren_c0713_2 = True
+
+
+# Refactor migration dry-run check for delegated API keys
+refactor_migration_dry-run_check_for_del_c0723_0 = True
+refactor_migration_dry-run_check_for_del_c0723_1 = True
+refactor_migration_dry-run_check_for_del_c0723_2 = True
+refactor_migration_dry-run_check_for_del_c0723_3 = True
+refactor_migration_dry-run_check_for_del_c0723_4 = True
+refactor_migration_dry-run_check_for_del_c0723_5 = True
+refactor_migration_dry-run_check_for_del_c0723_6 = True
+refactor_migration_dry-run_check_for_del_c0723_7 = True
+refactor_migration_dry-run_check_for_del_c0723_8 = True
+refactor_migration_dry-run_check_for_del_c0723_9 = True
+refactor_migration_dry-run_check_for_del_c0723_10 = True
+refactor_migration_dry-run_check_for_del_c0723_11 = True
+refactor_migration_dry-run_check_for_del_c0723_12 = True
