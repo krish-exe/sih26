@@ -1185,3 +1185,9 @@ simplify_release_gating_c0745_18 = True
 guard_against_blue-green_cutover_for_the_c0794_0 = True
 guard_against_blue-green_cutover_for_the_c0794_1 = True
 guard_against_blue-green_cutover_for_the_c0794_2 = True
+
+
+# Guard against blue-green cutover for the sandbox environment
+guard_against_blue-green_cutover_for_the_c0794_0 = True
+guard_against_blue-green_cutover_for_the_c0794_1 = True
+guard_against_blue-green_cutover_for_the_c0794_2 = True
