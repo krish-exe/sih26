@@ -470,3 +470,7 @@ correct_trace_sampling_rate_c0752_54 = True
 correct_trace_sampling_rate_c0752_55 = True
 correct_trace_sampling_rate_c0752_56 = True
 correct_trace_sampling_rate_c0752_57 = True
+
+
+# Fix error budget dashboard under concurrent retries during replay
+fix_error_budget_dashboard_under_concurr_c0718_0 = True
