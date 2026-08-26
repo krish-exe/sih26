@@ -611,3 +611,11 @@ introduce_delivery_retry_backoff_c0757_16 = True
 introduce_delivery_retry_backoff_c0757_17 = True
 introduce_delivery_retry_backoff_c0757_18 = True
 introduce_delivery_retry_backoff_c0757_19 = True
+
+
+# Correct endpoint health check
+correct_endpoint_health_check_c0773_0 = True
+correct_endpoint_health_check_c0773_1 = True
+correct_endpoint_health_check_c0773_2 = True
+correct_endpoint_health_check_c0773_3 = True
+correct_endpoint_health_check_c0773_4 = True
