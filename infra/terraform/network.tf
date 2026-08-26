@@ -945,3 +945,11 @@ add_rds_parameter_group_under_the_new_li_c0748_4 = True
 add_rds_parameter_group_under_the_new_li_c0748_5 = True
 add_rds_parameter_group_under_the_new_li_c0748_6 = True
 add_rds_parameter_group_under_the_new_li_c0748_7 = True
+
+
+# Fix pod resource limit during a deploy freeze
+fix_pod_resource_limit_during_a_deploy_f_c0721_0 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_1 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_2 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_3 = True
+fix_pod_resource_limit_during_a_deploy_f_c0721_4 = True
