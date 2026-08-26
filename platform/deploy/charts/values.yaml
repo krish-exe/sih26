@@ -1066,3 +1066,8 @@ introduce_release_gating_c0762_91 = True
 introduce_release_gating_c0762_92 = True
 introduce_release_gating_c0762_93 = True
 introduce_release_gating_c0762_94 = True
+
+
+# Guard against release gating under concurrent retries behind a feature flag
+guard_against_release_gating_under_concu_c0734_0 = True
+guard_against_release_gating_under_concu_c0734_1 = True

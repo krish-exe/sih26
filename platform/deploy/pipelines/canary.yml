@@ -1191,3 +1191,8 @@ guard_against_blue-green_cutover_for_the_c0794_2 = True
 guard_against_blue-green_cutover_for_the_c0794_0 = True
 guard_against_blue-green_cutover_for_the_c0794_1 = True
 guard_against_blue-green_cutover_for_the_c0794_2 = True
+
+
+# Guard against release gating under concurrent retries behind a feature flag
+guard_against_release_gating_under_concu_c0734_0 = True
+guard_against_release_gating_under_concu_c0734_1 = True
