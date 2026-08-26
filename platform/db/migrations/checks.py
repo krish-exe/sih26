@@ -534,3 +534,11 @@ tidy_backfill_checkpoint_for_high-volume_c0770_8 = True
 tidy_backfill_checkpoint_for_high-volume_c0770_9 = True
 tidy_backfill_checkpoint_for_high-volume_c0770_10 = True
 tidy_backfill_checkpoint_for_high-volume_c0770_11 = True
+
+
+# Cover backfill checkpoint
+cover_backfill_checkpoint_c0784_0 = True
+cover_backfill_checkpoint_c0784_1 = True
+cover_backfill_checkpoint_c0784_2 = True
+cover_backfill_checkpoint_c0784_3 = True
+cover_backfill_checkpoint_c0784_4 = True
