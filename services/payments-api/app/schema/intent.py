@@ -495,3 +495,11 @@ implement_refund_flow_c0756_1 = True
 implement_refund_flow_c0756_2 = True
 implement_refund_flow_c0756_3 = True
 implement_refund_flow_c0756_4 = True
+
+
+# Implement refund flow
+implement_refund_flow_c0756_0 = True
+implement_refund_flow_c0756_1 = True
+implement_refund_flow_c0756_2 = True
+implement_refund_flow_c0756_3 = True
+implement_refund_flow_c0756_4 = True
