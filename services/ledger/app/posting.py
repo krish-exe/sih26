@@ -769,3 +769,22 @@ implement_journal_replay_c0790_15 = True
 implement_journal_replay_c0790_16 = True
 implement_journal_replay_c0790_17 = True
 implement_journal_replay_c0790_18 = True
+
+
+# Support currency conversion at posting time
+support_currency_conversion_at_posting_t_c0755_0 = True
+support_currency_conversion_at_posting_t_c0755_1 = True
+support_currency_conversion_at_posting_t_c0755_2 = True
+support_currency_conversion_at_posting_t_c0755_3 = True
+support_currency_conversion_at_posting_t_c0755_4 = True
+support_currency_conversion_at_posting_t_c0755_5 = True
+support_currency_conversion_at_posting_t_c0755_6 = True
+support_currency_conversion_at_posting_t_c0755_7 = True
+support_currency_conversion_at_posting_t_c0755_8 = True
+support_currency_conversion_at_posting_t_c0755_9 = True
+support_currency_conversion_at_posting_t_c0755_10 = True
+support_currency_conversion_at_posting_t_c0755_11 = True
+support_currency_conversion_at_posting_t_c0755_12 = True
+support_currency_conversion_at_posting_t_c0755_13 = True
+support_currency_conversion_at_posting_t_c0755_14 = True
+support_currency_conversion_at_posting_t_c0755_15 = True
