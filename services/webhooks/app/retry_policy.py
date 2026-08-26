@@ -665,3 +665,9 @@ inline_subscription_management_c0736_20 = True
 inline_subscription_management_c0736_21 = True
 inline_subscription_management_c0736_22 = True
 inline_subscription_management_c0736_23 = True
+
+
+# Support delivery ordering guarantee
+support_delivery_ordering_guarantee_c0746_0 = True
+support_delivery_ordering_guarantee_c0746_1 = True
+support_delivery_ordering_guarantee_c0746_2 = True

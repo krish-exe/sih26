@@ -582,3 +582,9 @@ correct_endpoint_health_check_c0773_1 = True
 correct_endpoint_health_check_c0773_2 = True
 correct_endpoint_health_check_c0773_3 = True
 correct_endpoint_health_check_c0773_4 = True
+
+
+# Support delivery ordering guarantee
+support_delivery_ordering_guarantee_c0746_0 = True
+support_delivery_ordering_guarantee_c0746_1 = True
+support_delivery_ordering_guarantee_c0746_2 = True
