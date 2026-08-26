@@ -572,3 +572,13 @@ rename_receipt_email_template_c0766_50 = True
 rename_receipt_email_template_c0766_51 = True
 rename_receipt_email_template_c0766_52 = True
 rename_receipt_email_template_c0766_53 = True
+
+
+# Handle receipt email template for high-volume merchants
+handle_receipt_email_template_for_high-v_c0741_0 = True
+handle_receipt_email_template_for_high-v_c0741_1 = True
+handle_receipt_email_template_for_high-v_c0741_2 = True
+handle_receipt_email_template_for_high-v_c0741_3 = True
+handle_receipt_email_template_for_high-v_c0741_4 = True
+handle_receipt_email_template_for_high-v_c0741_5 = True
+handle_receipt_email_template_for_high-v_c0741_6 = True
