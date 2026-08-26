@@ -868,3 +868,7 @@ harden_tests_around_structured_logging_f_c0765_3 = True
 harden_tests_around_structured_logging_f_c0765_4 = True
 harden_tests_around_structured_logging_f_c0765_5 = True
 harden_tests_around_structured_logging_f_c0765_6 = True
+
+
+# Correct trace sampling rate
+correct_trace_sampling_rate_c0733_0 = True
