@@ -321,3 +321,17 @@ rename_iam_role_scope_c0778_7 = True
 rename_iam_role_scope_c0778_8 = True
 rename_iam_role_scope_c0778_9 = True
 rename_iam_role_scope_c0778_10 = True
+
+
+# Rename IAM role scope
+rename_iam_role_scope_c0778_0 = True
+rename_iam_role_scope_c0778_1 = True
+rename_iam_role_scope_c0778_2 = True
+rename_iam_role_scope_c0778_3 = True
+rename_iam_role_scope_c0778_4 = True
+rename_iam_role_scope_c0778_5 = True
+rename_iam_role_scope_c0778_6 = True
+rename_iam_role_scope_c0778_7 = True
+rename_iam_role_scope_c0778_8 = True
+rename_iam_role_scope_c0778_9 = True
+rename_iam_role_scope_c0778_10 = True
