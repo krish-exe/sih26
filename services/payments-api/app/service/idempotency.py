@@ -481,3 +481,7 @@ refactor_error_envelope_c0782_2 = True
 refactor_error_envelope_c0782_0 = True
 refactor_error_envelope_c0782_1 = True
 refactor_error_envelope_c0782_2 = True
+
+
+# Prevent currency rounding on capture for delegated API keys
+prevent_currency_rounding_on_capture_for_c0775_0 = True
